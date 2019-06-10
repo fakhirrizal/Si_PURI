@@ -1,0 +1,2464 @@
+SALINAN LAMPIRAN I PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN NOMOR 5 TAHUN 2016 TENTANG STANDAR KOMPETENSI KELULUSAN KURSUS DAN PELATIHAN
+STANDAR KOMPETENSI LULUSAN KURSUS DAN PELATIHAN ELEKTRONIKA DASAR JENJANG III
+I. PENYUSUNAN SKL
+A. Latar Belakang
+Indonesia memiliki berbagai keunggulan untuk mampu berkembang menjadi negara maju. Keanekaragaman sumber daya alam, flora dan fauna, kultur, penduduk serta letak geografis yang unik merupakan modal dasar yang kuat untuk melakukan pengembangan di berbagai sektor kehidupan yang pada saatnya dapat menciptakan daya saing yang unggul di dunia internasional. Dalam berbagai hal, kemampuan bersaing dalam sektor sumber daya manusia tidak hanya membutuhkan keunggulan dalam hal mutu akan tetapi juga memerlukan upaya-upaya pengenalan, pengakuan, serta penyetaraan kualifikasi pada bidang-bidang keilmuan dan keahlian yang relevan baik secara bilateral, regional maupun internasional.
+Kerangka Kualifikasi Nasional Indonesia (KKNI) secara khusus dikembangkan untuk menjadi suatu rujukan nasional bagi upayaupaya meningkatkan mutu dan daya saing bangsa Indonesia di sektor sumber daya manusia. Pencapaian setiap tingkat kualifikasi sumber daya manusia Indonesia berhubungan langsung dengan tingkat capaian pembelajaran baik yang dihasilkan melalui sistem pendidikan maupun sistem pelatihan kerja yang dikembangkan dan diberlakukan secara nasional. Oleh karena itu upaya peningkatan mutu dan daya saing bangsa akan sekaligus memperkuat jati diri bangsa Indonesia.
+
+Kerangka Kualifikasi Nasional Indonesia (KKNI) merupakan salah satu langkah untuk mewujudkan mutu dan jati diri bangsa Indonesia dalam sektor sumber daya manusia yang dikaitkan dengan program pengembangan sistem pendidikan dan pelatihan secara nasional. Setiap tingkat kualifikasi yang dicakup dalam KKNI memiliki makna dan kesetaraan dengan capaian pembelajaran yang dimiliki setiap insan pekerja Indonesia dalam menciptakan hasil karya dan kontribusi yang bermutu di bidang pekerjaannya masing-masing.
+Kebutuhan Indonesia untuk segera memiliki KKNI sudah sangat mendesak mengingat tantangan dan persaingan global pasar tenaga kerja nasional maupun internasional yang semakin terbuka. Pergerakan tenaga kerja dari dan ke Indonesia tidak lagi dapat dibendung dengan peraturan atau regulasi yang bersifat protektif. Ratifikasi yang telah dilakukan Indonesia untuk berbagai konvensi regional maupun internasional, secara nyata menempatkan Indonesia sebagai sebuah negara yang semakin terbuka dan mudah tersusupi oleh kekuatan asing melalui berbagai sektor seperti sektor perekonomian, pendidikan, sektor ketenagakerjaan dan lain-lain. Oleh karena itu, persaingan global tidak lagi terjadi pada ranah internasional akan tetapi sudah nyata berada pada ranah nasional.
+Upaya yang dapat dilakukan untuk mengantisipasi tantangan globalisasi pada sektor ketenagakerjaan adalah meningkatkan ketahanan sistem pendidikan dan pelatihan secara nasional dengan berbagai cara antara lain. 1. Meningkatkan mutu pendidikan dan pelatihan 2. Mengembangkan sistem kesetaraan kualifikasi antara capaian
+pembelajaran yang diperoleh melalui pendidikan dan pelatihan, pengalaman kerja maupun pengalaman mandiri dengan kriteria kompetensi yang dipersyaratkan oleh suatu jenis bidang dan tingkat pekerjaan
+2
+
+3. Meningkatkan kerjasama dan pengakuan timbal balik yang saling menguntungkan antara institusi penghasil dengan pengguna tenaga kerja
+4. Meningkatkan pengakuan dan kesetaraan kualifikasi ketenagakerjaan Indonesia dengan negara-negara lain di dunia baik terhadap capaian pembelajaran yang ditetapkan oleh institusi pendidikan dan pelatihan maupun terhadap kriteria kompetensi yang dipersyaratkan untuk suatu bidang dan tingkat pekerjaan tertentu
+Secara mendasar langkah-langkah pengembangan tersebut mencakup permasalahan yang bersifat multi aspek dan keberhasilannya sangat tergantung dari sinergi dan peran proaktif dari berbagai pihak yang terkait dengan peningkatan mutu sumber daya manusia nasional termasuk Kemdikbud, Kemnakertrans, asosiasi profesi, asosiasi industri, institusi pendidikan dan pelatihan serta masyarakat luas.
+Secara umum, kondisi awal yang dibutuhkan untuk dapat melaksanakan suatu program penyetaraan kualifikasi ketenagakerjaan tersebut nampak belum cukup kondusif dalam beberapa hal seperti misalnya belum meratanya kesadaran mutu di kalangan institusi penghasil tenaga kerja, belum tumbuhnya kesadaran tentang pentingnya kesetaraan kualifikasi antara capaian pembelajaran yang dihasilkan oleh penghasil tenaga kerja dengan deskripsi keilmuan, keahlian dan keterampilan yang dibutuhkan di bidang kerja atau profesi termasuk terbatasnya pemahaman mengenai dinamika tantangan sektor tenaga kerja di tingkat dunia. Oleh karena itu upaya-upaya untuk mencapai keselarasan mutu dan penjenjangan kualifikasi lulusan dari institusi pendidikan formal dan non formal, dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan perlu diwujudkan dengan segera.
+3
+
+Di jalur pendidikan non formal, pada tahun 2012 tercatat sekitar 17.000 lembaga kursus dan pelatihan yang menyelenggarakan pendidikan non formal dalam bentuk beragam jenis kursus dan pelatihan (sumber: nilek.online) di bawah pembinaan Kementerian Pendidikan dan Kebudayaan. Maka, salah satu infrastruktur yang penting dalam mencapai keselarasan mutu dan penjenjangan kualifikasi antara lulusan dari institusi penyelenggara kursus dan pelatihan dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan adalah dokumen Standar Kompetensi Lulusan disingkat SKL, sebagaimana dinyatakan pada PP Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan dalam hal penyusunan suatu SKL dan Permendiknas Nomor 47 Tahun 2010 dan Permendikbud Nomor 31 Tahun 2012 tentang SKL Kursus dan pelatihan.
+Terkait dengan kepentingan yang strategis dan telah kuat aspek hukumnya, SKL disusun sebagai pelaksanaan amanah PP Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan dalam hal penyusunan suatu Standar Kompetensi Lulusan dan Permendiknas Nomor 47 Tahun 2010 dan Permendikbud Nomor 31 Tahun 2012 tentang SKL Kursus dan pelatihan. Pada tahun 2009, dokumen SKL untuk 16 bidang telah selesai disusun dan ditetapkan oleh Mendiknas tahun 2010. Selanjutnya SKL 10 bidang kursus dan pelatihan telah berhasil disusun tahun 2010 dan ditetapkan tahun 2012. Dengan terbitnya Peraturan Presiden Nomor 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia, maka SKL yang telah disusun tersebut perlu dikaji keselarasannya dengan kualifikasi pada KKNI. Revisi SKL ini juga sekaligus dimaksudkan untuk mengakomodasi perubahan kebutuhan kompetensi kerja dari pengguna lulusan di dunia kerja dan dunia industri.
+4
+
+B. Tujuan Penyusunan SKL
+SKL disusun untuk digunakan sebagai pedoman penilaian dalam penentuan kelulusan peserta didik pada lembaga kursus dan pelatihan serta bagi yang belajar mandiri dan sebagai acuan dalam menyusun, merevisi, atau memutakhirkan kurikulum, baik pada aspek perencanaan maupun implementasinya.
+C. Uraian Program
+Teknologi elektronika berkembang secara berkelanjutan di semua sektor kehidupan manusia, oleh karena itu program pendidikan elektronika pada lembaga kursus dan pelatihan harus dapat beradaptasi sesuai dengan kebutuhan pengguna. Program kursus dan pelatihan Elektronika meliputi antara lain: 1. Elektronika Dasar (Basic Electronics) 2. Elektronika Audio dan Video (Audio and Video electronics) 3. Elektronika Digital dan Mikro-Kontrol (Digital and Micro-Controller
+Electronics) 4. Elektronika Industri (Industrial Elekctronics) 5. Elektronika Telekomunikasi (communication electronics) 6. Elektronika Peralatan Rumah Tangga (Home Appliacces) antara
+lain: AC, Kulkas, Mesin Cuci, dll. 7. Elektronika lainnya sesuai dengan kebutuhan, antara lain operator
+perbaikan handphone, teknisi PABX, teknisi mesin fotocopy, dll.
+Program kursus dan pelatihan Elektronika Dasar (Basic Electronics), merupakan program kursus dan pelatihan untuk menghasilkan seorang teknisi elektronika. Program kursus dan pelatihan ini dirancang untuk membekali peserta didik agar memiliki penguasaan pengetahuan operasional lengkap, kemampuan kerja, serta memiliki kewenangan dan tanggung jawab dalam perbaikan catu daya, pengatur/regulator tegangan (voltage regulator), penguat audio (audio
+5
+
+amplifier) (yang terdiri dari 1 transistor, 2 transistor, 3 transistor atau 4 transistor) serta penguat audio yang mempergunakan rangkaian terpadu (IC).
+Standar waktu yang dibutuhkan untuk menyelesaikan program kursus dan pelatihan ini adalah 200 jam pelajaran, dengan proporsi waktu 30% teori dan 70% praktik. Waktu 200 jam ini dimungkinkan dapat dipercepat dengan metode yang lebih efektif, sarana dan prasarana yang lebih lengkap dan teknologi yang lebih modern. Pelaksanaan program kursus dan pelatihan ini mengacu kepada metode pelatihan berbasis kompetensi, yang memprasyaratkan peserta kursus dan pelatihan untuk menyelesaikan semua tahapan kursus dan pelatihan yang sudah ditawarkan. Kelulusan peserta kursus dan pelatihan didasarkan kepada uji kompetensi yang dilakukan oleh Lembaga Sertifikasi Kompetensi (LSK) bidang elektronika yang independen dan diakui oleh pemerintah, dunia usaha, dan dunia industri. Uji kompetensi dilaksanakan di Tempat Uji Komptensi (TUK).
+1. Nama program Kursus dan pelatihan Elektronika Dasar (Basic Electronics)
+2. Tujuan a. Umum Secara umum program kursus dan pelatihan elektronika dasar ini bertujuan untuk menghasilkan lulusan yang memiliki pengetahuan operasional lengkap, kemampuan kerja, serta kewenangan dan tanggung jawab dalam bidang elektronika dasar sesuai dengan standar spesifikasinya. b. Khusus Secara khusus program kursus dan pelatihan elektronika dasar ini bertujuan untuk menghasilkan lulusan yang kompeten dalam bidang perbaikan peralatan elektronika meliputi:
+6
+
+1) Catu daya 2) Pengatur/regulator tegangan 3) Penguat audio (terdiri dari 1 transistor, 2 transistor, 3
+transistor, dan 4 transistor) 4) Penguat audio yang mempergunakan rangkaian terpadu
+(Integrated Circuit)
+3. Manfaat Program kursus dan pelatihan elektronik dasar ini bermanfaat bagi. a. Peserta didik kursus dan pelatihan: memiliki kemampuan kerja, pengetahuan, dan manajerial dalam perbaikan peralatan elektronika, yang bisa digunakan sebagai bekal bekerja atau berwirausaha b. Lembaga pengguna elektronika dasar dapat merekrut calon teknisi yang siap beradaptasi dengan pekerjaannya c. Lembaga penyelenggara kursus dan pelatihan elektronika dasar dapat menghasilkan lulusan kursus dan pelatihan yang terstandar
+4. Kualifikasi peserta Lulusan SLTA sederajat atau lulusan SLTP sederajat yang pernah bekerja pada area pekerjaan yang relevan dengan pekerjaan elektronika.
+5. Durasi kursus dan pelatihan Waktu kursus dan pelatihan yang diperlukan untuk mengikuti kursus dan pelatihan elektronika dasar adalah 200 jam.
+6. Metode kursus dan pelatihan Metode kursus dan pelatihan yang dilakukan adalah pelatihan berbasis kompetensi.
+7
+
+7. Uji kompetensi Uji kompetensi dilaksanakan pada akhir setiap program kursus dan pelatihan dilaksanakan. Pelaksanaan uji kompetensi terdiri dari dua jenis tes, yaitu tes teori dan praktik. Tes teori dan praktik bertujuan untuk mengukur penguasaan pengetahuan, sikap, dan keterampilan berfikir peserta kursus dan pelatihan elektronika dasar dalam proses perbaikan peralatan elektronika.
+8. Sertifikat kelulusan Sertifikat kelulusan diberikan kepada peserta kursus dan pelatihan elektronika dasar yang telah dinyatakan lulus dalam uji kompetensi oleh Lembaga Sertifikasi Kompetensi (LSK) bidang elektronika independen yang diakui oleh pemerintah, dunia usaha, dan dunia industri.
+D. Pengertian
+1. Capaian pembelajaran adalah kemampuan yang diperoleh melalui internalisasi pengetahuan, sikap, keterampilan, kompetensi, dan akumulasi pengalaman kerja.
+2. Pengetahuan adalah penguasaan teori oleh seseorang pada suatu bidang keilmuan dan keahlian tertentu atau pemahaman tentang konsep, fakta, informasi, metodologi, dan prosedur pada bidang pekerjaan tertentu
+3. Sikap adalah penghayatan seseorang terhadap nilai, norma, dan aspek di sekitar kehidupannya yang tumbuh dari proses pendidikan, pengalaman kerja, lingkungan kehidupan keluarga, atau masyarakat secara luas
+4. Keterampilan adalah kemampuan psikomotorik dan kemampuan menggunakan metode, bahan, dan instrumen, yang diperoleh melalui pendidikan, pelatihan, dan pengalaman kerja
+5. Kompetensi adalah akumulasi kemampuan seseorang dalam melaksanakan suatu deskripsi kerja secara terukur melalui
+8
+
+asesmen yang terstruktur, secara mandiri dan bertanggung jawab di dalam lingkungan kerja 6. Pengalaman kerja adalah internalisasi kemampuan dalam melakukan pekerjaan di bidang tertentu dan selama jangka waktu tertentu 7. Deskripsi umum KKNI adalah deskripsi menyatakan karakter, kepribadian, sikap dalam berkarya, etika, moral dari setiap manusia Indonesia pada setiap jenjang kualifikasi sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012. 8. Deskripsi kualifikasi KKNI adalah deskripsi yang menyatakan ilmu pengetahuan, pengetahuan praktis, pengetahuan, afeksi dan kompetensi yang dicapai seseorang sesuai dengan jenjang kualifikasi 1 sampai 9 sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012. 9. Deskripsi capaian pembelajaran khusus adalah deskripsi capaian minimum dari setiap program kursus dan pelatihan yang mencakup deskripsi umum dan selaras dengan Deskripsi Kualifikasi KKNI. 10. Standar Kompetensi Lulusan berbasis KKNI adalah kemampuan yang dibutuhkan untuk melaksanakan pekerjaan yang dilandasi oleh pengetahuan, keterampilan dan sikap kerja dalam menyelesaikan suatu pekerjaan sesuai dengan unjuk kerja yang dipersyaratkan dan diturunkan dari capaian pembelajaran khusus pada level KKNI yang sesuai. Standar Kompetensi Lulusan berbasis KKNI dinyatakan oleh tiga parameter yaitu: Kompetensi, Elemen Kompetensi, Indikator kelulusan. 11. Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara penyampaian dan penilaiannya sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk menghasilkan lulusan dengan capaian pembelajaran khusus.
+9
+
+12. Rekognisi Pembelajaran Lampau (RPL) adalah pengakuan atas capaian pembelajaran seseorang yang diperoleh dari pengalaman kerja, pendidikan non formal, atau pendidikan informal ke dalam sektor pendidikan formal.
+II. STANDAR KOMPETENSI LULUSAN BERBASIS KKNI
+A. Profil Lulusan
+Lulusan program kursus dan pelatihan elektronika dasar ini memiliki penguasaan pengetahuan operasional lengkap dan kemampuan kerja, serta memiliki kewenangan dan tanggung jawab dalam bidang elektronika. 1. Mengidentifikasi, memilih, menggunakan, memelihara, dan
+mengamankan alat tangan (hand tools), alat ukur dan komponen elektronika untuk melakukan pekerjaan sebagai teknisi elektronika pemula 2. Mampu melaksanakan serangkaian tugas spesifik dalam memperbaiki peralatan elektronika catu daya, pengatur/regulator tegangan, penguat audio sesuai dengan standar mutu.
+B. Jabatan Kerja
+Jabatan kerja yang bisa ditempati dan dilakukan oleh lulusan kursus dan pelatihan elektronika dasar yaitu sebagai teknisi elektronika, setara dengan jenjang - III dalam KKNI.
+C. Capaian Pembelajaran
+1. Deskripsi umum KKNI Deskripsi umum KKNI sesuai dengan Peraturan Presiden Nomor 8 Tahun 2012 yang minimum wajib dimiliki dan dihayati oleh setiap lulusan kursus dan pelatihan adalah:
+10
+
+Sesuai dengan ideologi Negara dan budaya Bangsa Indonesia, maka implementasi sistem pendidikan nasional dan sistem pelatihan kerja yang dilakukan di Indonesia pada setiap jenjang kualifikasi pada KKNI mencakup proses yang membangun karakter dan kepribadian manusia Indonesia sebagai berikut. a. Bertaqwa kepada Tuhan Yang Maha Esa b. Memiliki moral, etika dan kepribadian yang baik di dalam
+menyelesaikan tugasnya c. Berperan sebagai warga negara yang bangga dan cinta tanah air
+serta mendukung perdamaian dunia d. Mampu bekerja sama dan memiliki kepekaan sosial dan
+kepedulian yang tinggi terhadap masyarakat dan lingkungannya e. Menghargai keanekaragaman budaya, pandangan, kepercayaan,
+dan agama serta pendapat/temuan original orang lain f. Menjunjung tinggi penegakan hukum serta memiliki semangat
+untuk mendahulukan kepentingan bangsa serta masyarakat luas
+2. Deskripsi kualifikasi sesuai dengan jenjang pada KKNI JENJANG 3 a. Mampu melaksanakan serangkaian tugas spesifik, dengan menerjemahkan informasi dan menggunakan alat, berdasarkan sejumlah pilihan prosedur kerja, serta mampu menunjukkan kinerja dengan mutu dan kuantitas yang terukur, yang sebagian merupakan hasil kerja sendiri dengan pengawasan b. Memiliki pengetahuan operasional yang lengkap, prinsip-prinsip serta konsep umum yang terkait dengan fakta bidang keahlian tertentu, sehingga mampu menyelesaikan berbagai masalah yang lazim dengan metode yang sesuai. c. Mampu bekerja sama dan melakukan komunikasi dalam lingkup kerjanya d. Bertanggung jawab pada pekerjaan sendiri dan dapat diberi tanggung jawab atas kuantitas dan mutu hasil kerja orang lain.
+11
+
+3. Deskripsi capaian pembelajaran khusus Capaian pembelajaran kursus dan pelatihan Elektronika Dasar adalah.
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG ELEKTRONIKA DASAR SESUAI KKNI JENJANG III
+
+SIKAP DAN TATA NILAI
+KEMAMPUAN DI BIDANG KERJA
+
+Membangun dan membentuk karakter dan kepribadian manusia Indonesia yang: 1. Bertakwa kepada Tuhan Yang Maha Esa 2. Memiliki moral, etika dan kepribadian yang
+baik di dalam menyelesaikan tugasnya 3. Berperan sebagai warga negara yang bangga
+dan cinta tanah air serta mendukung perdamaian dunia 4. Mampu bekerja sama dan memiliki kepekaan sosial dan kepedulian yang tinggi terhadap masyarakat dan lingkungannya 5. Menghargai keanekaragaman budaya, pandangan, kepercayaan, dan agama serta pendapat/temuan original orang lain 6. Menjunjung tinggi penegakan hukum serta memiliki semangat untuk mendahulukan kepentingan bangsa serta masyarakat luas Mampu melaksanakan serangkaian tugas spesifik dalam memperbaiki peralatan elektronika catu daya, pengatur/regulator tegangan, penguat audio sesuai dengan standar mutu*), yang mencakup kemampuan sebagai berikut: 1. Mengindentifikasi/menerjemahkan permintaan klien/pengguna jasa/ pemberi
+
+12
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG ELEKTRONIKA DASAR SESUAI KKNI JENJANG III
+kerja 2. Mengidentifikasi dan memperbaiki peralatan
+elektronika catu daya, pengatur/regulator tegangan, penguat audio mencakup: 2.1. Kemampuan mengukur besaran-
+besaran listrik menggunakan alat ukur AVO meter 2.2. Kemampuan menyolder untuk memasang dan melepaskan (soldering and desoldering) komponen elektronika pada PCB (Printed Circuit Board) 2.3. Kemampuan untuk membuat jalur dan tata letak komponen elektronika pada PCB 1 lapis (single layer) dan PCB 2 lapis (double layer) 2.4. Kemampuan memeriksa komponen pasif R, L, C, dan Tranformator dengan menggunakan AVO meter untuk menentukan kondisi komponen 2.5. Kemampuan mengidentifikasi kondisi komponen aktif (Dioda, Diode Zener, Transistor Bipolar NPN dan PNP, Transistor Unipolar Transistor Efek Medan (Field Effect Transistor/FET), SCR, DIAC dan Triac) 2.6. Kemampuan menganalisa, memperbaiki, mengguji hasil perbaikan catu daya dengan mempergunakan metode baku**) 2.7. Kemampuan menganalisa, memperbaiki, menguji hasil perbaikan
+13
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG ELEKTRONIKA DASAR SESUAI KKNI JENJANG III
+
+pengatur/regulatror tegangan dengan
+
+mempergunakan metode baku**)
+
+2.8. Kemampuan menganalisa, memperbaiki,
+
+menguji hasil perbaikan penguat audio
+
+(yang terdiri dari 1 transistor, 2
+
+transistor, 3 transistor dan 4 transistor)
+
+dan penguat audio yang
+
+mempergunakan rangkaian terpadu
+
+(integrated circuit) dengan
+
+mempergunakan metode baku**)
+
+3. Mempresentasikan hasil perbaikan kepada
+
+klien/pemberi kerja
+
+4. Menghitung biaya perbaikan
+
+5. Melakukan proses pekerjaan sesuai dengan
+
+prinsip Keselamatan dan Kesehatan Kerja
+
+(K3)
+
+6. Mengevaluasi hasil kerja secara mandiri
+
+PENGETAHUAN
+YANG DIKUASAI
+
+Menguasai pengetahuan operasional yang lengkap, prinsip-prinsip serta konsep umum yang terkait dengan elektronika dasar, sehingga
+
+mampu menyelesaikan berbagai masalah dalam
+
+memperbaiki peralatan elektronika catu daya,
+
+pengatur/regulator tegangan, penguat audio
+
+dengan metode yang sesuai mencakup
+
+penguasaan pengetahuan sebagai berikut:
+
+1. Menguasai prinsip dan teknik berkomunikasi
+
+dengan klien/pengguna jasa/pemberi kerja
+
+2. Menguasai arti dari istilah elektronik
+
+3. Menguasai serangkaian pengetahuan untuk
+
+memperbaiki peralatan elektronika catu
+
+14
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG ELEKTRONIKA DASAR SESUAI KKNI JENJANG III
+daya, pengatur/regulator tegangan, penguat audio, mencakup: 3.1. Konsep umum kelistrikan 3.2. Prinsip dan teknik penggunaan alat
+ukur besaran-besaran listrik (Ampere, Volt, Ohm) 3.3. Pengetahuan faktual tentang bahan dan material pensolderan komponen elektronika 3.4. Pengetahuan faktual tentang pembuatan PCB 1 lapis dan 2 lapis 3.5. Fungsi, jenis dan besaran komponen pasif R, L, C, dan Tranformator, dan penggunaan AVO meter untuk menentukan kondisi komponen 3.6. Fungsi, jenis, tipe dan cara kerja komponen aktif (Dioda, Dioda Zener, Transistor Bipolar NPN dan PNP, Transistor Unipolar FET, SCR, DIAC dan Triac) 3.7. Menguasai pengetahuan faktual tentang blok diagram (block diagrams), skema (schematics) dan pengkabelan (wiring diagrams) 3.8. Menguasai konsep umum catu daya, pengatur/regulator tegangan, penguat audio yang mempergunakan transistor dan rangkaian terpadu (integrated circuit) 3.9. Menguasai pengetahuan operasional
+15
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG ELEKTRONIKA DASAR SESUAI KKNI JENJANG III
+
+KEWENANGAN
+DAN TANGGUNG
+JAWAB
+
+lengkap tentang prinsip dan teknik untuk menganalisa, memperbaiki, menguji hasil perbaikan catu daya, pengatur/regulator tegangan, penguat audio (yang terdiri dari 1 transistor, 2 transistor, 3 transistor dan 4 transistor) dan penguat audio yang mempergunakan rangkaian terpadu (integrated circuit) dengan mempergunakan metode baku**) 4. Menguasai pengetahuan faktual tentang harga dan biaya perbaikan 5. Menguasai prinsip dan teknik penyusunan kuesioner proses evaluasi hasil kerja 6. Menguasai konsep umum tentang Keselamatan dan Kesehatan Kerja (K3) Bertanggung jawab pada pengujian, penggantian komponen elektronika yang diperbaiki, mencakup: 1. Bertanggung jawab dalam memperbaiki peralatan elektronika catu daya, pengatur/regulator tegangan, penguat audio sesuai dengan standar mutu*) dan dengan memperhatikan keamanan dan keselamatan kerja 2. Mampu diberi tanggung jawab untuk membimbing rekan kerja yang baru bekerja, peserta magang dan dapat menggantikan pekerjaan orang lain dengan lingkup, kuantitas dan mutu hasil kerja yang sama
+
+16
+
+*) memenuhi standar mutu diartikan dengan mampu memperbaiki peralatan elektronika tersebut beroperasi sesuai dengan spesifikasinya.
+**) metode baku terdiri dari pembacaan skema, mengerti skematiknya, mengidentifikasi kondisi komponen dengan AVO meter, menyolder dengan tepat (padat dan tidak berpori).
+D. Standar Kompetensi Lulusan
+Uraian standar kompetensi berbasis KKNI terdiri atas. 1. Unit Kompetensi 2. Elemen Kompetensi 3. Indikator Kelulusan Sebagaimana dinyatakan pada tabel berikut ini.
+
+STANDAR KOMPETENSI LULUSAN BERBASIS KKNI BIDANG ELEKTRONIKA DASAR JENJANG III
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+1. Mengaktualias asi karakter dan kepribadian manusia Indonesia
+
+Sikap dan Tata Nilai
+
+1.1. Bertakwa kepada 1.1.1. Memiliki
+
+Tuhan Yang
+
+karaktek dan
+
+Maha Esa
+
+kepribadian
+
+1.2. Memiliki moral,
+
+manusia
+
+etika dan
+
+Indonesia:
+
+kepribadian yang 1.1.2. Bertakwa
+
+baik di dalam
+
+kepada Tuhan
+
+menyelesaikan
+
+Yang Maha Esa
+
+tugasnya
+
+1.1.3. Memiliki moral,
+
+1.3. Berperan sebagai
+
+etika dan
+
+warga negara
+
+kepribadian
+
+17
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+yang bangga dan
+
+INDIKATOR KELULUSAN
+yang baik di
+
+cinta tanah air
+
+dalam
+
+serta mendukung
+
+menyelesaikan
+
+perdamaian
+
+tugasnya
+
+dunia
+
+sebagai warga
+
+1.4. Bekerja sama dan
+
+negara yang
+
+memiliki
+
+bangga dan
+
+kepekaan yang
+
+cinta tanah air
+
+tinggi terhadap
+
+1.1.4. Dapat bekerja
+
+masyarakat dan
+
+sama dan
+
+lingkungannya
+
+memiliki
+
+1.5. Menghargai
+
+kepekaan yang
+
+keanekaragaman
+
+tinggi terhadap
+
+budaya,
+
+masyarakat dan
+
+pandangan,
+
+lingkungannya
+
+kepercayaan, dan 1.1.5. Menghargai
+
+agama serta
+
+keanekaragaman
+
+pendapat/temua
+
+budaya,
+
+n original orang
+
+pandangan,
+
+lain kepercayaan,
+
+1.6. Menjunjung
+
+dan agama serta
+
+tinggi penegakan
+
+pendapat/temua
+
+hukum serta
+
+n original orang
+
+memiliki
+
+lain
+
+semangat untuk 1.1.6. Hasil kerja
+
+mendahulukan
+
+sesuai dengan
+
+kepentingan
+
+kesepakatan
+
+bangsa serta
+
+pengguna dan
+
+masyarakat luas
+
+tidak berdampak
+
+pada timbulnya
+
+keresahan
+
+18
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+khalayak, tidak
+bertentangan
+dengan norma
+agama, hukum
+serta norma
+yang berlaku
+
+Kemampuan di bidang kerja
+
+1. 2Melaksanakan 1.1. Mengindentifikasi 1.1.1. Tingkat kepuasan
+
+serangkaian
+
+/menerjemahkan
+
+pemberi kerja
+
+tugas spesifik
+
+permintaan
+
+atas hasil kerja
+
+dalam
+
+klien/pemberi
+
+peserta kursus,
+
+memperbaiki
+
+kerja
+
+dalam suatu
+
+peralatan
+
+simulasi kerja
+
+elektronika
+
+1.2. Mengidentifikasi
+
+catu daya,
+
+dan memperbaiki
+
+pengatur/regul
+
+peralatan
+
+ator tegangan, penguat audio sesuai dengan standar mutu*)
+
+elektronika catu daya, pengatur/regulator tegangan,
+
+penguat audio
+
+kemampuan
+
+sebagai berikut:
+
+a. Mengukur
+
+1.2.1. Memilih skala
+
+besaran-
+
+Meter, mengukur
+
+besaran listrik
+
+tegangan dan
+
+menggunakan
+
+arus listrik AC,
+
+alat ukur AVO
+
+DC serta
+
+meter
+
+membaca hasil
+
+pengukuran
+
+19
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+dengan tepat
+
+b. Menyolder
+
+1.2.2. Kesesuaian
+
+untuk
+
+dalam pemilihan
+
+memasang
+
+alat
+
+dan 1.2.3. Hasil solder
+
+melepaskan
+
+untuk
+
+(soldering and
+
+pemasangan
+
+desoldering)
+
+komponen
+
+komponen
+
+dengan baik
+
+elektronika
+
+sesuai standar
+
+pada PCB
+
+industri
+
+(Printed Circuit 1.2.4. Hasil pelepasan
+
+Board)
+
+komponen
+
+(desoldering)
+
+tidak merusak
+
+komponen
+
+maupun PCB
+
+c. Membuat jalur 1.2.5. Membuat PCB 1
+
+dan tata letak
+
+layer dan 2 layer
+
+komponen
+
+untuk 4
+
+elektronika
+
+komponen
+
+pada PCB 1
+
+elektronika
+
+lapis (single
+
+(Resistor,
+
+layer) dan PCB
+
+Kapasitor, Dioda
+
+2 lapis (double
+
+dan Transistor)
+
+layer)
+
+dengan hasil
+
+sesuai standar
+
+industri dengan
+
+tepat
+
+d. Memeriksa
+
+1.2.6. Membaca nilai
+
+komponen
+
+Resitor (R)
+
+20
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+pasif R, L, C,
+
+INDIKATOR KELULUSAN
+berdasarkan kode
+
+dan warna (Color
+
+tranformator
+
+Code) dan
+
+dengan
+
+mengukur nilai
+
+menggunakan
+
+resistor dengan
+
+AVO meter
+
+menggunakan
+
+untuk
+
+AVO meter
+
+menentukan
+
+dengan tepat
+
+kondisi
+
+1.2.7. Menentukan
+
+komponen
+
+kondisi Resistor
+
+baik atau rusak
+
+dengan tepat
+
+1.2.8. Memilih dan
+
+membaca nilai
+
+Kapasitor (C) dan
+
+Induktor (L)
+
+dengan tepat
+
+1.2.9. Mengukur
+
+tegangan primer
+
+dan sekunder
+
+transformator
+
+dengan
+
+menggunakan
+
+AVO meter dan
+
+menentukan
+
+kondisi
+
+transformator
+
+tersebut dengan
+
+tepat
+
+e. Mengidentifika 1.2.10. Memilih
+
+si kondisi
+
+komponen aktif
+
+21
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+komponen aktif yaitu: Dioda, Dioda Zener, Transistor Bipolar NPN, Transistor Bipolar PNP, Transistor Unipolar FET, SCR, DIAC dan Triac
+
+INDIKATOR KELULUSAN
+sesuai spesifikasi teknis datasheet dengan tepat 1.2.11. Membaca data sheet untuk komponen aktif sesuai spesifikasi teknis data sheet dengan tepat 1.2.12. Mengukur dan menetapkan kondisi komponen aktif baik atau rusak menggunakan AVO meter dengan tepat 1.2.13. Merangkai atau memasang dan mengukur tegangan maju dan terbalik (Forward and Reverse Bias) dioda dan tegangan dioda zener sesuai dengan skema rangkaian
+
+22
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+dengan tepat 1.2.14. Menentukan
+jenis transistor bipolar NPN, transistor bipolar PNP dan menentukan kaki basis, emitter dan collector transistor bipolar menggunakan AVO meter dengan tepat 1.2.15. Memilih dan menetapkan drain, source dan gate transistor unipolar FET dengan spesifikasi teknis data sheet dengan tepat 1.2.16. Merangkai FET dan menetapkan FET baik atau rusak dengan tepat 1.2.17. Memilih dan
+23
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+f. Menganalisa, memperbaiki, menguji hasil
+
+INDIKATOR KELULUSAN
+menentukan kaki anoda, katoda dan gate SCR serta menentukan baik atau rusak dengan AVO meter dengan tepat 1.2.18. Memilih dan menentukan baik atau rusak anoda 1, anoda 2 DIAC sesuai dengan spesifikasi teknis data sheet dengan tepat 1.2.19. Memilih dan menetapkan anoda 1, anoda 2 dan gate TRIAC serta menentukan baik atau rusak dengan AVO meter dengan tepat 1.2.20. Merakit atau merangkai dan menentukan
+
+24
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+perbaikan catu
+
+INDIKATOR KELULUSAN
+baik atau
+
+daya dengan
+
+rusaknya
+
+menggunakan
+
+rangkaian catu
+
+metode
+
+daya setengah
+
+baku**)
+
+gelombang (half
+
+wave rectifier)
+
+dan catu daya
+
+gelombang
+
+penuh (full wave
+
+rectifier) sesuai
+
+skema
+
+rangkaian catu
+
+daya dengan
+
+tepat
+
+1.2.21. Merakit atau
+
+merangkai
+
+rangkaian catu
+
+daya dengan
+
+menggunakan
+
+dioda bridge
+
+dengan tepat
+
+1.2.22. Mengukur
+
+besaran
+
+tegangan AC dan
+
+DC pada
+
+rangkaian catu
+
+daya
+
+menggunakan
+
+AVO meter
+
+dengan tepat
+
+1.2.23. Memperbaiki
+
+25
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+catu daya
+
+menggunakan
+
+metode yang
+
+benar dengan
+
+memperhatikan
+
+keselamatan
+
+kerja dengan
+
+tepat dengan
+
+tepat
+
+g. Menganalisa, 1.2.24. Membaca
+
+memperbaiki,
+
+skema, merakit
+
+mengguji hasil
+
+atau merangkai
+
+perbaikan
+
+rangkaian
+
+pengatur/regu
+
+pengatur/regula
+
+lator tegangan
+
+tor tegangan
+
+dengan
+
+menggunakan
+
+mempergunak
+
+transistor daya
+
+an metode
+
+(power
+
+baku**)
+
+transistor) atau
+
+IC regulator
+
+pada catu daya
+
+dengan dioda
+
+jembatan
+
+(bridge ) sesuai
+
+skema
+
+rangkaian
+
+pengatur/regula
+
+tor tegangan
+
+sederhana
+
+dengan tepat
+
+1.2.25. Mengukur
+
+26
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+besaran
+
+tegangan AC dan
+
+DC pada
+
+rangkaian
+
+pengatur/regula
+
+tor tegangan
+
+menggunakan
+
+AVO meter
+
+dengan tepat
+
+1.2.26. Menetapkan
+
+komponen yang
+
+rusak pada
+
+rangkaian
+
+pengatur/regula
+
+tor tegangan
+
+dengan tepat
+
+1.2.27. Memperbaiki
+
+pengatur/regula
+
+tor tegangan
+
+dengan
+
+memperhatikan
+
+keselamatan
+
+kerja dengan
+
+tepat
+
+h. Menganalisa, 1.2.28. Membaca
+
+memperbaiki,
+
+skema, merakit
+
+menguji hasil
+
+atau merangkai
+
+perbaikan
+
+penguat audio
+
+penguat audio
+
+(yang terdiri dari
+
+(yang terdiri
+
+1 transistor, 2
+
+dari 1
+
+transistor, 3
+
+27
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+transistor, 2
+
+INDIKATOR KELULUSAN
+transistor dan 4
+
+transistor, 3
+
+transistor) dan
+
+transistor dan
+
+penguat audio
+
+4 transistor)
+
+yang
+
+dan penguat
+
+mempergunaan
+
+audio yang
+
+rangkaian
+
+mempergunak
+
+terpadu
+
+an rangkaian
+
+(integrated
+
+terpadu
+
+circuit) sesuai
+
+(integrated
+
+skema
+
+circuit) dengan
+
+rangkaian
+
+mempergunak
+
+dengan tepat
+
+an metode
+
+1.2.29. Mengukur
+
+baku**)
+
+besaran
+
+tegangan AC dan
+
+DC pada
+
+rangkaian
+
+penguat audio
+
+(yang terdiri dari
+
+1 transistor, 2
+
+transistor, 3
+
+transistor dan 4
+
+transistor) dan
+
+penguat audio
+
+yang
+
+mempergunakan
+
+rangkaian
+
+terpadu
+
+(integrated
+
+circuit)
+
+menggunakan
+
+28
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+AVO meter dengan tepat 1.2.30. Menetapkan komponen yang rusak pada rangkaian penguat audio (yang terdiri dari 1 transistor, 2 transistor, 3 transistor dan 4 transistor) dan penguat audio yang mempergunakan rangkaian terpadu (integrated circuit) dengan tepat 1.2.31. Memperbaiki penguat audio (yang terdiri dari 1 transistor, 2 transistor, 3 transistor dan 4 transistor) dan penguat audio yang mempergunakan rangkaian
+29
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+terpadu
+
+(integrated
+
+circuit) dengan
+
+memperhatikan
+
+keselamatan
+
+kerja dengan
+
+tepat
+
+1.3. Mempresentasika 1.3.1. Memberikan
+
+n hasil perbaikan
+
+informasi dan
+
+kepada
+
+memaparkan
+
+klien/pengguna
+
+hasil perbaikan
+
+jasa/pemberi
+
+peralatan
+
+kerja
+
+elektronika yang
+
+sesuai dengan
+
+kompetensinya
+
+dengan tepat
+
+1.4. Menghitung biaya 1.4.1. Menghitung
+
+perbaikan
+
+biaya pembelian
+
+komponen
+
+pengganti
+
+dengan benar
+
+1.4.2. Tidak terjadi
+
+kerugian
+
+finansial
+
+1.5. Melakukan
+
+1.5.1. Proses pekerjaan
+
+proses pekerjaan
+
+sesuai dengan
+
+sesuai dengan
+
+prinsip
+
+prinsip
+
+Keselamatan
+
+Keselamatan dan
+
+dan Kesehatan
+
+Kesehatan Kerja
+
+Kerja (K3) dan
+
+(K3)
+
+tidak
+
+30
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+membahayakan
+
+diri sendiri,
+
+orang lain dan
+
+lingkungan
+
+dengan tepat
+
+1.6. Mengevaluasi
+
+1.6.1. Menyimpulkan
+
+hasil kerja secara
+
+pekerjaan yang
+
+mandiri
+
+di kerjakan
+
+dengan tepat
+
+1.7. Bertanggung
+
+1.7.1. Memberikan
+
+jawab untuk
+
+instruksi yang
+
+membimbing
+
+jelas kepada
+
+rekan kerja yang
+
+rekan kerja yang
+
+baru kerja,
+
+baru kerja,
+
+peserta magang
+
+peserta magang
+
+dan dapat
+
+dan dapat
+
+menggantikan
+
+menggantikan
+
+pekerjaan orang
+
+pekerjaan orang
+
+lain dengan
+
+lain dengan
+
+lingkup,
+
+lingkup,
+
+kuantitas dan
+
+kuantitas dan
+
+mutu hasil kerja
+
+mutu hasil kerja
+
+yang sama
+
+yang sama
+
+dengan tepat
+
+Pengetahuan Yang Dikuasai
+
+1. Memiliki
+
+1.1. Berkomunikasi
+
+1.1.1. Mendeskripsikan
+
+pengetahuan
+
+dengan
+
+prosedur untuk
+
+operasional
+
+klien/pengguna
+
+pelayanan
+
+lengkap,
+
+jasa/pemberi kerja
+
+kepada
+
+prinsip-prinsip
+
+klien/pengguna
+
+31
+
+0
+
+UNIT KOMPETENSI
+
+serta konsep
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+jasa/pemberi
+
+umum yang
+
+kerja dengan
+
+terkait dengan
+
+tepat
+
+elektronika
+
+1.2. Memiliki
+
+dasar,
+
+pengetahuan
+
+sehingga
+
+operasional
+
+mampu
+
+lengkap perbaikan
+
+menyelesaikan
+
+peralatan
+
+berbagai
+
+elektronika catu
+
+masalah dalam
+
+daya,
+
+memperbaiki
+
+pengatur/regulator
+
+peralatan
+
+tegangan, penguat
+
+elektronika
+
+audio mencakup:
+
+catu daya,
+
+a. Penggunaan
+
+pengatur/regul
+
+alat ukur
+
+ator tegangan,
+
+besaran
+
+penguat audio
+
+besaran listrik
+
+(penguat
+
+(Ampere, Volt,
+
+audio) dengan
+
+Ohm)
+
+metode baku**)
+
+mencakup:
+
+1) Struktur dan 1.2.1. Menjelaskan
+
+komponen
+
+sumber listrik
+
+atom, serta
+
+AC dan DC
+
+peran
+
+dengan tepat
+
+teknologi
+
+elektronika
+
+2) Bahan
+
+1.2.2. Menjelaskan
+
+penyekat
+
+bahan-bahan
+
+(isolator) dan
+
+isolator dan
+
+penghantar
+
+konduktor
+
+(konduktor)
+
+dengan tepat
+
+32
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+listrik 3) Sumber
+listrik AC/DC, baterai dan energi terbarukan 4) Besaran tegangan, arus, dan daya listrik 5) Hukum Ohm dan Kirchoff
+6) Gambar, simbol, dan skema komponen listrik dan elektronika
+7) Prinsip dasar pengukuran listrik (arus, tegangan, hambatan) dan cara
+
+INDIKATOR KELULUSAN
+1.2.3. Menyebutkan besaran tegangan, arus, hambatan dan daya listrik dengan tepat
+1.2.4. Menyebutkan sumber listrik AC/ DC dengan tepat
+1.2.5. Menghitung besar tegangan, arus, hambatan listrik menggunakan hukum Ohm dan Kirchoff dengan tepat
+1.2.6. Menggambarkan simbol komponen listrik dan elektronika dengan tepat
+1.2.7. Menggambarkan Menjelaskan prinsip dasar pengukuran listrik (arus, tegangan,
+
+33
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+memodifikasi
+
+INDIKATOR KELULUSAN
+hambatan) dan
+
+batas ukur
+
+cara
+
+dari alat
+
+memodifikasi
+
+ukur listrik
+
+batas ukur dari
+
+alat ukur listrik
+
+8) Bahaya yang 1.2.8. Menjelaskan
+
+ditimbulkan
+
+bahaya yang
+
+listrik
+
+ditimbulkan
+
+listrik dengan
+
+tepat
+
+b. Menguasai
+
+1.2.9. Menyebutkan
+
+teknik
+
+jenis dan bahan
+
+pensolderan
+
+untuk
+
+komponen
+
+menyolder yang
+
+elektronika
+
+digunakan di
+
+2) Jenis dan
+
+bidang
+
+bahan solder
+
+elektronika
+
+yang
+
+dengan tepat
+
+digunakan di 1.2.10. Mendeskripsikan
+
+bidang
+
+cara memasang
+
+elektronika
+
+dan melepaskan
+
+komponen
+
+3) Teknik
+
+menggunakan
+
+menyolder
+
+solder dengan
+
+untuk
+
+tepat
+
+memasang 1.2.11. Memahami
+
+(soldering)
+
+tentang
+
+dan kebersihan dan
+
+melepaskan
+
+keselamatan
+
+(desoldering)
+
+kerja pada saat
+
+komponen
+
+menyolder
+
+34
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+elektronika
+
+INDIKATOR KELULUSAN
+dengan tepat
+
+4) Kebersihan
+
+dan
+
+keselamatan
+
+kerja saat
+
+menyolder
+
+c. Menguasai
+
+1.2.12. Menjelaskan
+
+teknik
+
+teknologi,
+
+pembuatan PCB
+
+bahan-bahan
+
+1 lapis dan 2
+
+pembuatan PCB
+
+lapis
+
+dan cara etching
+
+1) Teknologi
+
+PCB dengan
+
+dan bahan-
+
+tepat
+
+bahan
+
+pembuatan
+
+PCB
+
+2) Menggambar
+
+dan
+
+membuat
+
+tata letak
+
+(layout)
+
+komponen
+
+pada PCB
+
+3) Teknik
+
+etching PCB
+
+d. Menguasai
+
+1.2.13. Menjelaskan
+
+fungsi
+
+fungsi
+
+komponen pasif
+
+komponen pasif
+
+R, L, C, dan
+
+di bidang
+
+Tranformator
+
+elektronika
+
+dan dengan tepat
+
+35
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+penggunaan
+
+INDIKATOR KELULUSAN
+1.2.14. Menghitung nilai
+
+AVO meter
+
+komponen R , L,
+
+untuk
+
+dan C yang
+
+menentukan
+
+dihubungkan
+
+kondisi
+
+secara seri
+
+komponen :
+
+maupun paralel
+
+1) Jenis-jenis
+
+dengan tepat
+
+dan fungsi 1.2.15. Mendeskripsikan
+
+komponen
+
+cara
+
+pasif
+
+penggunaan
+
+2) Komponen
+
+AVO meter
+
+seri dan
+
+dengan tepat
+
+paralel
+
+1.2.16. Menjelaskan
+
+3) Nilai dan
+
+fungsi dan
+
+besaran R, L,
+
+spesifikasi
+
+C transformator
+
+4) Alat ukur
+
+dengan tepat
+
+AVO meter
+
+5) Fungsi dan
+
+spesifikasi
+
+Transforma-
+
+tor
+
+e. Menguasai
+
+1.2.17. Menjelaskan
+
+fungsi
+
+fungsi dan
+
+komponen aktif
+
+manfaat
+
+(Dioda, Dioda
+
+komponen aktif
+
+Zener,
+
+di bidang
+
+Transistor
+
+elektronika
+
+Bipolar NPN,
+
+dengan tepat
+
+Transistor
+
+1.2.18. Menjelaskan
+
+Bipolar PNP,
+
+fungsi dan cara
+
+36
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+Transistor
+
+INDIKATOR KELULUSAN
+kerja Dioda,
+
+Unipolar FET,
+
+dan Dioda Zener
+
+SCR, DIAC dan
+
+dengan tepat
+
+Triac)
+
+1.2.19. Menjelaskan
+
+1) Bahan-
+
+fungsi dan cara
+
+bahan
+
+kerja transistor
+
+semikondukt
+
+Bipolar dan
+
+or Unipolar dengan
+
+2) Fungsi dan
+
+tepat
+
+manfaat
+
+1.2.20. Menjelaskan
+
+komponen
+
+fungsi dan cara
+
+aktif (Dioda,
+
+kerja SCR, Diac
+
+Dioda Zener,
+
+dan Triac
+
+Transistor
+
+dengan tepat
+
+NPN dan
+
+PNP, FET,
+
+SCR, DIAC,
+
+Triac di
+
+bidang
+
+elektronika
+
+3) Simbol,
+
+spesifikasi
+
+dan cara
+
+kerja Dioda
+
+dan Dioda
+
+Zener
+
+4) Simbol,
+
+spesifikasi,
+
+dan cara
+
+kerja
+
+Transistor
+
+37
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+Bipolar 5) Simbol,
+spesifikasi dan cara kerja Transistor Unipolar (Field Effect Transistor/F ET) 6) Transistor sebagai saklar (switching transistor) dan penguat (Amplifier) 7) Simbol, spesifikasi dan cara kerja SCR, DIAC dan Triac 8) Menentukan kondisi komponen aktif menggunaka n Avometer f. Menguasai perbaikan catu
+
+INDIKATOR KELULUSAN
+1.2.21. Mendeskripsika n cara kerja
+
+38
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+daya
+
+INDIKATOR KELULUSAN
+catu daya
+
+1) Fungsi dan
+
+menggunakan
+
+manfaat catu
+
+Diode dan
+
+daya di
+
+Diode Jembatan
+
+bidang
+
+(Bridge) dengan
+
+elektronika
+
+tepat
+
+2) Gambar
+
+1.2.22. Menguraikan
+
+skema
+
+fungsi masing-
+
+diagram dan
+
+masing
+
+cara kerja
+
+komponen pada
+
+catu daya
+
+rangkaian catu
+
+dengan
+
+daya dengan
+
+Dioda dan
+
+tepat
+
+Dioda Bridge 1.2.23. Menjelaskan
+
+3) Teknik
+
+cara mengukur
+
+mengukur
+
+tegangan AC
+
+tegangan AC
+
+dan DC pada
+
+dan DC catu
+
+rangkaian catu
+
+daya
+
+daya dengan
+
+menggunaka
+
+tepat
+
+n Avo Meter 1.2.24. Menguraikan
+
+4) Teknik
+
+cara
+
+perbaikan
+
+memperbaiki
+
+catu daya
+
+catu daya
+
+dengan tepat
+
+39
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+g. Menguasai
+
+INDIKATOR KELULUSAN
+1.2.25. Mendeskripsikan
+
+perbaikan
+
+cara kerja
+
+pengatur/regula
+
+pengatur/regula
+
+tor tegangan
+
+tor tegangan
+
+1) Fungsi dan
+
+dengan tepat
+
+manfaat di 1.2.26. Menguraikan
+
+bidang
+
+fungsi masing-
+
+elektronika
+
+masing
+
+komponen pada
+
+2) Gambar
+
+rangkaian
+
+skema
+
+pengatur/regula
+
+diagram dan
+
+tor tegangan
+
+cara kerja
+
+dengan tepat
+
+pengatur/reg 1.2.27. Menjelaskan
+
+ulator
+
+cara mengukur
+
+tegangan
+
+tegangan AC dan
+
+3) Mengukur
+
+DC pada
+
+Tegangan AC
+
+rangkaian
+
+dan DC
+
+pengatur/regula
+
+pengatur/reg
+
+tor tegangan
+
+ulator
+
+dengan tepat
+
+tegangan
+
+1.2.28. Menguraikan
+
+menggunaka
+
+cara
+
+n AVO meter
+
+memperbaiki
+
+4) Perbaikan
+
+pengatur/regula
+
+pengatur/reg
+
+tor tegangan
+
+ulator
+
+dengan tepat
+
+tegangan
+
+h. Menguasai
+
+1.2.29. Mendeskripsikan
+
+perbaikan
+
+cara kerja
+
+Penguat audio
+
+penguat audio
+
+40
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+1) Fungsi dan
+
+INDIKATOR KELULUSAN
+dengan tepat
+
+manfaat
+
+1.2.30. Menguraikan
+
+Penguat
+
+fungsi masing-
+
+audio di
+
+masing
+
+bidang
+
+komponen pada
+
+elektronika
+
+rangkaian
+
+2) Gambar
+
+Penguat audio
+
+skema
+
+dengan tepat
+
+diagram
+
+1.2.31. Menjelaskan
+
+dan cara
+
+cara mengukur
+
+kerja
+
+DC pada
+
+Penguat
+
+rangkaian
+
+audio
+
+Penguat audio
+
+3) Mengukur
+
+dengan tepat
+
+tegangan DC 1.2.32. Menguraikan
+
+Penguat
+
+cara
+
+audio
+
+memperbaiki
+
+menggunaka
+
+Penguat audio
+
+n AVO meter
+
+dengan tepat
+
+4) Teknik
+
+perbaikan
+
+Penguat
+
+audio
+
+1.3. Menguasai
+
+1.3.1. Memahami cara
+
+pengetahuan
+
+berkomunikasi
+
+faktual tentang
+
+dengan baik
+
+teknik
+
+dengan
+
+berkomunikasi
+
+klien/pemberi
+
+untuk
+
+kerja dengan
+
+mempresentasikan
+
+tepat
+
+dan mengevaluasi
+
+41
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+hasil perbaikan
+
+INDIKATOR KELULUSAN
+
+kepada
+
+klien/pemberi
+
+kerja
+
+1.4. Menghitung biaya 1.4.1. Menghitung
+
+perbaikan
+
+biaya perbaikan
+
+dengan benar
+
+1.5. Mengevaluasi hasil 1.5.1. Menguraikan
+
+kerja
+
+hasil pekerjaan
+
+dalam bentuk
+
+lisan maupun
+
+tertulis dengan
+
+tepat
+
+1.6. Memahami prinsip 1.6.1. Menguraikan
+
+Keselamatan dan
+
+prinsip
+
+Kesehatan Kerja
+
+keselamatan dan
+
+(K3)
+
+kesehatan kerja
+
+di bidang
+
+elektronika
+
+dengan tepat
+
+1.7. Bertanggung jawab 1.7.1. Menjelaskan
+
+untuk
+
+cara
+
+membimbing rekan
+
+bekerjasama dan
+
+kerja yang baru
+
+membimbing
+
+kerja, peserta
+
+orang lain dalam
+
+magang dan dapat
+
+lingkup
+
+menggantikan
+
+pekerjaan
+
+pekerjaan orang
+
+dengan tepat
+
+lain dengan
+
+lingkup, kuantitas
+
+dan mutu hasil
+
+42
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+kerja yang sama
+
+INDIKATOR KELULUSAN
+
+Kewenangan dan Tanggung jawab
+
+1. Bertanggung 1.1. Bertanggung jawab 1.1.1. Melaksanakan
+
+jawab pada
+
+dalam proses
+
+seluruh program
+
+pengujian,
+
+pekerjaan dengan
+
+kerja yang
+
+pengantian
+
+memperhatikan
+
+dibebankan
+
+komponen
+
+keamanan dan
+
+padanya, tanpa
+
+elektronika
+
+keselamatan kerja
+
+ada kecelakaan
+
+yang diperbaiki
+
+kerja dengan
+
+tepat
+
+1.2. Bertanggung jawab 1.2.1. Kesesuaian
+
+dalam pemakaian
+
+dengan alat
+
+alat-alat ukur AVO
+
+kerja yang
+
+meter, solder, dan
+
+sudah tertata
+
+catu daya untuk
+
+rapi sesuai
+
+proses
+
+dengan
+
+pemeliharaan dan
+
+fungsinya
+
+perbaikan
+
+1.3. Bertanggung jawab 1.3.1. Melaksanakan
+
+dalam pekerjaan
+
+proses
+
+pengukuran,
+
+perbaikan sesuai
+
+penggantian dan
+
+dengan prosedur
+
+perbaikan
+
+dengan tepat
+
+peralatan
+
+elektronika yang
+
+menjadi tanggung
+
+jawabnya secara
+
+43
+
+0
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+mandiri
+
+INDIKATOR KELULUSAN
+
+1.4. Melakukan
+
+1.4.1. Berkomunikasi
+
+komunikasi yang
+
+kepada
+
+baik dan efektif
+
+klien/pembri
+
+dengan rekan kerja
+
+kerja dengan
+
+dan pengguna jasa
+
+tepat
+
+E. Rekognisi Pembelajaran Lampau
+Rekognisi Pembelajaran Lampau (RPL) adalah proses penilaian dan pengakuan berbasis KKNI, atas capaian pembelajaran seseorang yang diperoleh selama hidupnya, baik melalui program pendidikan formal, informal, non-formal maupun secara otodidak.
+RPL dapat dikembangkan pada sektor pendidikan, sektor ketenagakerjaan (kenaikan pangkat, jenjang karir) atau pemberian penghargaan dan pengakuan oleh masyarakat terhadap seseorang yang telah menunjukkan bukti-bukti unggul dalam keahlian atau kompetensi tertentu.
+RPL diharapkan dapat memperluas akses dan kesempatan serta mempercepat waktu bagi masyarakat luas dalam meningkatkan kemampuan maupun keahliannya melalui program kursus dan pelatihan.
+Pengembangan dan pelaksanaan RPL harus didasari oleh beberapa prinsip, antara lain. 1. Mengutamakan transparasi dan akuntabilitas. Informasi tentang
+proses penyelenggaraan dan persyaratan untuk mengikuti RPL harus
+44
+
+dapat diakses secara luas baik oleh pengguna (indvidu yang membutuhkan) maupun masyarakat umum 2. Institusi atau lembaga penyelenggara RPL harus telah terakreditasi oleh badan akreditasi tingkat nasional, memiliki mandat yang sah dari institusi atau badan yang relevan dan berwenang untuk hal tersebut 3. Menunjukkan kesadaran mutu terhadap penyelenggaraan dan implikasi RPL pada lulusan, khusus nya dan masyarakat luas pada umumnya 4. Setiap institusi atau lembaga penyelenggara RPL harus melakukan evaluasi secara berkelanjutan untuk menjamin pencapaian mutu lulusan sesuai dengan standar yang di tetapkan 5. Penyelenggara kursus dan pelatihan yang memiliki sifat multi disiplin perlu mempertimbangkan kemungkinan untuk menyelenggarakan program RPL
+III. PENUTUP
+Program kursus dan pelatihan telah mulai berkembang sejak lama di berbagai negara maju, sehingga banyak jenis kursus dan pelatihan yang dikembangkan di Indonesia mungkin telah pula berkembang dengan baik di negara-negara lain. Oleh karena itu arah pengembangan lembaga kursus dan pelatihan di Indonesia pada waktu yang akan datang harus menuju ke arah internasionalisasi, sedemikian sehingga dapat dicapai kesetaraan baik capaian pembelajaran, standar kompetensi atau mutu lulusan.
+Tendensi pergerakan pekerja antar negara akan semakin besar di waktu yang akan datang sebagai implikasi dari globalisasi. Oleh karena itu lembaga kursus dan pelatihan di Indonesia akan menjadi salah satu penyedia tenaga kerja terampil yang potensial baik untuk Indonesia sendiri maupun negara-negara lain yang membutuhkan. Hal ini menuntut perlunya ditumbuhkan kesadaran yang tinggi akan penjaminan mutu berkelanjutan, baik dalam lingkungan internal
+45
+
+lembaga penyelenggara maupun secara eksternal melalui badan-badan akreditasi dan sertifikasi. Keunggulan dalam memenangkan persaingan antara lulusan lembaga kursus dan pelatihan nasional dengan lembaga kursus dan pelatihan internasional harus menjadi salah satu fokus pengembangan di masa yang akan datang.
+
+Sebagai bangsa yang memiliki kekayaan tradisi dan budaya maka berbagai kursus dan pelatihan yang khas Indonesia sudah berkembang dengan pesat sampai saat ini, terutama dalam bidang teknik, pariwisata, kuliner, dan lain-lain. Walaupun demikian, masih diperlukan upaya untuk memperoleh pangakuan yang lebih luas baik di tingkat nasional maupun internasional, mengembangkan standar kompetensi lulusan yang khas serta menjadikannya sebagai kekayaan nasional.
+
+Terkait dengan kursus dan pelatihan elektronik ini, maka arah pengembangan spesifik yang akan dilakukan adalah: Lulusan dapat mengawali karir kerja di bidang elektronika, khususnya dalam bidang reparasi peralatan elektronika dari tingkat dasar sampai tingkat yang lebih tinggi.
+
+MENTERI PENDIDIKAN DAN KEBUDAYAAN REPUBLIK INDONESIA,
+
+TTD.
+
+ANIES BASWEDAN
+
+Salinan sesuai dengan aslinya, Kepala Biro Hukum dan Organisasi Kementerian Pendidikan dan Kebudayaan,
+TTD.
+Aris Soviyani NIP 196112071986031001
+
+46
+
+

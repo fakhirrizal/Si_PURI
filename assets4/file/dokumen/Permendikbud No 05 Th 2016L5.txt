@@ -1,0 +1,1746 @@
+SALINAN LAMPIRAN V PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN NOMOR 5 TAHUN 2016 TENTANG STANDAR KOMPETENSI KELULUSAN KURSUS DAN PELATIHAN
+STANDAR KOMPETENSI LULUSAN KURSUS DAN PELATIHAN TEKNISI KOMPUTER JENJANG III
+I. PENDAHULUAN
+A. Latar Belakang
+Indonesia memiliki berbagai keunggulan untuk mampu berkembang menjadi negara maju. Keanekaragaman sumber daya alam, flora dan fauna, kultur, penduduk serta letak geografis yang unik merupakan modal dasar yang kuat untuk melakukan pengembangan di berbagai sektor kehidupan yang pada saatnya dapat menciptakan daya saing yang unggul di dunia internasional. Dalam berbagai hal, kemampuan bersaing dalam sektor sumber daya manusia tidak hanya membutuhkan keunggulan dalam hal mutu akan tetapi juga memerlukan upaya-upaya pengenalan, pengakuan, serta penyetaraan kualifikasi pada bidangbidang keilmuan dan keahlianyang relevan baik secara bilateral, regional maupun internasional.
+Kerangka Kualifikasi Nasional Indonesia (KKNI) secara khusus dikembangkan untuk menjadi suatu rujukan nasional bagi upaya-upaya meningkatkan mutu dan daya saing bangsa Indonesia di sektor sumber daya manusia. Pencapaian setiap tingkat kualifikasi sumber daya manusia Indonesia berhubungan langsung dengan tingkat capaian pembelajaran baik yang dihasilkan melalui sistem pendidikan maupun sistem pelatihan kerja yang dikembangkan dan diberlakukan secara
+1
+
+nasional. Oleh karena itu upaya peningkatan mutu dan daya saing bangsa akan sekaligus pula memperkuat jati diri bangsa Indonesia.
+KKNI merupakan salah satu langkah untuk mewujudkan mutu dan jati diri bangsa Indonesia dalam sektor sumber daya manusia yang dikaitkan dengan program pengembangan sistem pendidikan dan pelatihan secara nasional. Setiap tingkat kualifikasi yang dicakup dalam KKNI memiliki makna dan kesetaraan dengan capaian pembelajaran yang dimiliki setiap insan pekerja Indonesia dalam menciptakan hasil karya dan kontribusi yang bermutu dibidangpekerjaannya masingmasing.
+Kebutuhan Indonesia untuk segera memiliki KKNI sudah sangat mendesak mengingat tantangan dan persaingan global pasar tenaga kerja nasional maupun internasional yang semakin terbuka. Pergerakan tenaga kerja dari dan ke Indonesia tidak lagi dapat dibendung dengan peraturan atau regulasi yang bersifat protektif. Ratifikasi yang telah dilakukan Indonesia untuk berbagai konvensi regional maupun internasional, secara nyata menempatkan Indonesia sebagai sebuah negara yang semakin terbuka dan mudah disusupi oleh kekuatan asing melalui berbagai sektor termasuk sektor perekonomian, pendidikan, sektor ketenagakerjaan dan lain-lain. Oleh karena itu, persaingan global tidak lagi terjadi pada ranah internasional akan tetapi sudah nyata berada pada ranah nasional.
+Upaya yang dapat dilakukan untuk mengantisipasi tantangan globalisasi pada sektor ketenagakerjaan adalah meningkatkan ketahanan sistem pendidikan dan pelatihan secara nasional dengan berbagai cara antara lain: 1. Meningkatkan mutu pendidikan dan pelatihan 2. Mengembangkan sistem kesetaraan kualifikasi antara capaian
+pembelajaran yang diperoleh melalui pendidikan dan pelatihan, pengalaman kerja maupun pengalaman mandiri dengan kriteria
+2
+
+kompetensi yang dipersyaratkan oleh suatu jenis bidang dan tingkat pekerjaan, 3. Meningkatkan kerjasama dan pengakuan timbal balik yang saling menguntungkan antara institusi penghasil dengan pengguna tenaga kerja, 4. Meningkatkan pengakuan dan kesetaraan kualifikasi ketenagakerjaan Indonesia dengan negara-negara lain di dunia baik terhadap capaian pembelajaran yang ditetapkan oleh institusi pendidikan dan pelatihan maupun terhadap kriteria kompetensi yang dipersyaratkan untuk suatu bidang dan tingkat pekerjaan terntentu.
+Secara mendasar langkah-langkah pengembangan tersebut mencakup permasalahan yang bersifat multi aspek dan keberhasilannya sangat tergantung dari sinergi dan peran proaktif dari berbagai pihak yang terkait dengan peningkatan mutu sumber daya manusia nasional termasuk Kemdikbud, Kemnakertrans, Asosiasi Profesi, Asosiasi Industri, institusi pendidikan dan pelatihan, serta masyarakat luas.
+Secara umum, kondisi awal yang dibutuhkan untuk dapat melaksanakan suatu program penyetaraan kualifikasi ketenagakerjaan tersebut tampak belum cukup kondusif dalam beberapa hal seperti misalnya belum meratanya kesadaran mutu dikalangan institusi penghasil tenaga kerja, belum tumbuhya kesadaran tentang pentingnya kesetaraan kualifikasi antara capaian pembelajaran yang dihasilkan oleh penghasil tenaga kerja dengan deskripsi keilmuan, keahlian dan keterampilan yang dibutuhkan di bidang kerja atau profesi termasuk terbatasnya pemahaman mengenai dinamika tantangan sektor tenaga kerja di tingkat dunia. Oleh karena itu upaya-upaya untuk mencapai keselarasan mutu dan penjenjangan kualifikasi lulusan dari institusi pendidikan formal dan non formal, dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan perlu diwujudkan dengan segera.
+3
+
+Di jalur pendidikan non formal, pada tanggal 9 Oktober2014 tercatat sekitar 19.080 lembaga kursus dan pelatihan yang menyelenggarakan pendidikan non formal dalam bentuk beragam jenis kursus dan pelatihan (sumber: nilek. online) di bawah pembinaan Kementerian Pendidikan dan Kebudayaan. Salah satu infrastruktur yang penting dalam mencapai keselarasan mutu dan penjenjangan kualifikasi antara lulusan dari institusi penyelenggara kursus dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan adalah dokumen Standar Kompetensi Lulusan disingkat SKL, sebagaimana dinyatakan pada PP Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan dalam hal penyusunan suatu SKL dan Permendiknas Nomor47 Tahun 2010 tentang SKL kursus.
+Terkait dengan kepentingan yang strategis dan telah kuat aspek hukumnya, SKL disusun sebagai pelaksanaan amanah PP Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan dalam hal penyusunan suatu Standar Kompetensi Lulusan dan Permendiknas Nomor 47 tahun 2010 tentang SKL Kursus. Pada tahun 2009, dokumen SKL untuk 16 bidang telah selesai disusun dan ditetapkan oleh Mendiknas tahun 2010.Selanjutnya SKL 10 bidang kursus telah berhasil disusun tahun 2010 dan ditetapkan tahun 2012. Dengan terbitnya Peraturan Presiden Nomor 8 Tahun 2012 tentangKKNI, maka SKL yang telah disusun tersebut perlu dikaji keselarasannya dengan kualifikasi pada KKNI. Revisi SKL ini juga sekaligus dimaksudkan untuk mengakomodasi perubahan kebutuhan kompetensi kerja dari pengguna lulusan di dunia kerja dan dunia industri.
+B. Tujuan Penyusunan SKL
+SKL disusun untuk digunakan sebagai pedoman penilaian dalam penentuan kelulusan peserta didik pada lembaga kursus dan pelatihan serta bagi yang belajar mandiri dan sebagai acuan dalam menyusun, merevisi, atau memutakhirkan kurikulum, baik pada aspek perencanaan maupun implementasinya.
+4
+
+C. Uraian Program Sekarang komputer sudah menjadi bagian yang tidak dapat dipisahkan dengan kehidupan kita sehari-hari, digunakan untuk berbagai keperluan di rumah, tempat kerja, dan sekolah-sekolah. Hampir semua pengguna komputer pernah mengalami 'bencana' seperti kerusakan harddisk, kegagalan fungsi keyboard, atau sekedar lupa password. Makin banyaknya pengguna komputer mengakibatkan timbulnya kebutuhan yang besar terhadap spesialis yang menyediakan pelayanan-pelayanan kepada pengguna, seperti petunjuk-petunjuk, administrasi harian, perawatan, dan perbaikan komputer. Computer Technical Support(CTS)Specialistmenyediakan bantuan teknis, dan petunjuk-petunjuk teknis kepada pelanggan dan pengguna komputer. Kelompok pekerja ini meliputi pula Help-Desk Technicians, Computer Support Specialist, dan Technical Support Specialist. Spesialis ini melakukan pekerjaan seperti interpretasi masalah dan menyediakan layanan teknis untuk perangkat keras dan perangkat lunak. Mereka menjawab pertanyaan via telepon, menganalisis masalah menggunakan program diagnostik otomatis, dan memecahkan kesulitan-kesulitan yang timbul sesudahnya. Support specialist bisa saja bekerja pada perusahaan yang menggunakan sistem komputer atau langsung dari vendor perangkat keras dan perangkat lunak komputer. Ada kecenderungan meningkat, spesialis ini bekerja untuk suatu perusahaan pelayanan help-desk dan pelayanan perbaikan, dimana perusahaan tersebut memberikan pelayanan perbaikan dan perawatan komputer kepada pelangganannya secara kontrak. Technical Support Specialistadalah pencari kesalahan/kerusakan pada komputer, yang menyediakan bantuan yang bermanfaat bagi organisasi pengguna komputer tersebut. Karena banyak pekerja non-teknis bukan ahli di bidang komputer, mereka sering terjebak ke masalah kerusakan komputer yang tidak mampu mereka pecahkan sendiri. Technical Support Specialistmelakukan perakitan, instalasi, perawatandan reparasi perangkat keras (modul level) dan perangkat lunak komputer. Mereka juga bekerja untuk memperbaiki/merawat webcam, optical drive, power
+5
+
+supply, USB, mouse, keyboard, monitor, printer, modemdan perangkat lunak komputer. CTS specialist harus memiliki kemampuan kuat dalam pemecahan masalah, keterampilan analitik dan komunikasi karena kemampuan troubleshooting dan menolong orang lain merupakan bagian vital dari pekerjaan mereka. Interaksi terus menerus dengan personil lain baik di bidang komputer maupunpelanggan dan pihak menejemen, mengharuskan mereka harus memiliki kemampuan komunikasi baik secara tertulis, via email atau secara langsung. Keterampilan menulis yang kuat merupakan hal yang berguna ketika mereka harus mempersiapkan manual untuk pekerja lain dan pelanggan. Karena teknologi akan terus berubah dan meningkat, CTS specialist hendaklah terus menerus meningkatkan dan memperbaiki keterampilan mereka. Banyak program pendidikan berkelanjutan yang ditawarkan, baik yang dilakukan oleh perusahaan mereka sendiri, vendor, universitas dan institusi pelatihan swasta. Beberapa seminar pengembangan profesi yang ditawarkan perusahaan pelayanan komputer dapat juga diikuti untuk meningkatkan keterampilan dan kemampuan.
+1. Tujuan Umum
+Tujuan umum kursus dan pelatihan Teknisi Komputer ini adalah agar peserta didik mampu: a. Mengerjakan suatu tugas atau pekerjaan di bidang CTS dengan
+standar keamanan kerja yang efektif dalam pencapaian tujuan. b. Mengorganisasikan agar pekerjaan tersebut dapat dilaksanakan
+dengan baik. c. Mengambil tindakan yang tepat bilamana terjadi sesuatu yang
+berbeda dengan rencana semula. d. Menggunakan kemampuan yang dimilikinya untuk memecahkan
+masalah atau melaksanakan tugas dengan kondisi yang berbeda
+6
+
+2. Tujuan Khusus
+Secara khusus kursus dan pelatihanTeknisi Komputer ini bertujuan agar peserta didik mampu:
+a. Mengikuti prosedur kesehatan, keselamatan dan keamanan kerja, menggunakan alat bantu teknisi dalam melaksanakan tugas sebagai teknisi
+b. Mengidentifikasi spesifikasi perangkat komputer, memilih kasus, monitor motherboard, dan peripheral lainnyaserta melakukan inventarisasi perangkat lunak komputer yang sesuai dengan keperluan/kebutuhan pengguna
+c. Melakukan pemasangan perkabelan pada motherboard, VGA, hardisk, optical drive, power supply, USB, mouse, keyboard, monitor, printer, modem dan memasang perlengkapan komputer lainnya sehingga siap untuk di instalasi
+d. Melakukan instalasisistem operasi, instalasi motherboard driver, processor, VGA, sound card, LAN card, wifi, USB, webcam, printer, modemdan perangkat lunak aplikasi sehingga komputer terinstalasiperangkat lunak sesuai kebutuhan pengguna
+e. Melakukan uji kinerja motherboard, processor, RAM, hardisk, VGA, sound card, LAN card, wifi, USB, webcam, optical drive, power supply, USB, mouse, keyboard, monitor, printer, modem dan uji kinerja perangkat lunaksehingga komputer dipastikan siap untuk digunakan
+f. Memiliki keterampilan dalam hal perawatan motherboard, processor, RAM, hardisk, VGA, sound card, LAN card, wifi, USB, webcam, optical drive, power supply, USB, mouse, keyboard, monitor, printer, modemdan perangkat lunakcomputer
+g. Memiliki keterampilan untuk mendiagnosa kerusakanmotherboard, processor, RAM, hardisk, VGA, sound card, LAN card, wifi, USB, webcam, optical drive, power supply, USB, mouse, keyboard, monitor, printer, modemdan perangkat lunakcomputer
+7
+
+h. Memiliki keterampilan untuk memperbaiki kerusakan komponen (tahap modul) motherboard, processor, RAM, hardisk, VGA, sound card, LAN card, wifi, USB, webcam, optical drive, power supply, USB, mouse, keyboard, monitor, printer, modem dan perangkat lunakkomputer serta pengamanan data agar komputer dapat senantiasa berjalan normal
+i. Memiliki keterampilan dalam mempresentasikanhasil kerja perakitan, perawatan, danperbaikancomputer
+
+Pelatihan Teknisi Komputer ini dapat diikuti oleh setiap warga Negara
+
+Indonesia
+
+dengan
+
+persyaratan
+
+pendidikan
+
+minimal
+
+SLTA/sederajat.Setelah mengikuti pelatihan ini dapat menempati
+
+posisi Technical Support Specialist dengan kualitas lulusan setara
+
+dengan JenjangIII KKNI.
+
+Lama Pelatihan dan kursus Teknisi Komputer adalah 200 jam pelajaran @ 60 menit dengan metode pembelajaran: a. Presentasi b. Ceramah c. Demonstrasi/simulasi d. Pemecahan masalah e. Praktik
+
+Setiap peserta yang telah mengikuti kursusdan pelatihan Teknisi Komputer iniakan diberikan evaluasi akhir, yang bertujuan untuk mengukur kemampuan peserta didik dalam memahami dan mempraktikan materi yang sudah diberikan pengajar/instruktur, yaitu berupa: a. Ujian Komprehensif (ujian tertulis) bagi semua materi pelajaran b. Ujian praktik dengan melakukan perakitan, perawatan dan
+perbaikankomputer.
+
+8
+
+Setelah peserta berhasil lulus melalui dua jenis ujian yang dilaksanakan oleh lembaga kursus, akan diberikan tanda lulus dibidang Teknik Komputer.
+3. Uji Kompetensi
+Uji kompetensi diperlukan peserta didik untuk mendapat pengakuan keahlian secara nasional dan internasional dibidang Teknik Komputer. Uji kompetensi diatur dalam petunjuk Teknis Uji Kompetensi yang diterbitkan oleh Lembaga Sertifikasi Kompetensi (LSK) dan Kemdikbud, dilaksanakan padasuatu tempat yang disebut Tempat Uji Kompetensi (TUK) yang telah diverifikasi oleh LSK.
+4. Sertifikasi Lulusan
+Peserta yang dinyatakan kompeten setelah mengikuti Uji Kompetensi akan mendapatkan satu lembar Sertifikat Kompetensi. Blanko Sertifikat Kompetensi diterbitkan oleh Kemdikbud.Pengisian blanko Sertifikat Kompetensi dilakukan oleh LSK, Sertifikat berlaku sebagai pengakuan kompetensi di bidang Teknik komputer.
+D. Pengertian
+1. Capaian pembelajaran adalah kemampuan yang diperoleh melalui internalisasi pengetahuan, sikap keterampilan, kompetensi, dan akumulasi pengalaman kerja.
+2. Pengetahuan adalah penguasaan teori oleh seseorang pada suatu bidang keilmuan dan keahlian tertentu atau pemahaman tentang konsep, fakta, informasi, metodologi, dan prosedur pada bidang pekerjaan tertentu.
+3. Sikap adalah penghayatan seseorang terhadap nilai, norma, dan aspek di sekitar kehidupannya yang tumbuh dari proses pendidikan,
+9
+
+pengalaman kerja, lingkungan kehidupan keluarga, atau masyarakat secara luas. 4. Keterampilan adalah kemampuan psikomotorik dan kemampuan menggunakan metode, bahan dan instrumen, yang diperoleh melalui pendidikan, pelatihan, dan pengalaman kerja. 5. Kompetensi adalah akumulasi kemampuan seseorang dalam melaksanakan suatu deskripsi kerja secara terukur melalui asesmen yang terstruktur, secara mandiri dan bertanggung jawab di dalam lingkungan kerja. 6. Pengalaman Kerja adalah internalisasi kemampuan dalam melalukan pekerjaan dibidang tertentu dan jangka waktu tertentu. 7. Deskripsi umum KKNI adalah deskripsi menyatakan karakter, kepribadian, sikap dalam berkarya, etika, moral dari setiap manusia Indonesia pada setiap jenjang kualifikasi sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012. 8. Deskripsi Kualifikasi KKNI adalah deskripsi yang menyatakan ilmu pengetahuan, pengetahuan praktis, pegetahuan, afeksi dan kompetensi yang dicapai seseorang sesuai dengan jenjang kualifikasi 1 sampai 9 sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012. 9. Deskripsi Capaian Pembelajaran Khusus adalah deskripsi capaian minimum dari setiap program kursus yang mencakup deskripsi umum dan selaras dengan Deskripsi Kualifikasi KKNI. 10. Standar Kompetensi Lulusan Berbasis KKNI adalah kemampuan
+yang dibutuhkan untuk melaksanakan pekerjaan yang dilandasi oleh pengetahuan, keterampilan dan sikap kerja dalam menyelesaikan suatu pekerjaan sesuai dengan unjuk kerja yang dipersyaratkan dan diturunkan dari capaian pembelajaran khusus pada level KKNI yang sesuai. Standar Kompetensi Lulusan Berbasis KKNI dinyatakan oleh tiga parameter yaitu: unit kompetensi, elemen kompetensi, dan indikator kelulusan 11. Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara penyampaian dan penilaiannya sebagai pedoman penyelenggaraan kegiatan
+10
+
+pembelajaran untuk menghasilkan lulusan dengan capaian pembelajaran khusus. 12. Rekognisi Pembelajaran Lampau (RPL) adalah pengakuan atas capaian pembelajaran sebelumnya dari seseorang yang diperoleh dari pengalaman kerja, pendidikan non formal, atau pendidikan informal maupunpendidikan formal. 13. Perbaikan komponen komputer modul leveladalah tindakan untuk memperbaiki komponen komputer dengan mengganti bagian yang tidak berfungsi normal dengan komponen baru. 14. Software Komputer adalah perangkat lunak pada komputer yang meliputi sistem operasi (Windows dan Linux), aplikasi dan utilitas.
+11
+
+II. STANDAR KOMPETENSI LULUSAN
+A. Profil Lulusan
+1. Mampu mengidentifikasi dan menerjemahkan kebutuhan pengguna komputer, merancang spesifikasi komputer, dan memilih komponenkomponen komputer yang akan dirakit.
+2. Mampu melaksanakan tugas perakitan komputer yang secara spesifik terlihat dari kemampuan dalam memasang komponen komputer, melakukan instalasi sistem operasi dan driver, serta melakukan inventarisasi dan instalasi perangkat lunak aplikasi.
+3. Mampu melaksanakan tugas perawatan komputer yang terdiri dari kemampuan dalam merawat perangkat keras, perangkat lunak, dan melakukan pemeliharaan data.
+4. Mampu melaksanakan tugas perbaikan komponen komputer dengan melakukan identifikasi masalah komputer, melakukan penanganan virus, dan melakukan perbaikan komputer (modul level).
+5. Mampu menguji kinerja komputer secara mandiri dan mempresentasikan hasil kerja perakitan, perawatan, dan perbaikan komputer yang telah dilakukan.
+B. Jabatan Kerja
+Lulusan kursus dan PelatihanTeknisi Komputer ini mendapat sebutan: Computer Technical Support Specialist.Bidang profesi Teknisi Komputerterdiri dari 1. Help-desk technicians yang bertugas membantu pengguna
+komputer dalam pemanfaatan perangkat keras dan perangkat lunak komputer. 2. Computer Support Specialist yang bertugas menyediakan bantuan teknis, dan petunjuk-petunjuk teknis kepada pelanggan dan pengguna komputer termasuk perawatan komputer.
+12
+
+3. Technical support specialist adalah pencari kesalahan atau kerusakan pada komputer, yang menyediakan bantuan yang bermanfaat bagi organisasi pengguna komputer tersebut.
+C. Capaian Pembelajaran
+1. Deskripsi Umum KKNI
+Deskripsi umum KKNI sesuai dengan Peraturan Presiden Nomor 8 Tahun 2012 yang minimum wajib dimiliki dan dihayati oleh setiap lulusan kursus adalah: Sesuai dengan ideologi Negara dan budaya Bangsa Indonesia, maka implementasi sistem pendidikan nasional dan sistem pelatihan kerja yang dilakukan di Indonesia pada setiap jenjang kualifikasi pada KKNI mencakup proses yang membangun karakter dan kepribadian manusia Indonesia sebagai berikut: a. Bertaqwa kepada Tuhan Yang Maha Esa b. Memiliki moral, etika dan kepribadian yang baik di dalam
+menyelesaikan tugasnya c. Berperan sebagai warga negara yang bangga dan cinta tanah air
+serta mendukung perdamaian dunia d. Mampu bekerjasama dan memiliki kepekaan sosial dan kepedulian
+yang tinggi terhadap masyarakat dan lingkungannya e. Menghargai keanekaragaman budaya, pandangan, kepercayaan,
+dan agama serta pendapat/temuan original orang lain f. Menjunjung tinggi penegakan hukum serta memiliki semangat
+untuk mendahulukan kepentingan bangsa serta masyarakat luas g. Mampu menjalankan tugas dengan penuh tanggungjawab
+terhadappekerjaan yang dihasilkannya sehingga tidak memberikan dampak yang dapat menimbulkan keresahan khalayak, karena bertentangan dengan normahukum dan norma sosial yang berlaku.
+13
+
+2. Deskripsi Kualifikasi sesuai dengan jenjang pada KKNI
+
+Jenjang jabatan kerja untuk teknisi terdiri dariHelp-desk techniciansmenempati kualifikasi 1, Technical support specialistuntuk kualifikasi 2 dan Computer Support Specialistuntuk kualifikasi 3.
+
+Uraian deskripsi
+
+Jenjang Kualifikasi
+1
+
+Deskripsi Memberikan identifikasi perangkat penyusun
+
+(Help-desk komputer yang terdiri dari persiapan identifikasi, dan
+
+technicians) memeriksa hasil identifikasi, untuk membantu dan
+
+memperlancar penggunaan komputer.
+
+Memiliki kecermatan yang berkaitan dengan
+
+pemasangan komponen dan perkabelan yang
+
+tersambung pada motherboard dan aspek-aspek yang
+
+2 (Computer
+Support Specialist)
+
+harus diperhatikan selama proses pemasangan. Memiliki keterampilan berkaitan dengan instalasi sistem operasi dan perangkat lunak lainnya serta aspek-aspek yang harus diperhatikan selama proses instalasi.
+
+Memiliki kecermatan berkaitan dengan pengujian
+
+kinerja perangkat komputer yang telah dirakit dan
+
+disetting.
+
+Mendiagnosa kerusakan komputer yang berkaitan
+
+denganperangkat keras dan perangkat lunak,
+
+3 (Technical
+Support Specialist)
+
+memperbaiki kerusakankomputer pada komponen perangkat keras dan perangkat lunak, menguji perbaikan komputer, dan membuat laporan perbaikan. Mampu melakukan perawatan komponen perangkat
+
+keras dan perangkat lunakpada perangkat komputer
+
+dalam kondisi normal.
+
+14
+
+Capaian pembelajaran lulusan Teknisi Komputer adalah :
+
+PARAMETER DESKRIPSICAPAIAN PEMBELAJARAN KHUSUS TEKNIK KOMPUTER SESUAI DENGAN KKNI
+JENJANGIII
+
+SIKAP DAN TATA NILAI
+
+Membangun dan membentuk karakter dan kepribadian manusia Indonesia yang:
+
+1. Bertakwa kepada Tuhan Yang Maha Esa.
+
+2. Memiliki moral, etika dan kepribadian yang baik
+
+dalam menyelesaikan tugasnya.
+
+3. Berperan mewujudkan etika dan kepribadian
+
+yang baik sebagai warga negara yang bangga dan
+
+cinta tanah air serta mendukung perdamaian
+
+dunia.
+
+4. Mampu bekerja sama dan memiliki kepekaan
+
+sosial dan kepedulian yang tinggi terhadap
+
+masyarakat dan lingkungannya.
+
+5. Menghargai keanekaragaman budaya,
+
+pandangan, kepercayaan, dan agama serta
+
+pendapat/temuan orisinal orang lain.
+
+6. Menjunjung tinggi penegakan hukum serta
+
+memiliki semangat untuk mendahulukan
+
+kepentingan bangsa serta masyarakat luas.
+
+7. Mampu menjalankan tugas dengan penuh
+
+tanggungjawab terhadap hasil kerja teknisi yang
+
+dilakukannya sehingga tidak memberikan
+
+dampak yang dapat menimbulkan keresahan
+
+khalayak, karena bertentangan dengan norma
+
+hukum dan norma sosial yang berlaku.
+
+KEMAMPUAN DI BIDANG
+KERJA
+
+Mampu merakit dan merawat kinerja komputer serta memperbaiki kerusakan perangkatkeras (modul level level) dan lunak pada komputer, dengan aman sesuai
+
+standar mutu*), yang mencakup kemampuan:
+
+1. Menerjemahkan kebutuhan klien akan perangkat
+
+15
+
+PARAMETER DESKRIPSICAPAIAN PEMBELAJARAN KHUSUS TEKNIK KOMPUTER SESUAI DENGAN KKNI
+JENJANGIII
+
+keras dan lunak komputer dan pemberi
+
+kerja/tugas dalam hal perawatan kinerja
+
+komputer serta perbaikan kerusakan perangkat
+
+keras dan lunak pada komputer.
+
+2. Merancang dan merakit perangkat keras dan
+
+lunak komputer sesuai dengan kebutuhan klien
+
+dan spesifikasi yang optimal.
+
+3. Merawat kinerja komputer dengan mengupayakan
+
+keamanan data secara optimal.
+
+4. Mendiagnosa dan memperbaiki kinerja komputer
+
+berbasis pada diagnosa kerusakan pada
+
+perangkat keras (modul level) dan lunak pada
+
+komputer dengan menggunakan metode baku.
+
+5. Menguji kinerja komputer hasil rakitan,
+
+perawatan dan perbaikan, serta melakukan
+
+tindak lanjut yang diperlukan atas hasil uji yang
+
+telah dilaksanakan.
+
+6. Menyusun rancangan anggaran biaya sesuai
+
+dengan kebutuhan spesifikasi pengguna.
+
+7. Mempresentasikan hasil perakitan, perawatan,
+
+dan perbaikan kepada klien/pemberi kerja.
+
+8. Mengevaluasi hasil kerja secara mandiri.
+
+PENGETAHUAN YANG
+DIKUASAI
+
+Menguasai pengetahuan prosedural, pengetahuan faktual, dan tentangteknik komputer yang terdiri atas:
+
+1. Konsep umum tentang organisasi dan proses
+
+kerja perangkat keras dan lunak komputer.
+
+2. Pengetahuan faktual tentang jenis, karakteristik,
+
+dan fungsi komponen komputer.
+
+3. Pengetahuan operasional tentang proses
+
+16
+
+PARAMETER DESKRIPSICAPAIAN PEMBELAJARAN KHUSUS TEKNIK KOMPUTER SESUAI DENGAN KKNI
+JENJANGIII
+
+perakitan, perawatan, dan perbaikan perangkat
+
+keras (modul level).
+
+4. Prinsip dan teknik alat uji kinerja komputer.
+
+5. Pengetahuan faktual tentang gejala kerusakan
+
+(malfunction) perangkat keras dan perangkat
+
+lunak komputer, serta penyebabnya.
+
+6. Prinsip proses perawatan dan perbaikan
+
+komputer dan teknik penggunaan alat yang
+
+relevan.
+
+7. Pengetahuan faktual tentang perlindungan hak
+
+kekayaan intelektual perangkat lunak komputer.
+
+8. Prinsip dan teknik berkomunikasi lisan dan
+
+tulisan serta menguasai arti dari berbagai istilah
+
+perangkat lunak dan keras komputer.
+
+9. Konsep umum K3 yang berkaitan dengan
+
+pekerjaan merakit, merawat, dan memperbaiki
+
+kinerja komputer.
+
+10. Teknik penelusuran harga terkini perangkat
+
+keras dan perangkat lunak dalam Rupiah dan
+
+US Dollar.
+
+HAK DAN TANGGUNG JAWAB PADA
+BIDANG KERJANYA
+
+Bertanggungjawab pada perakitan, perawatan,dan perbaikan kinerja komputer yang mencakup: 1. Bertanggung jawab dalam perakitan, perawatan,
+dan perbaikan kinerja komputer sesuai dengan
+
+standar mutu*) dan dengan memperhatikan
+
+keamanan dan keselamatan kerja.
+
+2. Mampu diberi tanggung jawab untuk
+
+membimbing rekan kerja yang baru masuk,
+
+peserta magang dan dapat menggantikan
+
+pekerjaan orang lain dengan lingkup, kuantitas
+
+17
+
+PARAMETER DESKRIPSICAPAIAN PEMBELAJARAN KHUSUS TEKNIK KOMPUTER SESUAI DENGAN KKNI JENJANGIII dan mutu hasil kerja yang sama.
+*) yang diartikan standar mutu adalah komputer bekerja sesuai dengan spesifikasi.
+D. Standar Kompetensi Lulusan Berbasis KKNI
+Uraian standar kompetensi berbasis KKNI terdiri atas: 1. Unit Kompetensi 2. Elemen Kompetensi 3. Indikator Kelulusan
+Sebagaimana dinyatakan pada tabel berikut ini:
+
+STANDAR KOMPETENSI LULUSAN BERBASIS KKNI BIDANG TEKNIK KOMPUTER JENJANG III
+
+NO
+
+UNIT KOMPETENSI
+
+1. Mengaktualis asi karakter dan kepribadian manusia Indonesia.
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+Sikap dan Tata Nilai
+
+1.1 Bertakwa kepada 1.1.1 Melakukan aktivitas
+
+Tuhan Yang
+
+perakitan,
+
+Maha Esa.
+
+perawatan dan
+
+1.2 Memiliki moral,
+
+perbaikan dengan
+
+etika dan
+
+bersikap sopan
+
+kepribadian yang
+
+santun, disiplin,
+
+baik di dalam
+
+menghormati
+
+menyelesaikan
+
+sesama, menghargai
+
+tugasnya.
+
+kerja dan buah pikir
+
+1.3 Berperan
+
+orang lain dan
+
+mewujudkan
+
+senantiasa
+
+18
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+etika dan
+
+menyadari
+
+kepribadian yang
+
+kedudukan dirinya
+
+baik sebagai
+
+sebagai makhluk
+
+warga negara
+
+ciptaan Tuhan Yang
+
+yang bangga dan
+
+Maha Esa.
+
+cinta tanah air 1.1.2 Melakukan aktivitas
+
+serta
+
+secara tepat waktu,
+
+mendukung
+
+tepat aturan, tepat
+
+perdamaian
+
+ukuran.
+
+dunia.
+
+1.1.3 Menerima dan
+
+1.4 Bekerja sama dan
+
+menghargai
+
+memiliki
+
+pendapat/kritik
+
+kepekaan sosial
+
+orang lain.
+
+dan
+
+kepedulianyang
+
+tinggi terhadap
+
+masyarakat dan
+
+lingkungannya.
+
+1.5 Menghargai
+
+keanekaragaman
+
+budaya,
+
+pandangan,
+
+kepercayaan,
+
+dan agama serta
+
+pendapat/temua
+
+n original orang
+
+lain.
+
+1.6 Menjunjung
+
+tinggi penegak
+
+hukum serta
+
+memiliki
+
+19
+
+NO
+
+UNIT KOMPETENSI
+
+1. Mampu merakit dan merawat kinerja komputer serta memperbaiki kerusakan perangkat keras (modul level) dan lunak pada komputer, dengan aman sesuai standar mutu*)
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+semangat untuk mendahulukan kepentingan bangsa serta masyarakat luas.
+
+Kemampuan di bidang kerja 1.1 Menerjemahkan 1.1.1 Mengisi formulir
+
+kebutuhan klien
+
+tugas (formulir
+
+akan perangkat
+
+perakitan,
+
+keras dan lunak
+
+perawatan,
+
+komputer dan
+
+perbaikan) sesuai
+
+pemberi
+
+dengan kebutuhan
+
+kerja/tugas
+
+pemberi
+
+dalam hal
+
+kerja/pengguna.
+
+perawatan
+
+1.1.2 Menyusun daftar
+
+kinerja komputer
+
+pilihan
+
+serta perbaikan
+
+rancangan/tindaka
+
+kerusakan
+
+n perakitan,
+
+perangkat keras
+
+perawatan,
+
+dan lunak pada
+
+perbaikan sesuai
+
+komputer.
+
+dengan dengan
+
+kebutuhan
+
+pengguna.
+
+1.1.3 Mendapatkan
+
+persetujuan hasil
+
+pilihan tindakan
+
+perakitan,
+
+perawatan,
+
+perbaikan dari
+
+pemberi kerja.
+
+1.2 Merancang dan
+
+20
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+merakit
+
+perangkat keras
+
+(modul level) dan
+
+lunak komputer
+
+sesuai dengan
+
+kebutuhan klien
+
+dan spesifikasi
+
+yang optimal,
+
+yang terdiri dari
+
+kemampuan
+
+untuk:
+
+a. Menyusun
+
+1.2.1. Mengidentifikasi
+
+spesifikasi
+
+spesifikasi komputer
+
+komputersesu
+
+dengan tepat sesuai
+
+ai kebutuhan
+
+dengan formulir
+
+pengguna.
+
+tugas perakitan.
+
+1.2.2. Menyusun
+
+spesifikasi komputer
+
+dengan tepatsesuai
+
+dengan formulir
+
+tugas perakitan.
+
+b. Memilih
+
+1.2.3.Memilih komponen
+
+komponenko
+
+komputer dengan
+
+mputersesuai
+
+tepat sesuai
+
+dengan
+
+dengan spesifikasi
+
+kebutuhan
+
+pada formulir tugas
+
+pengguna.
+
+perakitan.
+
+c. Memasang
+
+1.2.3. Menentukan letak
+
+komponen
+
+penempatan
+
+komputersesu
+
+komponen
+
+ai fungsinya.
+
+komputer sesuai
+
+21
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+dengantataletakmot
+
+herboard.
+
+1.2.4. Memasang
+
+peripheral
+
+(komponen)
+
+komputer sesuai
+
+fungsinya dalam
+
+waktu yang sudah
+
+ditentukan.
+
+d. Melakukan
+
+1.2.5. Melakukan instalasi
+
+instalasi
+
+sistem operasi
+
+sistem operasi
+
+dengan tepat sesuai
+
+sesuai dengan
+
+dengan jenis
+
+jenis
+
+komponen
+
+komponen
+
+komputer.
+
+komputer dan 1.2.6. Melakukan
+
+driversesuai
+
+instalasidriver
+
+dengan jenis
+
+dengan tepat sesuai
+
+komponen
+
+dengan jenis
+
+dan sistem
+
+komponen komputer
+
+operasi yang
+
+dan sistem operasi
+
+digunakan.
+
+yang digunakan.
+
+e. Melakukan
+
+1.2.7. Melakukan
+
+inventarisasi
+
+inventarisasi
+
+dan instalasi
+
+perangkat lunak
+
+perangkat
+
+sesuai dengan
+
+lunak
+
+formulir tugas
+
+aplikasisesuai
+
+perakitan.
+
+dengan
+
+1.2.8. Melakukan instalasi
+
+kebutuhan
+
+perangkat
+
+pengguna.
+
+lunaksehingga
+
+22
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+f. Merawat kinerja komputer dengan mengupayaka n keamanan data secara optimal yang terdiri dari kemampuan untuk:
+g. Melakukan perawatan perangkat keras. dengan cara:
+1) Memeriksa kondisi awal perangkat keras komputer.
+2) Membersih kan fisik perangkat keras komputer.
+
+dapat digunakan sesuai dengan fungsi dan spesifikasinya.
+1.2.9. Mengembalikan fungsi perangkat keras komputer sesuai dengan fungsi dankinerja normal spesifikasinya.
+
+23
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+3) Mengganti pasta thermal pada procesor.
+4) Mengukur kestabilan tegangan listrik pada power supply.
+5) Mengukur teganganpa da baterai CMOS
+6) Menjaga kestabilan koneksi kabelkabel.
+7) Melakukan proses hardisk defrag dan clean up.
+8) Melakukan ram check.
+9) Memeriksa resolusi tampilan VGA.
+
+INDIKATOR KELULUSAN
+
+24
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+1.3. Melakukan perawatan perangkat lunak dengan cara: a. Memeriksa kondisi awal berjalannya sistem operasi sesuai spesifikasinya. b. Melakukan pengaturan BIOS c. Membersihkan resgistry. d. Membuat registryback up. e. Membuat System Recovery point. f. Melakukan optimasi system startup dan shutdown. g. Memeriksa keberfungsian perangkat lunak aplikasi sesuai spesifikasinya.
+
+INDIKATOR KELULUSAN
+1.3.1. Mengembalikan fungsi perangkat lunak komputer sesuai dengan fungsi dan kinerja normal spesifikasinya.
+
+25
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+h. Memeriksa
+
+ketersediaan
+
+dan melakukan
+
+update
+
+perangkat
+
+lunak.
+
+1.4. Melakukan
+
+1.4.1. Merawat keamanan
+
+pemeliharaan
+
+data sehingga
+
+data dengan
+
+tersedia data back
+
+cara:
+
+up dan terlindung
+
+a. Membuat
+
+dari serangan virus.
+
+data back-up.
+
+b. Menjalankan
+
+anti virus.
+
+c. Melakukan
+
+data recovery.
+
+1.5. Mendiagnosa dan
+
+memperbaiki
+
+kinerja komputer
+
+berbasis pada
+
+diagnosa
+
+kerusakan pada
+
+perangkat keras
+
+(modul level) dan
+
+lunak pada
+
+komputer dengan
+
+menggunakan
+
+metode baku
+
+yang terdiri dari
+
+kemampuan
+
+untuk:
+
+26
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+a. Mengenali gejalagejala (membaca tanda) kerusakan perangkat keras.
+b. Mengidentifikasip enyebab kerusakan pada perangkat keras.
+c. Mengenali gejalagejala (membaca tanda) kerusakan perangkat lunak.
+d. Mengidentifikasi penyebab kerusakan pada perangkat lunak.
+e. Mengatasi masalah kerusakan perangkat keras komputer dengan cara: 1) Melakukan
+
+1.5.1. Menemukan kerusakan perangkat keras pada komponen dalam waktu yang sudah ditentukan.
+1.5.2. Melakukan identifikasi penyebab kerusakan perangkat keras pada komponen dalam waktu yang sudah ditentukan.
+1.5.3. Menemukan jenis kerusakan perangkat lunak dalam waktu yang sudah ditentukan.
+1.5.4. Melakukan identifikasi penyebab kerusakan perangkat lunak dalam waktu yang sudah ditentukan.
+1.5.5. Mengembalikan fungsi perangkat keras komputer sesuai dengan spesifikasi normal, dengan mengikuti prosedur perawatan
+
+27
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+pengaturan ulang komponen perangkat keras. 2) Mengganti komponen perangkat keras. f. Mengatasi masalah kerusakan perangkat lunak komputerdengan cara: 1) Melakukan pengaturan ulang perangkat lunak. 2) Melakukanreg istry recovery. 3) Melakukan system recovery. 4) Melakukan instalasi ulang perangkat lunak. 1.6. Menguji kinerja
+
+komputer.
+1.5.6. Mengembalikan fungsi perangkat lunak komputer sesuai dengan spesifikasi normal, dengan mengikuti prosedur perawatankomputer.
+
+28
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+komputer hasil
+
+rakitan,
+
+perawatan dan
+
+perbaikan, serta
+
+melakukan
+
+tindak lanjut
+
+yang diperlukan
+
+atas hasil uji
+
+yang telah
+
+dilaksanakan.
+
+a. Menguji kinerja 1.6.1. Menguji kinerja
+
+perangkat
+
+perangkat keras
+
+keras komputer
+
+komputer dari hasil
+
+hasil rakitan,
+
+rakitan, perawatan
+
+perawatan dan
+
+dan perbaikan
+
+perbaikandeng
+
+sesuai
+
+an cara:
+
+spesifikasinya dalam
+
+1) Menguji
+
+waktu yang sudah
+
+kelancaran
+
+ditentukan.
+
+kerja
+
+perangkat
+
+keras input:
+
+keyboard,
+
+mouse,
+
+webcam,
+
+bluetooth,
+
+LAN, HDMI,
+
+USB, wifi,
+
+microphone.
+
+2) Menguji
+
+kecepatan
+
+29
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+prosesnya
+
+melalui
+
+aplikasi
+
+CPU tester.
+
+3) Menguji
+
+hasil
+
+keluaran
+
+perangkat
+
+keras
+
+output:
+
+suara,
+
+gambar,
+
+hasil cetak.
+
+4) Menguji
+
+kinerja
+
+media
+
+penyimpan
+
+an: hardisk,
+
+optical
+
+storage,
+
+flashdisk,
+
+card reader.
+
+b. Menguji kinerja 1.6.2. Menguji kinerja
+
+perangkat
+
+perangkat lunak
+
+lunak
+
+komputer dari hasil
+
+komputer
+
+rakitan, perawatan
+
+rakitan,
+
+dan perbaikan
+
+perawatan dan
+
+sesuai
+
+perbaikan
+
+spesifikasinyadalam
+
+dengan cara:
+
+waktu yang sudah
+
+1) Menjalanka
+
+ditentukan.
+
+30
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI INDIKATOR KELULUSAN
+
+n sistem
+
+operasi.
+
+2) Menjalanka
+
+n perangkat
+
+lunak
+
+aplikasi.
+
+1.7. Menyusun
+
+1.7.1. Merinci anggaran
+
+rancangan
+
+biaya
+
+anggaran biaya
+
+menggunakanformul
+
+sesuai dengan
+
+ir tugas (formulir
+
+kebutuhan
+
+perakitan,
+
+spesifikasi
+
+perawatan,
+
+pengguna.
+
+perbaikan) sesuai
+
+dengan daftar harga
+
+terkini.
+
+1.7.2. Menyusun daftar
+
+pilihan anggaran
+
+biaya perakitan,
+
+perawatan,
+
+perbaikan sesuai
+
+formulir tugas
+
+(formulir perakitan,
+
+perawatan,
+
+perbaikan).
+
+1.8. Mempresentasika 1.8.1. Menyajikan
+
+n hasil
+
+kepadaklienhasil
+
+perakitan,
+
+kerjasesuai formulir
+
+perawatan, dan
+
+tugas.
+
+perbaikan
+
+kepada
+
+klien/pemberi
+
+31
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+kerja. 1.9. Mengevaluasi
+hasil kerja secara mandiri.
+
+INDIKATOR KELULUSAN
+1.9.1. Membuatlaporan evaluasi dirisesuai dengan ukuran, aturan, dan ketepatan waktu dengan mempertimbangkan anggaran.
+
+1. Menguasai
+
+Pengetahuan Yang Dikuasai
+
+1.1. Menguasai
+
+1.1.1. Menjelaskan
+
+pengetahuan
+
+konsep umum
+
+organisasi dan
+
+prosedural,
+
+tentang
+
+proses kerja
+
+faktual dan
+
+organisasi dan
+
+perangkat keras dan
+
+teknik
+
+proses kerja
+
+lunak komputer
+
+tentangteknik
+
+perangkat keras
+
+dengan lengkap dan
+
+komputer.
+
+dan lunak
+
+tepat.
+
+komputer.
+
+1.2. Menguasai
+
+1.2.1. Menjelaskanjenis,
+
+pengetahuan
+
+karakteristik, dan
+
+faktual tentang
+
+fungsi komponen
+
+jenis,
+
+komputer dengan
+
+karakteristik, dan
+
+lengkap dan tepat.
+
+fungsi komponen
+
+komputer.
+
+1.3. Menguasai
+
+1.3.1. Menyebutkan
+
+pengetahuan
+
+prosedurproses
+
+operasional
+
+perakitan,
+
+tentang proses
+
+perawatan, dan
+
+perakitan,
+
+perbaikan perangkat
+
+perawatan, dan
+
+keras (modul level)
+
+32
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI perbaikan
+
+INDIKATOR KELULUSAN dengan lengkap dan
+
+perangkat keras
+
+tepat.
+
+(modul level).
+
+1.4. Memahami
+
+1.4.1. Menjelaskan prinsip
+
+prinsip
+
+penggunaanalat uji
+
+penggunaan alat
+
+kinerja komputer
+
+uji kinerja
+
+dengan lengkap dan
+
+komputer.
+
+tepat.
+
+1.5. Pengetahuan
+
+1.5.1. Menjelaskan gejala
+
+faktual tentang
+
+kerusakan
+
+gejala kerusakan
+
+(malfunction)
+
+(malfunction)
+
+perangkat keras dan
+
+perangkat keras
+
+perangkat lunak
+
+dan perangkat
+
+komputer, serta
+
+lunak komputer,
+
+penyebabnya
+
+serta
+
+dengan lengkap dan
+
+penyebabnya.
+
+tepat.
+
+1.6. Prinsip proses
+
+1.6.1. Menjelaskan
+
+perawatan dan
+
+prosedurserta
+
+perbaikan
+
+pemilihan alat yang
+
+komputer dan
+
+relevan untuk
+
+teknik
+
+proses perawatan
+
+penggunaan alat
+
+dan perbaikan
+
+yang relevan.
+
+komputer.
+
+1.7. Pengetahuan
+
+1.7.1.Menjelaskan
+
+faktual tentang
+
+perlindungan hak
+
+perlindungan hak
+
+kekayaan intelektual
+
+kekayaan
+
+mengenai
+
+intelektual
+
+penggunaan
+
+perangkat lunak
+
+perangkat lunak
+
+33
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI komputer.
+
+INDIKATOR KELULUSAN komputer yang
+
+berbayar, gratis, legal
+
+dan ilegal.
+
+1.8. Prinsip dan
+
+1.8.1. Menjelaskan arti
+
+teknik
+
+dari berbagai istilah
+
+berkomunikasi
+
+perangkat lunak dan
+
+lisan dan tulisan
+
+keras
+
+serta menguasai
+
+komputersecara
+
+arti dari berbagai
+
+lisan dan tulisan
+
+istilah perangkat
+
+sesuai prinsip dan
+
+lunak dan keras
+
+etika
+
+komputer.
+
+berkomunikasi.
+
+1.9. Konsep umum K3 1.9.1. Menjelaskanperilaku
+
+yang berkaitan
+
+dan etika dalam
+
+dengan pekerjaan
+
+merakit, merawat,
+
+merakit,
+
+dan memperbaiki
+
+merawat, dan
+
+kinerja komputer
+
+memperbaiki
+
+sesuai dengan
+
+kinerja
+
+konsep umum K3.
+
+komputer.
+
+1.10. Teknik
+
+1.10.1. Menjelaskan
+
+penelusuran
+
+teknik
+
+harga terkini
+
+penelusuran harga
+
+perangkat keras
+
+terkini perangkat
+
+dan perangkat
+
+keras dan
+
+lunak dalam
+
+perangkat lunak
+
+Rupiah dan US
+
+dengan mengacu
+
+Dollar.
+
+pada kurs jual dan
+
+. beli valuta asing
+
+(US Dollar).
+
+Hak dan Tanggung Jawab
+
+34
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+1. Bertanggung 1.1 Bertanggung jawab 1.1.1. Melaksanakan
+
+jawab pada
+
+dalam perakitan,
+
+prosedur kerja
+
+perakitan,
+
+perawatan, dan
+
+dengan
+
+perawatan,
+
+perbaikan kinerja
+
+mempertimbangkan
+
+dan
+
+komputer sesuai
+
+K3 sesuai dengan
+
+perbaikan
+
+dengan standar
+
+tanggungjawabnya.
+
+kinerja
+
+mutu*) dan dengan
+
+komputer.
+
+memperhatikan
+
+K3.
+
+1.2 Bertanggung jawab 1.2.1. Melakukan
+
+untuk
+
+koordinasi tim kerja
+
+membimbing rekan
+
+yang terdiri
+
+kerja yang baru
+
+darirekan kerja yang
+
+masuk, peserta
+
+baru masuk dan
+
+magang dan dapat
+
+atau peserta
+
+menggantikan
+
+magang untuk
+
+pekerjaan orang
+
+menyelesaikan
+
+lain dengan
+
+tugas perakitan,
+
+lingkup, kuantitas
+
+perawatan, dan
+
+dan mutu hasil
+
+perbaikan sesuai
+
+kerja yang sama.
+
+permintaan klien.
+
+1.2.2. Menyelesaikan
+
+pekerjaanperakitan,
+
+perawatan, dan
+
+perbaikan yang
+
+ditinggalkan orang
+
+lain sesuai
+
+permintaan klien.
+
+1.3 Melakukan
+
+1.3.1. Berkomunikasi
+
+komunikasi yang
+
+secara baik dan
+
+baik dan efektif
+
+benar dengan
+
+35
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+dengan rekan kerja dan pengguna jasa.
+
+INDIKATOR KELULUSAN
+klien/pemberi kerja dan tim kerja yang terdiri dari rekan kerja yang baru masuk dan atau peserta magang untuk menyelesaikan tugas.
+
+*) yang diartikan standar mutu adalah komputer bekerja sesuai dengan spesifikasi.
+
+E. Rekognisi Pembelajaran Lampau
+
+Rekognisi Pembelajaran Lampau (RPL) adalah proses penilaian dan pengakuan berbasis KKNI, atas capaian pembelajaran seseorang yang diperoleh sebelumnya, baik melalui program pendidikan formal, informal, non-formal maupun secara otodidak.
+
+RPL dapat dikembangkan pada sektor pendidikan, sektor ketenagakerjaan (kenaikan pangkat, jenjang karir) atau pemberian penghargaan dan pengakuan oleh masyarakat terhadap seseorang yang telah menunjukkan bukti-bukti unggul dalam keahlian atau kompetensi tertentu.
+
+RPL diharapkan dapat memperluas akses dan kesempatan serta mempercepat waktu bagi masyarakat luas dalam meningkatkan kemampuan maupun keahliannya melalui program kursus atu pelatihan.
+
+36
+
+Pengembangan dan pelaksanaan RPL harus didasari oleh beberapa prinsip, antara lain: 1. Mengutamakan transparasi dan akuntabilitas. Informasi tentang
+proses penyelenggaraan dan persyaratan untuk mengikuti RPL harus dapat diakses secara luas baik oleh pengguna (indvidu yang membutuhkan) maupun masyarakat umum. 2. Institusi atau lembaga penyelenggara RPL harus telah terakreditasi oleh badan akreditasi tingkat nasional, memiliki mandat yang sah dari institusi atau badan yang relevan dan berwenang untuk hal tersebut. 3. Menunjukkan kesadaran mutu terhadap penyelenggaraan dan implikasi RPL pada lulusan khususnya dan masyarakat luas pada umumnya. 4. Setiap institusi atau lembaga penyelenggara RPL harus melakukan evaluasi secara berkelanjutan untuk menjamin pencapaian mutu lulusan sesuai dengan standar yang di tetapkan. 5. Penyelenggara kursus dan pelatihan yang memiliki sifat multi disiplin perlu mempertimbangkan kemungkinan untuk menyelenggarakan program RPL.
+Terkait dengan kursus Teknisi Komputer, maka pembelajaran lampau yang dapat diakui sebagai bagian dari capaian pembelajaran khusus adalahmasyarakat: yang belajar mandiri; pengalaman yang didapatkan di tempat kerja Teknisi komputer; dan pendidikan formal yang menyelenggarakan kurikuler teknik komputer dengan memperhatikan standar kriteria dan standar penilaian yang berlaku.
+37
+
+III. PENUTUP
+Program kursus dan pelatihan telah mulai berkembang sejak lama diberbagai negara maju, sehingga banyak jenis kursus dan pelatihan yang dikembangkan di Indonesia mungkin telah pula berkembang dengan baik dinegara-negara lain. Oleh karena itu arah pengembangan lembaga kursus dan pelatihan di Indonesia pada waktu yang akan datang harus menuju kearah internasionalisasi, sedemikian sehingga dapat dicapai kesetaraan baik capain pembelajaran, standar kompetensi atau mutu lulusan.
+Tendensi pergerakan pekerja antar negara akan semakin besar padamasayang akan datang sebagai implikasi dari globalisasi. Oleh karena itu lembaga kursus dan pelatihan di Indonesia akan menjadi salah satu penyedia tenaga kerja terampil yang potensial baik untuk Indonesia sendiri maupun negara-negara lain yang membutuhkan. Hal ini menuntut perlunya ditumbuhkan kesadaran yang tinggi akan penjaminan mutu berkelanjutan, baik dalam lingkungan internal lembaga penyelenggara maupun secara eksternal melalui badan-badan akreditasi dan sertifikasi. Keunggulan dalam memenangkan persaingan antara lulusan lembaga kursus nasional dengan lembaga kursus internasional harus menjadi salah satu fokus pengembangan dimasa yang akan datang.
+Sebagai bangsa yang memiliki kekayaan tradisi dan budaya maka berbagai kursus dan pelatihan yang khas Indonesia sudah berkembang dengan pesat sampai saat ini, terutama dalam bidang seni, pariwisata, kuliner, dan lainlain.Walaupun demikian, masih diperlukan upaya untuk memperoleh pangakuan yang lebih luas baik ditingkat nasional maupun internasional, mengembangkan standar kompetensi lulusan yang khas serta menjadikannya sebagai kekayaan nasional.
+38
+
+Terkait dengan kursus teknisi komputer ini, maka arah pengembangan spesifik yang akan dilakukan adalah: Lulusan dapat mengawali karir teknisi komputer. Dengan berjalannya waktu memungkinan pengalaman kerja dan pendidikan lebih lanjut dapat meningkatkan kualitas profil sehingga dapat mencapai jenjang yang lebih tinggidengan standar kriteria dan standar pengujian yang berlaku.
+MENTERI PENDIDIKAN DAN KEBUDAYAAN REPUBLIK INDONESIA, TTD. ANIES BASWEDAN Salinan sesuai dengan aslinya, Kepala Biro Hukum dan Organisasi Kementerian Pendidikan dan Kebudayaan, TTD. Aris Soviyani NIP 196112071986031001
+39
+
+

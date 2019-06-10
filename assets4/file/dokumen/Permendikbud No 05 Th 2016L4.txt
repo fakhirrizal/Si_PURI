@@ -1,0 +1,1144 @@
+SALINAN LAMPIRAN IV PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN NOMOR 5 TAHUN 2016 TENTANG STANDAR KOMPETENSI KELULUSAN KURSUS DAN PELATIHAN
+STANDAR KOMPETENSI LULUSAN KURSUS DAN PELATIHAN JARINGAN KOMPUTER DAN SISTEM ADMINISTRASI JENJANG III
+I. PENDAHULUAN
+A. Latar Belakang
+Perjanjian ASEAN Free Trade Area (AFTA) yang merupakan bagian dari era Globalisasi ternyata membawa dampak kepada makin ketat dan tajamnya persaingan usaha di bidang industri maupun jasa. Untuk menghadapinya dibutuhkan langkah nyata dalam peningkatan daya saing Sumber Daya Manusia (SDM) Indonesia melalui peningkatan kompetensinya. Selain daripada itu diperlukan juga upaya-upaya pengenalan, pengakuan, serta penyetaraan kualifikasi pada bidang-bidang keilmuan dan keahlian yang relevan, baik secara bilateral, regional, maupun internasional.
+Kerangka Kualifikasi Nasional Indonesia (KKNI) secara khusus dikembangkan untuk menjadi suatu rujukan nasional bagi upayaupaya meningkatkan mutu dan daya saing bangsa Indonesia di sektor sumber daya manusia. Pencapaian setiap tingkat kualifikasi sumber daya manusia Indonesia berhubungan langsung dengan tingkat capaian pembelajaran baik yang dihasilkan melalui sistem pendidikan maupun sistem pelatihan kerja yang dikembangkan dan diberlakukan secara nasional. Oleh karena itu upaya peningkatan
+1
+
+mutu dan daya saing bangsa akan sekaligus pula memperkuat jati diri bangsa Indonesia.
+KKNI merupakan salah satu langkah untuk mewujudkan mutu dan jati diri bangsa Indonesia dalam sektor sumber daya manusia yang dikaitkan dengan program pengembangan sistem pendidikan dan pelatihan secara nasional. Setiap tingkat kualifikasi yang dicakup dalam KKNI memiliki makna dan kesetaraan dengan capaian pembelajaran yang dimiliki setiap insan pekerja Indonesia dalam menciptakan hasil karya dan kontribusi yang bermutu di bidang pekerjaannya masing-masing.
+Kebutuhan Indonesia untuk segera memiliki KKNI sudah sangat mendesak mengingat tantangan dan persaingan global pasar tenaga kerja nasional maupun internasional yang semakin terbuka. Pergerakan tenaga kerja dari dan ke Indonesia tidak lagi dapat dibendung dengan peraturan atau regulasi yang bersifat protektif. Ratifikasi yang telah dilakukan Indonesia untuk berbagai konvensi regional maupun internasional, secara nyata menempatkan Indonesia sebagai sebuah negara yang semakin terbuka dan mudah disusupi oleh kekuatan asing melalui berbagai sektor termasuk sektor perekonomian, pendidikan, sektor ketenagakerjaan dan lainlain. Oleh karena itu, persaingan global tidak lagi terjadi pada ranah internasional akan tetapi sudah nyata berada pada ranah nasional.
+Upaya yang dapat dilakukan untuk mengantisipasi tantangan globalisasi pada sektor ketenagakerjaan adalah meningkatkan ketahanan sistem pendidikan dan pelatihan secara nasional dengan berbagai cara antara lain: 1. Meningkatkan mutu pendidikan dan pelatihan 2. Mengembangkan sistem kesetaraan kualifikasi antara capaian
+pembelajaran yang diperoleh melalui pendidikan dan pelatihan,
+2
+
+pengalaman kerja maupun pengalaman mandiri dengan kriteria kompetensi yang dipersyaratkan oleh suatu jenis bidang dan tingkat pekerjaan 3. Menigkatkan kerjasama dan pengakuan timbal balik yang saling menguntungkan antara institusi penghasil dengan pengguna tenaga kerja 4. Meningkatkan pengakuan dan kesetaraan kualifikasi ketenagakerjaan Indonesia dengan negara-negara lain di dunia baik terhadap capaian pembelajaran yang ditetapkan oleh institusi pendidikan dan pelatihan maupun terhadap kriteria kompetensi yang dipersyaratkan untuk suatu bidang dan tingkat pekerjaan terntentu.
+Secara mendasar langkah-langkah pengembangan tersebut mencakup permasalahan yang bersifat multi aspek dan keberhasilannya sangat tergantung dari sinergi dan peran proaktif dari berbagai pihak yang terkait dengan peningkatan mutu sumber daya manusia nasional termasuk Kemdikbud, Kemnakertrans, Asosiasi Profesi, Asosiasi Industri, institusi pendidikan dan pelatihan serta masyarakat luas.
+Secara umum, kondisi awal yang dibutuhkan untuk dapat melaksanakan suatu program penyetaraan kualifikasi ketenagakerjaan tersebut tampak belum cukup kondusif dalam beberapa hal seperti misalnya belum meratanya kesadaran mutu di kalangan institusi penghasil tenaga kerja, belum tumbuhya kesadaran tentang pentingnya kesetaraan kualifikasi antara capaian pembelajaran yang dihasilkan oleh penghasil tenaga kerja dengan deskripsi keilmuan, keahlian dan keterampilan yang dibutuhkan di bidang kerja atau profesi termasuk terbatasnya pemahaman mengenai dinamika tantangan sektor tenaga kerja di tingkat dunia. Oleh karena itu upaya-upaya untuk mencapai keselarasan mutu
+3
+
+dan penjenjangan kualifikasi lulusan dari institusi pendidikan formal dan non formal, dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan perlu diwujudkan dengan segera.
+Di jalur pendidikan non formal, pada tanggal 9 Oktober 2014 tercatat sekitar 19.080 lembaga kursus dan pelatihan yang menyelenggarakan pendidikan non formal dalam bentuk beragam jenis kursus dan pelatihan (sumber: nilek.online) di bawah pembinaan Kementrian Pendidikan dan Kebudayaan. Maka, salah satu infrastruktur yang penting dalam mencapai keselarasan mutu dan penjenjangan kualifikasi antara lulusan dari institusi penyelenggara kursus dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan adalah dokumen Standar Kompetensi Lulusan disingkat SKL, sebagaimana dinyatakan pada PP Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan dalam hal penyusunan suatu SKL dan Permendiknas Nomor 47 Tahun 2010 tentang SKL kursus.
+Terkait dengan kepentingan yang strategis dan telah kuat aspek hukumnya, SKL disusun sebagai pelaksanaan amanah PP Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan dalam hal penyusunan suatu Standar Kompetensi Lulusan dan Permendiknas Nomor 47 Tahun 2010 tentang SKL Kursus. Pada tahun 2009, dokumen SKL untuk 16 bidang telah selesai disusun dan ditetapkan oleh Mendiknas tahun 2010. Selanjutnya SKL 10 bidang kursus telah berhasil disusun tahun 2010 dan ditetapkan tahun 2012. Dengan terbitnya Peraturan Presiden Nomor 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia, maka SKL yang telah disusun tersebut perlu dikaji keselarasannya dengan kualifikasi pada KKNI. Revisi SKL ini juga sekaligus dimaksudkan untuk mengakomodasi perubahan kebutuhan kompetensi kerja dari pengguna lulusan di dunia kerja dan dunia industri.
+4
+
+B. Tujuan Penyusunan SKL
+SKL disusun untuk digunakan sebagai pedoman penilaian dalam penentuan kelulusan peserta didik pada lembaga kursus dan pelatihan serta bagi yang belajar mandiri dan sebagai acuan dalam menyusun, merevisi, atau memutakhirkan kurikulum, baik pada aspek perencanaan maupun implementasinya.
+C. Uraian Program
+Perkembangan industri jaringan komputer di Indonesia dapat digolongkan pesat dan secara langsung tentunya menuntut standarisasi kualitas bagi para tenaga prefesional di bidang jaringan komputer. Standar kebutuhan kualifikasi sumber daya manusia diwujudkan ke dalam standar kompetensi bidang keahlian yang merupakan refleksi atas kompetensi yang diharapkan dimiliki orang-orang atau seseorang yang akan bekerja di bidang tersebut, dimana pada sektor ini dengan dukungan teknologi yang berkembang pesat maka perkembangan jaringan komputer dan sistem administrasi semakin bertambah luas dan kompleks. Perkembangan bidang ini erat hubungannya dengan meningkatnya kesadaran akan manfaat dan kemudahan yang dapat dipetik dari sarana tersebut
+Peningkatkan kemampuan dan kompetensi SDM, yang sesuai dengan tuntutan kebutuhan pasar kerja atau dunia kerja, memerlukan hubungan timbal balik antara pihak penyedia SDM dengan dunia industri yang membutuhkannya. Hubungan tersebut dapat berupa keterbukaan dan kerja sama dalam menentukan standar kebutuhan kualifikasi (kompetensi) SDM yang dipersyaratkan, melalui permusan standar kebutuhan kualifikasi
+5
+
+SDM yang dilakukan pihak industri, sedangkan pihak penyedia SDM dapat mengembangkan dan menyelenggarakan program pendidikan untuk memenuhi standar kebutuhan tersebut.
+1. Tujuan Umum
+Tujuan umum penyusunan standar kompetensi kelulusan ini adalah agar peserta didik mampu menyusun dan merancang jaringan komputer dan sistem administrasi. Bidang profesi jaringan komputer dan sistem administrasi menangani konsep jaringan komputer, merancang dan menyusun standar jaringan komputer dan sistem adminsitrasi.
+2. Tujuan Khusus
+Secara khusus kurikulum pelatihan/kursus jaringan komputer dan sistem jaringan ini bertujuan agar peserta didik mampu: a. Dikembangkan berdasarkan kebutuhan stakeholder dengan
+melalui studi dokumentasi secara komprehensif b. Dikembangkan dengan menggunakan acuan dan rujukan dari
+standar-standar sejenis yang digunakan di negara lain atau skala internasional c. Disusun bersama dengan perwakilan asosiasi profesi dan para pakar agar memudahkan dalam pencapaian konsensus dan pengakuan serta pemberlakuan secara nasional.
+Kemampuan kreatif merupakan kompetensi kunci dalam profesi ini. Bidang jaringan komputer dan sistem administrasi menuntut hasil yang bukan hanya benar dan sesuai misi komunikasi, tetapi juga karya yang menampilkan keunikan dan kesegaran gagasan. Hal ini jadi penting karena:
+6
+
+(1) Pada dasarnya manusia selalu menuntut hal baru untuk menghindari kebosanan,
+(2) Dalam era banjir informasi seperti yang kita alami saat ini (tiap orang menerima sedikitnya tujuh ribu informasi per hari) pesan yang tak unik/menarik akan hilang ditelan kegaduhan komunikasi. Dalam lingkup demikian kreativitas seorang ahli bidang ini dihargai.
+Pelatihan jaringan komputer dan sistem adminstrasi ini dapat diikuti oleh setiap warga Negara Indonesia dengan persyaratan pendidikan minimal SMA/sederajat dengan kualitas lulusan setara dengan Level III KKNI.
+Lama Pelatihan/kursus jaringan komputer dan sistem adminstrasi adalah 200 jam pelajaran @ 60 menit dengan metode pembelajaran: a. Presentasi b. Ceramah c. Demonstrasi/simulasi d. Pemecahan masalah e. Praktik
+Setiap peserta yang telah mengikuti pelatihan Kursus jaringan komputer dan sistem adminstrasi ini akan diberikan evaluasi akhir, yang bertujuan untuk mengukur kemampuan peserta didik dalam memahami dan mempraktikan materi yang sudah diberikan pengajar/instruktur, yaitu berupa: a. Ujian Komprehensif (ujian tertulis) bagi semua mata pelajaran
+dalam pelatihan ini dan b. Ujian praktik dengan membuat jaringan komputer dan sistem
+adminstrasi.
+7
+
+Setelah peserta berhasil melalui dua jenis ujian yang dilaksanakan oleh lembaga kursus, akan diberikan tanda lulus di bidang jaringan komputer dan sistem adminstrasi.
+3. Uji Kompetensi
+Uji kompetensi diperlukan peserta didik untuk mendapat pengakuan keahlian secara nasional dan internasional di bidang jaringan komputer dan sistem adminstrasi. Uji kompetensi diatur dalam petunjuk Teknis Uji Kompetensi yang diterbitkan oleh Lembaga Sertifikasi Kompetensi (LSK) dan Kemdikbud, dilaksanakan di suatu tempat yang disebut Tempat Uji Kompetensi (TUK) yang telah diverifikasi oleh LSK.
+4. Sertifikasi Lulusan
+Peserta yang dinyatakan kompeten setelah mengikuti Uji Kompetensi akan mendapatkan satu lembar Sertifikat Kompetensi. Blanko Sertifikat Kompetensi diterbitkan oleh Kemdikbud. Pengisian blanko Sertifikat Kompetensi dilakukan oleh LSK, maka Sertifikat berlaku sebagai pengakuan kompetensi di bidang jaringan komputer dan sistem adminstrasi.
+D. Pengertian
+1. Capaian pembelajaran adalah kemampuan yang diperoleh melalui internalisasi pengetahuan, sikap keterampilan, kompetensi, dan akumulasi pengalaman kerja.
+2. Pengetahuan adalah penguasaan teori oleh seseorang pada suatu bidang keilmuan dan keahlian tertentu atau pemahaman tentang konsep, fakta, informasi, dan metodologi pada bidang pekerjaan tertentu.
+8
+
+3. Sikap adalah penghayatan seseorang terhadap nilai, norma, dan aspek di sekitar kehidupannya yang tumbuh dari proses pendidikan, pengalaman kerja, lingkungan kehidupan keluarga, atau masyarakat secara luas.
+4. Keterampilan adalah kemampuan psikomotorik dan kemampuan menggunakan metode, bahan dan instrumen, yang diperoleh melalui pendidikan, pelatihan, dan pengalaman kerja.
+5. Kompetensi adalah akumulasi kemampuan seseorang dalam melaksanakan suatu deskripsi kerja secara terukur melalui asesmen yang terstruktur, secara mandiri dan bertanggung jawab di dalam lingkungan kerja.
+6. Pengalaman Kerja adalah internalisasi kemampuan dalam melalukan pekerjaan dibidang tertentu dan jangka waktu tertentu.
+7. Deskripsi umum KKNI adalah deskripsi menyatakan karakter, kepribadian, sikap dalam berkarya, etika, moral dari setiap manusia Indonesia pada setiap jenjang kualifikasi sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012.
+8. Deskripsi Kualifikasi KKNI adalah deskripsi yang menyatakan ilmu pengetahuan, pengetahuan praktis, pegetahuan, afeksi dan kompetensi yang dicapai seseorang sesuai dengan jenjang kualifikasi 1 sampai 9 sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012.
+9. Deskripsi Capaian Pembelajaran Khusus adalah deskripsi capaian minimum dari setiap program kursus yang mencakup deskripsi umum dan selaras dengan Deskripsi Kualifikasi KKNI.
+10. Standar Kompetensi Lulusan Berbasis KKNI adalah kemampuan yang dibutuhkan untuk melaksanakan pekerjaan yang dilandasi oleh pengetahuan, keterampilan dan sikap kerja dalam menyelesaikan suatu pekerjaan sesuai dengan unjuk kerja yang dipersyaratkan dan diturunkan dari capaian
+9
+
+pembelajaran khusus pada level KKNI yang sesuai. Standar Kompetensi Lulusan Berbasis KKNI dinyatakan oleh tiga parameter yaitu: unit kompetensi, elemen kompetensi, dan indikator kelulusan. 11. Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara penyampaian dan penilaiannya sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk menghasilkan lulusan dengan capaian pembelajaran khusus. 12. Rekognisi Pembelajaran Lampau (RPL) adalah pengakuan atas capaian pembelajaran seseorang yang diperoleh dari pengalaman kerja, pendidikan non formal, atau pendidikan informal ke dalam sector pendidikan formal.
+10
+
+II. STANDAR KOMPETENSI LULUSAN
+A. Profil Lulusan
+Kemampuan dalam mengkaji (literacy skills) untuk menggali, mengolah dan menganalisa informasi/pengetahuan dasar jaringan komputer dan administrasi jaringan untuk diintegrasikan ke dalam pekerjaan, kemampuan dalam berkomunikasi yaitu dalam menjelaskan dan merepresentasikan pengetahuan jaringan komputer dan administasi jaringan yang dimiliki terhadap pihak lain. Terampil dalam melakukan instalasi jaringan komputer dan sistem administrasi.
+Akurasi/ketepatan dalam bekerja, kerapihan dalam bekerja, kecepatan dalam bekerja, kebersihan dalam bekerja, efisiensi waktu dalam menyiapkan pekerjaan final, keterampilan di bidang jaringan komputer dan sistem administrasi.
+B. Jabatan Kerja
+Lulusan Pelatihan/kursus jaringan komputer dan sistem adminstrasi ini mendapat sebutan: Junior Sistem Administrasi Jaringan.
+Bidang Jaringan komputer dan Sistem Administrasi meliputi kegiatan menganalisa kerusakan penunjang/kesalahan/tidak bekerjanya koneksi di siatem jaringan dan memperbaiki kesalahan/kerusakan/tidak bekerjanya sistem jaringan sehingga dapat bekerja kembali.
+11
+
+C. Capaian Pembelajaran
+1. Deskripsi Umum KKNI Deskripsi umum KKNI sesuai dengan Peraturan Presiden Nomor 8 Tahun 2012 yang minimum wajib dimiliki dan dihayati oleh setiap lulusan kursus adalah: Sesuai dengan idiologi Negara dan budaya Bangsa Indonesia, maka implementasi sistem pendidikan nasional dan sistem pelatihan kerja yang dilakukan di Indonesia pada setiap jenjang kualifikasi pada KKNI mencakup proses yang membangun karakter dan kepribadian manusia Indonesia sebagai berikut: a. Bertaqwa kepada Tuhan Yang Maha Esa b. Memiliki moral, etika dan kepribadian yang baik di dalam menyelesaikan tugasnya c. Berperan sebagai warga negara yang bangga dan cinta tanah air serta mendukung perdamaian dunia d. Mampu bekerjasama dan memiliki kepekaan sosial dan kepedulian yang tinggi terhadap masyarakat dan lingkungannya. e. Menghargai keanekaragaman budaya, pandangan, kepercayaan, dan agama serta pendapat/temuan original orang lain f. Menjunjung tinggi penegakan hukum serta memiliki semangat untuk mendahulukan kepentingan bangsa serta masyarakat luas g. Mampu menjalankan tugas dengan penuh tanggung jawab terhadap kelayakan jaringan komputer yang dihasilkannya sehingga tidak memberikan dampak yang akan bertentangan dengan norma hukum dan norma sosial yang berlaku.
+12
+
+2. Deskripsi Kualifikasi sesuai dengan jenjang pada KKNI Jabatan kerja adalah Junior Sistem Administrasi Jaringan sesuai dengan standar KKNI pada jenjang 3 a. Mampu menerjemahkan informasi dan kebutuhan pemberi kerja b. Mampu melaksanakan tugas instalasi jaringan komputer dengan mutu dan kualitas yang terukur*) c. Mampu melaksanakan tugas perawatan ketersambungan perangkat jaringan komputer dengan mutu dan kualitas yang terukur*) d. Mampu melakukan identifikasi masalah, penyebab masalah, dan metode perbaikan yang relevan terhadap masalah jaringan komputer yang diidentifikasi e. Mampu melakukan perbaikan jaringan komputer sesuai dengan mutu dan kualitas yang terukur*) f. Mampu menguji dan memperbaiki kembali kinerja jaringan komputer sesuai dengan mutu dan kualitas yang terukur*) g. Membuat laporan tertulis pemasangan, perawatan, pengujian, dan perbaikan jaringan sesuai dengan format baku.
+3. Deskripsi CapaianPembelajaran Khusus Mampu menerapkan pengetahuan dasar desain, bekerja dalam jaringan komputer dan sistem administrasi, menerapkan pengetahuan tentang jaringan komputer dan sistem administrasinya dalam mengoperasikan perangkat keras dan perangkat lunak jaringan komputer.
+Capaian pembelajaran khusus lulusan Jaringan Komputer dan Sistem Administrasi adalah :
+13
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG JARINGAN KOMPUTER DAN SISTEM ADMINISTRASI
+SESUAI DENGAN KKNI JENJANG III
+
+SIKAP DAN TATA NILAI
+
+Membangun dan membentuk karakter dan kepribadian manusia Indonesia yang:
+
+1. Bertakwa kepada Tuhan Yang Maha Esa
+
+2. Memiliki moral, etika dan kepribadian yang baik
+
+di dalam menyelesaikan tugasnya
+
+3. Berperan mewujudkan etika dan kepribadian
+
+yang baik sebagai warga negara yang bangga dan
+
+cinta tanah air serta mendukung perdamaian
+
+dunia
+
+4. Mampu bekerja sama dan memiliki kepekaan
+
+sosial dan kepedulian yang tinggi terhadap
+
+masyarakat dan lingkungannya
+
+5. Menghargai keanekaragaman budaya,
+
+pandangan, kepercayaan, dan agama serta
+
+pendapat/temuan original orang lain
+
+6. Menjunjung tinggi penegakan hukum serta
+
+memiliki semangat untuk mendahulukan
+
+kepentingan bangsa serta masyarakat luas
+
+7. Mampu menjalankan tugas dengan penuh
+
+tanggung jawab terhadap hasil kerja yang
+
+dilakukannya sehingga tidak memberikan
+
+dampak yang dapat menimbulkan keresahan
+
+khalayak, karena bertentangan dengan norma
+
+hukum dan norma sosial yang berlaku
+
+KEMAMPUAN
+DI BIDANG KERJA
+
+1. Mampu menerjemahkan informasi dan kebutuhan pemberi kerja
+2. Mampu melaksanakan tugas instalasi jaringan komputer dengan mutu dan kualitas yang
+
+14
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG JARINGAN KOMPUTER DAN SISTEM ADMINISTRASI
+SESUAI DENGAN KKNI JENJANG III terukur*), yang mencakup kemampuan dalam: a. Membuat rancangan topologi jaringan komputer lokal b. Membuat rancangan topologi jaringan komputer berbasis luas c. Memasang konektor kabel UTP; d. Memasang dan mengkonfigurasi saklar pasif (non manageable switch) dan saklar aktif (manageable switch) pada jaringan komputer e. Mengkonfigurasi TCP/IP statis dan dinamis pada komputer yang terhubung pada jaringan f. Menginstalasi jaringan komputer dengan kabel g. Menginstalasi jaringan komputer tanpa kabel h. Melakukan pengujian pada ketersambungan jaringan computer
+3. Mampu melaksanakan tugas perawatan ketersambungan jaringan komputer dengan mutu dan kualitas yang terukur*)
+4. Mampu melakukan identifikasi masalah, penyebab masalah, dan metode perbaikan yang relevan terhadap masalah jaringan komputer yang diidentifikasi
+5. Mampu melakukan perbaikan jaringan komputer sesuai dengan mutu dan kualitas yang terukur*)
+6. Mampu menguji dan memperbaiki kembali kinerja jaringan komputer sesuai dengan mutu dan kualitas yang terukur*)
+7. Membuat laporan tertulis tentang pemasangan, perawatan, pengujian, dan perbaikan komputer
+15
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG JARINGAN KOMPUTER DAN SISTEM ADMINISTRASI
+SESUAI DENGAN KKNI JENJANG III
+jaringan sesuai dengan format baku
+
+PENGETAHUAN YANG
+DIKUASAI
+
+Menguasai konsep umum, prinsip, dan pengetahuan operasional yang lengkap tentang instalasi, perawatan, dan perbaikan jaringan komputer yang
+
+mencakup:
+
+1. Definisi/fungsi alat dan bahan yang digunakan
+
+dalam jaringan computer
+
+2. Macam-macam topologi jaringan computer
+
+3. Macam-macam alat koneksi jaringan komputer
+
+berbasis luas
+
+4. Jenis-jenis koneksi kabel UTP dalam jaringan
+
+computer
+
+5. Teknik memasang dan mengkonfigurasi saklar
+
+pasif (non manageable switch) dan saklar aktif
+
+(manageable switch) pada jaringan
+
+6. Teknik mengkonfigurasi TCP/IP statis dan
+
+dinamis pada komputer yang tehubung pada
+
+jaringan
+
+7. Teknik menginstalasi jaringan komputer dengan
+
+kabel
+
+8. Teknik menginstalasi jaringan komputer tanpa
+
+kabel
+
+9. Teknik menguji ketersambungan jaringan
+
+computer
+
+10. Teknik perawatan ketersambungan jaringan
+
+computer
+
+16
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG JARINGAN KOMPUTER DAN SISTEM ADMINISTRASI
+SESUAI DENGAN KKNI JENJANG III
+
+11. Teknik mengidentifikasi masalah dan diagnosa
+
+penyebab masalah dalam jaringan computer
+
+12. Teknik perbaikan yang relevan terhadap
+
+masalah jaringan computer
+
+13. Pengetahuan tentang menguji dan memperbaiki
+
+kembali kinerja jaringan computer
+
+14. Pengetahuan membuat laporan tertulis tentang
+
+pemasangan, perawatan, pengujian, dan
+
+perbaikan jaringan komputer sesuai dengan
+
+format baku
+
+HAK DAN
+TANGGUNG JAWAB PADA
+BIDANG KERJANYA
+
+Mampu bertanggung jawab atas pekerjaan jaringan komputer secara mandiri atau kelompok yang terdiri atas: 1. Ketepatan menerjemahkan informasi dari
+
+kebutuhan pemberi kerja
+
+2. Pelaksanaan tugas instalasi jaringan komputer
+
+sesuai standar mutu dan kualitas *)
+
+3. Pelaksanaan tugas perawatan ketersambungan
+
+jaringan komputer sesuai standar mutu dan
+
+kualitas *)
+
+4. Hasil identifikasi masalah, penyebab masalah,
+
+dan metode perbaikan yang relevan terhadap
+
+masalah jaringan komputer yang diidentifikasi
+
+5. Hasil perbaikan jaringan komputer sesuai dengan
+
+standar mutu dan kualitas *)
+
+6. Hasil uji dan perbaikan kembali kinerja jaringan
+
+komputer sesuai dengan standar mutu dan
+
+kualitas*)
+
+7. Laporan tertulis tentang pemasangan, perawatan,
+
+17
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG JARINGAN KOMPUTER DAN SISTEM ADMINISTRASI
+SESUAI DENGAN KKNI JENJANG III
+pengujian, dan perbaikan jaringan sesuai dengan
+format baku
+
+*) Standard IEEE 802.3
+
+D. Standar Kompetensi Lulusan Berbasis KKNI
+
+Uraian standar kompetensi berbasis KKNI terdiri atas: 1. Unit Kompetensi 2. Elemen Kompetensi 3. Indikator Kelulusan Sebagaimana dinyatakan dalam tabel berikut ini:
+STANDAR KOMPETENSI LULUSAN BERBASIS KKNI BIDANG JARINGAN KOMPUTER DAN SYSTEM ADMINISTRASI
+JENJANGIII
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+SIKAP DAN TATA NILAI 1. I Membangun dan 1.1 Bertakwa kepada 1.1.1Karya jaringan
+
+membentuk
+
+Tuhan Yang
+
+komputer yang
+
+karakter dan
+
+Maha Esa
+
+dihasilkan tidak
+
+kepribadian
+
+1.2 Memiliki moral,
+
+berdampak pada
+
+manusia Indonesia
+
+etika dan
+
+timbulnya
+
+kepribadian yang
+
+keresahan
+
+baik di dalam
+
+khalayak, dan
+
+menyelesaikan
+
+tidak bertentangan
+
+tugasnya
+
+dengan norma
+
+18
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+1.3 Berperan
+
+mewujudkan
+
+etika dan
+
+kepribadian yang
+
+baik sebagai
+
+warga negara
+
+yang bangga dan
+
+cinta tanah air
+
+serta mendukung
+
+perdamaian
+
+dunia
+
+1.4 Mampu bekerja
+
+sama dan
+
+memiliki
+
+kepekaan sosial
+
+dan kepedulian
+
+yang tinggi
+
+terhadap
+
+masyarakat dan
+
+lingkungannya
+
+1.5 Menghargai
+
+keanekaragaman
+
+budaya,
+
+pandangan,
+
+kepercayaan, dan
+
+agama serta
+
+pendapat/temua
+
+n original orang
+
+lain
+
+1.6 Menjunjung
+
+INDIKATOR KELULUSAN agama, norma hukum serta norma sosial yang berlaku
+19
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+tinggi penegak
+
+INDIKATOR KELULUSAN
+
+hukum serta
+
+memiliki
+
+semangat untuk
+
+mendahulukan
+
+kepentingan
+
+bangsa serta
+
+masyarakat luas
+
+2. Mampu
+
+KEMAMPUAN DI BIDANG KERJA 2.1. Menerjemahkan 2.1.1. menerjemahkan
+
+menerjemahkan
+
+informasi dan
+
+informasi dan
+
+informasi dan
+
+kebutuhan
+
+kebutuhan
+
+kebutuhan
+
+pemberi kerja
+
+pemberi kerja
+
+pemberi kerja,
+
+dengan tepat
+
+melaksanakan
+
+tugas instalasi
+
+2.2. Melaksanakan 2.2.1. Melaksanakan
+
+jaringan komputer,
+
+tugas instalasi
+
+tugas instalasi
+
+melaksanakan
+
+jaringan
+
+jaringan komputer
+
+tugas perawatan
+
+komputer
+
+dengan mutu dan
+
+jaringan komputer,
+
+dengan mutu
+
+kualitas yang
+
+melaksanakan
+
+dan kualitas
+
+terukur*) dengan
+
+tugas perbaikan
+
+yang terukur*)
+
+tepat
+
+jaringan komputer 2.3. Melaksanakan 2.3.1. Melaksanakan
+
+dengan
+
+tugas perawatan
+
+tugas perawatan
+
+menerjemahkan
+
+ketersambungan
+
+ketersambungan
+
+informasi, menguji
+
+perangkat
+
+perangkat
+
+kinerja jaringan
+
+jaringan
+
+jaringan komputer
+
+komputer,
+
+komputer
+
+dengan mutu dan
+
+membuat laporan
+
+dengan mutu
+
+kualitas yang
+
+kerja pemasangan,
+
+dan kualitas
+
+terukur*) dengan
+
+20
+
+NO
+
+UNIT KOMPETENSI
+
+perawatan,
+
+ELEMEN KOMPETENSI
+yang terukur*)
+
+INDIKATOR KELULUSAN
+tepat
+
+pengujian, dan
+
+2.4. Mengidentifikasi 2.4.1. Mengidentifikasi
+
+perbaikan jaringan
+
+masalah,
+
+masalah,
+
+komputer
+
+penyebab
+
+penyebab
+
+masalah, dan
+
+masalah, dan
+
+metode
+
+metode perbaikan
+
+perbaikan yang
+
+yang relevan
+
+relevan terhadap
+
+terhadap masalah
+
+masalah jaringan
+
+jaringan komputer
+
+komputer yang
+
+yang diidentifikasi
+
+diidentifikasi
+
+dengan tepat
+
+2.5. Melakukan
+
+2.5.1. Melakukan
+
+perbaikan
+
+perbaikan
+
+jaringan
+
+jaringan komputer
+
+komputer sesuai
+
+sesuai dengan
+
+dengan mutu
+
+mutu dan kualitas
+
+dan kualitas
+
+yang terukur*)
+
+yang terukur*)
+
+dengan tepat
+
+2.6. Menguji dan
+
+2.6.1. Menguji dan
+
+memperbaiki
+
+memperbaiki
+
+kembali kinerja
+
+kembali kinerja
+
+jaringan
+
+jaringan
+
+komputer sesuai
+
+komputer sesuai
+
+dengan mutu
+
+dengan mutu dan
+
+dan kualitas
+
+kualitas yang
+
+yang terukur*)
+
+terukur*) dengan
+
+tepat
+
+2.7. Membuat
+
+2.7.1. Membuat laporan
+
+laporan tertulis
+
+tertulis
+
+21
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+pemasangan,
+
+INDIKATOR KELULUSAN
+pemasangan,
+
+perawatan,
+
+perawatan,
+
+pengujian, dan
+
+pengujian, dan
+
+perbaikan
+
+perbaikan
+
+jaringan sesuai
+
+jaringan sesuai
+
+dengan format
+
+format baku
+
+baku
+
+dengan tepat
+
+PENGETAHUAN YANG DIKUASAI
+
+1. Menguasai konsep 3.1 Memahami
+
+3.1.1. Menyebutkan
+
+umum, prinsip,
+
+definisi dan
+
+definisi dan fungsi
+
+dan pengetahuan
+
+fungsi alat dan
+
+alat dan bahan
+
+operasional yang
+
+bahan yang
+
+yang digunakan
+
+lengkap tentang
+
+digunakan
+
+dalam jaringan
+
+instalasi,
+
+dalam jaringan
+
+computer dengan
+
+perawatan, dan
+
+komputer
+
+tepat
+
+perbaikan jaringan 3.2 Memahami
+
+3.2.1. Menyebutkan
+
+komputer
+
+macam-macam
+
+macam-macam
+
+topologi jaringan
+
+topologi jaringan
+
+komputer
+
+computer denga
+
+tepat
+
+3.3 Memahami
+
+3.3.1. Menyebutkan
+
+macam-macam
+
+macam-macam
+
+alat koneksi
+
+alat koneksi
+
+jaringan jarak
+
+jaringan jarak
+
+jauh
+
+jauh dengan tepat
+
+3.4 Memahami jenis- 3.4.1. Menyebutkan
+
+jenis koneksi
+
+jenis-jenis koneksi
+
+kabel UTP dalam
+
+kabel UTP dalam
+
+jaringan
+
+jaringan dengan
+
+tepat
+
+22
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+3.5 Memahami
+
+INDIKATOR KELULUSAN
+3.5.1. Menyebutkan
+
+teknik
+
+memasang dan
+
+memasang dan
+
+mengkonfigurasi
+
+mengkonfigurasi
+
+saklar pasif (non
+
+saklar pasif (non
+
+manageable
+
+manageable
+
+switch) dan saklar
+
+switch) dan
+
+aktif (manageable
+
+saklar aktif
+
+switch) pada
+
+(manageable
+
+jaringan dengan
+
+switch) pada
+
+tepat
+
+jaringan
+
+3.6 Memahami
+
+3.6.1. Mengkonfigurasi
+
+teknik
+
+TCP/IP statis dan
+
+mengkonfigurasi
+
+dinamis pada
+
+TCP/IP statis
+
+komputer yang
+
+dan dinamis
+
+tehubung pada
+
+pada komputer
+
+jaringan dengan
+
+yang tehubung
+
+tepat
+
+pada jaringan
+
+3.7 Memahami
+
+3.7.1. Menginstalasi
+
+teknik
+
+jaringan komputer
+
+menginstalasi
+
+dengan kabel
+
+jaringan
+
+dengan tepat
+
+komputer
+
+dengan kabel
+
+3.8 Memahami
+
+3.8.1. Menginstalansi
+
+teknik
+
+jaringan komputer
+
+menginstalasi
+
+tanpa kabel
+
+jaringan
+
+dengan tepat
+
+komputer tanpa
+
+23
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+kabel
+
+INDIKATOR KELULUSAN
+
+3.9 Memahami
+
+3.9.1. Menguji sistem
+
+teknik menguji
+
+jaringan komputer
+
+sistem jaringan
+
+dengan tepat
+
+komputer
+
+3.10 Memahami
+
+3.10.1 Merawat
+
+teknik
+
+ketersambung-
+
+perawatan
+
+an perangkat
+
+ketersambungan
+
+jaringan
+
+perangkat
+
+komputer
+
+jaringan
+
+dengan tepat
+
+komputer
+
+3.11 Memahami
+
+3.11.1 Mengidentifikasi
+
+teknik
+
+masalah dan
+
+mengidentifikasi
+
+diagnosa
+
+masalah dan
+
+penyebab
+
+diagnosa
+
+masalah dalam
+
+penyebab
+
+jaringan
+
+masalah dalam
+
+komputer
+
+jaringan
+
+dengan tepat
+
+komputer
+
+3.12 Memahami
+
+3.12.1 Perbaikan yang
+
+teknik perbaikan
+
+relevan terhadap
+
+yang relevan
+
+masalah
+
+terhadap
+
+jaringan
+
+masalah jaringan
+
+komputer denga
+
+komputer
+
+tepat
+
+3.13 Memahami
+
+3.13.1 Menguji dan
+
+pengetahuan
+
+memperbaiki
+
+24
+
+NO
+
+UNIT KOMPETENSI
+
+ELEMEN KOMPETENSI
+tentang menguji
+
+INDIKATOR KELULUSAN
+kembali kinerja
+
+dan jaringan
+
+memperbaiki
+
+komputer
+
+kembali kinerja
+
+dengan tepat
+
+jaringan
+
+komputer
+
+3.14 Memahami
+
+3.14.1 Membuat
+
+pengetahuan
+
+laporan tertulis
+
+membuat
+
+tentang
+
+laporan tertulis
+
+pemasangan,
+
+tentang
+
+perawatan,
+
+pemasangan,
+
+pengujian, dan
+
+perawatan,
+
+perbaikan
+
+pengujian, dan
+
+jaringan sesuai
+
+perbaikan
+
+format baku
+
+jaringan sesuai
+
+dengan tepat
+
+dengan format
+
+baku
+
+E. Rekognisi Pembelajaran Lampau
+Rekognisi Pembelajaran Lampau (RPL) adalah proses penilaian dan pengakuan berbasis KKNI, atas capaian pembelajaran seseorang yang diperoleh selama hidupnya, baik melalui program pendidikan formal, informal, non-formal maupun secara otodidak.
+RPL dapat dikembangkan pada sektor pendidikan, sektor ketenagakerjaan (kenaikan pangkat, jenjang karir) atau pemberian penghargaan dan pengakuan oleh masyarakat terhadap seseorang
+25
+
+yang telah menunjukkan bukti-bukti unggul dalam keahlian atau kompetensi tertentu.
+RPL diharapkan dapat memperluas akses dan kesempatan serta mempercepat waktu bagi masyarakat luas dalam meningkatkan kemampuan maupun keahliannya melalui program kursus atu pelatihan.
+Pengembangan dan pelaksanaan RPL harus didasari oleh beberapa prinsip, antara lain: 1. Mengutamakan transparasi dan akuntabilitas. Informasi tentang
+proses penyelenggaraan dan persyaratan untuk mengikuti RPL harus dapat diakses secara luas baik oleh pengguna (indvidu yang membutuhkan) maupun masyarakat umum. 2. Institusi atau lembaga penyelenggara RPL harus telah terakreditasi oleh badan akreditasi tingkat nasional, memiliki mandat yang sah dari institusi atau badan yang relevan dan berwenang untuk hal tersebut. 3. Menunjukkan kesadaran mutu terhadap penyelenggaraan dan implikasi RPL pada lulusan, khusus nya dan masyarakat luas pada umumnya. 4. Setiap institusi atau lembaga penyelenggara RPL harus melakukan evaluasi secara berkelanjutan untuk menjamin pencapaian mutu lulusan sesuai dengan standar yang di tetapkan. 5. Penyelenggara kursus dan pelatihan yang memiliki sifat multi disiplin perlu mempertimbangkan kemungkinan untuk menyelenggarakan program RPL.
+Terkait dengan kursus jaringan komputer dan sistem adminstrasi, maka pembelajaran lampau yang dapat diakui sebagai bagian dari capaian pembelajaran khusus adalah masyarakat yang belajar
+26
+
+mandiri; pengalaman yang didapatkan di tempat kerja jaringan komputer dan sistem adminstrasi; dan pendidikan formal yang menyelenggarakan kurikuler jaringan komputer dan sistem adminstrasi dengan memperhatikan standar kriteria dan standar penilaian yang berlaku.
+27
+
+III. PENUTUP
+Program kursus dan pelatihan telah mulai berkembang sejak lama di berbagai negara maju, sehingga banyak jenis kursus dan pelatihan yang dikembangkan di Indonesia mungkin telah pula berkembang dengan baik di negara-negara lain. Oleh karena itu arah pengembangan lembaga kursus dan pelatihan di Indonesia pada waktu yang akan datang harus menuju ke arah internasionalisasi, sedemikian sehingga dapat dicapai kesetaraan baik capain pembelajaran, standar kompetensi atau mutu lulusan.
+Tendensi pergerakan pekerja antar negara akan semakin besar di waktu yang akan datang sebagai implikasi dari globalisasi. Oleh karena itu lembaga kursus dan pelatihan di Indonesia akan menjadi salah satu penyedia tenaga kerja terampil yang potensial baik untuk Indonesia sendiri maupun negara-negara lain yang membutuhkan. Hal ini menuntut perlunya ditumbuhkan kesadaran yang tinggi akan penjaminan mutu berkelanjutan, baik dalam lingkungan internal lembaga penyelenggara maupun secara eksternal melalui badan-badan akreditasi dan sertifikasi. Keunggulan dalam memenangkan persaingan antara lulusan lembaga kursus nasional dengan lembaga kursus internasional harus menjadi salah satu fokus pengembangan di masa yang akan datang.
+Sebagai bangsa yang jumlah pendudukanya besar, maka besar pula arah ke pengembangan sumber daya manusia
+Sebagai bangsa yang memiliki kekayaan tradisi dan budaya maka berbagai kursus dan pelatihan yang khas Indonesia sudah berkembang dengan pesat sampai saat ini, terutama dalam bidang seni, pariwisata, kuliner, dan lain-lain. Walaupun demikian, masih diperlukan upaya untuk memperoleh pangakuan yang lebih luas baik di tingkat nasional
+28
+
+maupun internasional, mengembangkan standar kompetensi lulusan yang khas serta menjadikannya sebagai kekayaan nasional.
+Terkait dengan kursus jaringan komputer dan sistem adminstrasi ini, maka arah pengembangan spesifik yang akan dilakukan adalah: Lulusan dapat mengawali karir kerja desainer grafis menghasilkan acara yang sederhana. Dengan berjalannya waktu dalam kerja memungkinan pengalaman kerja dan pendidikan lebih lanjut dapat meningkatkan kualitas profil ataupun beralih profil dalam golongan pokok Produksi Gambar Bergerak(ref: KBLI thn 2009) dengan standar kriteria dan standar pengujian yang berlaku.
+MENTERI PENDIDIKAN DAN KEBUDAYAAN REPUBLIK INDONESIA,
+TTD.
+ANIES BASWEDAN
+Salinan sesuai dengan aslinya, Kepala Biro Hukum dan Organisasi Kementerian Pendidikan dan Kebudayaan, TTD. Aris Soviyani NIP 196112071986031001
+29
+
+

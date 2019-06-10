@@ -1,0 +1,11 @@
+KODE URAIAN
+1 Aset
+2 Kewajiban
+3 Ekuitas Dana
+4 Pendapatan
+5 Belanja
+6 Pembiayaan
+SUSUNAN KODE AKUN KEUANGAN DAERAH
+Lampiran A.II : PERATURAN MENTERI DALAM NEGERI  
+                          Nomor        : 13 Tahun 2006 
+                          Tanggal      : 15 Mei 2006 

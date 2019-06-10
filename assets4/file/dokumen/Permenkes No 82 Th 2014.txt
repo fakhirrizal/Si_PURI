@@ -1,0 +1,135 @@
+BERITA NEGARA
+REPUBLIK INDONESIA No.87, 2014
+
+PERATURAN MENTERI KESEHATAN REPUBLIK INDONESIA NOMOR 82 TAHUN 2013
+
+TENTANG SISTEM INFORMASI MANAJEMEN RUMAH SAKIT
+
+DENGAN RAHMAT TUHAN YANG MAHA ESA MENTERI KESEHATAN REPUBLIK INDONESIA,
+
+Menimbang :
+
+a. bahwa sesuai ketentuan Pasal 52 ayat (1) Undang-
+Undang Nomor 44 Tahun 2009 tentang Rumah Sakit, setiap rumah sakit wajib melakukan pencatatan dan pelaporan semua kegiatan penyelenggaraan rumah sakit
+dalam bentuk sistem informasi manajemen rumah sakit;
+
+b. bahwa pembentukan sistem informasi manajemen
+rumah sakit dilakukan dalam rangka meningkatkan efisiensi dan efektifitas penyelenggaraan rumah sakit di
+Indonesia;
+
+c. bahwa berdasarkan pertimbangan sebagaimana
+dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Menteri Kesehatan tentang Sistem Informasi
+Manajemen Rumah Sakit;
+
+Mengingat :
+
+1. Undang-Undang Nomor 36 Tahun 2009 tentang
+Kesehatan (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 144, Tambahan Lembaran Negara Republik Indonesia Nomor 5063);
+
+2. Undang-Undang Nomor 44 Tahun 2009 tentang Rumah
+Sakit (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 153, Tambahan Lembaran Negara Republik Indonesia Nomor 5072);
+
+3. Peraturan
+
+Menteri
+
+Kesehatan
+
+Nomor
+
+147/Menkes/PER/I/2010 tentang Perizinan Rumah
+
+Sakit;
+
+4. Peraturan
+
+Menteri
+
+Kesehatan
+
+Nomor
+
+340/Menkes/PER/III/2010 tentang Klasifikasi Rumah
+
+Sakit;
+
+5. Peraturan
+
+Menteri
+
+Kesehatan
+
+Nomor
+
+1144/Menkes/PER/VIII/2010 tentang Organisasi dan Tata Kerja Kementerian Kesehatan (Berita Negara Republik Indonesia Tahun 2010 Nomor 585), sebagaimana telah diubah terakhir dengan Peraturan Menteri Kesehatan Nomor 35 Tahun 2013 (Berita Negara Republik Indonesia Nomor 741);
+MEMUTUSKAN:
+Menetapkan : PERATURAN MENTERI KESEHATAN TENTANG SISTEM INFORMASI MANAJEMEN RUMAH SAKIT.
+Pasal 1
+Dalam Peraturan Menteri Kesehatan ini yang dimaksud dengan:
+1. Rumah Sakit adalah institusi pelayanan kesehatan yang menyelenggarakan pelayanan kesehatan perorangan secara paripurna yang menyediakan pelayanan rawat inap, rawat jalan, dan gawat darurat.
+2. Sistem Informasi Manajemen Rumah Sakit yang selanjutnya disingkat SIMRS adalah suatu sistem teknologi informasi komunikasi yang memproses dan mengintegrasikan seluruh alur proses pelayanan Rumah Sakit dalam bentuk jaringan koordinasi, pelaporan dan prosedur administrasi untuk memperoleh informasi secara tepat dan akurat, dan merupakan bagian dari Sistem Informasi Kesehatan.
+3. Sistem Informasi Kesehatan adalah seperangkat tatanan yang meliputi data, informasi, indikator, prosedur, teknologi, perangkat, dan sumber daya manusia yang saling berkaitan dan dikelola secara terpadu untuk mengarahkan tindakan atau keputusan yang berguna dalam mendukung pembangunan kesehatan
+4. Pemerintah Daerah adalah Gubernur, Bupati atau Walikota, dan perangkat daerah sebagai unsur penyelenggara pemerintahan daerah.
+5. Pemerintah Pusat, yang selanjutnya disebut Pemerintah adalah Presiden Republik Indonesia yang memegang kekuasaan pemerintahan negara Republik Indonesia sebagaimana dimaksud dalam UndangUndang Dasar Negara Republik Indonesia Tahun 1945.
+6. Menteri adalah menteri yang menyelenggarakan urusan pemerintahan di bidang kesehatan.
+Pasal 2
+Pengaturan SIMRS bertujuan meningkatkan efisiensi, efektivitas, profesionalisme, kinerja, serta akses dan pelayanan Rumah Sakit.
+Pasal 3
+(1) Setiap Rumah Sakit wajib menyelenggarakan SIMRS.
+(2) Penyelenggaraan SIMRS sebagaimana dimaksud pada ayat (1) dapat
+
+menggunakan aplikasi dengan kode sumber terbuka (open source) yang disediakan oleh Kementerian Kesehatan atau menggunakan aplikasi yang dibuat oleh Rumah Sakit.
+(3) Aplikasi penyelenggaraan SIMRS yang dibuat oleh Rumah Sakit sebagaimana dimaksud pada ayat (2), harus memenuhi persyaratan minimal yang ditetapkan oleh Menteri.
+Pasal 4
+(1) Setiap Rumah Sakit harus melaksanakan pengelolaan dan pengembangan SIMRS.
+(2) Pelaksanaan pengelolaan dan pengembangan SIMRS sebagaimana dimaksud pada ayat (1) harus mampu meningkatkan dan mendukung proses pelayanan kesehatan di Rumah Sakit yang meliputi:
+a. kecepatan, akurasi, integrasi, peningkatan pelayanan, peningkatan efisiensi, kemudahan pelaporan dalam pelaksanaan operasional;
+b. kecepatan mengambil keputusan, akurasi dan kecepatan identifikasi masalah dan kemudahan dalam penyusunan strategi dalam pelaksanaan manajerial; dan
+c. budaya kerja, transparansi, koordinasi antar unit, pemahaman sistem dan pengurangan biaya administrasi dalam pelaksanaan organisasi.
+Pasal 5
+(1) SIMRS harus dapat diintegrasikan dengan program Pemerintah dan Pemerintah Daerah serta merupakan bagian dari Sistem Informasi Kesehatan.
+(2) Pengintegrasian dengan program Pemerintah dan Pemerintah Daerah sebagaimana dimaksud pada ayat (1) dilaksanakan dalam bentuk kemampuan komunikasi data (interoperabilitas).
+(3) SIMRS harus memiliki kemampuan komunikasi data (interoperabilitas) dengan:
+a. Sistem Informasi Manajemen dan Akuntansi Barang Milik Negara (SIMAK BMN);
+b. Pelaporan Sistem Informasi Rumah Sakit (SIRS);
+c. Indonesia Case Base Group's (INACBG's);
+d. aplikasi lain yang dikembangkan oleh Pemerintah; dan
+e. sistem informasi manajemen fasilitas pelayanan kesehatan lainnya.
+(4) Kemampuan komunikasi data (interoperabilitas) dengan Sistem Informasi dan Manajemen Barang Milik Negara (SIMAK BMN) sebagaimana dimaksud pada ayat (3) huruf a, paling sedikit mencakup
+
+pengkodean barang.
+Pasal 6
+(1) Arsitektur SIMRS paling sedikit terdiri atas:
+a. kegiatan pelayanan utama (front office);
+b. kegiatan administratif (back office); dan
+c. komunikasi dan kolaborasi
+(2) Selain arsitektur sebagaimana dimaksud pada ayat (1), Rumah Sakit dapat mengembangkan SIMRS dengan menambahkan arsitektur pendukung yang berupa Picture Archiver System (PACS), Sistem Manajemen Dokumen (Document Management System), Sistem Antar Muka Peralatan Klinik, serta Data Warehouse dan Bussines Intelegence.
+Pasal 7
+SIMRS yang diselenggarakan oleh Rumah Sakit harus memenuhi 3 (tiga) unsur yang meliputi keamanan secara fisik, jaringan, dan sistem aplikasi.
+Pasal 8
+Penyelenggaraan SIMRS harus dilakukan oleh unit kerja struktural atau fungsional di dalam organisasi Rumah Sakit dengan sumber daya manusia yang kompeten dan terlatih.
+Pasal 9
+Ketentuan lebih lanjut mengenai penyelenggaraan SIMRS sebagaimana tercantum dalam Lampiran yang merupakan bagian tidak terpisahkan dari Peraturan Menteri ini.
+Pasal 10
+(1) Menteri melalui Direktorat Jenderal yang menyelenggarakan urusan di bidang Bina Upaya kesehatan, Pemerintah Daerah Provinsi melalui Kepala Dinas Kesehatan Provinsi, dan Pemerintah Daerah Kabupaten/Kota melalui Kepala Dinas Kesehatan Kabupaten/Kota melakukan pembinaan dan pengawasan terhadap penyelenggaraan SIMRS sesuai dengan tugas, fungsi, dan kewenangan masing-masing.
+(2) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1) ditujukan untuk:
+a. meningkatkan mutu penyelenggaraan SIMRS; dan
+b. mengembangkan penyelenggaraan SIMRS.
+(3) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:
+a. advokasi dan sosialisasi;
+
+b. pendidikan dan pelatihan;
+c. bimbingan teknis; dan/atau
+d. pemantauan dan evaluasi.
+Pasal 11
+Pada saat Peraturan Menteri ini mulai berlaku, semua Rumah Sakit yang telah menyelenggarakan SIMRS harus menyesuaikan dengan Peraturan Menteri ini paling lambat 2 (dua) tahun.
+Pasal 12
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+Ditetapkan di Jakarta
+pada tanggal 10 Desember 2013 MENTERI KESEHATAN REPUBLIK INDONESIA,
+NAFSIAH MBOI
+Diundangkan di Jakarta pada tanggal 20 Januari 2014 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+AMIR SYAMSUDIN
+
+

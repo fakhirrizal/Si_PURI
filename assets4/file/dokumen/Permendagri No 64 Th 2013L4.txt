@@ -1,0 +1,139 @@
+LAMPIRAN IV PERATURAN MENTERI DALAM NEGERI
+REPUBLIK INDONESIA NOMOR 64 TAHUN 2013 TENTANG PENERAPAN STANDAR AKUNTANSI PEMERINTAHAN BERBASIS AKRUAL PADA PEMERINTAH DAERAH
+
+FORMAT KONVERSI PENYAJIAN LRA
+Laporan Realisasi Anggaran (LRA) menyajikan ikhtisar sumber, alokasi, dan pemakaian sumber daya keuangan yang dikelola oleh pemerintah daerah, yang menggambarkan perbandingan antara anggaran dan realisasinya dalam satu periode pelaporan. Dalam hal kodefikasi akun dokumen anggaran belum sesuai dengan BAS sebagaimana tercantum pada Lampiran III Peraturan Menteri ini, untuk memenuhi unsur yang dicakup LRA sesuai peraturan perundangundangan, pemerintah daerah melakukan konversi dalam penyajian LRA. Contoh format konversi pendapatan dan belanja dalam penyajian LRA sebagaimana pada tabel 1 dan tabel 2.
+Tabel 1 Format Konversi Penyajian Pendapatan-LRA
+
+Kodefikasi Akun Anggaran
+
+Kode 4 41
+411
+412
+413
+414 42 421 4 2 1 01 4 2 1 02 422 423 43 431 4 3 1 01 4 3 1 02
+4 3 1 03
+4 3 1 04 4 3 1 05 432
+433
+4 3 3 01
+4 3 3 02
+
+PENDAPATAN DAERAH Pendapatan Asli Daerah
+Pajak Daerah
+Retribusi Daerah
+
+Uraian
+
+Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan
+
+Lain-lain Pendapatan Asli Daerah yang sah Dana Perimbangan
+Bagi Hasil Pajak/Bagi Hasil Bukan Pajak Bagi Hasil Pajak Bagi Hasi Bukan Pajak/Sumber Daya Alam
+Dana Alokasi Umum Dana Alokasi Khusus Lain-Lain Pendapatan Daerah Yang Sah
+Pendapatan Hibah Pendapatan Hibah dari Pemerintah Pendapatan Hibah dari Pemerintah Daerah Lainnya Pendapatan Hibah dari Badan/ Lembaga/
+Organisasi Swasta Dalam Negeri Pendapatan Hibah dari Kelompok Masyarakat/ Perorangan
+Pendapatan Hibah dari Luar Negeri Dana Darurat Dana Bagi Hasil Pajak dari Provinsi
+dan Pemerintah Daerah Lainnya Dana Bagi Hasil Pajak dari Provinsi
+
+Dana Bagi Hasil Pajak dari Kabupaten
+
+4 3 3 03 Dana Bagi Hasil Pajak dari Kota
+
+434
+4 3 4 01 4 3 4 02
+435
+
+Dana Penyesuaian dan Otonomi Khusus
+Dana Penyesuaian Dana Otonomi Khusus
+Bantuan Keuangan Dari Provinsi /Kabupaten/Kota Lainnya
+
+Kodefikasi Akun Laporan Realisasi Anggaran
+
+Kode 4 41
+411 412
+413
+414 42 421 4 2 1 01 4 2 1 02 4 2 1 03 4 2 1 04 422 4 2 2 01 4 2 2 03 423
+4 2 3 01
+4 2 3 02 424 43
+431
+4 3 1 01
+4 3 1 02
+4 3 1 03
+4 3 1 04
+4 3 2 01 433
+
+Uraian Pendapatan-LRA Pendapatan Asli Daerah (PAD)-LRA
+Pendapatan Pajak Daerah-LRA
+Pendapatan Retribusi Daerah-LRA Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan-LRA Lain-lain PAD yang Sah-LRA Pendapatan Transfer-LRA Pendapatan Transfer Pemerintah Pusat -LRA Bagi Hasil Pajak-LRA Bagi Hasil Bukan Pajak/Sumber Daya Alam-LRA Dana Alokasi Umum (DAU)-LRA Dana Alokasi Khusus (DAK)-LRA Pendapatan Transfer Pemerintah Pusat-Lainnya-LRA Dana Otonomi Khusus-LRA Dana Penyesuaian - LRA Pendapatan Transfer Pemerintah Daerah Lainnya
+Pendapatan Bagi Hasil Pajak-LRA
+Pendapatan Bagi Hasil Lainnya-LRA Bantuan Keuangan-LRA Lain-Lain Pendapatan Daerah Yang Sah-LRA
+Pendapatan Hibah-LRA
+Pendapatan Hibah dari Pemerintah-LRA Pendapatan Hibah dari Pemerintah Daerah Lainnya-LRA Pendapatan Hibah dari Badan/Lembaga/Organisasi Swasta dalam Negeri-LRA Pendapatan Hibah Dari Kelompok Masyarakat/ Perorangan-LRA Dana Darurat-LRA Pendapatan Lainnya-LRA
+
+Tabel 2
+Format Konversi Penyajian Belanja
+
+Kode 5 51 511 512 513 514 515 516
+517
+518 52 521 522
+523
+5 2 3 01 5 2 3 02 5 2 3 03
+5 2 3 04
+5 2 3 05
+5 2 3 06
+5 2 3 07 5 2 3 08
+5 2 3 09
+5 2 3 10 5 2 3 11 5 2 3 12 5 2 3 13 5 2 3 14 5 2 3 15
+5 2 3 16 5 2 3 17 5 2 3 18 5 2 3 19
+5 2 3 20 5 2 3 21 5 2 3 22 5 2 3 23 5 2 3 24
+5 2 3 25 5 2 3 26
+5 2 3 27 5 2 3 28
+5 2 3 29 5 2 3 30
+
+Kodefikasi Akun Anggaran Uraian
+BELANJA Belanja Tidak Langsung Belanja Pegawai Belanja Bunga Belanja Subsidi Belanja Hibah Belanja Bantuan Sosial Belanja Bagi Hasil Kepada Provinsi/ Kab/ Kota dan Desa Belanja Bantuan Keuangan Kepada Provinsi/ Kab/Kota dan Desa Belanja Tak Terduga Belanja Langsung Belanja Pegawai
+Belanja Barang Dan Jasa
+Belanja Modal
+Belanja Modal Pengadaan Tanah
+Belanja Modal Pengadaan Alat-Alat Berat Belanja Modal Pengadaan Alat-Alat Angkutan Darat Bermotor Belanja Modal Pengadaan Alat-Alat Angkutan Darat Tidak Bermotor Belanja Modal Pengadaan Alat-Alat Angkutan Air Bermotor Belanja Modal Pengadaan Alat-Alat Angkutan Di Air Tidak Bermotor Belanja Modal Pengadaan Alat-Alat Angkutan Udara
+Belanja Modal Pengadaan Alat-Alat Bengkel
+Belanja Modal Pengadaan Alat-Alat Pengolah Pertanian Dan Peternakan Belanja Modal Pengadaan Peralatan Kantor
+Belanja Modal Pengadaan Perlengkapan Kantor Belanja Modal Pengadaan Komputer Belanja Modal Pengadaan Mebeulair Belanja Modal Pengadaan Peralatan Dapur Belanja Modal Pengadaan Penghias Ruangan Rumah Tangga Belanja Modal Pengadaan Alat-Alat Studio Belanja Modal Pengadaan Alat-Alat Komunikasi Belanja Modal Pengadaan Alat-Alat Ukur Belanja Modal Pengadaan Alat-Alat Kedokteran Belanja Modal Pengadaan Alat-Alat Laboratorium Belanja Modal Pengadaan Konstruksi Jalan Belanja Modal Pengadaan Konstruksi Jembatan Belanja Modal Pengadaan Konstruksi Jaringan Air Belanja Modal Pengadaan Penerangan Jalan, Taman Dan Hutan Kota Belanja Modal Pengadaan Instalasi Listrik Dan Telepon Belanja Modal Pengadaan Konstruksi/ Pembelian*) Bangunan Belanja Modal Pengadaan Buku/ Kepustakaan Belanja Modal Pengadaan Barang Bercorak Kesenian, Kebudayaan Belanja Modal Pengadaan Hewan/ Ternak Dan Tanaman Belanja Modal Pengadaan Alat-Alat Persenjataan/ Keamanan
+
+Kode 5 51 511 512 513 514 515
+516
+52
+521 522 523 524
+525 53 531
+6
+61
+611
+612
+
+Kodefikasi Akun Laporan Realisasi Anggaran Uraian
+BELANJA Belanja Operasi Belanja Pegawai Belanja Barang dan Jasa Belanja Bunga Belanja Subsidi Belanja Hibah
+Belanja Bantuan Sosial
+Belanja M odal
+Belanja Modal Tanah Belanja Modal Peralatan dan Mesin Belanja Modal Gedung dan Bangunan Belanja Modal Jalan, Irigasi dan Jaringan
+Belanja Modal Aset Tetap Lainnya Belanja Tak Terduga Belanja Tak Terduga
+TRANSFER
+Transfer Bagi Hasil Pendapatan
+Transfer Bagi Hasil Pajak Daerah
+Transfer Bagi Hasil Pendapatan Lainnya
+
+62 621 622
+623
+
+Transfer Bantuan Keuangan Transfer Bantuan Keuangan ke Pemerintah Daerah Lainnya
+Transfer Bantuan Keuangan ke Desa
+Transfer Bantuan Keuangan Lainnya
+
+Salinan sesuai dengan aslinya KEPALA BIRO HUKUM ttd
+ZUDAN ARIF FAKRULLOH
+
+MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+ttd
+GAMAWAN FAUZI
+
+Pembina Utama Muda (IV/c) NIP. 19690824 199903 1 001
+
+

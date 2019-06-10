@@ -1,0 +1,1948 @@
+SALINAN LAMPIRAN X PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN NOMOR 5 TAHUN 2016 TENTANG STANDAR KOMPETENSI KELULUSAN KURSUS DAN PELATIHAN
+STANDAR KOMPETENSI LULUSAN KURSUS DAN PELATIHAN MENGELAS DENGAN LAS BUSUR MANUAL JENJANG II
+I. PENYUSUNAN SKL
+A. Latar Belakang
+Indonesia memiliki berbagai keunggulan untuk mampu berkembang menjadi negara maju. Keanekaragaman sumber daya alam, flora dan fauna, kultur, penduduk serta letak geografis yang unik merupakan modal dasar yang kuat untuk melakukan pengembangan dalam berbagai sektor kehidupan yang pada saatnya dapat menciptakan daya saing yang unggul di dunia internasional. Dalam berbagai hal, kemampuan bersaing dalam sektor sumber daya manusia tidak hanya membutuhkan keunggulan dalam hal mutu tetapi juga memerlukan upaya-upaya pengenalan, pengakuan, serta penyetaraan kualifikasi pada bidang-bidang keilmuan dan keahlian yang relevan baik secara bilateral, regional maupun internasional.
+Kerangka Kualifikasi Nasional Indonesia (KKNI) secara khusus dikembangkan untuk menjadi suatu rujukan nasional bagi upayaupaya meningkatkan mutu dan daya saing bangsa Indonesia di sektor sumber daya manusia. Pencapaian setiap tingkat kualifikasi sumber daya manusia Indonesia berhubungan langsung dengan tingkat capaian pembelajaran baik yang dihasilkan melalui sistem pendidikan maupun sistem pelatihan kerja yang dikembangkan dan diberlakukan secara nasional. Oleh karena itu upaya peningkatan mutu dan daya saing bangsa akan sekaligus memperkuat jati diri bangsa Indonesia.
+1
+
+Kerangka Kualifikasi Nasional Indonesia (KKNI) merupakan salah satu langkah untuk mewujudkan mutu dan jati diri bangsa Indonesia dalam sektor sumber daya manusia yang dikaitkan dengan program pengembangan sistem pendidikan dan pelatihan secara nasional. Setiap tingkat kualifikasi yang dicakup dalam KKNI memiliki makna dan kesetaraan dengan capaian pembelajaran yang dimiliki setiap insan pekerja Indonesia dalam menciptakan hasil karya dan kontribusi yang bermutu di bidang pekerjaannya masing-masing.
+Kebutuhan Indonesia untuk memiliki KKNI sudah sangat mendesak mengingat tantangan dan persaingan global pasar tenaga kerja nasional maupun internasional yang semakin terbuka. Pergerakan tenaga kerja dari dan ke Indonesia tidak lagi dapat dibendung dengan peraturan atau regulasi yang bersifat protektif. Ratifikasi yang telah dilakukan Indonesia untuk berbagai konvensi regional maupun internasional, secara nyata menempatkan Indonesia sebagai sebuah negara yang semakin terbuka dan mudah dimasuki oleh kekuatan asing melalui berbagai sektor seperti sektor perekonomian, pendidikan, sektor ketenagakerjaan dan lain-lain. Oleh karena itu, persaingan global tidak lagi terjadi pada ranah internasional akan tetapi sudah nyata berada pada ranah nasional.
+Upaya yang dapat dilakukan untuk mengantisipasi tantangan globalisasi pada sektor ketenagakerjaan adalah meningkatkan ketahanan sistem pendidikan dan pelatihan secara nasional dengan berbagai cara antara lain. 1. Meningkatkan mutu pendidikan dan pelatihan. 2. Mengembangkan sistem kesetaraan kualifikasi antara capaian
+pembelajaran yang diperoleh melalui pendidikan dan pelatihan, pengalaman kerja maupun pengalaman mandiri dengan kriteria kompetensi yang dipersyaratkan oleh suatu jenis bidang dan tingkat pekerjaan.
+2
+
+3. Meningkatkan kerjasama dan pengakuan timbal balik yang saling menguntungkan antara institusi penghasil dengan pengguna tenaga kerja.
+4. Meningkatkan pengakuan dan kesetaraan kualifikasi ketenagakerjaan Indonesia dengan negara-negara lain di dunia baik terhadap capaian pembelajaran yang ditetapkan oleh institusi pendidikan dan pelatihan maupun terhadap kriteria kompetensi yang menjadi syarat untuk suatu bidang dan tingkat pekerjaan tertentu.
+Secara mendasar langkah-langkah pengembangan tersebut mencakup permasalahan yang bersifat multi aspek dan keberhasilannya sangat tergantung dari sinergi dan peran proaktif dari berbagai pihak yang terkait dengan peningkatan mutu sumber daya manusia nasional termasuk Kementerian Pendidikan dan Kebudayaan, Kementerian Tenaga Kerja, asosiasi profesi, asosiasi industri, institusi pendidikan dan pelatihan serta masyarakat luas.
+Secara umum, kondisi awal yang dibutuhkan untuk dapat melaksanakan suatu program penyetaraan kualifikasi ketenagakerjaan tersebut tampak belum cukup kondusif dalam beberapa hal seperti misalnya belum meratanya kesadaran mutu di kalangan institusi penghasil tenaga kerja, belum tumbuhnya kesadaran tentang pentingnya kesetaraan kualifikasi antara capaian pembelajaran yang dihasilkan oleh penghasil tenaga kerja dengan deskripsi keilmuan, keahlian dan keterampilan yang dibutuhkan di bidang kerja atau profesi termasuk terbatasnya pemahaman mengenai dinamika tantangan sektor tenaga kerja di tingkat dunia. Oleh karena itu upaya-upaya untuk mencapai keselarasan mutu dan penjenjangan kualifikasi lulusan dari institusi pendidikan formal dan non-formal, dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan perlu diwujudkan dengan segera.
+3
+
+Di jalur pendidikan non-formal, pada tahun 2015 tercatat sekitar 19.248 lembaga kursus dan pelatihan yang menyelenggarakan pendidikan non-formal dalam bentuk beragam jenis kursus dan pelatihan (sumber: nilek.online) di bawah pembinaan Kementerian Pendidikan dan Kebudayaan. Salah satu infrastruktur yang penting dalam mencapai keselarasan mutu dan penjenjangan kualifikasi antara lulusan dari institusi penyelenggara kursus dan pelatihan dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan adalah dokumen Standar Kompetensi Lulusan disingkat SKL, sebagaimana dinyatakan pada Peraturan Pemerintah Nomor 13 Tahun 2015 tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan dalam hal penyusunan suatu SKL dan Permendikbud Nomor 131 Tahun 2014 tentang Standar Kompetensi Lulusan Kursus dan Pelatihan.
+Dengan terbitnya Peraturan Presiden Nomor 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia, maka SKL kursus dan pelatihan disusun berbasis KKNI untuk mengakomodasi perubahan kebutuhan kompetensi kerja dari pengguna lulusan di dunia kerja dan dunia industri.
+B. Tujuan Penyusunan SKL
+SKL kursus dan pelatihan disusun untuk digunakan sebagai pedoman dalam menentukan kompetensi lulusan peserta didik pada lembaga kursus dan pelatihan serta bagi yang belajar mandiri dan sebagai acuan dalam menyusun, merevisi, atau memutakhirkan kurikulum, baik pada aspek perencanaan maupun implementasinya.
+C. Uraian Program
+Teknologi pengelasan berkembang secara berkelanjutan di semua sektor industri, oleh karena itu program pendidikan pengelasan pada
+4
+
+lembaga kursus dan pelatihan harus selaras dengan kebutuhan pengguna yaitu jasa industri pengelasan. Disamping itu, program tersebut juga harus mampu memberi bekal pengetahuan bagi para peserta untuk menjadi seorang calon wirausaha dalam bidang pengelasan. Program kursus dan pelatihan bidang pengelasan meliputi: 1. Shielded Metal Arc Welding (SMAW): Juru las 1 SMAW, Juru las 2
+SMAW dan Juru las 3 SMAW. 2. Gas Metal Arc Welding (GMAW), Flux Core Arc Welding (FCAW):
+Juru las 1 GMAW dan FCAW, Juru las 2 GMAW dan FCAW, dan Juru las 3 GMAW dan FCAW. 3. Las Tungsten Inert Gas (TIG) atau Wolfram Inert Gas (WIG) atau Gas Tungsten Arc Welding (GTAW): Juru las 1 (TIG/WIG/GTAW), Juru las 2 (TIG/WIG/GTAW), Juru las 3 (TIG/WIG/GTAW). 4. Submerged Arc Welding (SAW): Operator 1 SAW, Operator 2 SAW. 5. Brazing: Juru 1 Brazing, dan Juru 2 Brazing. 6. Oxy-Acetylene Welding (OAW) dan Flame cutting: Juru Las 1 OAW, Juru Las 2 OAW.
+Kursus dan Pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II, merupakan kursus dan pelatihan yang diselenggarakan untuk menghasilkan lulusan yang memiliki keterampilan sebagai juru Las Busur Manual dan mampu bekerja pada industri jasa pengelasan. Program yang dirancang pada kursus dan pelatihan ini adalah dalam upaya untuk membekali peserta didik agar menguasai pengetahuan operasional lengkap tentang Las Busur Manual; memiliki kemampuan kerja, kewenangan dan tanggung jawab dalam pengelasan pelat dengan menggunakan proses Las Busur Manual pada posisi 3F, 4F, 3G, dan 4G serta pengelasan pipa posisi 1G dan 2G sesuai dengan standar yang berlaku dalam industri jasa pengelasan (Standar Nasional Indonesia (SNI), Amerika, Eropa, atau Jepang).
+5
+
+1. Nama program Kursus dan Pelatihan Mengelas dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II.
+2. Tujuan a. Umum Secara umum program kursus dan pelatihan Mengelas dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II ini bertujuan untuk menghasilkan lulusan yang: 1) Mampu melaksanakan tugas spesifik dengan menggunakan alat, informasi, dan prosedur kerja yang lazim dilakukan serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan langsung atasannya. 2) Menguasai pengetahuan faktual dan operasional dasar bidang kerja spesifik, sehingga mampu memilih pemecahan yang tersedia terhadap masalah yang timbul. 3) Bertanggung jawab pada pekerjaan sendiri dan dapat diberi tanggung jawab membimbing orang lain.
+b. Khusus Secara khusus program kursus dan pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II ini bertujuan untuk menghasilkan lulusan yang kompeten dalam bidang Las Busur Manual yang meliputi kemampuan dalam hal: 1) Menerjemahkan surat perintah kerja terkait dengan pengelasan Las Busur Manual. 2) Membuat dan membaca gambar teknik, dan simbol las. 3) Mengidentifikasi, mengoperasikan, memelihara, dan menyimpan peralatan yang relevan untuk melakukan pengelasan Las Busur Manual jenjang II dan alat ukur presisi.
+6
+
+4) Melaksanakan proses pengelasan dan menghasilkan produk pengelasan pelat pada posisi 3F, 4F, 3G, dan 4G serta pengelasan pipa pada posisi 1G dan 2G sesuai standar mutu yang berlaku (SNI, Amerika, Eropa, atau Jepang) dengan mengutamakan Kesehatan dan Keselamatan Kerja (K3).
+5) Mampu mempresentasikan hasil pengelasan, dan menyusun laporan kinerja secara manual dengan atau tanpa menggunakan piranti lunak sederhana.
+3. Manfaat Program kursus dan pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II ini bermanfaat bagi: a. Peserta didik kursus dan pelatihan: memiliki kemampuan kerja, pengetahuan, dan manajerial dalam jasa industri pengelasan, yang bisa digunakan sebagai bekal bekerja. b. Lembaga pengguna jasa las dalam merekrut calon juru las yang siap beradaptasi dengan pekerjaannya. c. Lembaga penyelenggara kursus dan pelatihan juru Las Busur Manual dalam upaya menghasilkan lulusan yang kompeten.
+4. Kualifikasi peserta Telah lulus uji kompetensi Juru Las Busur Manual Jenjang I.
+5. Durasi kursus dan pelatihan Waktu tatap muka yang diperlukan untuk menyelesaikan program kursus dan pelatihan ini adalah 240 jam.
+6. Metode kursus dan pelatihan a. Ceramah. b. Demonstrasi. c. Praktik Kerja.
+7
+
+7. Uji kompetensi Uji kompetensi dilaksanakan pada akhir setiap program kursus dan pelatihan. Pelaksanaan uji kompetensi terdiri dari dua jenis tes, yaitu tes teori dan praktik. Tes teori bertujuan untuk mengukur penguasaan pengetahuan, sikap, dan keterampilan berfikir peserta kursus dan pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II tentang prinsip berkomunikasi secara efektif, Kesehatan dan Keselamatan Kerja (K3), alat ukur mekanik dasar dan presisi, sketsa dan/atau gambar kerja, perkakas tangan dan mesin-mesin ringan, proses pemotongan secara mekanik dan menggunakan gas, prinsip-prinsip Las Busur Manual pelat pada posisi 3F, 4F, 3G, dan 4G serta pengelasan pipa pada posisi 1G dan 2G, estimasi Rencana Anggaran Biaya (RAB). Tes praktek bertujuan untuk mengukur penguasaan pengetahuan, sikap, dan keterampilan kerja peserta kursus dan pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II dalam melaksanakan komunikasi timbal balik, menerapkan Kesehatan dan Keselamatan Kerja (K3), menggunakan alat ukur mekanik dasar dan presisi, membaca sketsa dan/atau gambar kerja, menggunakan perkakas tangan dan mesin-mesin ringan, melaksanakan pemotongan secara mekanik dan menggunakan gas, melaksanakan pengelasan Las Busur Manual pelat pada posisi 3F, 4F, 3G, dan 4G serta pengelasan pipa pada posisi 1G dan 2G, mendemonstrasikan keterampilan dalam mengestimasi Rencana Anggaran Biaya (RAB).
+8. Sertifikat kelulusan Sertifikat kelulusan diberikan kepada peserta kursus dan pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II yang telah dinyatakan lulus dalam uji kompetensi oleh Lembaga Sertifikasi Kompetensi
+8
+
+(LSK) bidang pengelasan independen yang diakui oleh pemerintah, dunia usaha, dan dunia industri.
+D. Pengertian 1. Capaian pembelajaran adalah kemampuan yang diperoleh melalui internalisasi pengetahuan, sikap, keterampilan, kompetensi, dan akumulasi pengalaman kerja.
+2. Pengetahuan adalah penguasaan teori oleh seseorang pada suatu bidang keilmuan dan keahlian tertentu atau pemahaman tentang konsep, fakta, informasi, dan metodologi pada bidang pekerjaan tertentu.
+3. Sikap adalah penghayatan nilai, etika, moral, hukum, dan normanorma sosial lainnya yang tumbuh dan berkembang dalam kehidupan bermasyarakat, yang diaktualisasikan dalam perilaku dan perbuatan sehari-hari, baik dalam lingkungan keluarga, lingkungan tempat kerja, maupun dalam lingkungan masyarakat yang lebih luas.
+4. Keterampilan adalah kemampuan psikomotorik dan kemampuan menggunakan metode, bahan, dan instrumen, yang diperoleh melalui pendidikan, pelatihan, dan pengalaman kerja.
+5. Kompetensi adalah akumulasi kemampuan seseorang dalam melaksanakan suatu deskripsi kerja secara terukur melalui penilaian yang terstruktur, secara mandiri dan bertanggung jawab dalam lingkungan kerja.
+6. Pengalaman kerja adalah internalisasi kemampuan dalam melakukan pekerjaan di bidang tertentu dan selama jangka waktu tertentu.
+9
+
+7. Deskripsi umum KKNI adalah deskripsi yang menyatakan karakter, kepribadian, sikap dalam berkarya, etika, moral dari setiap manusia Indonesia pada setiap jenjang kualifikasi sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012.
+8. Deskripsi kualifikasi KKNI adalah deskripsi yang menyatakan ilmu pengetahuan, pengetahuan praktis, pengetahuan, afeksi dan kompetensi yang dicapai seseorang sesuai dengan jenjang kualifikasi 1 sampai 9 sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012.
+9. Deskripsi capaian pembelajaran khusus adalah deskripsi capaian minimum dari setiap program kursus dan pelatihan yang mencakup deskripsi umum dan selaras dengan Deskripsi Kualifikasi KKNI.
+10. Standar Kompetensi Lulusan berbasis KKNI adalah kualifikas kemampuan yang dibutuhkan untuk melaksanakan dan menyelesaikan pekerjaan, yang mencakup sikap, pengetahuan, dan keterampilan, sesuai dengan unjuk kerja yang dipersyaratkan dan diturunkan dari capaian pembelajaran kursus pada jenjang KKNI yang sesuai. Standar Kompetensi Lulusan berbasis KKNI dinyatakan dalam tiga parameter: Kompetensi, Elemen Kompetensi, dan Indikator kelulusan.
+11. Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara penyampaian dan penilaiannya sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk menghasilkan lulusan dengan capaian pembelajaran khusus.
+12. Rekognisi Pembelajaran Lampau (RPL) adalah pengakuan atas capaian pembelajaran seseorang yang diperoleh dari pengalaman
+10
+
+kerja, pendidikan non-formal, atau pendidikan informal ke dalam sektor pendidikan formal.
+II. STANDAR KOMPETENSI LULUSAN BERBASIS KKNI
+A. Profil Lulusan
+Lulusan program kursus dan pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II ini adalah lulusan yang memiliki pengetahuan operasional, kemampuan kerja, sikap profesional, serta hak dan tanggung jawab dalam hal: 1. Mengidentifikasi, mengoperasikan, memelihara, dan menyimpan
+alat ukur mekanik presisi, membaca dan membuat gambar kerja lengkap untuk melakukan pekerjaan pengelasan Las Busur Manual. 2. Melaksanakan satu tugas spesifikdalam mengelas pelat posisi 3F, 4F,3G, dan 4G, serta mengelas pipa pada posisi 1G dan 2G dengan proses las busur manual yang sesuai standar mutu tertentu (SNI, Amerika, Eropa, atau Jepang) dengan mengutamakan Kesehatan dan Keselamatan Kerja, sehingga dihasilkan produk berupa hasil lasan pada pelat dan pipa yang memenuhi tuntutan standar mutu tertentu (SNI, Amerika, Eropa, atau Jepang).
+B. Jabatan Kerja
+Jabatan kerja yang dapat ditempati dan dilakukan oleh lulusan kursus dan pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang 2 ini adalah sebagai Juru Las Busur Manual yang setara dengan Jenjang 2 dalam Kerangka Kualifikasi Nasional Indonesia (KKNI) untuk bekerja dalam industri jasa pengelasan.
+11
+
+C. Capaian Pembelajaran
+1. Deskripsi umum KKNI Deskripsi umum KKNI sesuai Peraturan Presiden Nomor 8 Tahun 2012 minimum wajib dimiliki dan dihayati oleh setiap lulusan kursus dan pelatihan adalah: Sesuai dengan ideologi Negara dan budaya Bangsa Indonesia, maka implementasi sistem pendidikan nasional dan sistem pelatihan kerja yang dilakukan di Indonesia pada setiap jenjang kualifikasi pada KKNI mencakup proses yang membangun karakter dan kepribadian manusia Indonesia sebagai berikut. a. Bertakwa kepada Tuhan Yang Maha Esa. b. Memiliki moral, etika dan kepribadian yang baik dalam menyelesaikan tugasnya. c. Berperan sebagai warga negara yang bangga dan cinta tanah air serta mendukung perdamaian dunia. d. Mampu bekerja sama dan memiliki kepekaan sosial dan kepedulian yang tinggi terhadap masyarakat dan lingkungannya. e. Menghargai keanekaragaman budaya, pandangan, kepercayaan, dan agama serta pendapat/temuan original orang lain. f. Menjunjung tinggi penegakan hukum serta memiliki semangat untuk mendahulukan kepentingan bangsa serta masyarakat luas.
+2. Deskripsi kualifikasi sesuai dengan jenjang II pada KKNI. a. Mampu melaksanakan tugas spesifik dengan menggunakan alat, informasi, dan prosedur kerja yang lazim dilakukan serta menunjukkan kinerja dengan mutu yang terukur, di bawah pengawasan langsung atasannya. b. Menguasai pengetahuan faktual dan operasional dasar bidang kerja spesifik, sehingga mampu memilih pemecahan yang tersedia terhadap masalah yang lazim timbul.
+12
+
+c. Bertanggung jawab pada pekerjaan sendiri dan dapat diberi tanggung jawab membimbing orang lain.
+
+3. Deskripsi capaian pembelajaran khusus. Capaian pembelajaran kursus dan pelatihan Mengelas Dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Jenjang II adalah.
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG LAS BUSUR MANUAL SESUAI KKNI
+JENJANG II
+
+SIKAP DAN TATA NILAI
+KEMAMPUAN DI BIDANG KERJA
+
+Membangun dan membentuk karakter dan kepribadian manusia Indonesia yang: 1. Bertakwa kepada Tuhan Yang Maha Esa. 2. Memiliki moral, etika dan kepribadian yang
+baik di dalam menyelesaikan tugasnya. 3. Berperan sebagai warga negara yang bangga
+dan cinta tanah air serta mendukung perdamaian dunia. 4. Mampu bekerja sama dan memiliki kepekaan sosial dan kepedulian yang tinggi terhadap masyarakat dan lingkungannya. 5. Menghargai keanekaragaman budaya, pandangan, kepercayaan, dan agama serta pendapat/temuan original orang lain. 6. Menjunjung tinggi penegakan hukum serta memiliki semangat untuk mendahulukan kepentingan bangsa serta masyarakat luas. Mampu melaksanakan serangkaian tugas spesifik dalam pengelasan dan perbaikan Las Busur Manual yang meliputi kemampuan sebagai berikut:
+
+13
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS
+BIDANG LAS BUSUR MANUAL SESUAI KKNI JENJANG II
+
+1. Menerjemahkan surat perintah kerja terkait dengan pengelasan Las Busur Manual.
+2. Membuat dan membaca gambar teknik, dan simbol las.
+3. Mengidentifikasi, mengoperasikan, memelihara, dan menyimpan alat ukur mekanik dasar dan presisi yang relevan untuk melakukan pengelasan Las Busur Manual jenjang 2.
+4. Melaksanakan proses pengelasan dan menghasilkan produk pengelasan pelat pada posisi 3F, 4F,3G, dan 4G serta produk pengelasan pipa pada posisi 1G dan 2G sesuai standar mutu yang berlaku (SNI, Amerika, Eropa, atau Jepang) dengan mengutamakan Kesehatan dan Keselamatan Kerja (K3).
+5. Mempresentasikan hasil pengelasan, dan menyusun laporan kinerja secara manual atau dengan menggunakan piranti lunak.
+
+PENGETAHUAN YANG
+DIKUASAI
+
+Menguasai pengetahuan faktual,dan operasional dasar dalam bidang pengelasan Las Busur Manual yang meliputi penguasaan
+
+tentang:
+
+1. Kesehatan dan Keselamatan Kerja (K3).
+
+2. Istilah bahan, komponen, alat, proses
+
+pengelasan Busur Manual yang berbahasa
+
+Inggris.
+
+3. Prinsip dan teknik membaca gambar kerja
+
+lengkap (Gambar Teknik dan Simbol Las).
+
+14
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS
+BIDANG LAS BUSUR MANUAL SESUAI KKNI JENJANG II
+
+4. Pengetahuan operasional tentang jenis,
+fungsi, cara mengoperasikan, dan cara merawat alat ukur mekanik presisi. 5. Teknik pengelasan pelat untuk posisi 3G, 4G, 3F, dan 4F serta teknik pengelasan pipa untuk posisi 1G dan 2G menggunakan Las Busur Manual serta perbaikannya.
+
+HAK DAN TANGGUNG
+JAWAB
+
+Bertanggung jawab pada pekerjaan sendiri dan dapat diberi tanggung jawab membimbing orang lain, dalam hal: 1. Membuat dan membaca gambar teknik, dan
+simbol pengelasan. 2. Melakukan komunikasi yang baik dan efektif
+dengan rekan kerja. 3. Mengidentifikasi, mengoperasikan, memeli-
+hara, dan menyimpan peralatan yang relevan untuk melakukan pengelasan Las Busur Manual jenjang II dan alat ukur mekanik presisi. 4. Melaksanakan proses pengelasan dengan Las Busur Manual dan menghasilkan produk pengelasan pelat pada posisi 3F, 4F, 3G dan 4G serta pipa pada posisi 1G dan 2G sesuai standar mutu yang berlaku (SNI, Amerika, Eropa, atau Jepang) dengan mengutamakan Kesehatan dan Keselamatan Kerja (K3). 5. Mempresentasikan hasil pengelasan, dan menyusun laporan kinerja secara manual atau dengan menggunakan piranti lunak. 6. Bertanggung jawab dalam membimbing juru
+
+15
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG LAS BUSUR MANUAL SESUAI KKNI JENJANG II
+las yang sedang magang atau yang baru
+kerja.
+
+D. Standar Kompetensi Lulusan
+
+Uraian standar kompetensi berbasis KKNI terdiri atas. 1. Unit Kompetensi. 2. Elemen Kompetensi. 3. Indikator Kelulusan. Sebagaimana dinyatakan pada tabel berikut ini.
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+Sikap dan Tata Nilai
+
+1. Membangun dan membentuk karakter dan kepribadian manusia.
+
+1.1. Bertakwa kepada Tuhan Yang Maha Esa.
+1.2. Memiliki moral, etika dan kepribadian yang baik di dalam menyelesaikan tugasnya.
+1.3. Berperan sebagai warga negara yang bangga dan cinta tanah air serta mendukung perdamaian dunia.
+
+a. Pelaksanaan pekerjaan tidak menimbulkan keresahan dan ketidaknyamanan pada masyarakat di sekitar.
+b. Menyelesaikan pekerjaan pengelasan dengan baik, sehingga konsumen/ pengguna jasa/pemberi pekerjaan merasa puas dan hasil
+
+16
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+1.4. Bekerja sama dan
+
+memiliki
+
+kepekaan yang
+
+tinggi terhadap
+
+masyarakat dan
+
+lingkungannya.
+
+1.5. Menghargai
+
+keanekaragaman
+
+budaya,
+
+pandangan,
+
+kepercayaan, dan
+
+agama serta
+
+pendapat/temuan
+
+original orang
+
+lain.
+
+1.6. Menjunjung tinggi
+
+penegakan
+
+hukum serta
+
+memiliki
+
+semangat untuk
+
+mendahulukan
+
+kepentingan
+
+bangsa serta
+
+masyarakat luas.
+
+INDIKATOR KELULUSAN pekerjaannya tidak membahayakan bagi pengguna dan masyarakat yang ada di sekitarnya.
+
+Kemampuan Di Bidang Kerja
+
+2. Mampu
+
+2.1. Menerjemahkan
+
+melaksanakan
+
+perintah kerja
+
+serangkaian
+
+terkait dengan
+
+tugas
+
+pengelasan Las
+
+pengelasan dan
+
+Busur Manual.
+
+17
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+perbaikan Las
+
+2.1.1. Mengidenti Kepuasan pemberi
+
+Busur Manual
+
+fikasi
+
+kerja terhadap hasil
+
+yang meliputi
+
+sumber- kerja dalam simulasi
+
+kemampuan
+
+sumber
+
+kerja.
+
+dalam:
+
+informasi
+
+yang
+
+akurat.
+
+2.1.2. Menerje- Kepuasan pemberi
+
+mahkan kerja terhadap hasil
+
+pesan dari kerja dalam simulasi
+
+atasan
+
+kerja.
+
+atau klien.
+
+2.2 Membuat dan
+
+membaca gambar
+
+teknik, dan
+
+simbol las.
+
+2.2.1 Mengidentifikasi Ketepatan dalam
+
+objek/benda
+
+mengidentifikasi
+
+kerja yang akan objek/benda kerja
+
+digambar
+
+yang akan digambar
+
+berdasarkan
+
+berdasarkan
+
+instruksi dan
+
+instruksi dan
+
+informasi yang informasi yang ada.
+
+ada.
+
+2.2.2 Menentukan
+
+Ketepatan dalam
+
+pandangan
+
+menentukan
+
+muka/utama
+
+pandangan muka/
+
+dari suatu
+
+utama dari suatu
+
+objek/benda
+
+objek/benda kerja
+
+kerja sebagai
+
+sebagai reprensentasi
+
+18
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+reprensentasi
+
+(mewakili) bentuk
+
+(mewakili)
+
+benda kerja
+
+bentuk benda
+
+berdasarkan kriteria
+
+kerja
+
+yang berlaku.
+
+berdasarkan
+
+kriteria yang
+
+berlaku.
+
+2.2.3 Menerapkan
+
+Ketepatan dalam
+
+sistem proyeksi menerapkan sistem
+
+sudut pertama proyeksi sudut
+
+(proyeksi Eropa) pertama (proyeksi
+
+atau sistem
+
+Eropa) atau sistem
+
+proyeksi sudut proyeksi sudut ketiga
+
+ketiga (proyeksi (proyeksi Amerika)
+
+Amerika) dalam dalam menggambar
+
+menggambar
+
+pandangan-
+
+pandangan-
+
+pandangan dari
+
+pandangan dari objek/benda kerja.
+
+objek/benda
+
+kerja.
+
+2.2.4 Menentukan
+
+Ketepatan dalam
+
+jumlah
+
+menentukan jumlah
+
+pandangan
+
+pandangan efektif
+
+efektif yang
+
+yang diperlukan
+
+diperlukan
+
+dalam
+
+dalam
+
+menggambarkan
+
+menggambarkan objek/benda kerja.
+
+objek/benda
+
+kerja.
+
+2.2.5 Memberikan
+
+Ketepatan dalam
+
+19
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+ukuran pada
+
+memberikan ukuran
+
+gambar kerja
+
+pada gambar kerja
+
+berdasarkan
+
+berdasarkan hasil-
+
+hasil
+
+hasil pengukuran
+
+pengukuran
+
+pada objek/benda
+
+pada
+
+kerja berdasarkan
+
+objek/benda
+
+prinsip-prinsip
+
+kerja.
+
+penggunaan ukuran.
+
+2.2.6 Menerapkan
+
+Ketepatan dalam
+
+nilai-nilai
+
+menerapkan nilai-
+
+toleransi dan
+
+nilai toleransi dan
+
+kesesuaian pada kesesuaian pada
+
+gambar.
+
+gambar.
+
+2.2.7 Mencantumkan Ketepatan dalam
+
+informasi-
+
+mencantumkan
+
+informasi
+
+informasi-informasi
+
+penting pada
+
+penting pada
+
+objek/benda
+
+objek/benda kerja
+
+kerja yang
+
+yang berkaitan
+
+berkaitan
+
+dengan spesifikasi
+
+dengan
+
+teknik pada gambar
+
+spesifikasi
+
+kerja.
+
+teknik pada
+
+gambar kerja.
+
+2.2.8 Menuliskan
+
+Ketepatan dalam
+
+simbol-simbol
+
+menuliskan simbol-
+
+pengelasan pada simbol pengelasan
+
+gambar kerja.
+
+pada gambar kerja.
+
+2.3 Mengidentifikasi,
+
+mengoperasikan,
+
+20
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+memelihara, dan
+
+menyimpan alat
+
+ukur mekanik
+
+dasar dan presisi
+
+yang relevan
+
+untuk
+
+melakukan
+
+pengelasan Las
+
+Busur Manual
+
+jenjang 2.
+
+2.3.1 Mengidentifikasi Ketepatan dalam
+
+alat ukur
+
+mengidentifikasi
+
+mekanik presisi jenis, dan fungsi alat
+
+yang relevan
+
+ukur mekanik presisi
+
+untuk
+
+yang relevan untuk
+
+melakukan
+
+melakukan
+
+pengukuran
+
+pengukuran pada
+
+pada proses
+
+proses pengelasan
+
+pengelasan Las Las Busur Manual
+
+Busur Manual jenjang 2.
+
+jenjang 2.
+
+2.3.2 Memilih jenis
+
+Kesesuaian dalam
+
+alat ukur
+
+memilih jenis alat
+
+mekanik presisi ukur mekanik presisi
+
+yang relevan
+
+sesuai dengan jenis
+
+dengan jenis
+
+pengukuran yang
+
+pengukuran
+
+akan dilakukan pada
+
+yang akan
+
+proses pengelasan
+
+dilakukan pada Las Busur Manual
+
+proses
+
+jenjang 2.
+
+21
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+pengelasan Las
+
+Busur Manual
+
+jenjang 2.
+
+2.3.3 Mengoperasikan Keterampilan dalam
+
+alat ukur
+
+menggunakan alat
+
+mekanik presisi ukur mekanik presisi
+
+dalam proses
+
+pada proses
+
+Pengelasan Las pengukuran dimensi
+
+Busur Manual dalam proses
+
+jenjang 2.
+
+pengelasan Las Busur
+
+Manual jenjang 2
+
+sesuai SOP.
+
+2.3.4 Membaca hasil Menginformasikan
+
+pengukuran.
+
+hasil pengukuran
+
+menggunakan alat
+
+ukur mekanik dasar
+
+dan presisi dengan
+
+tepat berdasarkan
+
+sistem satuan yang
+
+digunakan.
+
+2.3.5 Memelihara, dan Menjaga kebersihan,
+
+menyimpan alat kelengkapan dan
+
+ukur mekanik kerapihan setiap alat
+
+dasar dan presisi ukur mekanik dasar
+
+yang relevan
+
+dan presisi serta
+
+untuk
+
+menyimpan pada
+
+melakukan
+
+tempat yang
+
+pengelasan Las seharusnya.
+
+Busur Manual
+
+jenjang 2.
+
+22
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+2.4. Melaksanakan
+
+proses
+
+pengelasan dan
+
+menghasilkan
+
+produk
+
+pengelasan pelat
+
+pada posisi 3F,
+
+4F, 3G, dan 4G
+
+serta pipa pada
+
+posisi 1G dan 2G
+
+sesuai standar
+
+mutu yang
+
+berlaku (SNI,
+
+Amerika, Eropa,
+
+atau Jepang)
+
+dengan
+
+mengutamakan
+
+Kesehatan dan
+
+Keselamatan
+
+Kerja (K3).
+
+2.4.1 Menyiapkan
+
+Ketepatan dalam
+
+konstruksi
+
+menyiapkan
+
+lasan/tepi lasan. konstruksi lasan/tepi
+
+lasan berdasarkan
+
+gambar kerja.
+
+2.4.2 Menyiapkan
+
+Ketepatan dalam
+
+alat-alat las.
+
+menyiapkan alat-alat
+
+las untuk proses
+
+pengelasan Las Busur
+
+Manual jenjang 2.
+
+23
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+2.4.3 Memilih jenis
+
+Ketepatan dalam
+
+dan ukuran
+
+memilih jenis dan
+
+elektroda
+
+ukuran elektroda
+
+berdasarkan
+
+berdasarkan jenis
+
+jenis material
+
+material yang dilas
+
+yang dilas dan dan posisi
+
+posisi
+
+pengelasan.
+
+pengelasan.
+
+2.4.4 Mengatur arus Ketepatan dalam
+
+listrik.
+
+mengatur arus listrik.
+
+2.4.5 Mengatur
+
+Ketepatan dalam
+
+penempatan
+
+menempatkan
+
+bahan/ material bahan/material yang
+
+yang akan dilas. akan dilas.
+
+2.4.6 Membuat las
+
+Ketepatan membuat
+
+cantum (tack
+
+las cantum sesuai
+
+weld).
+
+SOP.
+
+2.4.7 Mengatur posisi Ketepatan mengatur
+
+sudut elektroda sudut elektroda
+
+terhadap benda terhadap benda kerja.
+
+kerja.
+
+2.4.8 Mengatur jarak Ketepatan dalam
+
+elektroda
+
+mengatur jarak
+
+terhadap benda elektroda terhadap
+
+kerja.
+
+benda kerja.
+
+2.4.9 Memilih jenis
+
+Ketepatan dalam
+
+gerakan
+
+memilih jenis gerakan
+
+elektroda.
+
+elektroda
+
+berdasarkan jenis
+
+elektroda, posisi dan
+
+24
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+tebal bahan dasar.
+
+2.4.10 Menyalakan Ketepatan dalam
+
+busur.
+
+memilih cara
+
+penyalaan busur
+
+berdasarkan jenis
+
+mesin las yang
+
+digunakan.
+
+2.4.11 Membuat rigi- Ketepatan membuat
+
+rigi las.
+
+rigi-rigi las sesuai
+
+SOP.
+
+2.4.12 Mematikan
+
+Ketepatan dalam
+
+busur.
+
+mematikan busur
+
+listrik.
+
+2.4.13 Melakukan
+
+Ketepatan dan
+
+pengelasan
+
+kesesuaian proses
+
+pelat pada
+
+pengelasan pelat
+
+posisi 3F, 4F, pada posisi 3F, 4F,
+
+3G, dan 4G 3G, dan 4G serta pipa
+
+serta pipa
+
+pada posisi 1G dan
+
+pada posisi
+
+2G.
+
+1G dan 2G.
+
+2.4.14 Membersih- Ketepatan
+
+kan benda
+
+pembersihan hasil las
+
+hasil lasan. dengan menggunakan
+
+cara dan jenis alat
+
+yang sesuai.
+
+2.4.15 Mencegah
+
+Ketepatan dalam
+
+distorsi.
+
+melakukan
+
+pencegahan distorsi.
+
+2.4.16 Memeriksa
+
+a. Ketepatan dalam
+
+25
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN
+
+INDIKATOR
+
+KOMPETENSI
+
+KELULUSAN
+
+hasil
+
+melakukan
+
+pengelasan.
+
+pemeriksaan
+
+secara visual
+
+terhadap bentuk
+
+rigi-rigi las.
+
+b. Ketepatan dalam
+
+mengidentifikasi
+
+jenis-jenis dan
+
+fungsi alat uji/alat
+
+ukur yang
+
+digunakan.
+
+c. Ketepatan dalam
+
+memilih jenis alat
+
+uji dan/atau alat
+
+ukur yang
+
+digunakan
+
+berdasarkan jenis
+
+pengujian yang
+
+dilakukan.
+
+d. Keterampilan
+
+dalam melakukan
+
+pemeriksaan hasil
+
+pekerjaan (hasil
+
+lasan)
+
+menggunakan alat
+
+yang sesuai.
+
+2.4.17 Melakukan Ketepatan dalam
+
+perbaikan melakukan perbaikan
+
+dari hasil pengelasan
+
+pengelas- berdasarkan jenis
+
+26
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+an. kegagalan yang
+
+terjadi.
+
+2.5 Mempresentasi-
+
+kan hasil
+
+pengelasan, dan
+
+menyusun
+
+laporan kinerja
+
+secara manual
+
+atau dengan
+
+menggunakan
+
+peranti lunak.
+
+2.5.1 Presentasi hasil Mampu
+
+pekerjaan
+
+mempresentasikan
+
+pengelasan.
+
+hasil pengelasan
+
+dengan baik.
+
+2.5.2 Laporan hasil
+
+Ketepatan dalam
+
+pengamatan dan melaporkan hasil
+
+pengukuran
+
+pengamatan dan
+
+diserahkan
+
+pengukuran
+
+kepada yang
+
+diserahkan kepada
+
+berhak sesuai
+
+yang berhak sesuai
+
+dengan SOP.
+
+dengan SOP.
+
+Pengetahuan Yang Dikuasai
+
+3. Mampu
+
+3.1. Kesehatan dan
+
+memiliki
+
+Keselamatan Kerja
+
+pengetahuan
+
+(K3).
+
+operasional
+
+3.1.1 Mengidentifikasi Ketepatan dalam
+
+lengkap,
+
+jenis-jenis
+
+mengidentifikasi
+
+prinsipprinsip
+
+bahaya ditempat jenis-jenis bahaya di
+
+dan konsep
+
+kerja dan
+
+tempat kerja dan
+
+27
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+umum dalam
+
+sumber
+
+sumber
+
+bidang
+
+penyebabnya.
+
+penyebabnya.
+
+pengelasan Las 3.1.2 Mengidentifikasi Ketepatan dalam
+
+Busur Manual.
+
+cara-cara
+
+mengidentifikasi
+
+penanggulangan cara-cara
+
+bahaya di
+
+penanggulangan
+
+tempat kerja.
+
+bahaya yang terjadi
+
+di tempat kerja.
+
+3.1.3 Mengidentifikasi Ketepatan dalam
+
+jenis-jenis alat mengidentifikasi
+
+pelindung diri
+
+jenis-jenis alat
+
+(APD) dan
+
+pelindung diri (APD)
+
+fungsinya.
+
+dan fungsinya.
+
+3.1.4 Mengidentifikasi Ketepatan dalam
+
+tanda-tanda
+
+mengidentifikasi
+
+peringatan,
+
+tanda-tanda
+
+larangan, dan
+
+peringatan, larangan,
+
+anjuran yang
+
+dan anjuran yang
+
+ada di tempat
+
+ada di tempat kerja.
+
+kerja.
+
+3.1.5 Mengidentifikasi Ketepatan dalam
+
+faktor-faktor
+
+mengidentifikasi
+
+penyebab
+
+faktor-faktor
+
+terjadinya
+
+penyebab terjadinya
+
+bahaya
+
+bahaya kebakaran.
+
+kebakaran.
+
+3.1.6 Mengidentifikasi Ketepatan dalam
+
+jenis-jenis alat mengidentifikasi
+
+pemadam
+
+jenis-jenis alat
+
+kebakaran dan pemadam kebakaran
+
+28
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+kegunaannya.
+
+dan kegunaannya.
+
+3.2 Istilah bahan,
+
+Ketepatan dalam
+
+komponen, alat, mengartikan istilah-
+
+proses
+
+istilah Asing (Bahasa
+
+pengelasan
+
+Inggris) yang terkait
+
+Busur Manual dengan bahan,
+
+yang berbahasa komponen, alat, dan
+
+Inggris.
+
+proses pengelasan
+
+Busur Manual.
+
+3.3 Prinsip dan
+
+teknik membaca
+
+gambar kerja
+
+lengkap(Gambar
+
+Teknik dan
+
+Simbol Las).
+
+3.3.1 Mengintepretasik Ketepatan dalam
+
+an berbagai
+
+menjelaskan cara
+
+bentuk
+
+menginterpretasikan
+
+objek/benda
+
+berbagai bentuk
+
+kerja ke dalam objek/benda kerja ke
+
+bentuk
+
+dalam bentuk
+
+pandangan-
+
+pandangan-
+
+pandangan.
+
+pandangan.
+
+3.3.2 Menginterpretasi Ketepatan dalam
+
+kan objek/benda menjelaskan cara
+
+kerja ke dalam menginterpretasikan
+
+gambar-gambar objek/benda kerja ke
+
+potongan.
+
+dalam gambar-
+
+gambar potongan.
+
+3.3.3 Menginterpretasi Ketepatan dalam
+
+29
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+kan gambar-
+
+menjelaskan cara
+
+gambar produksi menginterpretasikan
+
+yang akan
+
+gambar-gambar
+
+dikerjakan.
+
+produksi yang akan
+
+dikerjakan.
+
+3.3.4 Menginterpretasi Ketepatan dalam
+
+kan ukuran yang menjelaskan cara
+
+diberikan pada menginterpretasikan
+
+gambar-gambar ukuran yang
+
+pandangan.
+
+diberikan pada
+
+gambar-gambar
+
+pandangan.
+
+3.3.5 Menginterpretasi Ketepatan dalam
+
+kan penerapan menjelaskan cara
+
+nilai-nilai
+
+menginterpretasikan
+
+toleransi dan
+
+penerapan nilai-nilai
+
+kesesuaian pada toleransi dan
+
+gambar.
+
+kesesuaian pada
+
+gambar
+
+3.3.6 Menginterpretasi Ketepatan dalam
+
+kan simbol-
+
+menjelaskan cara
+
+simbol dasar
+
+menginterpretasikan
+
+pengelasan pada simbol-simbol
+
+gambar.
+
+pengelasan pada
+
+gambar.
+
+3.4 Pengetahuan
+
+a. Ketepatan dalam
+
+operasional
+
+menjelaskan
+
+tentang jenis,
+
+fungsi dari jenis
+
+fungsi, cara
+
+alat ukur mekanik
+
+mengoperasikan,
+
+presisi.
+
+30
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+dan merawat
+
+b. Ketepatan dalam
+
+alat ukur
+
+menjelaskan cara
+
+mekanik presisi.
+
+menggunakan alat
+
+ukur mekanik
+
+presisi.
+
+c. Ketepatan dalam
+
+menjelaskan cara
+
+merawat alat ukur
+
+mekanik presisi.
+
+3.5 Teknik pengelasan
+
+pelat untuk posisi
+
+3G, 4G, 3F, dan 4F
+
+serta teknik
+
+pengelasan pipa
+
+untuk posisi 1G
+
+dan 2G
+
+menggunakan Las
+
+Busur Manual
+
+serta
+
+perbaikannya.
+
+3.5.1 Mendeskripsikan Ketepatan dalam
+
+cara mengatur mendeskripsikan cara
+
+penempatan
+
+mengatur
+
+bahan/ material penempatan bahan/
+
+yang akan dilas. material yang akan
+
+dilas.
+
+3.5.2 Mendeskripsikan Ketepatan dalam
+
+cara mengatur mendeskripsikan cara
+
+posisi sudut
+
+mengatur posisi
+
+elektroda
+
+sudut elektroda
+
+31
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+terhadap benda terhadap benda kerja.
+
+kerja.
+
+3.5.3 Mendeskripsikan Ketepatan dalam
+
+cara mengatur mendeskripsikan cara
+
+jarak elektroda mengatur jarak
+
+terhadap benda elektroda terhadap
+
+kerja.
+
+benda kerja.
+
+3.5.4 Mendeskripsikan Ketepatan dalam
+
+cara memilih
+
+mendeskripsikan cara
+
+bentuk gerakan memilih bentuk
+
+elektroda yang gerakan elektroda
+
+sesuai.
+
+yang sesuai.
+
+3.4.5 Mendeskripsikan Ketepatan dalam
+
+cara memilih
+
+mendeskripsikan cara
+
+arah pengelasan. memilih arah
+
+pengelasan.
+
+3.5.6 Mendeskripsikan Ketepatan dalam
+
+cara melakukan mendeskripsikan cara
+
+pengelasan pelat melakukan
+
+untuk posisi 3G, pengelasan pelat
+
+4G, 3F, dan 4F untuk posisi 3G, 4G,
+
+serta pengelasan 3F, dan 4F serta
+
+pipa untuk
+
+pengelasan pipa
+
+posisi 1G dan 2G untuk posisi 1G dan
+
+menggunakan 2G menggunakan Las
+
+Las Busur
+
+Busur Manual.
+
+Manual.
+
+3.5.7 Mendeskripsikan Ketepatan dalam
+
+cara melakukan mendeskripsikan cara
+
+pembersihan
+
+melakukan
+
+32
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+benda hasil
+
+pembersihan benda
+
+lasan.
+
+hasil lasan.
+
+3.5.8 Mendeskripsikan Mampu
+
+cara melakukan mendeskripsikan
+
+pemeriksaan
+
+cara melakukan
+
+hasil pengelasan. pemeriksaan hasil
+
+pengelasan.
+
+Hak dan Tanggung jawab
+
+4. Bertanggung
+
+4.1 Membuat dan
+
+Gambar teknik
+
+jawab pada
+
+membaca gambar lengkap dibuat sesuai
+
+pekerjaan
+
+teknik dan simbol kaidah pembuatan
+
+sendiri dan
+
+pengelasan.
+
+gambar.
+
+dapat diberi
+
+4.2 Melakukan
+
+Kelancaran dan
+
+tanggung jawab
+
+komunikasi yang efektifitas
+
+membimbing
+
+baik dan efektif berkomunikasi
+
+orang lain .
+
+dengan rekan
+
+dengan rekan kerja
+
+kerja.
+
+dalam menjalankan
+
+tugas.
+
+4.3 Mengidentifikasi, a. Kesesuaian jenis
+
+mengoperasikan,
+
+peralatan las yang
+
+memelihara, dan
+
+digunakan dengan
+
+menyimpan
+
+fungsi dan jenis
+
+peralatan yang
+
+pekerjaan yang
+
+relevan untuk
+
+dilakukan.
+
+melakukan
+
+b. Kesesuaian jenis
+
+pengelasan Las
+
+alat ukur mekanik
+
+Busur Manual
+
+presisi yang
+
+jenjang II dan alat digunakan dengan
+
+ukur mekanik
+
+fungsi dan jenis
+
+presisi.
+
+pengukuran hasil
+
+33
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+lasan yang
+
+dilakukan.
+
+4.4 Melaksanakan
+
+a. Terlaksananya
+
+proses
+
+seluruh proses
+
+pengelasan
+
+pengelasan yang
+
+dengan Las Busur dibebankan
+
+Manual dan
+
+kepadanya tanpa
+
+menghasilkan
+
+ada kecelakaan
+
+produk
+
+kerja.
+
+pengelasan pelat b. Dihasilkannya
+
+pada posisi 3F,
+
+produk pengelasan
+
+4F, 3G, dan 4G
+
+yang memenuhi
+
+serta pipa pada
+
+persyaratan dan
+
+posisi 1G dan 2G
+
+kualitas mutu
+
+sesuai standar
+
+yang ditentukan.
+
+mutu yang
+
+berlaku (SNI,
+
+Amerika, Eropa,
+
+atau Jepang)
+
+dengan
+
+mengutamakan
+
+Kesehatan dan
+
+Keselamatan
+
+Kerja (K3).
+
+4.5 Mempresentasi- Tersusunnya laporan
+
+kan hasil
+
+kerja sesuai standar
+
+pengelasan, dan laporan yang
+
+menyusun
+
+ditetapkan.
+
+laporan kinerja
+
+secara manual
+
+34
+
+UNIT N0
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+atau dengan
+
+menggunakan
+
+peranti lunak
+
+sederhana.
+
+4.6 Bertanggung
+
+Ketepatan
+
+jawab dalam
+
+menjalankan peran
+
+membimbing juru dan tugas dalam
+
+las yang sedang membimbing pekerja
+
+magang atau
+
+baru/magang.
+
+yang baru kerja.
+
+E. Rekognisi Pembelajaran Lampau
+
+Rekognisi Pembelajaran Lampau (RPL) adalah proses penilaian dan pengakuan berbasis KKNI, atas capaian pembelajaran seseorang yang diperoleh selama hidupnya, baik melalui program pendidikan formal, informal, non-formal maupun secara otodidak.
+
+RPL dapat dikembangkan pada sektor pendidikan, sektor ketenagakerjaan (kenaikan pangkat, jenjang karir) atau pemberian penghargaan dan pengakuan oleh masyarakat terhadap seseorang yang telah menunjukkan bukti-bukti unggul dalam keahlian atau kompetensi tertentu.
+
+RPL diharapkan dapat memperluas akses dan kesempatan serta mempercepat waktu bagi masyarakat luas dalam meningkatkan kemampuan maupun keahliannya melalui program kursus dan pelatihan.
+
+Pengembangan dan pelaksanaan RPL harus didasari oleh beberapa prinsip, antara lain.
+35
+
+1. Mengutamakan transparansi dan akuntabilitas. Informasi tentang proses penyelenggaraan dan persyaratan untuk mengikuti RPL harus dapat diakses secara luas baik oleh pengguna (individu yang membutuhkan) maupun masyarakat umum.
+2. Institusi atau lembaga penyelenggara RPL harus telah terakreditasi oleh badan akreditasi tingkat nasional, memiliki mandat yang sah dari institusi atau badan yang relevan dan berwenang untuk hal tersebut.
+3. Menunjukkan kesadaran mutu terhadap penyelenggaraan dan implikasi RPL pada lulusan, khususnya dan masyarakat luas pada umumnya.
+4. Setiap institusi atau lembaga penyelenggara RPL harus melakukan evaluasi secara berkelanjutan untuk menjamin pencapaian mutu lulusan sesuai dengan standar yang di tetapkan.
+5. Penyelenggara kursus dan pelatihan yang memiliki sifat multi disiplin perlu mempertimbangkan kemungkinan untuk menyelenggarakan program RPL.
+36
+
+III. PENUTUP
+Program kursus dan pelatihan telah mulai berkembang sejak lama di berbagai negara maju, sehingga banyak jenis kursus dan pelatihan yang dikembangkan di Indonesia mungkin telah pula berkembang dengan baik di negara-negara lain. Oleh karena itu arah pengembangan lembaga kursus dan pelatihan di Indonesia pada waktu yang akan datang harus menuju ke arah internasionalisasi, sehingga dapat dicapai kesetaraan baik capaian pembelajaran, standar kompetensi atau mutu lulusan.
+Tendensi pergerakan pekerja antar negara akan semakin besar di waktu yang akan datang sebagai implikasi dari globalisasi. Oleh karena itu lembaga kursus dan pelatihan di Indonesia akan menjadi salah satu penyedia tenaga kerja terampil yang potensial baik untuk Indonesia sendiri maupun negara-negara lain yang membutuhkan. Hal ini menuntut perlunya ditumbuhkan kesadaran yang tinggi akan penjaminan mutu berkelanjutan, baik dalam lingkungan internal lembaga penyelenggara maupun secara eksternal melalui badan-badan akreditasi dan sertifikasi. Keunggulan dalam memenangkan persaingan antara lulusan lembaga kursus dan pelatihan nasional dengan lembaga kursus dan pelatihan internasional harus menjadi salah satu fokus pengembangan di masa yang akan datang.
+Sebagai bangsa yang memiliki kekayaan tradisi dan budaya maka berbagai kursus dan pelatihan yang khas Indonesia sudah berkembang dengan pesat sampai saat ini, terutama dalam bidang teknik, pariwisata, kuliner, dan lain-lain. Walaupun demikian, masih diperlukan upaya untuk memperoleh pangakuan yang lebih luas baik di tingkat nasional maupun internasional, mengembangkan standar kompetensi lulusan yang khas serta menjadikannya sebagai kekayaan nasional.
+37
+
+Terkait dengan kursus dan pelatihan Mengelas dengan Las Busur Manual (LBM)/Shielded Metal Arc Welding (SMAW) Berbasis KKNI Jenjang II ini, maka arah pengembangan spesifik yang akan dilakukan adalah: Lulusan dapat mengawali karir kerja di bidang las, khususnya dalam bidang Jasa Industri Pengelasan dari tingkat dasar sampai tingkat yang lebih tinggi.
+MENTERI PENDIDIKAN DAN KEBUDAYAAN REPUBLIK INDONESIA, TTD. ANIES BASWEDAN Salinan sesuai dengan aslinya, Kepala Biro Hukum dan Organisasi Kementerian Pendidikan dan Kebudayaan, TTD. Aris Soviyani NIP 196112071986031001
+38
+
+

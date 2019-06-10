@@ -1,0 +1,103 @@
+SALINAN
+
+MENTERI DALAM NEGERI REPUBLIK INDONESIA
+PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA NOMOR 74 TAHUN 2015 TENTANG
+TATA CARA PERUBAHAN ELEMEN DATA PENDUDUK DALAM KARTU TANDA PENDUDUK ELEKTRONIK
+DENGAN RAHMAT TUHAN YANG MAHA ESA,
+MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+Menimbang Mengingat
+
+: bahwa untuk melaksanakan ketentuan Pasal 64 ayat (10) Undang-Undang Nomor 24 Tahun 2013 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, perlu menetapkan Peraturan Menteri Dalam Negeri tentang Tata Cara Perubahan Elemen Data Penduduk dalam Kartu Tanda Penduduk Elektronik
+: 1. Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 124, Tambahan Lembaran Negara Republik Indonesia Nomor 4674) sebagaimana telah diubah dengan Undang-Undang Nomor 24 Tahun 2013 (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 262, Tambahan Lembaran Negara Republik Indonesia Nomor 5475);
+2. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian Negara (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 166, Tambahan Lembaran Negara Republik Indonesia Nomor 4916);
+
+-2-
+3. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah beberapa kali terakhir dengan UndangUndang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);
+4. Peraturan Presiden Republik Indonesia Nomor 26 Tahun 2009 tentang Penerapan Kartu Tanda Penduduk Berbasis Nomor Induk Kependudukan Secara Nasional sebagaimana telah diubah beberapa kali, terakhir dengan Peraturan Presiden Republik Indonesia Nomor 112 Tahun 2013;
+5. Peraturan Menteri Dalam Negeri Nomor 43 Tahun 2015 tentang Organisasi dan Tata Kerja Kementerian Dalam Negeri (Berita Negara Republik Indonesia Tahun 2015 Nomor 564);
+MEMUTUSKAN: Menetapkan : PERATURAN MENTERI DALAM NEGERI TENTANG TATA CARA
+PERUBAHAN ELEMEN DATA PENDUDUK DALAM KARTU TANDA PENDUDUK ELEKTRONIK.
+BAB I KETENTUAN UMUM
+Pasal 1 Dalam Peraturan Menteri ini, yang dimaksud dengan: 1. Elemen data statis adalah data yang bersifat tetap. 2. Elemen data dinamis adalah data yang mengalami
+perubahan susah untuk diprediksi karena sifatnya dapat berubah. 3. Penduduk adalah Warga Negara Indonesia dan Orang Asing yang bertempat tinggal di Indonesia.
+
+-3-
+4. Kartu Tanda Penduduk Elektronik selanjutnya disingkat KTP-el, adalah Kartu Tanda Penduduk yang dilengkapi chip yang merupakan identitas resmi penduduk sebagai bukti diri yang diterbitkan oleh Instansi Pelaksana.
+5. Sistem Informasi Administrasi Kependudukan, selanjutnya disingkat SIAK adalah sistem informasi yang memanfaatkan teknologi informasi dan komunikasi untuk memfasilitasi pengelolaan informasi administrasi kependudukan di tingkat Penyelenggara dan Dinas Kependudukan dan Pencatatan Sipil sebagai satu kesatuan.
+6. Nomor Induk Kependudukan, selanjutnya disingkat NIK adalah nomor identitas Penduduk yang bersifat unik atau khas, tunggal dan melekat pada seseorang yang terdaftar sebagai Penduduk Indonesia.
+BAB II ELEMEN DATA DALAM KTP-el
+Pasal 2 (1) Elemen data penduduk dalam Kartu Tanda Penduduk
+Elektronik, terdiri dari : a. nomor induk kependudukan (NIK); b. nama; c. tempat tanggal lahir; d. laki-laki atau perempuan; e. agama; f. status perkawinan; g. golongan darah; h. alamat; i. pekerjaan; j. kewarganegaraan; k. pas foto; l. masa berlaku; m. tempat dan tanggal dikeluarkan KTP-el;dan n. tanda tangan pemilik KTP-el.
+
+-4-
+(2) Elemen data sebagaimana dimaksud pada ayat (1) terdiri dari: a. Data statis; b. Data dinamis.
+Pasal 3 (1) Elemen data statis yaitu NIK, tempat tanggal lahir dan
+golongan darah. (2) Dalam hal NIK sebagaimana dimaksud pada ayat (1)
+berbeda dengan dokumen kependudukan lainnya maka NIK dalam KTP-el yang digunakan. (3) Dalam hal terjadi kesalahan dalam penulisan tempat tanggal lahir dan golongan darah dilakukan dengan melampirkan dokumen yang sah: a. untuk tempat tanggal lahir melampirkan Kutipan Akta
+Kelahiran dan/atau Ijasah:dan b. untuk golongan darah melampirkan surat keterangan
+medis.
+BAB III TATA CARA PERUBAHAN ELEMEN DATA DINAMIS
+Bagian Kesatu Umum Pasal 4
+(1) Elemen data dinamis dapat dilakukan perubahan melalui: a. Perbaikan kesalahan tulis redaksional;dan b. Penetapan pengadilan atau penetapan dari instansi yang berwenang;
+(2) Elemen data dinamis sebagaimana dimaksud pada ayat (1) terdiri dari: a. nama; b. laki-laki atau perempuan; c. agama; d. status perkawinan; e. alamat;
+
+-5-
+f. pekerjaan; g. kewarganegaraan; h. pas foto; i. masa berlaku; j. tempat dan tanggal dikeluarkan KTP-el; dan k. tanda tangan pemilik KTP-el.
+Pasal 5 (1) Perbaikan kesalahan tulis redaksional sebagaimana
+dimaksud dalam Pasal 4 ayat (1) huruf a, dilakukan dengan melampirkan persyaratan dokumen pendukung. (2) Penetapan pengadilan atau penetapan dari instansi yang berwenang sebagaimana dimaksud dalam Pasal 4 ayat (1) huruf b, dilakukan dengan melampirkan persyaratan: a. fotocopy salinan penetapan pengadilan dan
+menunjukkan salinan penetapan pengadilan; dan b. fotocopy penetapan dari instansi yang berwenang dan
+menunjukkan penetapan dari instansi yang berwenang
+Bagian Kedua Perubahan Elemen Data Dinamis
+Pasal 6 Perubahan elemen data nama dilakukan dengan cara: a. melampirkan fotokopi kutipan akta kelahiran atau ijasah; b. pencatatan perubahan elemen data nama melalui SIAK; dan c. perubahan elemen data nama pada biodata penduduk
+sebagai dasar penerbitan KTP-el yang baru.
+Pasal 7 Perubahan elemen data laki-laki atau perempuan dilakukan dengan cara: a. melampirkan fotokopi salinan penetapan pengadilan, dan
+menunjukkan salinan penetapan pengadilan; b. pencatatan perubahan elemen data laki-laki/perempuan
+melalui SIAK; dan c. perubahan elemen data laki-laki/perempuan pada biodata
+penduduk sebagai dasar penerbitan KTP-el yang baru.
+
+-6-
+Pasal 8 Perubahan elemen data agama dilakukan dengan cara: a. melampirkan fotokopi salinan surat keterangan dari
+pemuka agama dan menunjukkan salinan surat keterangan dari pemuka agama; b. pencatatan perubahan agama melalui SIAK; dan c. perubahan elemen data agama pada biodata penduduk sebagai dasar penerbitan KTP-el yang baru.
+Pasal 9 Perubahan elemen data status perkawinan dilakukan dengan cara: a. melampirkan fotokopi salinan penetapan pengadilan atau
+fotokopi akta kematian, dan menunjukkan salinan penetapan pengadilan atau akta kematian; b. pencatatan perubahan elemen data status perkawinan melalui SIAK; dan c. perubahan elemen data status perkawinan pada biodata penduduk sebagai dasar penerbitan KTP-el yang baru.
+Pasal 10 a. Perubahan elemen data alamat dilakukan dengan cara:
+melampirkan surat keterangan dari rukun tetangga/rukun warga atau nama lainnya; b. pencatatan perubahan elemen data alamat melalui SIAK; dan c. perubahan elemen data alamat pada biodata penduduk sebagai dasar penerbitan KTP-el yang baru.
+Pasal 11 Perubahan elemen data pekerjaan dilakukan dengan cara: a. melampirkan surat keterangan dari instansi, lembaga dan
+perusahaan; b. pencatatan perubahan elemen data pekerjaan melalui SIAK; c. perubahan elemen data pekerjaan pada biodata penduduk
+sebagai dasar penerbitan KTP-el yang baru
+
+-7-
+Pasal 12 Perubahan elemen data kewarganegaraan dilakukan dengan cara: a. melampirkan fotokopi salinan Keputusan Presiden atau
+salinan Keputusan Menteri yang bidang tugasnya meliputi urusan kewarganegaraan, dan menunjukkan salinan Keputusan Presiden atau salinan Keputusan Menteri yang bidang tugasnya meliputi urusan kewarganegaraan; b. pencatatan perubahan elemen data kewarganegaraan melalui SIAK; dan c. perubahan elemen data kewarganegaraan pada biodata penduduk sebagai dasar penerbitan KTP-el yang baru.
+Pasal 13 Perubahan elemen data pas foto dilakukan apabila penduduk mengalami perubahan fisik secara permanen atau adanya kerusakan fisik KTP-el dilakukan dengan cara: a. mengajukan permohonan perubahan kepada Dinas
+Kependudukan dan Pencatatan Sipil Kabupaten/Kota; b. pencatatan perubaha nama melalui SIAK;dan c. perubahan elemen data pas foto pada biodata penduduk
+sebagai dasar penerbitan KTP-el yang baru
+Pasal 14 Perubahan elemen data masa berlaku KTP-el bagi orang asing dilakukan dengan tata cara: a. melampirkan fotokopi kartu izin tinggal tetap, dan
+menunjukkan kartu izin tinggal tetap; b. pencatatan perubahan masa berlaku KTP-el bagi orang asing
+melalui SIAK; dan c. perubahan elemen data masa berlaku KTP-el bagi orang
+asing pada biodata penduduk sebagai dasar penerbitan KTPel yang baru.
+
+-8-
+BAB V KETENTUAN LAIN-LAIN
+Pasal 15 (1) Elemen data statis tempat dan tanggal lahir dan golongan
+darah dapat dilakukan perubahan. (2) Perubahan elemen data tempat dan tanggal lahir dengan
+cara: a. Melampirkan fotokopi salinan penetapan pengadilan dan
+menunjukkan salinan penetapan pengadilan; b. pencatatan perubahan elemen data tempat dan tanggal
+lahir melalui SIAK; dan c. perubahan elemen data tempat dan tanggal lahir pada
+biodata penduduk sebagai dasar penerbitan KTP-el yang baru. (3) Perubahan elemen data golongan darah dilakukan dengan cara: a. melampirkan surat keterangan golongan darah; b. pencatatan perubahan elemen data golongan darah melalui SIAK; dan c. perubahan elemen data golongan darah pada biodata penduduk sebagai dasar penerbitan KTP-el yang baru.
+
+-9-
+BAB V KETENTUAN PENUTUP
+Pasal 16
+Peraturan Menteri ini mulai berlaku pada tanggal diundangkan.
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Menteri ini dengan penempatannya dalam Berita Negara Republik Indonesia.
+Ditetapkan di Jakarta pada tanggal 24 November 2015. MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+ttd TJAHJO KUMOLO
+Diundangkan di Jakarta pada tanggal 25 November 2015.
+DIREKTUR JENDERAL PERATURAN PERUNDANG-UNDANGAN KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA,
+ttd WIDODO EKATJAHJANA
+BERITA NEGARA REPUBLIK INDONESIA TAHUN 2015 NOMOR 1766. Salinan sesuai dengan aslinya KEPALA BIRO HUKUM, ttd W. SIGIT PUDJIANTO
+NIP. 19590203 198903 1 001.
+
+

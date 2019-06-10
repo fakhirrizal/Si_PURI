@@ -1,0 +1,2480 @@
+PROGRAM DAN KEGIATAN
+PROGRAM DAN KEGIATAN PADA SETIAP SKPD
+x xx xx 01 Program Pelayanan Administrasi Perkantoran
+x xx xx 01 01 Penyediaan jasa surat menyurat
+x xx xx 01 02 Penyediaan jasa komunikasi, sumber daya air dan listrik
+x xx xx 01 03 Penyediaan jasa peralatan dan perlengkapan kantor
+x xx xx 01 04 Penyediaan jasa jaminan pemeliharaan kesehatan PNS
+x xx xx 01 05 Penyediaan jasa jaminan barang milik daerah
+x xx xx 01 06 Penyediaan jasa pemeliharaan dan perizinan kendaraan dinas/operasional
+x xx xx 01 07 Penyediaan jasa administrasi keuangan
+x xx xx 01 08 Penyediaan jasa kebersihan kantor
+x xx xx 01 09 Penyediaan jasa perbaikan peralatan kerja
+x xx xx 01 10 Penyediaan alat tulis kantor
+x xx xx 01 11 Penyediaan barang cetakan dan penggandaan
+x xx xx 01 12 Penyediaan komponen instalasi listrik/penerangan bangunan kantor
+x xx xx 01 13 Penyediaan peralatan dan perlengkapan kantor
+x xx xx 01 14 Penyediaan peralatan rumah tangga
+x xx xx 01 15 Penyediaan bahan bacaan dan peraturan perundang-undangan
+x xx xx 01 16 Penyediaan bahan logistik kantor
+x xx xx 01 17 Penyediaan makanan dan minuman
+x xx xx 01 18 Rapat-rapat kordinasi dan konsultasi ke luar daerah
+x xx xx 01 19 Dst…………………..
+x xx xx 02 Program peningkatan sarana dan prasarana aparatur
+x xx xx 02 01 Pembangunan rumah jabatan
+x xx xx 02 02 Pembangunan rumah dinas
+x xx xx 02 03 Pembangunan gedung kantor
+x xx xx 02 04 Pengadaan mobil jabatan
+x xx xx 02 05 Pengadaan kendaraan dinas/operasional
+x xx xx 02 06 Pengadaan perlengkapan rumah jabtan/dinas
+x xx xx 02 07 Pengadaan perlengkapan gedung kantor
+x xx xx 02 08 Pengadaan peralatan rumah jabatan/dinas
+x xx xx 02 09 Pengadaan peralatan gedung kantor
+x xx xx 02 10 Pengadaan mebeleur
+x xx xx 02 11 Pengadaan ……………….
+s/d
+x xx xx 02 19 dst………….
+x xx xx 02 20 Pemeliharaan rutin/berkala rumah jabatan
+x xx xx 02 21 Pemeliharaan rutin/berkala rumah dinas
+x xx xx 02 22 Pemeliharaan rutin/berkala gedung kantor
+x xx xx 02 23 Pemeliharaan rutin/berkala mobil jabatan
+x xx xx 02 24 Pemeliharaan rutin/berkala kendaraan dinas/operasional
+x xx xx 02 25 Pemeliharaan rutin/berkala perlengkapan rumah jabatan/dinas
+x xx xx 02 26 Pemeliharaan rutin/berkala perlengkapan gedung kantor
+x xx xx 02 27 Pemeliharaan rutin/berkala peralatan rumah jabatan/dinas
+x xx xx 02 28 Pemeliharaan rutin/berkala peralatan gedung kantor
+x xx xx 02 29 Pemeliharaan rutin/berkala mebeleur
+x xx xx 02 30 Pemeliharaan rutin/berkala ……………….
+s/d
+x xx xx 02 39 dst………….
+x xx xx 02 40 Rehabilitasi sedang/berat rumah jabatan
+x xx xx 02 41 Rehabilitasi sedang/berat rumah dinas
+x xx xx 02 42 Rehabilitasi sedang/berat rumah gedung kantor
+x xx xx 02 43 Rehabilitasi sedang/berat mobil jabatan
+x xx xx 02 44 Rehabilitasi sedang/berat kendaraan dinas/operasional
+x xx xx 02 45 dst………….
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+x xx xx 03 Program peningkatan disiplin aparatur
+x xx xx 03 01 Pengadaan mesin/kartu absensi
+x xx xx 03 02 Pengadaan pakaian dinas beserta perlengkapannya
+x xx xx 03 03 Pengadaan pakaian kerja lapangan
+x xx xx 03 04 Pengadaan pakaian KORPRI
+x xx xx 03 05 Pengadaan pakaian khusus hari-hari tertentu
+x xx xx 03 06 dst………….
+x xx xx 04 Program fasilitas pindah/purna tugas PNS
+x xx xx 04 01 Pemulangan pegawai yang pensiun
+x xx xx 04 02 Pemulangan pegawai yang tewas dalam melaksanakan tugas
+x xx xx 04 03 Pemindahan tugas PNS
+x xx xx 04 04 dst………….
+x xx xx 05 Program peningkatan kapasitas sumber daya aparatur
+x xx xx 05 01 Pendidikan dan pelatihan formal
+x xx xx 05 02 Sosialisasi peraturan perundang-undangan
+x xx xx 05 03 Bimbingan teknis implementasi peraturan perundang-undangan
+x xx xx 05 04 dst………….
+x xx xx 06 Program peningkatan pengembangan sistem pelaporan capaian kinerja dan keuangan 
+x xx xx 06 01 Penyusunan laporan capaian kinerja dan ikhtisar realisasi kinerja SKPD
+x xx xx 06 02 Penyusunan laporan keuangan semesteran
+x xx xx 06 03 Penyusunan pelaporan prognosis realisasi anggaran
+x xx xx 06 04 Penyusunan pelaporan keuangan akhir tahun
+x xx xx 06 05 dst………….
+x xx xx 09 Program dst……….
+s.d
+x xx xx 14 Program dst……….
+1 URUSAN WAJIB
+1 01 xx Pendidikan 
+1 01 xx 15 Program Pendidikan Anak Usia Dini
+1 01 xx 15 01 Pembangunan gedung sekolah
+1 01 xx 15 02 Pembangunan rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 15 03 Penambahan ruang kelas sekolah
+1 01 xx 15 04 Penambahan ruang guru sekolah
+1 01 xx 15 05 Pembangunan ruang locker siswa
+1 01 xx 15 06 Pembangunan sarana dan prasarana olahraga
+1 01 xx 15 07 Pembangunan saranan dan prasarana bermain
+1 01 xx 15 08 Pembangunan ruang serba guna/aula
+1 01 xx 15 09 Pembangunan taman, lapangan upacara dan fasilitas parkir
+1 01 xx 15 10 Pembangunan ruang unit kesehatan sekolah
+1 01 xx 15 11 Pembangunan ruang ibadah
+1 01 xx 15 12 Pembangunan perpusatakaan sekolah
+1 01 xx 15 13 Pembangunan jaringan instalasi listrik sekolah dan perlengkapannya
+1 01 xx 15 14 Pembangunan sarana air bersih dan sanitary
+1 01 xx 15 15 Pengadan buku-buku dan alat tulis siwa
+1 01 xx 15 16 Pengadaan pakaian seragam sekolah
+1 01 xx 15 17 Pengadaan pakaian olahraga
+1 01 xx 15 18 Pengadaaan alat praktik dan peraga siswa
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 01 xx 15 19 Pengadaan mebeluer sekolah
+1 01 xx 15 20 Pengadaan perlengkapan sekolah
+1 01 xx 15 21 Pengadaaan alat rumah tangga sekolah
+1 01 xx 15 22 Pengadaaan sarana mobilitas sekolah
+1 01 xx 15 23 Pemeliharaan rutin/berkala bangunan sekolah
+1 01 xx 15 24 Pemeliharaan rutin/berkala rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 15 25 Pemeliharaan rutin/berkala ruang kelas sekolah
+1 01 xx 15 26 Pemeliharaan rutin/berkala ruang guru sekolah
+1 01 xx 15 27 Pemeliharaan rutin/berkala ruang locker siswa
+1 01 xx 15 28 Pemeliharaan rutin/berkala sarana dan prasarana olahraga 
+1 01 xx 15 29 Pemeliharaan rutin/berkala sarana dan prasarana bermain
+1 01 xx 15 30 Pemeliharaan rutin/berkala ruang serba guna/aula
+1 01 xx 15 31 Pemeliharaan rutin/berkala taman, lapangan uapacara dan fasilitas parkir
+1 01 xx 15 32 Pemeliharaan rutin/berkala ruang unit kesehatan sekolah
+1 01 xx 15 33 Pemeliharaan rutin/berkala ruang ibadah
+1 01 xx 15 34 Pemeliharaan rutin/berkala perpustakaan sekolah
+1 01 xx 15 35 Pemeliharaan rutin/berkala jaringan instalasi listrik sekolah dan perlengkapannya
+1 01 xx 15 36 Pemeliharaan rutin/berkala sarana air bersih dan sanitary
+1 01 xx 15 37 Pemeliharaan rutin/berkala alat peraktik dan peraga siswa
+1 01 xx 15 38 Pemeliharaan rutin/berkala meneluer sekolah
+1 01 xx 15 39 Pemeliharaan rutin/berkala perlengkapan sekolah
+1 01 xx 15 40 Pemeliharaan rutin/berkala alat rumah tangga sekolah
+1 01 xx 15 41 Pemeliharaan rutin/berkala sarana mobilitas sekolah
+1 01 xx 15 42 Rehabilitasi sedang/berat bangunan sekolah
+1 01 xx 15 43 Rehabilitasi sedang/berat rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 15 44 Rehabilitasi sedang/berat asrama siswa
+1 01 xx 15 45 Rehabilitasi sedang/berat ruang kelas sekolah
+1 01 xx 15 46 Rehabilitasi sedang/berat ruang guru sekolah
+1 01 xx 15 47 Rehabilitasi sedang/berat ruang locker siswa
+1 01 xx 15 48 Rehabilitasi sedang/berat sarana olahraga
+1 01 xx 15 49 Rehabilitasi sedang/berat sarana bermain
+1 01 xx 15 50 Rehabilitasi sedang/berat ruang serba guna/aula
+1 01 xx 15 51 Rehabilitasi sedang/berat taman, lapangan upacara dan fasilitas parkir
+1 01 xx 15 52 Rehabilitasi sedang/berat ruang unit kesehatan sekolah
+1 01 xx 15 53 Rehabilitasi sedang/berat ruang ibadah
+1 01 xx 15 54 Rehabilitasi sedang/berat perpustakaan sekolah
+1 01 xx 15 55 Rehabilitasi sedang/berat jaringan instalasi listrik dan perlengkapannya
+1 01 xx 15 56 Rehabilitasi sedang/berat sarana air bersih dan sanitary
+1 01 xx 15 57 Pelatihan kompetensi tenaga pendidik
+1 01 xx 15 58 Pengembangan pendidikan anak usia dini
+1 01 xx 15 59 Penyelenggaraan pendidikan anak usia dini
+1 01 xx 15 60 Pengembangan data dan informasi pendidikan anak usia dini
+1 01 xx 15 61 Penyusunan kebijakan pendidikan anak usia dini
+1 01 xx 15 62 Pengembangan kurikulum, bahan ajar dan model pembelajaran pendidikan ank usia dini
+1 01 xx 15 63 Penyelenggaraan koordinasi dan kerjasama pendidikan anak usia dini
+1 01 xx 15 64 Perencanaan dan penyusunan program anak usia dini
+1 01 xx 15 65 Publikasi dan sosialisasi pendidikan anak usia dini
+1 01 xx 15 66 Monitoring, evaluasi dan pelaporan
+1 01 xx 15 67 dst……………………
+1 01 xx 16 Program Wajib Belajar Pendidikan Dasar Sembilan Tahun
+1 01 xx 16 01 Pembangunan gedung sekolah
+1 01 xx 16 02 Pembangunan rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 16 03 Penambahan ruang kelas sekolah
+1 01 xx 16 04 Penambahan ruang guru sekolah
+1 01 xx 16 05 Pembangunan ruang locker siswa
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 01 xx 16 06 Pembangunan sarana dan prasarana olahraga
+1 01 xx 16 07 Pembangunan sarana dan prasarana bermain
+1 01 xx 16 08 Pembangunan ruang serba guna/aula
+1 01 xx 16 09 Pembangunan taman, lapangan upacara dan fasilitas parkir
+1 01 xx 16 10 Pembangunan ruang unit kesehatan sekolah
+1 01 xx 16 11 Pembangunan ruang ibadah
+1 01 xx 16 12 Pembangunan perpusatakaan sekolah
+1 01 xx 16 13 Pembangunan jaringan instalasi listrik sekolah dan perlengkapannya
+1 01 xx 16 14 Pembangunan sarana air bersih dan sanitary
+1 01 xx 16 15 Pengadan buku-buku dan alat tulis siwa
+1 01 xx 16 16 Pengadaan pakaian seragam sekolah
+1 01 xx 16 17 Pengadaan pakaian olahraga
+1 01 xx 16 18 Pengadaaan alat praktik dan peraga siswa
+1 01 xx 16 19 Pengadaan mebeluer sekolah
+1 01 xx 16 20 Pengadaan perlengkapan sekolah
+1 01 xx 16 21 Pengadaaan alat rumah tangga sekolah
+1 01 xx 16 22 Pengadaaan sarana mobilitas sekolah
+1 01 xx 16 23 Pemeliharaan rutin/berkala bangunan sekolah
+1 01 xx 16 24 Pemeliharaan rutin/berkala rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 16 25 Pemeliharaan rutin/berkala ruang kelas sekolah
+1 01 xx 16 26 Pemeliharaan rutin/berkala ruang guru sekolah
+1 01 xx 16 27 Pemeliharaan rutin/berkala ruang locker siswa
+1 01 xx 16 28 Pemeliharaan rutin/berkala sarana dan prasarana olahraga 
+1 01 xx 16 29 Pemeliharaan rutin/berkala ruang serba guna/aula
+1 01 xx 16 30 Pemeliharaan rutin/berkala taman, lapangan upacara dan fasilitas parkir
+1 01 xx 16 31 Pemeliharaan rutin/berkala ruang unit kesehatan sekolah
+1 01 xx 16 32 Pemeliharaan rutin/berkala ruang ibadah
+1 01 xx 16 33 Pemeliharaan rutin/berkala perpustakaan sekolah
+1 01 xx 16 34 Pemeliharaan rutin/berkala jaringan instalasi listrik sekolah dan perlengkapannya
+1 01 xx 16 35 Pemeliharaan rutin/berkala sarana air bersih dan sanitary
+1 01 xx 16 36 Pemeliharaan rutin/berkala alat peraktik dan peraga siswa
+1 01 xx 16 37 Pemeliharaan rutin/berkala mebeluer sekolah
+1 01 xx 16 38 Pemeliharaan rutin/berkala perlengkapan sekolah
+1 01 xx 16 39 Pemeliharaan rutin/berkala alat rumah tangga sekolah
+1 01 xx 16 40 Pemeliharaan rutin/berkala sarana mobilitas sekolah
+1 01 xx 16 41 Rehabilitasi sedang/berat bangunan sekolah
+1 01 xx 16 42 Rehabilitasi sedang/berat rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 16 43 Rehabilitasi sedang/berat asrama siswa
+1 01 xx 16 44 Rehabilitasi sedang/berat ruang kelas sekolah
+1 01 xx 16 45 Rehabilitasi sedang/berat ruang guru sekolah
+1 01 xx 16 46 Rehabilitasi sedang/berat laboratorium dan praktikum sekolah
+1 01 xx 16 47 Rehabilitasi sedang/berat sarana mobilitas sekolah
+1 01 xx 16 48 Rehabilitasi sedang/berat ruang locker siswa
+1 01 xx 16 49 Rehabilitasi sedang/berat sarana olahraga
+1 01 xx 16 50 Rehabilitasi sedang/berat ruang serba guna/aula
+1 01 xx 16 51 Rehabilitasi sedang/berat taman, lapangan upacara dan fasilitas parkir
+1 01 xx 16 52 Rehabilitasi sedang/berat ruang unit kesehatan sekolah
+1 01 xx 16 53 Rehabilitasi sedang/berat ruang ibadah
+1 01 xx 16 54 Rehabilitasi sedang/berat perpustakaan sekolah
+1 01 xx 16 55 Rehabilitasi sedang/berat jaringan instalasi listrik dan perlengkapannya
+1 01 xx 16 56 Rehabilitasi sedang/berat sarana air bersih dan sanitary
+1 01 xx 16 57 Pelatihan kompetensi tenaga pendidik
+1 01 xx 16 58 Pelatihan kompetensi siswa berprestasi
+1 01 xx 16 59 Pelatihan penyusunan kurikulum
+1 01 xx 16 60 Pembinaan forum masyarakat peduli masyarakat
+1 01 xx 16 61 Pembinaan SMP terbuka
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 01 xx 16 62 Penambahan ruang kelas baru SMP/MTS/SMPLB
+1 01 xx 16 63
+Penyediaan bantuan operasional sekolah (BOS) jenjang SD/MI/SDLB dan SMP/MTS serta pesantren Salafiyah dan satuan 
+pendidikan Non-Islam setara SD dan SMP
+1 01 xx 16 64 Penyediaan  Biaya operasional madrasah
+1 01 xx 16 65 Penyediaan buku pelajaran untuk SD/MI/SDLB dan SMP/MTS
+1 01 xx 16 66 Penyediaan dana pengembangan sekolah untuk SD/MI dan SMP/MTS
+1 01 xx 16 67 Penyelenggraan paket A setara SD
+1 01 xx 16 68 Penyelenggraan paket B setara SMP
+1 01 xx 16 69
+Pembinaan kelembagaan sekolah dan manajemen sekolah dengan penerapan manajemen berbasis sekolah (MBS) di satuan 
+pendidikan dasar
+1 01 xx 16 70 Pembinaan minat, bakat dan kreativitas siswa
+1 01 xx 16 71 Pengembangan comprehensive teaching and learning (CTL)
+1 01 xx 16 72 Pengembangan materi belajar mengajar dan metode pembelajaran dengan menggunakan teknologi informasi dan komunikasi
+1 01 xx 16 73 Penyebarluasan dan sosialisasi berbagai informasi pendidikan dasar
+1 01 xx 16 74 Penyediaan beasiswa retrieval untuk anak putus sekolah
+1 01 xx 16 75 Penyediaan beasiswa transisi
+1 01 xx 16 76 Penyelenggaraan akreditasi sekolah dasar
+1 01 xx 16 77 Penyelenggaraan Multi-Grade Teaching di daerah terpencil
+1 01 xx 16 78 Monitoring, evaluasi dan pelaporan
+1 01 xx 16 79 dst……………………
+1 01 xx 17 Program Pendidikan Menengah
+1 01 xx 17 01 Pembangunan gedung sekolah
+1 01 xx 17 02 Pembangunan rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 17 03 Penambahan ruang kelas sekolah
+1 01 xx 17 04 Penambahan ruang guru sekolah
+1 01 xx 17 05 Pembangunan laboratorium dsan ruang praktikum sekolah (laboratorium bahasa, Komputer, IPA, IPS dan lain-lain)
+1 01 xx 17 06 Pembangunan ruang locker siswa
+1 01 xx 17 07 Pembangunan sarana dan prasarana olahraga
+1 01 xx 17 08 Pembangunan ruang serba guna/aula
+1 01 xx 17 09 Pembangunan taman, lapangan upacara dan fasilitas parkir
+1 01 xx 17 10 Pembangunan ruang unit kesehatan sekolah
+1 01 xx 17 11 Pembangunan ruang ibadah
+1 01 xx 17 12 Pembangunan perpusatakaan sekolah
+1 01 xx 17 13 Pembangunan jaringan instalasi listrik sekolah dan perlengkapannya
+1 01 xx 17 14 Pembangunan sarana air bersih dan sanitary
+1 01 xx 17 15 Pengadan buku-buku dan alat tulis siwa
+1 01 xx 17 16 Pengadaan pakaian seragam sekolah
+1 01 xx 17 17 Pengadaan pakaian olahraga
+1 01 xx 17 18 Pengadaaan alat praktik dan peraga siswa
+1 01 xx 17 19 Pengadaan mebeluer sekolah
+1 01 xx 17 20 Pengadaan perlengkapan sekolah
+1 01 xx 17 21 Pengadaaan alat rumah tangga sekolah
+1 01 xx 17 22 Pengadaaan sarana mobilitas sekolah
+1 01 xx 17 23 Pemeliharaan rutin/berkala bangunan sekolah
+1 01 xx 17 24 Pemeliharaan rutin/berkala rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 17 25 Pemeliharaan rutin/berkala ruang kelas sekolah
+1 01 xx 17 26 Pemeliharaan rutin/berkala ruang guru sekolah
+1 01 xx 17 27 Pemeliharaan rutin/berkala ruang locker siswa
+1 01 xx 17 28 Pemeliharaan rutin/berkala sarana dan prasarana olahraga 
+1 01 xx 17 29 Pemeliharaan rutin/berkala ruang serba guna/aula
+1 01 xx 17 30 Pemeliharaan rutin/berkala taman, lapangan uapacara dan fasilitas parkir
+1 01 xx 17 31 Pemeliharaan rutin/berkala ruang unit kesehatan sekolah
+1 01 xx 17 32 Pemeliharaan rutin/berkala ruang ibadah
+1 01 xx 17 33 Pemeliharaan rutin/berkala perpustakaan sekolah
+1 01 xx 17 34 Pemeliharaan rutin/berkala jaringan instalasi listrik sekolah dan perlengkapannya
+1 01 xx 17 35 Pemeliharaan rutin/berkala sarana air bersih dan sanitary
+1 01 xx 17 36 Pemeliharaan rutin/berkala alat peraktik dan peraga siswa
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 01 xx 17 37 Pemeliharaan rutin/berkala mebeluer sekolah
+1 01 xx 17 38 Pemeliharaan rutin/berkala perlengkapan sekolah
+1 01 xx 17 39 Pemeliharaan rutin/berkala alat rumah tangga sekolah
+1 01 xx 17 40 Pemeliharaan rutin/berkala sarana mobilitas sekolah
+1 01 xx 17 41 Rehabilitasi sedang/berat bangunan sekolah
+1 01 xx 17 42 Rehabilitasi sedang/berat rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 17 43 Rehabilitasi sedang/berat asrama siswa
+1 01 xx 17 44 Rehabilitasi sedang/berat ruang kelas sekolah
+1 01 xx 17 45 Rehabilitasi sedang/berat ruang guru sekolah
+1 01 xx 17 46 Rehabilitasi sedang/berat laboratorium dan praktikum sekolah
+1 01 xx 17 47 Rehabilitasi sedang/berat ruang locker siswa
+1 01 xx 17 48 Rehabilitasi sedang/berat sarana olahraga
+1 01 xx 17 49 Rehabilitasi sedang/berat ruang serba guna/aula
+1 01 xx 17 50 Rehabilitasi sedang/berat taman, lapangan upacara dan fasilitas parkir
+1 01 xx 17 51 Rehabilitasi sedang/berat ruang unit kesehatan sekolah
+1 01 xx 17 52 Rehabilitasi sedang/berat ruang ibadah
+1 01 xx 17 53 Rehabilitasi sedang/berat perpustakaan sekolah
+1 01 xx 17 54 Rehabilitasi sedang/berat jaringan instalasi listrik dan perlengkapannya
+1 01 xx 17 55 Rehabilitasi sedang/berat sarana air bersih dan sanitary
+1 01 xx 17 56 Rehabilitasi sedang/berat sarana mobilitas sekolah
+1 01 xx 17 57 Pelatihan kompetensi tenaga pendidik
+1 01 xx 17 58 Pelatihan penyusunan kurikulum
+1 01 xx 17 59 Pembinaan forum masyarakat peduli pendidikan
+1 01 xx 17 60 Pengembangan alternatif layanan pendidikan menengah untuk daerah-daerah pedesaaan, terpencil dan kepulauan
+1 01 xx 17 61 Penyediaan bantuan operasional manajemen mutu (BOMM)
+1 01 xx 17 62 Penyediaan beasiswa bagi keluarga tidak mampu
+1 01 xx 17 63 Penyelenggraan paket C setara SMU
+1 01 xx 17 64 Pembinaan kelembagaan sekolah dan manajem n sekolah dengan penerapan manajemen berbasis sekolah (MBS) 
+1 01 xx 17 65 Pengembangan materi belajar mengajar dengan menggunakan teknologi informasi dan komunikasi
+1 01 xx 17 66 Peningkatan kerjasama dengan dunia usaha dan industri
+1 01 xx 17 67 Penyebarluasan dan sosialisasi berbagai informasi pendidikan menengah
+1 01 xx 17 68 Penyelenggaraan akreditasi sekolah menengah
+1 01 xx 17 69 Monitoring, evaluasi dan pelaporan
+1 01 xx 17 70 dst……………………
+1 01 xx 18 Program Pendidikan Non Formal
+1 01 xx 18 01 Pemberdayaan tenaga pendidik non formal
+1 01 xx 18 02 Pemberian bantuan operasional pendidikan non formal
+1 01 xx 18 03 Pembinaan pendidikan kursus dan kelembagaan
+1 01 xx 18 04 Pengembangan pendidikan keaksaraan
+1 01 xx 18 05 Pengembangan pendidikan kecakapan hidup
+1 01 xx 18 06 Penyediaan sarana dan prasarana pendidikan non formal
+1 01 xx 18 07 Pengambangan data dan informasi pendidikan non formal
+1 01 xx 18 08 Pengembangan kebijakan pendidikan non formal
+1 01 xx 18 09 Pengembangan kurikulum, bahan ajar dan model pembelajaran pendidikan non formal
+1 01 xx 18 10 Pengembangan sertifikasi pendidikan non formal
+1 01 xx 18 11 Perencanaan dan penyusunan pendidikan non formal
+1 01 xx 18 12 Publikasi dan sosialisasi pendidikan non formal
+1 01 xx 18 13 Monitoring, evaluasi dan pelaporan
+1 01 xx 18 14 dst……………………
+1 01 xx 19 Program Pendidikan Luar Biasa
+1 01 xx 19 01 Pembangunan gedung sekolah
+1 01 xx 19 02 Pembangunan rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 19 03 Penambahan ruang kelas sekolah
+1 01 xx 19 04 Penambahan ruang guru sekolah
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 01 xx 19 05 Pembangunan laboratorium dsan ruang praktikum sekolah (laboratorium bahasa, komputer, IPA, IPS dan lain-lain)
+1 01 xx 19 06 Pembangunan ruang locker siswa
+1 01 xx 19 07 Pembangunan sarana dan prasarana olahraga
+1 01 xx 19 08 Pembangunan ruang serba guna/aula
+1 01 xx 19 09 Pembangunan taman, lapangan upacara dan fasilitas parkir
+1 01 xx 19 10 Pembangunan ruang unit kesehatan sekolah
+1 01 xx 19 11 Pembangunan ruang ibadah
+1 01 xx 19 12 Pembangunan perpusatakaan sekolah
+1 01 xx 19 13 Pembangunan jaringan instalasi listrik sekolah dan perlengkapannya
+1 01 xx 19 14 Pembangunan sarana air bersih dan sanitary
+1 01 xx 19 15 Pengadan buku-buku dan alat tulis siwa
+1 01 xx 19 16 Pengadaan pakaian seragam sekolah dan kelengkapannya serta pakaian olahraga
+1 01 xx 19 17 Pengadaaan alat praktik dan peraga siswa
+1 01 xx 19 18 Pengadaan mebeluer sekolah
+1 01 xx 19 19 Pengadaan perlengkapan sekolah
+1 01 xx 19 20 Pengadaaan alat rumah tangga sekolah
+1 01 xx 19 21 Pengadaaan sarana mobilitas sekolah
+1 01 xx 19 22 Pemeliharaan rutin/berkala bangunan sekolah
+1 01 xx 19 23 Pemeliharaan rutin/berkala rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 19 24 Pemeliharaan rutin/berkala ruang kelas sekolah
+1 01 xx 19 25 Pemeliharaan rutin/berkala ruang guru sekolah
+1 01 xx 19 26 Pemeliharaan rutin/berkala ruang locker siswa
+1 01 xx 19 27 Pemeliharaan rutin/berkala sarana dan prasarana olahraga 
+1 01 xx 19 28 Pemeliharaan rutin/berkala ruang serba guna/aula
+1 01 xx 19 29 Pemeliharaan rutin/berkala taman, lapangan upacara dan fasilitas parkir
+1 01 xx 19 30 Pemeliharaan rutin/berkala ruang unit kesehatan sekolah
+1 01 xx 19 31 Pemeliharaan rutin/berkala ruang ibadah
+1 01 xx 19 32 Pemeliharaan rutin/berkala perpustakaan sekolah
+1 01 xx 19 33 Pemeliharaan rutin/berkala jaringan instalasi listrik sekolah dan perlengkapannya
+1 01 xx 19 34 Pemeliharaan rutin/berkala sarana air bersih dan sanitary
+1 01 xx 19 35 Pemeliharaan rutin/berkala buku-buku ajar
+1 01 xx 19 36 Pemeliharaan rutin/berkala alat peraktik dan peraga siswa
+1 01 xx 19 37 Pemeliharaan rutin/berkala meneluer sekolah
+1 01 xx 19 38 Pemeliharaan rutin/berkala perlengkapan sekolah
+1 01 xx 19 39 Pemeliharaan rutin/berkala alat rumah tangga sekolah
+1 01 xx 19 40 Pemeliharaan rutin/berkala sarana mobilitas sekolah
+1 01 xx 19 41 Rehabilitasi sedang/berat bangunan sekolah
+1 01 xx 19 42 Rehabilitasi sedang/berat rumah dinas kepala sekolah, guru, penjaga sekolah
+1 01 xx 19 43 Rehabilitasi sedang/berat asrama siswa
+1 01 xx 19 44 Rehabilitasi sedang/berat ruang kelas sekolah
+1 01 xx 19 45 Rehabilitasi sedang/berat ruang guru sekolah
+1 01 xx 19 46 Rehabilitasi sedang/berat laboratorium dan praktikum sekolah
+1 01 xx 19 47 Rehabilitasi sedang/berat ruang locker siswa
+1 01 xx 19 48 Rehabilitasi sedang/berat sarana olahraga
+1 01 xx 19 49 Rehabilitasi sedang/berat ruang serba guna/aula
+1 01 xx 19 50 Rehabilitasi sedang/berat taman, lapangan upacara dan fasilitas parkir
+1 01 xx 19 51 Rehabilitasi sedang/berat ruang unit kesehatan sekolah
+1 01 xx 19 52 Rehabilitasi sedang/berat ruang ibadah
+1 01 xx 19 53 Rehabilitasi sedang/berat perpustakaan sekolah
+1 01 xx 19 54 Rehabilitasi sedang/berat jaringan instalasi listrik dan perlengkapannya
+1 01 xx 19 55 Rehabilitasi sedang/berat sarana air bersih dan sanitary
+1 01 xx 19 56 Pelatihan kompetensi tenaga pendidik
+1 01 xx 19 57 Pelatihan penyusunan kurikulum
+1 01 xx 19 58 Pembinaan forum masyarakat peduli pendidikan
+1 01 xx 19 59 Monitoring, evaluasi dan pelaporan
+1 01 xx 19 60 dst……………………
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 01 xx 20 Program Peningkatan Mutu Pendidik dan Tenaga Kependidikan
+1 01 xx 20 01 Pelaksanaan sertifikasi pendidik
+1 01 xx 20 02 Pelaksanaan uji kompetensi pendidik dan tenaga kependidikan
+1 01 xx 20 03 Pelatihan bagi pendidik untuk memenuhi standar kompetensi
+1 01 xx 20 04 Pembinaan kelompok kerja guru (KKG)
+1 01 xx 20 05 Pembinaan lembaga penjamin mutu pendidikan (LPMP)
+1 01 xx 20 06 Pembinaan pusat pendidikan dan pelatihan guru (PPPG)
+1 01 xx 20 07 Pendidikan lanjutan bagi pendidik untuk memenuhi standar kualifikasi
+1 01 xx 20 08 Pengembangan mutu dan kualitas program pendidikan dan pelatihan bagi pendidik dan tenaga kependidikan
+1 01 xx 20 09 Pengembangan sistem pendataan dan pemetaan pendidik dan tenaga kependidikan
+1 01 xx 20 10 Pengembangan sistem penghargaan dan perlindungan terhadap profesi pendidik
+1 01 xx 20 11 Pengembangan sistem perencanaan dan pengendalian program profesipendidik dan tenaga kependidikan
+1 01 xx 20 12 Monitoring, evaluasi dan pelaporan
+1 01 xx 20 13 dst……………………
+1 01 xx 21 Program Pengembangan Budaya Baca dan Pembinaan Perpustakaan
+1 01 xx 21 01 Pemasyaraktan minat dan kebiasaan membaca untuk mendorong terwujudnya masyarakat pembelajar
+1 01 xx 21 02 Pengembangan minat dan budaya baca
+1 01 xx 21 03
+Supervisi, pembinaan dan stimulasi pada perpustakaan umum, perpustakaan khusus, perpustakaan sekolah dan perpustakaan 
+masyarakat
+1 01 xx 21 04 Pelaksanaan Koordinasi pengembangan kepustakaan
+1 01 xx 21 05 Penyediaan bantuan pengembangan perpustakaan dan minat baca di daerah
+1 01 xx 21 06 Penyelenggaraan kordinasi pengembangan budaya baca
+1 01 xx 21 07 Perencanaan dan penyusunan program budaya baca
+1 01 xx 21 08 Publikasi dan sosialisasi minat dan budaya baca
+1 01 xx 21 09 Penyediaan bahan pustaka perpustakaan umum daerah
+1 01 xx 21 10 Monitoring, evaluasi dan pelaporan
+1 01 xx 21 11 dst……………………
+1 01 xx 22 Program Manajemen Pelayanan Pendidikan
+1 01 xx 22 01 Pelaksanaan evaluasi hasil kinerja bidang pendidikan
+1 01 xx 22 02 Pelaksanaan kerjasama secara kelembagaan di bidang pendidikan
+1 01 xx 22 03
+Pengendalian dan pengawasan penerapan azas efesiensi dan efektifitas penggunaan dana dekonsentrasi dan dana 
+pembantuan
+1 01 xx 22 04 Sosialisasi dan advokasi berbagai peraturan pemerintah di bidang pendidikan
+1 01 xx 22 05 Pembinaan dewan pendidikan
+1 01 xx 22 06 Pembinaan komite sekolah
+1 01 xx 22 07 Penerapan sistem dan informasi manajemen pendidikan
+1 01 xx 22 08 Penyelenggaraan pelatihan, seminar dan lokakarya serta diskusi ilmiah tentang berbagai isu pendidikan
+1 01 xx 22 09 Monitoring, evaluasi dan pelaporan
+1 01 xx 22 10 dst……………………
+1 01 xx 23 Program dst……….
+1 02 Kesehatan
+1 02 xx 15 Program Obat dan Perbekalan Kesehatan
+1 02 xx 15 01 Pengadaaan obat dan perbekalan kesehatan
+1 02 xx 15 02 Peningkatan pemerataan obat dan perbekalan kesehatan
+1 02 xx 15 03 Peningkatan keterjangkauan harga obat dan perbekalan kesehatan terutama untuk penduduk miskin
+1 02 xx 15 04 Peningkatan mutu pelayanan farmasi komunitas dan rumah sakit
+1 02 xx 15 05 Peningkatan mutu penggunaan obat dan perbekalan kesehatan
+1 02 xx 15 06 Monitoring, evaluasi dan pelaporan
+1 02 xx 15 07 dst……………………
+1 02 xx 16 Program Upaya Kesehatan Masyarakat
+1 02 xx 16 01 Pelayanan kesehatan penduduk miskin dipuskesmas dan jaringannya
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 02 xx 16 02 Pemeliharaan dan pemulihan kesehatan
+1 02 xx 16 03 Pengadaan, peningkatan dan perbaikan sarana dan prasarana puskesmas dan jaringannya
+1 02 xx 16 04 Penyelenggaraan pencegahan dan pemberantasan penyakit menular dan wabah
+1 02 xx 16 05 Perbaikan gizi mayarakat
+1 02 xx 16 06 revitalisasi sitem kesehatan
+1 02 xx 16 07 Pelayanan kefarmasian dan perbekalan kesehatan 
+1 02 xx 16 08 Pengadaan peralatan dan perbekalan kesehatan termasuk obat generik esensial
+1 02 xx 16 09 Peningkatan kesehatan masyarakat
+1 02 xx 16 11 Peningkatan pelayanan kesehatan bagi pengungsi korban bencana
+1 02 xx 16 12 Peningkatan pelayanan dan penanggulangan masalah kesehatan 
+1 02 xx 16 13 penyediaan biaya operasional dan pemeliharaan
+1 02 xx 16 14 Penyelenggaraan penyehatan lingkungan
+1 02 xx 16 15 Monitoring, evaluasi dan pelaporan
+1 02 xx 16 16 dst……………………
+1 02 xx 17 Program Pengawasan Obat dan Makanan
+1 02 xx 17 01 Peningkatan pemberdayaan konsumen/masyarakat di bidang obat dan makanan
+1 02 xx 17 02 Peningkatan pengawasan keamanan pangan dan bahan berbahaya
+1 02 xx 17 03 Peningkatan kapasitas laboratorium pengawasan obat dan makanan
+1 02 xx 17 04 Peningkatan penyidikan dan penegakan hukum di bidang obat dan makanan
+1 02 xx 17 05 Monitoring, evaluasi dan pelaporan
+1 02 xx 17 06 dst……………………
+1 02 xx 18 Program Pengembangan Obat Asli Indonesia
+1 02 xx 18 01 fsilitasi pengembangan dan penelitian teknologi produksi tanaman obat
+1 02 xx 18 02 Pengembanganstandarisasi tanaman obat bahan alam indonesia
+1 02 xx 18 03 Peningkatan promosi obat bahan alam indonesia di dalam dan di luar negeri
+1 02 xx 18 04 Pengembangan sistem dan layanan informasi terpadu
+1 02 xx 18 05 Peningkatan kerjasama antar lembaga penelitian dan industri terkait
+1 02 xx 18 06 Monitoring, evaluasi dan pelaporan
+1 02 xx 18 07 dst……………………
+1 02 xx 19 Program Promosi Kesehatan dan Pemberdayaan masyarakat
+1 02 xx 19 01 Pengembangan media promosi dan informasi sadar hidup sehat
+1 02 xx 19 02 Penyuluhan masyarakat pola hidup sehat
+1 02 xx 19 02 Peningkatan pemanfaatna sarana kesehatan
+1 02 xx 19 03 Peningkatan pendidikan tenaga penyuluh kesehatan
+1 02 xx 19 04 Monitoring, evaluasi dan pelaporan
+1 02 xx 19 05 dst……………………
+1 02 xx 20 Program Perbaikan Gizi Masyarakat
+1 02 xx 20 01 Penyusunan peta informasi masyarakat kurang gizi
+1 02 xx 20 02 Pemberian tambahan makanan dan vitamin
+1 02 xx 20 03
+Peanggulangan kurang energi protein (KEP), anemia gizi besi, gangguan akibat kurang yodium (GAKY), kurang vitamin A dan 
+kekurangan zat gizi mikro lainnya
+1 02 xx 20 04 Pemberdayaan masyarakat untuk pencapaian keluarga sadar gizi
+1 02 xx 20 05 Peningkatan gizi lebih
+1 02 xx 20 06 Monitoring, evaluasi dan pelaporan
+1 02 xx 20 07 dst……………………
+1 02 xx 21 Program Pengembangan Lingkungan Sehat
+1 02 xx 21 01 Pengkajian pengembangan lingkungan sehat
+1 02 xx 21 02 Penyuluhan menciptakan lingkungan sehat
+1 02 xx 21 03 Sosialisasi kebijakan lingkungan sehat
+1 02 xx 21 04 Monitoring, evaluasi dan pelaporan
+1 02 xx 21 05 dst……………………
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 02 xx 22 Program Pencegahan dan Penanggulangan Penyakit Menular
+1 02 xx 22 01 Penyemprotan/fogging sarang nyamuk
+1 02 xx 22 02 Pengadaan alat fogging dan bahan-bahan fogging
+1 02 xx 22 03 Pengadaan vaksin penyakit menular
+1 02 xx 22 04 Pelayanan vaksinasi bagi balita dan anak sekolah
+1 02 xx 22 05 Pelayanan pencegahan dan penanggulangan penyakit menular
+1 02 xx 22 06 Pencegahan penularan penyakit endemik/epidemik
+1 02 xx 22 07 Pemusnahan/karantina sumber penyebab penyakit menular
+1 02 xx 22 08 Peningkatan Imunisasi
+1 02 xx 22 09 Peningkatan surveillance epideminologi dan penaggulangan wabah
+1 02 xx 22 10 Peningkatan komunikasi, informasi dan edukasi (kie) pencegahan dan pemberantasan penyakit
+1 02 xx 22 11 Monitoring, evaluasi dan pelaporan
+1 02 xx 22 12 dst……………………
+1 02 xx 23 Program Standarisasi Pelayanan Kesehatan
+1 02 xx 23 01 Penyusunan standar kesehatan
+1 02 xx 23 02 Evaluasi dan pengembangan standar pelayanan kesahtan
+1 02 xx 23 03 Pembangunan dan pemutakhiran data dasar standar pelayanan kesehatan
+1 02 xx 23 04 Penyusunan naskah akademis standar pelayanan kesehatan
+1 02 xx 23 05 Penyusunan standar analisis belanja pelayanan kesehatan
+1 02 xx 23 06 Monitoring, evaluasi dan pelaporan
+1 02 xx 23 07 dst……………………
+1 02 xx 24 Program Pelayanan Kesehatan Penduduk Miskin
+1 02 xx 24 01 Pelayanan operasi katarak
+1 02 xx 24 02 Pelayanan kesehatan THT
+1 02 xx 24 03 Pelayanan operasi bibir sumbing
+1 02 xx 24 04 Pelayanan sunatan masal
+1 02 xx 24 05 Penanggulangan ISPA
+1 02 xx 24 06 Penanggulangan penyakit cacingan
+1 02 xx 24 07 Pelayanan kesehatan kulit dan kelamin
+1 02 xx 24 08 Pelayanan kesehatan akibat gizi buruk/busung lapar
+1 02 xx 24 09 Pelayanan kesehatan akibat lumpuh kayu
+1 02 xx 24 10 Monitoring, evaluasi dan pelaporan
+1 02 xx 24 11 dst……………………
+1 02 xx 25
+Program pengadaan, peningkatan dan perbaikan sarana dan prasarana puskesmas/puskesmas pembantu dan 
+jaringannya
+1 02 xx 25 01 Pembangunan puskesmas
+1 02 xx 25 02 Pembangunan puskesmas pembantu
+1 02 xx 25 03 Pengadaaan puskesmas perairan
+1 02 xx 25 04 Pengadaaan puskesmas keliling
+1 02 xx 25 05 Pembangunan posyandu
+1 02 xx 25 07 Pengadaaan sarana dan prasarana puskesmas
+1 02 xx 25 08 Pengadaaan sarana dan prasarana puskesmas pembantu
+1 02 xx 25 09 Pengadaaan sarana dan prasarana puskesmas perairan
+1 02 xx 25 11 Pengadaaan sarana dan prasarana keliling
+1 02 xx 25 12 Peningkatan puskesmas menjadi puskesmas rawat inap
+1 02 xx 25 13 Peningkatan puskesmas pembantu menjadi puskesmas
+1 02 xx 25 14 Pemeliharaan rutin/berkala sarana dan prasarana puskesmas
+1 02 xx 25 15 Pemeliharaan rutin/berkala saranan dan prasarana puskesmas pembantu
+1 02 xx 25 16 Pemeliharaan rutin/berkala saranan dan prasarana puskesmas perairan
+1 02 xx 25 17 Pemeliharaan rutin/berkala saranan dan prasarana puskesmas keliling
+1 02 xx 25 18 Pemeliharaan rutin/berkala saranan dan prasarana posyandu
+1 02 xx 25 19 Peningkatan puskesmas menjadi puskesmas rawat inap
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 02 xx 25 20 Peningkatan puskesmas pembantu menjadi puskesmas
+1 02 xx 25 21 Rehabilitasi sedang/berat puskesmas pembatu
+1 02 xx 25 22 Rehabilitasi sedang/berat puskesmas perairan
+1 02 xx 25 23 Monitoring, evaluasi dan pelaporan
+1 02 xx 25 24 dst……………………
+1 02 xx 26
+Program pengadaan, peningkatan sarana dan prasarana rumah sakit/rumah sakit jiwa/rumah sakit paru-paru/rumah sakit mata
+1 02 xx 26 01 Pembangunan rumah sakit
+1 02 xx 26 02 Pembangunan ruang poliklinik rumah sakit
+1 02 xx 26 03 Pembangunan gudang obat/apotik
+1 02 xx 26 04 Penambahan ruang rawat inap rumah sakit (VVIP, VIP, Kelas I,II,III)
+1 02 xx 26 05 Pengembangan ruang gawat darurat
+1 02 xx 26 06 Pengambangan ruang ICU, ICCU, NICU
+1 02 xx 26 07 Pengembangan ruang operasi
+1 02 xx 26 08 Pengambangan ruang terapi
+1 02 xx 26 09 Pengembangan ruang isolasi
+1 02 xx 26 10 Pengembangan ruang bersalin
+1 02 xx 26 11 Pengembangan ruang inkubator
+1 02 xx 26 12 Pengembangan ruang bayi
+1 02 xx 26 13 Pengembangan ruang rontgen
+1 02 xx 26 14 Pengembangan ruang laboratorium rumah sakit
+1 02 xx 26 15 Pembangunan kamar jenazah
+1 02 xx 26 16 Pembangunan instalasi pengolahan limbah rumah sakit
+1 02 xx 26 17 Rehabilitasi bangunan rumah sakit
+1 02 xx 26 18 Pengadaan alat-alat rumah sakit
+1 02 xx 26 19 Pengadaan obat-obatan rumah sakit
+1 02 xx 26 20 Pengadaan ambulance/mobil jenazah
+1 02 xx 26 21 Pengadaan mebeleur rumah sakit
+1 02 xx 26 22 Pengadaan perlengkapan rumah tangga rumah sakit (dapur, ruang pasien, laundry, ruang tunggu dan lain-lain)
+1 02 xx 26 23 Pengadaan bahan-bahan logistik rumah sakit
+1 02 xx 26 24 Pengadaan pencetakan administrasi dan surat menyurat rumah sakit
+1 02 xx 26 25 Pengembangan tipe rumah sakit
+1 02 xx 26 26 Monitoring, evaluasi dan pelaporan
+1 02 xx 26 27 dst……………………
+1 02 xx 27
+Program pemeliharaan sarana dan prasarana rumah sakit/rumah sakit jiwa/rumah sakit paru-paru/rumah sakit 
+mata
+1 02 xx 27 01 Pemeliharaan rutin/berkala rumah sakit
+1 02 xx 27 02 Pemeliharaan rutin/berkala ruang poliklinik rumah sakit
+1 02 xx 27 03 Pemeliharaan rutin/berkala gudang obat/apotik
+1 02 xx 27 04 Pemeliharaan rutin/berkala ruang rawat inap rumah sakit (VVIP, VIP, Kelas I,II,III)
+1 02 xx 27 05 Pemeliharaan rutin/berkala ruang gawat darurat
+1 02 xx 27 06 Pemeliharaan rutin/berkala ruang ICU, ICCU, NICU
+1 02 xx 27 07 Pemeliharaan rutin/berkala ruang operasi
+1 02 xx 27 08 Pemeliharaan rutin/berkala ruang terapi
+1 02 xx 27 09 Pemeliharaan rutin/berkala ruang isolasi
+1 02 xx 27 10 Pemeliharaan rutin/berkala ruang bersalin
+1 02 xx 27 11 Pemeliharaan rutin/berkala ruang inkubator
+1 02 xx 27 12 Pemeliharaan rutin/berkala ruang bayi
+1 02 xx 27 13 Pemeliharaan rutin/berkala ruang rontgen
+1 02 xx 27 14 Pemeliharaan rutin/berkala ruang laboratorium rumah sakit
+1 02 xx 27 15 Pemeliharaan rutin/berkala kamar jenazah
+1 02 xx 27 16 Pemeliharaan rutin/berkala instalasi pengolahan limbah rumah sakit
+1 02 xx 27 17 Pemeliharaan rutin/berkala alat-alat kesehatan rumah sakit
+1 02 xx 27 18 Pemeliharaan rutin/berkala ambulance/mobil jenazah
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 02 xx 27 19 Pemeliharaan rutin/berkala mebeleur rumah sakit
+1 02 xx 27 20 Pemeliharaan rutin/berkala perlengkapan rumah sakit
+1 02 xx 27 21 Monitoring, evaluasi dan pelaporan
+1 02 xx 27 22 dst……………………
+1 02 xx 28 Program Kemitraan peningkatan pelayanan kesehatan
+1 02 xx 28 01 kemitraan asuransi kesehatan masyarakat
+1 02 xx 28 02 kemitraan pencegahan dan pemberantasan penyakit menular
+1 02 xx 28 03 kemitraan pengolahan limbah rumah sakit
+1 02 xx 28 04 kemitraan alih teknologi kedokteran dan kesehatan
+1 02 xx 28 05 kemitraan peningkatan kualitas dokter dan paramedis
+1 02 xx 28 06 kemitraan  pengobatan lanjutan bagi pasien rujukan
+1 02 xx 28 07 kemitraan  pengobatan bagi pasien kurang mampu
+1 02 xx 28 08 Monitoring, evaluasi dan pelaporan
+1 02 xx 28 09 dst……………………
+1 02 xx 29 Program peningkatan pelayanan kesehatan anak balita
+1 02 xx 29 01 Penyuluhan kesehatan anak balita
+1 02 xx 29 02 Imunisasi bagi anak balita
+1 02 xx 29 03 Rekrutmen tenaga pelayanan kesehatan anak balita
+1 02 xx 29 04 Pelatihan dan pendidikan perawatan anak balita
+1 02 xx 29 05 Pembangunan sarana dan prasarana khusus pelayanan perawatan anak balita
+1 02 xx 29 06 Pembangunan panti asuhan anak terlantar balita
+1 02 xx 29 07 Monitoring, evaluasi dan pelaporan
+1 02 xx 29 08 dst……………………
+1 02 xx 30 Program peningkatan pelayanan kesehatan lansia
+1 02 xx 30 01 Pelayanan pemeliharaan kesehatan
+1 02 xx 30 02 rekruitmen tenaga perawat kesehatan
+1 02 xx 30 03 Pendidikan dan pelatihan perawatan kesehatan
+1 02 xx 30 04 Pembangunan pusat-pusat pelayanan kesehatan
+1 02 xx 30 05 Pembangunan panti asuhan
+1 02 xx 30 06 Pelayanan kesehatan
+1 02 xx 30 07 Monitoring, evaluasi dan pelaporan
+1 02 xx 30 08 dst……………………
+1 02 xx 31 Program pengawasan dan pengendalian kesehatan makanan
+1 02 xx 31 01 Pengawasan keamanan dan kesehatan makanan hasil industri
+1 02 xx 31 02 Pengawasan dan pengendalian keamanan dan kesehatan makanan hasil produksi rumah tangga
+1 02 xx 31 03 Pengawasan dan pengendalian keamanan dan kesehatan makanan restaurant
+1 02 xx 31 04 Monitoring, evaluasi dan pelaporan
+1 02 xx 31 05 dst……………………
+1 02 xx 32 Program peningkatan keselamatan ibu melahirkan dan anak
+1 02 xx 32 01 Penyuluhan kesehatan bagi ibu hamil dari keluarga kurang mampu
+1 02 xx 32 02 Perawatan berkala bagi ibu hamil dari keluarga kurang mampu
+1 02 xx 32 03 Pertolongan persalinan bagi ibu hamil dari keluarga kurang mampu
+1 02 xx 32 04 dst……………………
+1 02 xx xx Program dst……….
+1 03 Pekerjaan Umum 
+1 03 xx 15 Program Pembangunan Jalan dan Jembatan
+1 03 xx 15 01 Perencanaan pembangunan jalan
+1 03 xx 15 02 Survei kontur jalan dan jembatan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 03 xx 15 03 Pembangunan jalan
+1 03 xx 15 04 Perencanaan pembangunan jembatan
+1 03 xx 15 05 Pembangunan jembatan
+1 03 xx 15 06 Monitoring, evaluasi dan pelaporan
+1 03 xx 15 07 dst……………………
+1 03 xx 16 Program Pembangunan saluran drainase/gorong-gorong
+1 03 xx 16 01 Perencanaan Pembangunan saluran drainase/gorong-gorong
+1 03 xx 16 02 Survei kontur saluran drainase/gorong-gorong
+1 03 xx 16 03 Pembangunan saluran drainase/gorong-gorong
+1 03 xx 16 04 Monitoring, evaluasi dan pelaporan
+1 03 xx 16 05 dst……………………
+1 03 xx 17 Program Pembangunan turap/talud/brojong
+1 03 xx 17 01 Perencanaan turap/talud/brojong
+1 03 xx 17 02 Survei kemiringan lereng turap/talud/bronjong
+1 03 xx 17 03 Pembangunan turap/talud/bronjong
+1 03 xx 17 04 Monitoring, evaluasi dan pelaporan
+1 03 xx 17 05 dst……………………
+1 03 xx 18 Program rehabilitasi/pemeliharaan Jalan dan Jembatan
+1 03 xx 18 01 Perencanaan rehabilitasi/pemeliharaan jalan
+1 03 xx 18 02 Perencanaan rehabilitasi/pemeliharaan jembatan
+1 03 xx 18 03 Rehabilitasi/pemeliharaan jalan
+1 03 xx 18 04 Rehabilitasi/pemeliharaan jembatan
+1 03 xx 18 05 Monitoring, evaluasi dan pelaporan
+1 03 xx 18 06 dst……………………
+1 03 xx 19 Program rehabilitasi/pemeliharaan talud/bronjong
+1 03 xx 19 01 Perencanaan rehabilitasi/pemeliharaan talud/bronjong
+1 03 xx 19 02 Perencanaan rehabilitasi/pemeliharaan talud/bronjong
+1 03 xx 19 03 Monitoring, evaluasi dan pelaporan
+1 03 xx 19 04 dst……………………
+1 03 xx 20 Program inspeksi kondisi Jalan dan Jembatan
+1 03 xx 20 01 Inspeksi kondisi Jalan 
+1 03 xx 20 02 Inspeksi kondisi  Jembatan
+1 03 xx 20 03 Evaluasi dan pelaporan
+1 03 xx 20 04 dst……………………
+1 03 xx 21 Program tanggap darurat Jalan dan Jembatan
+1 03 xx 21 01 Rehabilitasi jalan dalam kondisi tanggap darurat 
+1 03 xx 21 02 Rehabilitasi jembatan dalam kondisi tanggap darurat 
+1 03 xx 21 03 Monitoring, evaluasi dan pelaporan
+1 03 xx 21 04 dst……………………
+1 03 xx 22 Program Pembangunan sistem informasi/data base jalan dan jembatan
+1 03 xx 22 01 Penyusunan sistem informasi/data base jalan
+1 03 xx 22 02 Penyusunan sistem informasi/data base jembatan
+1 03 xx 22 03 Monitoring, evaluasi dan pelaporan
+1 03 xx 22 04 dst……………………
+1 03 xx 23 Program peningkatan sarana dan prasarana kebinamargaan 
+1 03 xx 23 01 Pembangunan gedung balai latihan kebinamargaan
+1 03 xx 23 02 Pembangunan gedung workshop
+1 03 xx 23 03 Pembangunan laboratorium kebinamargaan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 03 xx 23 04 Pengadaan alat-alat berat
+1 03 xx 23 05 Pengadaan peralatan dan perlengkapan bengkel alat-alat berat
+1 03 xx 23 06 Pengadaan alat-alat ukur dan bahan labolatorium kebinamargaan
+1 03 xx 23 07 Rehabilitasi/pemeliharaan gedung balai latihan kebinamargaan
+1 03 xx 23 08 Rehabilitasi/pemeliharaan gedung workshop
+1 03 xx 23 09 Rehabilitasi/pemeliharaan laboratorium kebinamargaan
+1 03 xx 23 10 Rehabilitasi/pemeliharaan alat-alat bera
+1 03 xx 23 11 Rehabilitasi/pemeliharaan peralatan dan perlengkapan bengkel alat-alat berat
+1 03 xx 23 12 Rehabilitasi/pemeliharaan alat-alat ukur dan bahan labolatorium kebinamargaan
+1 03 xx 23 13 Monitoring, evaluasi dan pelaporan
+1 03 xx 23 14 dst……………………
+1 03 xx 24 Program pengembangan dan pengelolaan jaringan irigasi, rawa dan jaringan pengairan lainnya 
+1 03 xx 24 01 Perencanaan pembangunan jaringan irigasi
+1 03 xx 24 02 Perencanaan pembangunan jaringan air bersih/air minum
+1 03 xx 24 03 Perencanaan pembangunan reservoir
+1 03 xx 24 04 Perencanaan pembangunan pintu air
+1 03 xx 24 05 Perencanaan normalisasi saluran sungai
+1 03 xx 24 06 Pembangunan jaringan air bersih/air minum
+1 03 xx 24 07 Pembangunan reservoir
+1 03 xx 24 08 Pembangunan pintu air
+1 03 xx 24 09 Pelaksanaan normalisasi saluran sungai
+1 03 xx 24 10 Rehabilitasi/pemeliharaan jaringan irigasi
+1 03 xx 24 11 Rehabilitasi/pemeliharaan jaringan air bersih/air minum
+1 03 xx 24 12 Rehabilitasi/pemeliharaan reservoir
+1 03 xx 24 13 Rehabilitasi/pemeliharaan pintu air
+1 03 xx 24 14 Rehabilitasi/pemeliharaan normalisasi saluran sungai
+1 03 xx 24 15 Rehabilitasi/pemeliharaan jaringan irigasi yang telah dibangun
+1 03 xx 24 16 Rehabilitasi/pemeliharaan petani pemakai air
+1 03 xx 24 17 Monitoring, evaluasi dan pelaporan
+1 03 xx 24 18 dst……………………
+1 03 xx 25 Program penyediaan dan pengolahan air baku
+1 03 xx 25 01 Pembangunan prasarana pengambilan dan saluran pembawa
+1 03 xx 25 02 Rehabilitasi prasarana pengambilan dan saluran pembawa
+1 03 xx 25 03 Pemeliharaan prasarana pengambilan dan saluran pembawa
+1 03 xx 25 04 Pembangunan sumur-sumur air tanah
+1 03 xx 25 05 Peningkatan partisipasi masyarakat dalam pengelolaan air
+1 03 xx 25 06 Peningkatan distribusi penyediaan air baku
+1 03 xx 25 07 Monitoring, evaluasi dan pelaporan
+1 03 xx 25 08 dst……………………
+1 03 xx 26 Program pengembangan, pengelolaan dan konversi sungai, danau dan sumber daya air lainnya
+1 03 xx 26 01 Pembangunan embung dan bangunan penampung air lainnya
+1 03 xx 26 02 Pemeliharaan dan rehabilitasi embung dan bangunan penampung air lainnya
+1 03 xx 26 03 Rehabilitasi kawasan kritis daerah tangkapan sungai dan danau
+1 03 xx 26 04 Rehabilitasi kawasan lindung daerah tangkapan sungai dan danau
+1 03 xx 26 05 Peningkatan partisipasi masyarakat dalam pengelolaan sungai, danau dan sumber daya air lainnya
+1 03 xx 26 06 Peningkatan konversi air tanah
+1 03 xx 26 07 Monitoring, evaluasi dan pelaporan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 03 xx 26 08 dst……………………
+1 03 xx 27 Program pengembangan kinerja pengelolaan air minum dan air limbah
+1 03 xx 27 01 Penyediaan prasarana dan sarana air minum bagi masyarakat berpenghasilan rendah
+1 03 xx 27 02 Penyediaan prasarana dan sarana air limbah
+1 03 xx 27 03 Pengembangan teknologi pengolahan air minum dan air limbah
+1 03 xx 27 04 Fasilitasi pembinaan teknik pengolahan air limbah
+1 03 xx 27 05 Fasilitasi pembinaan teknik pengolahan air minum
+1 03 xx 27 06 Pengembangan distribusi air minum
+1 03 xx 27 07 Rehabilitasi/pemeliharaan sarana dan prasarana air minum
+1 03 xx 27 08 Rehabilitasi/pemeliharaan sarana dan prasarana air limbah
+1 03 xx 27 09 Monitoring, evaluasi dan pelaporan
+1 03 xx 27 10 dst……………………
+1 03 xx 28 Program pengendalian banjir
+1 03 xx 28 01 Pembangunan reservoir pengendali banjir
+1 03 xx 28 02 Rehabilitasi/pemeliharaan reservoir pengendali banjir
+1 03 xx 28 03 Rehabilitasi/pemeliharaan bantaran dan tanggul sungai
+1 03 xx 28 04 Pengembangan pengelolaan daerah rawa dalam rangka pengendali banjir
+1 03 xx 28 05 Peningkatan partisipasi masyarakat dalam penaggulangan banjir
+1 03 xx 28 06 Mengendalikan banjir pada daerah tangkapan air dan badan-badan sungai
+1 03 xx 28 07 Peningkatan pembersihan dan pengerukan sungai/kali
+1 03 xx 28 08 Peningkatan pembangunan pusat-pusat pengendali banjir
+1 03 xx 28 09 Pembangunan prasarana pengaman pantai
+1 03 xx 28 10 Pembangunan tanggul pemecah ombak
+1 03 xx 28 11 Monitoring, evaluasi dan pelaporan
+1 03 xx 28 12 dst……………………
+1 03 xx 29 Program pengembangan wilayah strategis dan cepat tumbuh
+1 03 xx 29 01 Perencanaan pengembangan infrastruktur
+1 03 xx 29 02 Pembangunan/peningkatan infrastruktur
+1 03 xx 29 03 Monitoring, evaluasi dan pelaporan
+1 03 xx 29 04 dst……………………
+1 03 xx 30 Program pembangunan infrastruktur perdesaaan
+1 03 xx 30 01 Penataan lingkungan pemukiman penduduk perdesaan 
+1 03 xx 30 02 Pembangunan jalan dan jembatan perdesaan
+1 03 xx 30 03 Pembangunan sarana dan prasarana air bersih perdesaaan
+1 03 xx 30 04 Pembangunan pasar perdesaaan
+1 03 xx 30 05 Rehabilitasi/pemeliharaan jalan dan jembatan perdesaaan
+1 03 xx 30 06 Rehabilitasi/pemeliharaan sarana dan prasarana air bersih perdesaaan
+1 03 xx 30 07 Rehabilitasi/pemeliharaan pasar pedesaaan
+1 03 xx 30 08 Monitoring, evaluasi dan pelaporan
+1 03 xx 30 09 dst……………………
+1 03 xx xx Program dst……….
+1 04 Perumahan  
+1 04 xx 15 Program Pengembangan Perumahan
+1 04 xx 15 01 Penetapan kebijakan, strategu dan program perumahan
+1 04 xx 15 02 Penyusunan norma, standar, pedoman, dan manual (NSPM)
+1 04 xx 15 03 Koordinasi penyelenggaraan pengembangan perumahan
+1 04 xx 15 04 Sosialisasi peraturan perundang-undangan di bidang perumahan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 04 xx 15 05 Koordinasi pembangunan perumahan dengan lembaga/badan usaha
+1 04 xx 15 06 Fasilitasi dan stimulasi pembangunan perumahan masyarakat kurang mampu
+1 04 xx 15 07 Pembangunan sarana dan prasarana rumah sederhana sehat
+1 04 xx 15 08 Monitoring, evaluasi dan pelaporan
+1 04 xx 15 09 dst……………………
+1 04 xx 16 Program Lingkungan Sehat Perumahan
+1 04 xx 16 01 Koordinasi pengawasan dan pengendalian pelaksanaan kebijakan tentang pembangunan perumahan
+1 04 xx 16 02 Penyediaan sarana air bersih dan sanitasi dasar terutama bagi masyarakat miskin
+1 04 xx 16 03 Penyuluhan dan pengawasan kualitas lingkungan sehat perumahan
+1 04 xx 16 04 Pengendalian dampak resiko pencemaran lingkungan
+1 04 xx 16 05 Penetapan kebijakan dan strategi penyelenggaraan keserasian kawasan dan lingkungan hunian berimbang 
+1 04 xx 16 06 Monitoring, evaluasi dan pelaporan
+1 04 xx 16 07 dst……………………
+1 04 xx 17 Program Pemberdayaan komunitas Perumahan
+1 04 xx 17 01 Fasilitasi pemberian kredit mikro untuk pembangunan dan perbaikan perumahan
+1 04 xx 17 02 Fasilitasi pembangunan prasarana dan sarana dasar pemukiman berbasis masyarakat
+1 04 xx 17 03 Peningkatan peran serta masyarakat dalam pelestarian lingkungan perumahan
+1 04 xx 17 04 Peningkatan sistem pemberian kredit pemilikan rumah
+1 04 xx 17 05 Sosialisasi dan fasilitasi jaminan kepastian hukum dan perlindungan hukum
+1 04 xx 17 06 Koordinasi pengawasan dan pengendalian pelaksanaan peraturan perundang-undangan bidang perumahan
+1 04 xx 17 07 Monitoring, evaluasi dan pelaporan
+1 04 xx 17 08 dst……………………
+1 04 xx 18 Program perbaikan perumahan akibat bencana alam/sosial
+1 04 xx 18 01 Fasilitasi dan stimulasi rahabilitasi rumah akibat bencana alam
+1 04 xx 18 02 Fasilitasi dan stimulasi rahabilitasi rumah akibat bencana sosial
+1 04 xx 18 03 Monitoring, evaluasi dan pelaporan
+1 04 xx 18 04 dst……………………
+1 04 xx 19 Program peningkatan kesiagaan dan pencegahan bahaya kebakaran
+1 04 xx 19 01 Penyusunan norma, standar, pedoman, dan manual pencegahan bahaya kebakaran
+1 04 xx 19 02 Sosialisasi norma, standar, pedoman, dan manual pencegahan bahaya kebakaran
+1 04 xx 19 03 Koordinasi perijinan pemanfaatan gedung
+1 04 xx 19 04 Pengawasan pelaksanaan kebijakan pencegahan kebakaran
+1 04 xx 19 05 Kegiatan pendidikan dan pelatihan pertolongan dan pencegahan kebakaran
+1 04 xx 19 06 Kegiatan rekruitment tenaga sukarela pertolongan bencana kebakaran
+1 04 xx 19 07 Kegiatan penyuluhan pencegahan bahaya kebakaran
+1 04 xx 19 08 Pengadaan sarana dan prasarana pencegahan bahaya kebakaran
+1 04 xx 19 09 Pemeliharaan sarana dan prasarana pencegahan bahaya kebakaran
+1 04 xx 19 10 Rehabilitasi sarana dan prasarana pencegahan bahaya kebakaran
+1 04 xx 19 11 Kegiatan pencegahan dan pengendalian bahaya kebakaran
+1 04 xx 19 12 Peningkatan pelayanan penanggulangan bahaya kebakaran 
+1 04 xx 19 13 Monitoring, evaluasi dan pelaporan
+1 04 xx 19 14 dst……………………
+1 04 xx 20 Program pengelolaan areal pemakaman
+1 04 xx 20 01 Penyusunan kebijakan, norma, standar, pedoman, dan manual pengelolaan areal pemakaman
+1 04 xx 20 02 Pengumpulan dan analisis data base jumlah jiwa yang meninggal 
+1 04 xx 20 03 Koordinasi pengelolaan areal pemakaman
+1 04 xx 20 04 Koordinasi penataan areal pemakaman
+1 04 xx 20 05 Pemberian perijinan pemakaman
+1 04 xx 20 06 Pembangunan sarana dan prasarana pemakaman
+1 04 xx 20 07 Pemeliharaan sarana dan prasarana pemakaman
+1 04 xx 20 08 Monitoring, evaluasi dan pelaporan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 04 xx 20 09 dst……………………
+1 04 xx xx Program dst……….
+1 05 Penataan Ruang
+1 05 xx 15 Program Perencanaan Tata Ruang
+1 05 xx 15 01 Penyusunan kebijakan tentang penyusunan tata ruang
+1 05 xx 15 02 Penetapan kebijakan tentang RDTRK, RTRK, dan RTBL
+1 05 xx 15 03 Sosialisasi peraturan perundang-undangan tentang rencana tata ruang
+1 05 xx 15 04 Penyusunan rencana tata ruang wilayah
+1 05 xx 15 05 Penyusunan rencana detail tata ruang kawasan
+1 05 xx 15 06 Penyusunan rencana teknis ruang kawasan
+1 05 xx 15 07 Penyusunan rencana tata bangunan dan lingkungan
+1 05 xx 15 08 Penyusunan rancangan peraturan daerah tentang RTRW
+1 05 xx 15 09 Fasilitasi peningkatan peran serta masyarakat dalam perencanaan tata ruang
+1 05 xx 15 10 Rapat koordinasi tentang rencana tata ruang
+1 05 xx 15 11 Revisi rencana tata ruang
+1 05 xx 15 12 Pelatihan aparat dalam perencanaan tata ruang
+1 05 xx 15 13 Survey dan pemetaan
+1 05 xx 15 14 Koordinasi dan fasilitasi penyusunan rencana tata ruang lintas kabupaten/kota
+1 05 xx 15 15 Monitoring, evaluasi dan pelaporan rencana tata ruang
+1 05 xx 15 16 dst……………………
+1 05 xx 16 Program Pemanfaatan Ruang
+1 05 xx 16 01 Penyusunan kebijakan perizinan pemanfaatan ruang
+1 05 xx 16 02 Penyusunan norma, standar,  dan kriteria pemanfaatan ruang
+1 05 xx 16 03 Penyusunan kebijakan pengendalian pemanfaatan ruang
+1 05 xx 16 04 Fasilitasi peningkatan peran serta masyarakat dalam pemanfaatan ruang
+1 05 xx 16 05 Survey dan pemetaan
+1 05 xx 16 06 Pelatihan aparat dalam pemanfaatan ruang
+1 05 xx 16 07 Sosialisasi kebijakan, norma, standar, prosedur dan manual pemanfaatan ruang
+1 05 xx 16 08 Koordinasi dan fasilitasi penyusunan pemanfaatan ruang lintas kabupaten/kota
+1 05 xx 16 09 Monitoring, evaluasi dan pelaporan pemanfaatan tata ruang
+1 05 xx 16 10 dst……………………
+1 05 xx 17 Program Pengendalian Pemanfaatan Ruang
+1 05 xx 17 01 Penyusunan kebijakan pengendalian pemanfaatan ruang
+1 05 xx 17 02 Penyusunan prosedur dan manual pengendalian pemanfaatan ruang
+1 05 xx 17 03 Fasilitasi peningkatan peran serta masyarakat dalam pengendalian pemanfaatan ruang
+1 05 xx 17 04 Pelatihan aparat dalam pengendalian pemanfaatan ruang
+1 05 xx 17 05 Pengawasan pemanfaatan ruang
+1 05 xx 17 06 Koordinasi dan fasilitasi pengendalian pemanfaatan ruang lintas kabupaten/kota
+1 05 xx 17 07 Sosialisasi kebijakan pengendalian pemanfaatan ruang
+1 05 xx 17 08 Monitoring, evaluasi dan pelaporan
+1 05 xx 17 09 dst……………………
+1 06 Perencanaan Pembangunan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 06 xx 15 Program Pengembangan data/informasi
+1 06 xx 15 01 Pengumpulan, updating dan analisis data informasi capaian target kinerja program dan kegiatan
+1 06 xx 15 02 Penyusunan dan pengumpulan data informasi kebutuhan penyusunan dokumen perencanaan 
+1 06 xx 15 03 Penyusunan dan analisis data informasi perencanaan pembangunan kawasan rawan bencana
+1 06 xx 15 04 Penyusunan dan analisis data informasi perencanaan pembangunan ekonomi
+1 06 xx 15 05 Penyusunan  profile daerah
+1 06 xx 15 06 dst……………………
+1 06 xx 16 Program Kerjasama Pembangunan
+1 06 xx 16 01 Koordinasi kerjasama wilayah perbatasan
+1 06 xx 16 02 Koordinasi kerjasama pembangunan antar daerah
+1 06 xx 16 03 Fasilitasi kerjasama dengan dunia usah/lembaga
+1 06 xx 16 04 Koordinasi dalam pemecahan masalah-masalah daerah
+1 06 xx 16 05 Monitoring, evaluasi dan pelaporan
+1 06 xx 16 06 dst……………………
+1 06 xx 17 Program Pengembangan Wilayah Perbatasan 
+1 06 xx 17 01 Koordinasi penyelesaian masalah perbatasan antar daerah
+1 06 xx 17 02 Sosialisai kebijakan pemerintah dalam penyelesaian  perbatasan antar negara
+1 06 xx 17 03 Koordinasi penetapan rencana tata ruang perbatasan
+1 06 xx 17 04 Penyusunan perencanaan pengembangan perbatasan
+1 06 xx 17 05 Monitoring, evaluasi dan pelaporan
+1 06 xx 17 06 dst……………………
+1 06 xx 18 Program Perencanaan Pengembangan Wilayah Strategis dan cepat tumbuh 
+1 06 xx 18 01 Sosialisasi kebijakan pemerintah dalam Pengembangan Wilayah Strategis dan cepat tumbuh
+1 06 xx 18 02 Koordinasi penetapan rencana Pengembangan Wilayah Strategis dan cepat tumbuh
+1 06 xx 18 03 Penyusunan perencanaan Pengembangan Wilayah Strategis dan cepat tumbuh
+1 06 xx 18 04 Monitoring, evaluasi dan pelaporan
+1 06 xx 18 05 dst……………………
+1 06 xx 19 Program Perencanaan Pengembangan Kota-kota menengah dan besar
+1 06 xx 19 01 Koordinasi penyelesaian permasalahan penanganan sampah perkotaan
+1 06 xx 19 02 Koordinasi penyelesaian permasalahan transportasi perkotaan
+1 06 xx 19 03 Koordinasi penanggulangan dan penyelesaian bencana alam/sosial
+1 06 xx 19 04 Koordinasi perencanaan penanganan pusat-pusat pertumbuhan ekonomi
+1 06 xx 19 05 Koordinasi perencanaan penanganan pusat-pusat industri
+1 06 xx 19 06 Koordinasi perencanaan penanganan pusat-pusat pendidikan
+1 06 xx 19 07 Koordinasi perencanaan penanganan perumahan
+1 06 xx 19 08 Koordinasi perencanaan penanganan perpakiran
+1 06 xx 19 09 Koordinasi perencanaan pair minum, drainase dan sanitasi perkotaan
+1 06 xx 19 10 Koordinasi penanggulangan limbah rumah tangga dan industri perkotaan 
+1 06 xx 19 11 Monitoring, evaluasi dan pelaporan
+1 06 xx 19 12 dst……………………
+1 06 xx 20 Program peningkatan kapasitas kelembagaan perencanaan pembangunan daerah
+1 06 xx 20 01 peningkatan kemampuan teknis aparat perencana
+1 06 xx 20 02 Sosialisasi kebijakan perencanaan pembangunan daerah
+1 06 xx 20 03 Bimbingan teknis tentang perencanaan pembangunan daerah
+1 06 xx 20 04 dst……………………
+1 06 xx 21 Program  perencanaan pembangunan daerah
+1 06 xx 21 01 Pengembangan partisipasi masyarakat dalam perumusan program dan kebijakan layanan publik
+1 06 xx 21 02 Penyusunan rancangan RPJPD
+1 06 xx 21 03 Penyelenggaraan musrenbang RPJPD
+1 06 xx 21 04 Penetapan RPJPD
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 06 xx 21 05 Penyusunan rancangan RPJMD
+1 06 xx 21 06 Penyelenggaraan musrenbang RPJMD
+1 06 xx 21 07 Penetapan RPJMD
+1 06 xx 21 08 Penyusunan rancangan RKPD
+1 06 xx 21 09 Penyelenggaraan musrenbang RKPD
+1 06 xx 21 10 Penetapan RKPD
+1 06 xx 21 11 Kordinasi penyusunan laporan kinerja pemerintah daerah
+1 06 xx 21 12 Kordinasi penyusunan Laporan Keterangan Pertanggung Jawaban (LKPJ)
+1 06 xx 21 13 Monitoring, evaluasi dan pelaporan pelaksanaan rencana pembangunan daerah
+1 06 xx 21 14 dst……………………
+1 06 xx 22 Program  perencanaan pembangunan ekonomi
+1 06 xx 22 01 Penyusunan masterplan pembangunan ekonomi daerah
+1 06 xx 22 02 Penyusunan indikator ekonomi daerah
+1 06 xx 22 03 Penyusunan perencanaan pengembangan ekonomi masyarakat
+1 06 xx 22 04 Koordinasi perencanaan pembangunan bidang ekonomi
+1 06 xx 22 05 Penyusunan tabel input output daerah
+1 06 xx 22 06 Penyusunan masterplan penanggulangan kemiskinan
+1 06 xx 22 07 Penyusunan indikator dan pemetaan daerah rawan pangan
+1 06 xx 22 08 Monitoring, evaluasi dan pelaporan
+1 06 xx 22 09 dst……………………
+1 06 xx 23 Program  perencanaan sosial budaya
+1 06 xx 23 01 Koordinasi penyusunan masterplan pendidikan 
+1 06 xx 23 02 Koordinasi penyusunan masterplan kesehatan 
+1 06 xx 23 03 Koordinasi perencanaan pembangunan bidang sosial dan budaya 
+1 06 xx 23 04 Monitoring, evaluasi dan pelaporan
+1 06 xx 23 05 dst……………………
+1 06 xx 24 Program  perencanaan prasarana wilayah dan sumber daya alam
+1 06 xx 24 01 Koordinasi penyusunan masterplan prasarana perhubungan daerah 
+1 06 xx 24 02 Koordinasi penyusunan masterplan pengendalian sumber daya alam dan lingkungan hidup 
+1 06 xx 24 03 Monitoring, evaluasi dan pelaporan
+1 06 xx 24 04 dst……………………
+1 06 xx 25 Program  perencanaan pembangunan daerah rawan bencana
+1 06 xx 25 01 Koordinasi penyusunan profile daerah rawan bencana 
+1 06 xx 25 02 Koordinasi pembangunan daerah rawan bencana 
+1 06 xx 25 03 Monitoring, evaluasi dan pelaporan
+1 06 xx 25 04 dst……………………
+1 07 Perhubungan 
+1 07 xx 15 Program Pembangunan Prasarana dan Fasilitas Perhubungan
+1 07 xx 15 01 Perencanaan pembangunan prasaranan dan fasilitas perhubungan
+1 07 xx 15 02 Penyusunan norma, kebijakan, standar dan prosedur bidang perhubungan
+1 07 xx 15 03 Koordinasi dalam pembangunan prasaranan dan fasilitas perhubungan
+1 07 xx 15 04 Sosialisasi kebijakan di bidang perhubungan
+1 07 xx 15 05 Pembangunan sarana dan prasarana jembatan timbang
+1 07 xx 15 06 Peningkatan pengelolaan terminal angkutan sungai, danau dan penyebrangan
+1 07 xx 15 07 Peningkatan pengelolaan terminal angkutan darat
+1 07 xx 15 08 Monitoring, evaluasi dan pelaporan
+1 07 xx 15 09 dst……………………
+1 07 xx 16 Program Rehabilitasi dan Pemeliharaan Prasarana dan Fasilitas LLAJ
+1 07 xx 16 01 Rehabilitasi/pemeliharaan sarana alat pengujian kendaraan bermotor
+1 07 xx 16 02 Rehabilitasi/pemeliharaan prasarana balai pengujian kendaraan bermotor
+1 07 xx 16 03 Rehabilitasi/pemeliharaan sarana dan prasarana jembatan timbang
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 07 xx 16 04 Rehabilitasi/pemeliharaan terminal/pelabuhan
+1 07 xx 16 05 dst……………………
+1 07 xx 17 Program peningkatan pelayanan angkutan
+1 07 xx 17 01 Kegiatan penyuluhan bagi para sopir/juru mudi untuk peningkatan keselamtan penumpang
+1 07 xx 17 02 Kegiatan peningkatan disiplin masyarakat menggunakan angkutan
+1 07 xx 17 03 Kegiatan temu wicara pengelola angkutan umum guna meningkatkan keselamatan penumpang
+1 07 xx 17 04 Kegiatan uji kelayakan saran transportasi guna keselamtan penumpang
+1 07 xx 17 05 Kegiatan pengendalian disiplin pengoperasian angkutan umum di jalan raya
+1 07 xx 17 06 Kegiatan penciptaan keamanan dan kenyamanan penumpang dilingkungan treminal
+1 07 xx 17 07 Kegiatan pengawasan peralatan keamanan dalam keadaaan darurat dan perlengkapan pertolongan pertama
+1 07 xx 17 08 Kegiatan penataan tempat-tempat pemberhentian angkutan umum
+1 07 xx 17 09 Kegiatan penciptaan disiplin dan pemeliharaan kebersihan di lingkungan terminal
+1 07 xx 17 10 Kegiatan penciptaan layanan cepat, tepat, murah dan mudah
+1 07 xx 17 11 Pengumpulan dan analisis data base pelayanan jasa angkutan
+1 07 xx 17 12 Pengembangan sarana dan prasarana pelayanan jasa nagkutan
+1 07 xx 17 13 Fasilitasi perijinan di bidang perhubungan
+1 07 xx 17 14 Sosialisasi/penyuluhan ketertiban lalu lintas dan angkutan
+1 07 xx 17 15 Kegiatan pemilihan dan pemberian penghargaan sopir/juru mudik/awak kendaraaan angkutan umum teladan
+1 07 xx 17 16 Koordinasi dalam peningkatan pelayanan angkutan
+1 07 xx 17 17 Monitoring, evaluasi dan pelaporan
+1 07 xx 17 18 dst……………………
+1 07 xx 18 Program Pembangunan  Sarana dan Prasarana Perhubungan
+1 07 xx 18 01 Pembangunan gedung terminal
+1 07 xx 18 02 Pembangunan halte bus, taxi gedung terminal
+1 07 xx 18 03 Pembangunan jembatan penyebrangan gedung terminal
+1 07 xx 18 04 dst……………………
+1 07 xx 19 Program peningkatan dan pengamanan lalu lintas
+1 07 xx 19 01 Pengadaan rambu-rambu lalu lintas
+1 07 xx 19 02 Pengadaan marka jalan
+1 07 xx 19 03 Pengadaan pagar pengaman jalan
+1 07 xx 19 04 dst……………………
+1 07 xx 20 Program peningkatan kelaikan pengoperasian kendaraan bermotor
+1 07 xx 20 01 Pembangunan balai pengujian kendaraan bermotor
+1 07 xx 20 02 Pengadaan alat pengujian kendaraan bermotor
+1 07 xx 20 03 Pelaksanaan uji petik kendaraan bermotor
+1 07 xx 20 04 dst……………………
+1 07 xx xx Program dst……….
+1 08 Lingkungan Hidup 
+1 08 xx 15 Program Pengembangan Kinerja Pengelolaan Persampahan
+1 08 xx 15 01 Penyusunan kebijakan manajemen pengelolaan sampah
+1 08 xx 15 02 Penyediaan prasarana dan sarana pengelolaan persampahan
+1 08 xx 15 03 Penyusunan kebijakan kerjasama pengelolaan persampahan
+1 08 xx 15 04 Peningkatan operasi dan pemeliharaan prasarana dan sarana persampahan
+1 08 xx 15 05 Pengembangan teknoligi pengolahan persampahan
+1 08 xx 15 06 Bimbingan teknis persampahan
+1 08 xx 15 07 Peningkatan kemampuan aparat pengelolaan persampahan
+1 08 xx 15 08 Kerjasama pengelolaan persampahan
+1 08 xx 15 09 Kerjasama pengelolaan sampah antar daerah
+1 08 xx 15 10 Sosialisasi kebijakan pengelolaan persampahan
+1 08 xx 15 11 Peningkatan peran serta masyarakat dalam pengelolaan persampahan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 08 xx 15 12 Monitoring, evaluasi dan pelaporan
+1 08 xx 15 13 Dst ….
+1 08 xx 16 Program Pengendalian Pencemaran dan Perusakan Lingkungan Hidup
+1 08 xx 16 01 Koordinasi Penilaian Kota Sehat/Adipura
+1 08 xx 16 02 Koordinasi penilaian langit biru
+1 08 xx 16 03 Pemantauan Kualitas Lingkungan
+1 08 xx 16 04 Pengawasan pelaksanaan kebijakan bidang lingkungan hidup
+1 08 xx 16 05 Koordinasi penertiban kegiatan Pertambangan Tanpa Izin (PETI)
+1 08 xx 16 06 Pengelolaan B3 dan Limbah B3
+1 08 xx 16 07 Pengkajian dampak lingkungan
+1 08 xx 16 08 Peningkatan pengelolaan lingkungan pertambangan
+1 08 xx 16 09 Peningkatan peringkat kinerja perusahaan (proper)
+1 08 xx 16 10 Koordinasi pengelolaan Prokasih/Superkasih
+1 08 xx 16 11 Pengembangan produksi ramah lingkungan
+1 08 xx 16 12 Penyusunan kebijakan pengendalian pencemaran dan perusakan lingkungan hidup
+1 08 xx 16 13 Koordinasi penyusunan AMDAL
+1 08 xx 16 14 Peningkatan peran serta masyarakat dalam pengendalian lingkungan hidup
+1 08 xx 16 15 Pengkajian pengembangan sistem insentif dan disinsentif
+1 08 xx 16 16 Monitoring, evaluasi dan pelaporan
+1 08 xx 16 17 Dst….
+1 08 xx 17 Program Perlindungan dan Konservasi Sumber Daya Alam
+1 08 xx 17 01 Konservasi Sumber Daya Air dan Pengendalian Kerusakan Sumber-Sumber Air
+1 08 xx 17 02 Pantai dan Laut Lestari
+1 08 xx 17 03 Pengembangan dan Pemantapan Kawasan Konservasi Laut, Suaka Perikanan, dan Keanekaragaman Hayati Laut
+1 08 xx 17 04 Pengembangan Ekowisata dan Jasa Lingkungan
+1 08 xx 17 05 Pengendalian Dampak Perubahan Iklim
+1 08 xx 17 06 Pengendalian Kerusakan Hutan dan Lahan
+1 08 xx 17 07 Peningkatan Konservasi Daerah Tangkapan Air dan Sumber-sumber Air
+1 08 xx 17 08 Pengendalian dan Pengawasan pemanfaatan SDA
+1 08 xx 17 09 Koordinasi pengelolaan konservasi SDA
+1 08 xx 17 10 Pengelolaan keanekaragaman hayati dan ekosistem
+1 08 xx 17 11 Pengembangan dan Pengelolaan Kawasan World Heritage Laut
+1 08 xx 17 12 Pengembangan Kerjasama Pengelolaan Kawasan Konservasi Laut Regional
+1 08 xx 17 13 Koordinasi Pengendalian Kebakaran Hutan
+1 08 xx 17 14 Peningkatan peran serta masyarakat dalam perlindungan dan konservasi SDA
+1 08 xx 17 15 Koordinasi peningkatan pengelolaan kawasan konservasi
+1 08 xx 17 16 Monitoring, evaluasi dan pelaporan
+1 08 xx 17 17 Dst…..
+1 08 xx 18 Program  Rehabilitasi dan Pemulihan Cadangan Sumber daya Alam
+1 08 xx 18 01 Pengelolaan dan rehabilitasi terumbu karang, mangrove, padang lamun, estuaria dan teluk
+1 08 xx 18 02 Perencanaan dan penyusunan program pembangunan pengendalian sumber daya alam dan lingkungan hidup
+1 08 xx 18 03 Rehabilitasi hutan dan lahan
+1 08 xx 18 04 Pengembangan kelembagaan rehabilitasi hutan dan lahan
+1 08 xx 18 05 Penyusunan pedoman standar dan prosedur rehabilitasi terumbu karang, mangrove, dan padang lamun
+1 08 xx 18 06 Sosialisasi pedoman standar dan prosedur rehabilitasi terumbu karang, mangrove, dan padang lamun
+1 08 xx 18 07 Peningkatan peran serta masyarakat dalam rehabilitasi dan pemulihan cadangan SDA
+1 08 xx 18 08 Monitoring, evaluasi dan pelaporan
+1 08 xx 18 09 Dst….
+1 08 xx 19 Program Peningkatan Kualitas dan Akses Informasi Sumber Daya Alam dan Lingkungan Hidup
+1 08 xx 19 01 Peningkatan edukasi dan komunikasi masyarakat di bidang lingkungan
+1 08 xx 19 02 Pengembangan data dan informasi lingkungan
+1 08 xx 19 03 Penyusunan data sumberdaya alam dan neraca sumber daya hutan (NSDH) nasional dan daerah
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 08 xx 19 04 Penguatan jejaring informasi lingkungan pusat dan daerah
+1 08 xx 19 05 Monitoring, evaluasi dan pelaporan
+1 08 xx 19 06 Dst…..
+1 08 xx 20 Program Peningkatan Pengendalian Polusi
+1 08 xx 20 01 Pengujian emisi kendaraan bermotor
+1 08 xx 20 02 Pengujian emisi udara akibat aktivitas industri
+1 08 xx 20 03 Pengujian kadar polusi limbah padat dan limbah cair
+1 08 xx 20 04 Pembangunan tempat pembuangan benda padat/cair yang menimbulkan polusi
+1 08 xx 20 05 Penyuluhan dan pengendalian polusi dan pencemaran
+1 08 xx 20 06 Monitoring, evaluasi dan pelaporan
+1 08 xx 20 07 Dst….
+1 08 xx 21 Program pengembangan ekowisata dan jasa lingkungan di kawasan-kawasan konservasi laut dan hutan
+1 08 xx 21 01 Pengembangan ekowisata dan jasa lingkungan di kawasan konservasi
+1 08 xx 21 02 Pengembangan konservasi laut dan hutan wisata
+1 08 xx 21 03 Monitoring, evaluasi dan pelaporan
+1 08 xx 21 04 Dst……..
+1 08 xx 22 Program Pengendalian kebakaran hutan
+1 08 xx 22 01 Pengadaan alat pemadam kebakaran hutan
+1 08 xx 22 02 Pemetaan kawasan rawan kebakaran hutan
+1 08 xx 22 03 Koordinasi pengendalian kebakaran hutan
+1 08 xx 22 04 Penyusunan norma, standar, prosedur dan manual pengendalian kebakaran hutan
+1 08 xx 22 05 Sosialisasi kebijakan pencegahan kebakaran hutan
+1 08 xx 22 06 Monitoring, evaluasi dan pelaporan
+1 08 xx 22 07 Dst….
+1 08 xx 23 Program Pengelolaan dan rehabilitasi ekosistem pesisir dan laut
+1 08 xx 23 01 Pengelolaan dan rehabilitasi ekosistem pesisir dan laut
+1 08 xx 23 02 Pengembangan sistem manajemen pengelolaan pesisir laut
+1 08 xx 23 03 Dst….
+1 08 xx 24 Program Pengelolaan ruang terbuka hijau (RTH)
+1 08 xx 24 01 Penyusunan kebijakan, norma,standard prosedur dan manual pengelolaan RTH
+1 08 xx 24 02 Sosialisasi kebijakan, norma, standard, prosedur dan manual pengelolaan RTH
+1 08 xx 24 03 Penyusunan dan analisis data/informasi pengelolaan RTH
+1 08 xx 24 04 Penyusunan program pengembahan RTH
+1 08 xx 24 05 Penataan RTH
+1 08 xx 24 06 Pemeliharaan RTH
+1 08 xx 24 07 Pengembangan taman rekreasi
+1 08 xx 24 08 Pengawasan dan pengendalian RTH
+1 08 xx 24 09 Peningkatan peran serta masyarakat dalam pengelolaan RTH
+1 08 xx 24 10 Monitoring dan evaluasi
+1 08 xx 24 11 Dst…
+1 08 xx Program dst…
+1 09 Pertanahan
+1 09 xx 15 Program pembangunan sistem pendaftaran tanah
+1 09 xx 15 01 Penyusunan sistem pendaftaran tanah
+1 09 xx 15 02 Sosialisasi sistem pendaftaran tanah
+1 09 xx 15 03 Dst…
+1 09 xx 16 Program Penataan penguasaan, pemilikan, penggunaan dan pemanfaatan tanah
+1 09 xx 16 01 Penataan penguasaan, pemilikan , penggunaan dan pemanfaatan tanah
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 09 xx 16 02 Penyuluhan hukum pertanahan
+1 09 xx 16 03 Dst…
+1 09 xx 17 Program Penyelesaian konflik-konflik pertanahan
+1 09 xx 17 01 Fasilitasi penyelesaian konflik-konflik pertanahan
+1 09 xx 17 02 dst….
+1 09 xx 18 Program Pengembangan Sistem Informasi Pertanahan
+1 09 xx 18 01 Penyusunan sistem informasi pertanahan yang handal
+1 09 xx 18 02 Dst…
+1 09 xx xx Program dst…
+1 10 Kependudukan dan Catatan Sipil
+1 10 xx 15 Program Penataan Administrasi Kependudukan
+1 10 xx 15 01 Pembangunan dan Pengoperasian SIAK secara terpadu
+1 10 xx 15 02 Pelatihan tenaga pengelola SIAK
+1 10 xx 15 03 Implementasi Sistem Administrasi Kependudukan (membangun, updating, dan pemeliharaan)
+1 10 xx 15 04 Pembentukan dan Penataan Sistem Koneksi (Inter-Phase Tahap Awal) NIK
+1 10 xx 15 05 Koordinasi pelaksanaan kebijakan Kependudukan
+1 10 xx 15 06 Pengolahan dalam penyusunan laporan informasi kependudukan
+1 10 xx 15 07 Penyediaan informasi yang dapat diakses masyarakat
+1 10 xx 15 08 Peningkatan pelayanan publik dalam bidang kependudukan
+1 10 xx 15 09 Pengembangan data base kependudukan
+1 10 xx 15 10 Penyusunan kebijakan kependudukan
+1 10 xx 15 11 Peningkatan kapasitas aparat kependudukan dan catatan sipil
+1 10 xx 15 12 Sosialisasi kebijakan kependudukan
+1 10 xx 15 13 Peningkatan kapasitas kelembagaan kependudukan
+1 10 xx 15 14 Monitoring, evaluasi dan pelaporan
+1 10 xx 15 15 Dst..
+1 11 Pemberdayaan Perempuan
+1 11 xx 15 Program keserasian kebijakan peningkatan kualitas Anak dan Perempuan
+1 11 xx 15 01 Perumusan kebijakan peningkatan kualitas hidup perempuan di bidang ilmu pengetahuan dan teknologi
+1 11 xx 15 02 Perumusan kebijakan peningkatan peran dan posisi perempuan di bidang politik dan jabatan publik
+1 11 xx 15 03 Pelaksanaan sosialisasi yang terkait dengan kesetaraan gender, pemberdayaan perempuan dan perlindungan anak
+1 11 xx 15 04 Monitoring, evaluasi dan pelaporan
+1 11 xx 15 05 Dst….
+1 11 xx 16 Program Penguatan Kelembagaan Pengarusutamaan Gender dan Anak
+1 11 xx 16 01 Advokasi dan fasilitasi PUG bagi perempuan
+1 11 xx 16 02 Fasilitasi pengembangan pusat pelayanan terpadu pemberdayaan perempuan (P2TP2)
+1 11 xx 16 03 Pemetaan potensi organisasi dan lembaga masyarakat yang berperan dalam pemberdayaan perempuan dan anak
+1 11 xx 16 04 Pengembangan materi dan pelaksanaan KIE tentang kesetaraan dan keadilan gender (KKG)
+1 11 xx 16 05 Penguatan kelembagaan pengarusutamaan gender dan anak
+1 11 xx 16 06 Peningkatan kapasitas dan jaringan kelembagaan pemberdayaan perempuan dan anak
+1 11 xx 16 07 Evaluasi pelaksanaan PUG
+1 11 xx 16 08 Pengembangan sistem informasi Gender dan Anak
+1 11 xx 16 09 Monitoring, evaluasi dan pelaporan
+1 11 xx 16 10 Dst…
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 11 xx 17 Program Peningkatan Kualitas Hidup dan Perlindungan Perempuan
+1 11 xx 17 01 Pelaksanaan kebijakan perlindungan perempuan di daerah
+1 11 xx 17 02 Pelatihan bagi pelatih (TOT) SDM pelayanan dan pendampingan korban KDRT
+1 11 xx 17 03 Penyusunan sistem perlindungan bagi perempuan
+1 11 xx 17 04 Sosialisasi dan advokasi kebijakan penghapusan buta aksara perempuan (PBAP)
+1 11 xx 17 05 Sosialisasi dan advokasi kebijakan perlindungan tenaga kerja perempuan
+1 11 xx 17 06 Sosialisasi sistem pencatatan dan pelaporan KDRT
+1 11 xx 17 07 Penyusunan profil perlindungan perempuan lansia dan cacat
+1 11 xx 17 08 Fasilitasi upaya perlindungan perempuan terhadap tindak kekerasan
+1 11 xx 17 09 Monitoring, evaluasi dan pelaporan
+1 11 xx 17 10 Dst…
+1 11 xx 18 Program Peningkatan peran serta dan kesetaraan jender dalam pembangunan
+1 11 xx 18 01 Kegiatan pembinaan organisasi perempuan
+1 11 xx 18 02 Kegiatan pendidikan dan pelatihan peningkatan peran serta dan kesetaraan jender
+1 11 xx 18 03 Kegiatan penyuluhan bagi ibu rumah tangga dalam membangun keluarga sejahtera
+1 11 xx 18 04 Kegiatan bimbingan manajemen usaha bagi perempuan dalam mengelola usaha
+1 11 xx 18 05 Kegiatan pameran hasil karya perempuan di bidang pembangunan
+1 11 xx 18 06 Monitoring, evaluasi dan pelaporan
+1 11 xx 18 07 Dst…
+1 11 xx 19 Program penguatan kelembagaan pengarusutamaan gender dan anak
+1 11 xx 19 01 Workshop peningkatan peran perempuan dalam pengambilan keputusan
+1 11 xx 19 02 Pemberdayaan lembaga yang berbasis gender
+1 11 xx 19 03 Dst……………
+1 12 keluarga Berencana dan Keluarga Sejahtera
+1 12 xx 15 Program Keluarga Berencana
+1 12 xx 15 01 Penyediaan Pelayanan KB dan Alat Kontrasepsi bagi Keluarga Miskin
+1 12 xx 15 02 Pelayanan KIE
+1 12 xx 15 03 Peningkatan Perlindungan Hak Reproduksi Individu
+1 12 xx 15 04 Promosi Pelayanan Khiba
+1 12 xx 15 05 Pembinaan Keluarga Berencana
+1 12 xx 15 06 Pengadaan sarana mobilitas tim KB keliling
+1 12 xx 15 07 Dst……………
+1 12 xx 16 Program Kesehatan Reproduksi Remaja
+1 12 xx 16 01 Advokasi dan KIE tentang Kesehatan Reproduksi Remaja (KRR)
+1 12 xx 16 02 Memperkuat dukungan dan partisipasi masyarakat
+1 12 xx 16 03 Dst……………
+1 12 xx 17 Program pelayanan kontrasepsi
+1 12 xx 17 01 Pelayanan konseling KB
+1 12 xx 17 02 Pelayanan pemasangan kontrasepsi KB
+1 12 xx 17 03 Pengadaan alat kontrasepsi
+1 12 xx 17 04 Pelayanan KB medis operasi
+1 12 xx 17 05 Dst……………
+1 12 xx 18 Program pembinaan peran serta masyarakat dalam pelayanan KB/KR yang madiri
+1 12 xx 18 01 Fasilitasi pembentukan kelompok masyarakat peduli KB
+1 12 xx 18 02 Dst……………
+1 12 xx 19 Program promosi kesehatan ibu, bayi dan anak melalui kelompok kegiatan di masyarakat
+1 12 xx 19 01 Penyuluhan kesehatan ibu, bayi dan anak melalui kelompok kegiatan di masyarakat
+1 12 xx 19 02 Dst……………
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 12 xx 20 Program pengembangan pusat pelayanan informasi dan konseling KRR
+1 12 xx 20 01 Pendirian pusat pelayanan informasi dan konseling KKR
+1 12 xx 20 02 Fasilitasi forum pelayanan KKR bagi kelompok remaja dan kelompok sebaya diluar sekolah
+1 12 xx 20 03 Dst……………
+1 12 xx 21 Program peningkatan penanggulangan narkoba, PMS termasuk HIV/ AIDS
+1 12 xx 21 01 Penyuluhan penanggulangan narkoba, PMS termasuk HIV/ AIDS
+1 12 xx 21 02 Dst……..
+1 12 xx 22 Program pengembangan bahan informasi tentang pengasuhan dan pembinaan tumbuh kembang anak
+1 12 xx 22 01 Pengumpulan bahan informasi tentang pengasuhan dan pembinaan tumbuh kembang anak
+1 12 xx 22 02 Dst……..
+1 12 xx 23 Program penyiapan tenaga pendamping kelompok bina keluarga
+1 12 xx 23 01 Pelatihan tenaga pendamping kelompok bina keluarga di kecamatan
+1 12 xx 23 02 Dst……..
+1 12 xx 24 Program pengembangan model operasional BKB-Posyandu-PADU
+1 12 xx 24 01 Pengkajian pengembangan model operasional BKB-Posyandu-PADU
+1 12 xx 24 02 Dst……..
+1 13 Sosial
+1 13 xx 15 01
+Program Pemberdayaan Fakir Miskin, Komunitas Adat Terpencil (KAT) dan Penyandang Masalah Kesejahteraan 
+Sosial (PMKS) Lainnya
+1 13 xx 15 02
+Peningkatan Kemampuan (Capacity Building) petugas dan pendamping sosial pemberdayaan Fakir Miskin, KAT dan 
+Penyandang Masalah Kesejahteraan Sosial (PMKS) Lainnya
+1 13 xx 15 03 Pelatihan keterampilan berusaha bagi keluarga miskin
+1 13 xx 15 04 Fasilitasi manajemen usaha bagi keluarga miskin
+1 13 xx 15 05 Pengadaan sarana dan prasarana pendukung usaha bagi keluarga miskin
+1 13 xx 15 06 Pelatihan keterampilan bagi penyandang masalah kesejahteraan sosial
+1 13 xx 15 07 Dst……..
+1 13 xx 16 Program Pelayanan dan Rehabilitasi Kesejahteraan Sosial
+1 13 xx 16 01 Pengembangan Kebijakan tentang akses sarana dan prasarana publik bagi penyandang cacat dan lansia
+1 13 xx 16 02 Pelayanan dan perlindungan sosial, hukum bagi korban eksploitasi, perdagangan perempuan dan anak
+1 13 xx 16 03 Pelaksanaan KIE konseling dan kampanye sosial bagi Penyandang Masalah Kesejahteraan Sosial (PMKS)
+1 13 xx 16 04 Pelatihan keterampilan dan praktek belajar kerja bagi anak terlantar termasuk anak jalanan, anak cacat, anak nakal
+1 13 xx 16 05 Pelayanan psikososial bagi PMKS di trauma centre termasuk bagi korban bencana
+1 13 xx 16 06 Pembentukan pusat informasi penyandang cacat dan trauma center
+1 13 xx 16 07 Peningkatan kualitas pelayanan, sarana dan prasarana rehabilitasi kesejahteraan sosial bagi PMKS
+1 13 xx 16 08 Penyusunan kebijakan pelayanandan rehabilitasi sosial bagi penyandang masalah kesejahteraan sosial
+1 13 xx 16 09
+Koordinasi perumusan kebijakan dan sikronisasi pelaksanaan upaya-upaya penanggulangan kemiskinan dan penurunan 
+kesenjangan
+1 13 xx 16 10 penanganan masalah-masalah strategis yang menyangkut tanggap cepat darurat dan kejadian luar biasa
+1 13 xx 16 11 Monitoring, evaluasi dan pelaporan
+1 13 xx 16 12 Dst……………
+1 13 xx 17 Program pembinaan anak terlantar
+1 13 xx 17 01 Pembangunan sarana dan prasarana tempat penampungan anak terlantar
+1 13 xx 17 02 Pelatihan keterampilan dan praktek belajar kerja bagi anak terlantar
+1 13 xx 17 03 Penyusunan data dan analisis permasalahan anak terlantar
+1 13 xx 17 04 Pengembangan bakat dan keterampilan anak terlantar
+1 13 xx 17 05 Peningkatan keterampilan tenaga pembinaan anak terlantar
+1 13 xx 17 06 Monitoring, evaluasi dan pelaporan
+1 13 xx 17 07 Dst……………
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 13 xx 18 Program pembinaan para penyandang cacat dan trauma
+1 13 xx 18 01 Pendataan penyandang cacat  dan penyakit kejiwaan
+1 13 xx 18 02 Pembangunan sarana dan prasarana perawatan para penyandang cacat dan trauma
+1 13 xx 18 03 Pendidikan dan pelatihan bagi penyandang cacat dan eks trauma
+1 13 xx 18 04 Pendayagunaan para penyandang cacat dan eks trauma
+1 13 xx 18 05 Peningkatan keterampilan tenaga pelatihan dan pendidik
+1 13 xx 18 06 Dst……………
+1 13 xx 19 Program pembinaan panti asuhan/ panti jompo
+1 13 xx 19 01 Pembangunan sarana dan prasarana panti asuhan/ jompo
+1 13 xx 19 02 Rehabilitasi sedang/ berat bangunan panti asuhan/ jompo
+1 13 xx 19 03 Operasi dan pemeliharaan sarana dan prasarana panti asuhan/ jompo
+1 13 xx 19 04 Pendidikan dan pelatihan bagi penghuni panti asuhan/ jompo
+1 13 xx 19 05 Peningkatan keterampilan tenaga pelatihan dan pendidik
+1 13 xx 19 06 Monitoring, evaluasi dan pelaporan
+1 13 xx 19 07 Dst……………
+1 13 xx 20
+Program pembinaan eks penyandang penyakit sosial (eks narapidana, PSK, narkoba dan penyakit sosial 
+lainnya)
+1 13 xx 20 01 Pendidikan dan pelatihan keterampilan berusaha bagi eks penyandang penyakit sosial
+1 13 xx 20 02 Pembangunan pusat bimbingan/ konseling bagi eks penyandang penyakit sosial
+1 13 xx 20 03 Pemantauan kemajuan perubahan sikap mental eks penyandang penyakit sosial
+1 13 xx 20 04 Pemberdayaan eks penyandang penyakit sosial
+1 13 xx 20 05 Monitoring, evaluasi dan pelaporan
+1 13 xx 20 06 Dst……………
+1 13 xx 21 Program Pemberdayaan Kelembagaan Kesejahteraan Sosial
+1 13 xx 21 01 Peningkatan peran aktif masyarakat dan dunia usaha
+1 13 xx 21 02 Peningkatan jejaring kerjasama pelaku-pelaku usaha kesejahteraan sosial masyarakat
+1 13 xx 21 03 Peningkatan kualitas SDM kesejahteraan sosial masyarakat
+1 13 xx 21 04 Pengembangan model kelembagaan perlindungan sosial
+1 13 xx 21 05 Dst……………
+1 14 Tenaga Kerja
+1 14 xx 15 Program Peningkatan Kualitas dan Produktivitas Tenaga Kerja
+1 14 xx 15 01 Penyusunan data base tenaga kerja daerah
+1 14 xx 15 02 Pembangunan balai latihan kerja
+1 14 xx 15 03 Pengadaan peralatan pendidikan dan keterampilan bagi pencari kerja
+1 14 xx 15 04 Peningkatan profesionalisme tenaga kepelatihan dan instruktur BLK
+1 14 xx 15 05 Pengadaan bahan dan materi pendidikan dan keterampilan kerja
+1 14 xx 15 06 Pendidikan dan pelatihan keterampilan bagi pencari kerja
+1 14 xx 15 07 Pemeliharaan rutin/ berkala sarana dan prasarana BLK
+1 14 xx 15 08 Rehabilitasi sedang/ berat sarana dan prasarana BLK
+1 14 xx 15 09 Monitoring, evaluasi dan pelaporan
+1 14 xx 15 10 Dst……………
+1 14 xx 16 Program Peningkatan Kesempatan Kerja
+1 14 xx 16 01 Penyusunan informasi bursa tenaga kerja
+1 14 xx 16 02 Penyebarluasan informasi bursa tenaga kerja
+1 14 xx 16 03 Kerjasama pendidikan dan pelatihan
+1 14 xx 16 04 Penyiapan tenaga kerja siap pakai
+1 14 xx 16 05 Pengembangan kelembagaan produktivitas dan pelatihan kewirausahaan
+1 14 xx 16 06 Pemberian fasilitasi dan mendorong sistem pendanaan pelatihan berbasis masyarakat
+1 14 xx 16 07 Monitoring, evaluasi dan pelaporan
+1 14 xx 16 08 Dst……………
+1 14 xx 17 Program Perlindungan Pengembangan Lembaga Ketenagakerjaan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 14 xx 17 01 Pengendalian dan pembinaan lembaga penyalur tenaga kerja
+1 14 xx 17 02 Fasilitasi penyelesaian prosedur penyelesaian perselisihan hubungan industrial
+1 14 xx 17 03 Fasilitasi penyelesaian prosedur pemberian perlindungan hukum dan jaminan sosial ketenagakerjaan
+1 14 xx 17 04 Sosialisasi berbagai peraturan pelaksanaan tentang ketenagakerjaan
+1 14 xx 17 05 Peningkatan pengawasan, perlindungandan penegakkan hukum tehadap keselamatan dan kesehatan kerja
+1 14 xx 17 06 penyusunan kebijakan standarisasi lembaga penyalur tenaga kerja
+1 14 xx 17 07 Pemantauan kinerja lembaga penyalur tenaga kerja
+1 14 xx 17 08 Monitoring, evaluasi dan pelaporan
+1 14 xx 17 09 Dst……………
+1 14 xx 18    Program dst…
+1 15    Koperasi dan Usaha Kecil Menengah
+1 15 xx 15    Program penciptaan iklim Usaha Kecil Menengah yang kondusif
+1 15 xx 15 01 Penyusunan kebijakan tentang Usaha Kecil Menengah
+1 15 xx 15 02 Sosialisasi kebijakan tentang Usaha Kecil Menengah
+1 15 xx 15 03 Fasilitasi kemudahan formalisasi badan Usaha Kecil Menengah
+1 15 xx 15 04 Pendirian unit penanganan pengaduan
+1 15 xx 15 05 Pengkajian dampak regulasi/ kebijakan nasional
+1 15 xx 15 06 Perencanaan, koordinasi dan pengembangan Usaha Kecil Menengah
+1 15 xx 15 07 Pengembangan jaringan infrastruktur Usaha Kecil Menengah
+1 15 xx 15 08 Fasilitasi pengembangan Usaha Kecil Menengah
+1 15 xx 15 09 Fasilitasi Permasalahan proses produksi Usaha Kecil Menengah
+1 15 xx 15 10 Pemberian Fasilitasi Pengamanan kawasan Usaha Kecil Menengah
+1 15 xx 15 11 Monitoring, evaluasi dan pelaporan
+1 15 xx 15 12 Dst……………
+1 15 xx 16    Program Pengembangan Kewirausahaan dan Keunggulan Kompetitif Usaha Kecil Menengah
+1 15 xx 16 01    Fasilitasi pengembangan inkubator teknologi dan bisnis
+1 15 xx 16 02    Memfasilitasi peningkatan kemitraan investasi Usaha Kecil Menengah dengan perusahaan asing
+1 15 xx 16 03    Memfasilitasi peningkatan kemitraan usaha bagi Usaha Mikro Kecil Menengah
+1 15 xx 16 04 Peningkatan kerjasama di bidang HAKI
+1 15 xx 16 05 Fasilitasi Pengembangan sarana promosi hasil produksi
+1 15 xx 16 06 Penyelenggaraan pelatihan kewirausahaan
+1 15 xx 16 07    Pelatihan manajemen pengelolaan koperasi/ KUD
+1 15 xx 16 08    Sosialisasi HAKI kepada Usaha Mikro Kecil Menengah
+1 15 xx 16 09    Sosialisasi dan pelatihan pola pengelolaan limbah industri dalam menjaga kelestarian kawasan  Usaha Mikro Kecil Menengah
+1 15 xx 16 10 Monitoring, evaluasi dan pelaporan
+1 15 xx 16 11 Dst……………
+1 15 xx 17     Program Pengembangan Sistem Pendukung Usaha Bagi Usaha Mikro Kecil Menengah
+1 15 xx 17 01    Sosialisasi dukungan informasi penyediaan permodalan
+1 15 xx 17 02    Pengembangan klaster bisnis
+1 15 xx 17 03 Koordinasi pemanfaatan fasilitas pemerintah untuk Usaha Kecil Menengah dan Koperasi
+1 15 xx 17 04 Koordinasi penggunaan dana pemerintahan bagi Usaha Mikro Kecil Menengah
+1 15 xx 17 05 Pemantauan pengelolaan penggunaan dana pemerintah bagi Usaha Mikro Kecil Menengah
+1 15 xx 17 06    Pengembangan sarana pemasaran produk Usaha Mikro Kecil Menengah
+1 15 xx 17 07    Peningkatan jaringan kerjasama antar lembaga
+1 15 xx 17 08    Penyelenggaraan pembinaan industri rumah tangg, industri kecil dan industri menengah
+1 15 xx 17 09    Penyelenggaraan promosi produk Usaha Mikro Kecil Menengah
+1 15 xx 17 10    Pengembangan Kebijakan dan program peningkatan ekonomi lokal
+1 15 xx 17 11 Monitoring, evaluasi dan pelaporan
+1 15 xx 17 12 Dst……………
+1 15 xx 18 Program Peningkatan Kualitas Kelembagaan Koperasi
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 15 xx 18 01    Koordinasi pelaksanaan kebijakan dan program pembangunan koperasi
+1 15 xx 18 02    Peningkatan sarana dan prasarana pendidikan dan pelatihan perkoperasian
+1 15 xx 18 03    Pembangunan sistem informasi perencanaan pengembangan Perkoperasian
+1 15 xx 18 04    Sosialisasi prinsip-prinsip pemahaman perkoperasian 
+1 15 xx 18 05    Permbinaan, pengawasan dan penghargaan koperasi berprestasi
+1 15 xx 18 06    Peningkatan dan pengembangan jaringan kerjasama usaha koperasi
+1 15 xx 18 07    Penyebaran model-model pola pengembangan koperasi
+1 15 xx 18 08 Rintisan penerapan teknologi sederhana/ manajemen modern pada jenis-jenis usaha koperasi
+1 15 xx 18 09 Monitoring, evaluasi dan pelaporan
+1 15 xx 18 10 Dst……………
+1 15 xx 19 Program dst….
+1 16 Penanaman Modal Daerah
+1 16 xx 15 Program Peningkatan Promosi dan Kerjasama Investasi
+1 16 xx 15 01 Peningkatan fasiliatasi terwujudnya kerjasama strategis antar usaha besar dan Usaha Kecil Menengah
+1 16 xx 15 02 Pengembangan potensi unggulan daerah
+1 16 xx 15 03 Fasilitasi dan koordinasi percepatan pembangunan kawasan produksi daerah tertinggal (P2KPDT)
+1 16 xx 15 04 Koordinasi antar lembaga dalam pengendalian pelaksanaan investasi PMDN/ PMA
+1 16 xx 15 05 Koordinasi perencanaan dan pengembangan penanaman modal
+1 16 xx 15 06 Peningkatan koordinasi dan kerjasama di bidang penanaman modal dengan instansi pemerintah dan dunia usaha 
+1 16 xx 15 07 Pengawasan dan evaluasi kinerja dan aparatur Badan Penanaman Modal Daerah
+1 16 xx 15 08 Peningkatan kegiatan pemantauan, pembinaan dan pengawasan pelaksanaan penanaman modal
+1 16 xx 15 09 Peningkatan kualitas SDM guna pengingkatan pelayanan investasi
+1 16 xx 15 10 Penyelenggaraanpameran investasi
+1 16 xx 15 11 Monitoring, evaluasi dan pelaporan
+1 16 xx 15 12 Dst……………
+1 16 xx 16 Program Peningkatan Iklim Investasi dan Realisasi Investasi
+1 16 xx 16 01 Penyusunan kebijakan investasi bagi pembangunan fasilitas infrastruktur
+1 16 xx 16 02 Memfasilitasi dan koordinasi kerjasama di bidang investasi
+1 16 xx 16 03 Penyusunan Cetak Biru (Master Plan) pengembangan penanaman modal
+1 16 xx 16 04 Pengembangan System Informasi Penanaman Modal
+1 16 xx 16 05 Penyusunan sistem informasi penanaman modal di daerah
+1 16 xx 16 06 Penyederhanaan prosedur perijinan dan peningkatan pelayanan penanaman modal
+1 16 xx 16 07 Kajian Kebijakan penanaman modal
+1 16 xx 16 08 Pemberian insentif investasi di wilayah tertinggal
+1 16 xx 16 09 Monitoring, evaluasi dan pelaporan
+1 16 xx 16 10 Dst……………
+1 16 xx 17 Program Penyiapan potensi sumberdaya, sarana dan prasarana daerah
+1 16 xx 17 01 Kajian potensi sumberdaya yang terkait dengan investasi
+1 16 xx 17 02 Dst……………
+1 17 Kebudayaan
+1 17 xx 15 Program Pengembangan Nilai Budaya
+1 17 xx 15 01 Pelestarian dan aktualisasi adat budaya daerah
+1 17 xx 15 02 Penatagunaan naskah kuno nusantara
+1 17 xx 15 03 Penyusunan kebijakan tentang budaya lokal daerah
+1 17 xx 15 04 Pemanatauan dan evaluasi pelaksanaan program pengembangan nilai budaya
+1 17 xx 15 05 Pemberian dukungan, penghargaan dan kerjasama di bidang budaya
+1 17 xx 15 06 Dst……………
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 17 xx 16 Program Pengelolaan Kekayaan Budaya
+1 17 xx 16 01 Fasilitasi partisipasi masyarakat dalam pengelolaan kekayaan budaya
+1 17 xx 16 02 Pelestarian fisik dan kandungan bahan pustaka termasuk naskah kuno
+1 17 xx 16 03 Penyusunan kebijakan pengelolaan kekayaan budaya lokal daerah
+1 17 xx 16 04 Sosialisasi pengelolaan kekayaan budaya lokal daerah
+1 17 xx 16 05 Pengelolaan dan pengembangan pelestarian peninggalan sejarah purbakala, museum dan peninggalan bawah air
+1 17 xx 16 06 Pengembangan kebudayaan dan pariwisata
+1 17 xx 16 07 Pengembangan nilai dan geografi sejarah
+1 17 xx 16 08 Perekaman dan digitalisasi bahan pustaka
+1 17 xx 16 09 Perumusan kebijakan sejarah dan purbakala
+1 17 xx 16 10 Pengawasan, monitoring, evaluasi dan pelaporan pelaksanaan program pengelolaan kekayaan budaya
+1 17 xx 16 11 Pendukungan pengelolaan museum dan taman budaya di daerah
+1 17 xx 16 12 Pengelolaan karya cetak dan karya rekam
+1 17 xx 16 13 Pengembangan data base sistem informasi sejarah purbakala
+1 17 xx 16 14 Dst……………
+1 17 xx 17 Program Pengelolaan Keragaman Budaya
+1 17 xx 17 01 Pengembangan kesenian dan kebudayaan daerah
+1 17 xx 17 02 Penyusunan sistem informasi data base bidang kebudayaan
+1 17 xx 17 03 Penyelenggaraan dialog kebudayaan
+1 17 xx 17 04 Fasilitasi perkembangan keragaman budaya daerah
+1 17 xx 17 05 Fasilitasi penyelenggaraan festival budaya daerah
+1 17 xx 17 06 Seminar dalam rangka revitalisasi dan reaktualisasi budaya lokal
+1 17 xx 17 07 Monitoring, evaluasi dan pelaporan pelaksanaan pengembangan keanekaragaman budaya
+1 17 xx 17 08 Dst……………
+1 17 xx 18 Program pengembangan kerjasama pengelolaan kekayaan budaya
+1 17 xx 18 01 Fasilitasi Pengembangan kemitraan dengan LSM dan perusahaan swasta
+1 17 xx 18 02 Fasilitasi Ppembentukan kemitraan usaha profesi antar daerah
+1 17 xx 18 03 Membangun Kemitraan pengelolaan kebudayaan antar daerah
+1 17 xx 18 04 Monitoring, evaluasi dan pelaporan
+1 17 xx 18 05 Dst……………
+1 18 Pemuda dan Olah Raga
+1 18 xx 15 Program Pengembangan dan Keserasian Kebijakan Pemuda
+1 18 xx 15 01 Pendataan potensi kepemudaan
+1 18 xx 15 02 Pemantauan dan evaluasi pelaksanaan pembangunan pemuda
+1 18 xx 15 03 Penelitian dan pengkajian kebijakan-kebijakan pembangunan kepemudaan
+1 18 xx 15 04 Pengembangan sistem informasi manajemen kepemudaan berbasis E-YOUTH
+1 18 xx 15 05 Peningkatan keimanan dan ketaqwaan kepemudaan
+1 18 xx 15 06 Penyusunan pedoman komunikasi, informasi, edukasi dan advokasi tentang kepemimpinan pemuda
+1 18 xx 15 07 Penyusunan rancangan pola kemitraan antar pemuda dengan masyarakat
+1 18 xx 15 08 Perluasan penyusunan rencana aksi daerah bidang kepemudaan
+1 18 xx 15 09 Perumusan kebijakan kewirausahaan bagi pemuda
+1 18 xx 15 10 Monitoring, evaluasi dan pelaporan
+1 18 xx 15 11 Dst……………
+1 18 xx 16 Program peningkatan peran serta kepemudaan
+1 18 xx 16 01 Pembinaan Organisasi kepemudaan
+1 18 xx 16 02 Pendidikan dan pelatihan dasar kepemimpinan
+1 18 xx 16 03 Fasilitasi aksi bhakti sosial kepemudaan
+1 18 xx 16 04 Fasilitasi pekan temu wicara organisasi pemuda
+1 18 xx 16 05 Penyuluhan pencegahan penggunaan narkoba dikalangan generasi muda
+1 18 xx 16 06 Lomba kreasi dan kaya tulis ilmiah dikalangan pemuda
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 18 xx 16 07 Pembinaan pemuda pelopor keamanan lingkungan
+1 18 xx 16 08 Pameran prestasi hasil karya pemuda
+1 18 xx 16 09 Monitoring, evaluasi dan pelaporan
+1 18 xx 16 10 Dst……………
+1 18 xx 17 Program peningkatan upaya penumbuhan kewirausahaan dan kecakapan hidup pemuda
+1 18 xx 17 01 Pelatihan kewirausahaan bagi pemuda
+1 18 xx 17 02 Pelatihan keterampilan bagi pemuda
+1 18 xx 17 03 Dst……………
+1 18 xx 18 Program upaya pencegahan penyalahgunaan narkoba
+1 18 xx 18 01 Pemberian penyuluhan tentang bahaya narkoba bagi pemuda
+1 18 xx 18 02 Dst……………
+1 18 xx 19 Program Pengembangan Kebijakan dan Manajemen Olahraga
+1 18 xx 19 01 Peningkatan mutu organisasi dan tenaga keolahragaan
+1 18 xx 19 02 Pengembangan sistem sertifikasi dan standarisasi profesi
+1 18 xx 19 03 pengembangan perencanaan olahraga terpadu
+1 18 xx 19 04 Pemantauan dan evaluasi pelaksanaan pengembangan olahraga
+1 18 xx 19 05 Pembinaan manajemen organisasi olahraga
+1 18 xx 19 06 Pengkajian kebijakan-kebijakan pembangunan olahraga
+1 18 xx 19 07 Penyusunan pola kemitraan pemerintah dan masyarakat dalam pembangunan dan pengembangan industri olahraga
+1 18 xx 19 08 Monitoring, evaluasi dan pelaporan
+1 18 xx 19 09 Dst……………
+1 18 xx 20 Program Pembinaan dan Pemasyarakatan Olahraga
+1 18 xx 20 01 Pelaksanaan identifikasi bakat dan potensi pelajar dalam olahraga
+1 18 xx 20 02 Pelaksanaan identifikasi dan pengembangan olahraga unggulan daerah
+1 18 xx 20 03 Pembibitan dan pembinaan olahragawan berbakat
+1 18 xx 20 04 Pembinaan cabang olahraga prestasi di tingkat daerah
+1 18 xx 20 05 Peningkatan kesegaran jasmani dan rekreasi
+1 18 xx 20 06 Penyelenggaraan kompetisi olahraga
+1 18 xx 20 07 Pemassalan olahraga bagi pelajar, mahasiswa dan masyarakat
+1 18 xx 20 08 Pemberian penghargaan bagi insan olahraga yang berdedikasi dan berprestasi
+1 18 xx 20 09 Pengembangan dan Pemanfaatan IPTEK olahraga sebagai pendorong peningkatan pretasi olahraga
+1 18 xx 20 10 Pengembangan olahraga lanjut usia termasuk penyandang cacat
+1 18 xx 20 11 Pengembangan olahraga rekreasi
+1 18 xx 20 12 Peningkatan jaminan kesejahteraan bagi masa depan atlet, pelatih dan teknisi olahraga
+1 18 xx 20 13 Peningkatan jumlah kualitas serta kompetensi pelatih, peneliti, praktisi dan teknisi olahraga
+1 18 xx 20 14 Pembinaan olahraga yang berkembang di masyarakat
+1 18 xx 20 15 Peningkatan manajemen organisasi olahraga tingkat perkumpulan dan tingkat daerah
+1 18 xx 20 16 Peningkatan peran serta masyarakat dan dunia usaha dalam pendanaan dan pembinaan olahraga
+1 18 xx 20 17 Kerjasama peningkatan olahragawan berbakat dan berprestasi dengan lembaga/ instansi lainnya
+1 18 xx 20 18 Dst……………
+1 18 xx 21 Program Peningkatan Sarana dan Prasarana Olahraga
+1 18 xx 21 01 Peningkatan kerjasama pola kemitraan antara pemerintah dan masyarakat untuk membangun sarana dan prasarana olahraga
+1 18 xx 21 02 Peningkatan pembangunan saran dan prasarana olahraga
+1 18 xx 21 03 Pemantauan dan evaluasi pembangunan sarana dan prasarana olahraga
+1 18 xx 21 04
+1 18 xx 21 05 Pengembangan dan pemanfaatan iptek dalam pengembangan sarana dan prasarana olahraga
+1 18 xx 21 06 Peningkatan peran dunia usaha dalam pengembangan sarana dan prasarana olahraga
+1 18 xx 21 07 Pemeliharaan rutin/ berkala sarana dan prasarana olahraga
+1 18 xx 21 08 Dst……………
+1 18 xx 22 Program dst…..
+1 19 Kesatuan Bangsa dan Politik Dalam Negeri
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 19 xx 15 Program peningkatan keamanan dan kenyamanan lingkungan
+1 19 xx 15 01 Penyiapan tenaga kerja pengendali keamanan dan kenyamanan lingkungan
+1 19 xx 15 02 Pembangunan pos jaga/ ronda
+1 19 xx 15 03 Pelatihan pengendalian keamanan dan kenyamanan lingkungan
+1 19 xx 15 04 Pengendalian kebisingan dan gangguan dari kegiatan masyarakat
+1 19 xx 15 05 pengendalian keamanan lingkungan
+1 19 xx 15 06 Monitoring, evaluasi dan pelaporan
+1 19 xx 15 07 Dst……………
+1 19 xx 16 Program pemeliharaan kantrantibmas dan pencegahan tindak kriminal
+1 19 xx 16 01 Pengawasan pengendalian dan evaluasi kegiatan polisi pamong praja
+1 19 xx 16 02 Peningkatan kerjasama dengan aparat keamanan dalam teknik pencegahan kejahatan
+1 19 xx 16 03 Kerjasama pengembangan kemampuan aparat polisi pamong praja dengan TNI/ POLRI dan Kejaksaan
+1 19 xx 16 04 Peningkatan kapasitas aparat dalam rangka pelaksanaan siskamswakarsa di daerah
+1 19 xx 16 05 Monitoring, evaluasi dan pelaporan
+1 19 xx 16 06 Dst……………
+1 19 xx 17 Program pengembangan wawasan kebangsaan
+1 19 xx 17 01 Peningkatan toleransi dan kerukunan dalam kehidupan beragama
+1 19 xx 17 02 Peningkatan rasa solidaritas dan ikatan sosial dikalangan masyarakat
+1 19 xx 17 03 Peningkatan kesadaran masyarakat akan nilai-nilai luhur budaya bangsa
+1 19 xx 17 04 Dst……………
+1 19 xx 18 Program kemitraan pengembanganwawasan kebangsaan
+1 19 xx 18 01 Fasilitasi pencapaian halaqoh dan berbagai forum keagamaan lainnya dalam upaya peningkatan wawasan kebangasaan
+1 19 xx 18 02 Seminar, talk show, diskusi peningkatan wawasan kebangasaan
+1 19 xx 18 03 Pentas seni dan budaya, festifat, lomba cipta dalam upaya peningkatan wawasan kebangsaan
+1 19 xx 18 04 Dst……………
+1 19 xx 19 Program pemberdayaan masyarakat untuk menjaga ketertiban dan keamanan
+1 19 xx 19 01 Pembentukan satuan keamanan lingkungan di masyarakat
+1 19 xx 19 02 Dst……………
+1 19 xx 20 Program peningkatan pemberantasan penyakit masyarakat (pekat)
+1 19 xx 20 01 Penyuluhan pencegahan peredaran/ penggunaan minuman keras dan narkoba
+1 19 xx 20 02 Penyuluhan pencegahan berkembangnya praktek prostitusi
+1 19 xx 20 03 Penyuluhan pencegahan peredaran uang palsu
+1 19 xx 20 04 Penyuluhan pencegahan dan penertiban aksi premanisme
+1 19 xx 20 05  Penyuluhan pencegahan dan penertiban tindak penyelundupan
+1 19 xx 20 06 Penyuluhan pencegahan praktek perjudian
+1 19 xx 20 07 Penyuluhan pencegahan eksploitasi anak bawah umur
+1 19 xx 20 08 Monitoring, evaluasi dan pelaporan
+1 19 xx 20 09 Dst……………
+1 19 xx 21 Program pendidikan politik masyarakat
+1 19 xx 21 01 Penyuluhan kepada masyarakat
+1 19 xx 21 02 Fasilitasi penyelesaian perselisihan partai politik
+1 19 xx 21 03 koordinasi forum-forum diskusi politik
+1 19 xx 21 04 Penyusunan data base partai politik
+1 19 xx 21 05 Monitoring, evaluasi dan pelaporan
+1 19 xx 21 06 Dst……………
+1 19 xx 22 Program pencegahan dini dan penanggulangan korban bencana alam
+1 19 xx 22 01 Pemantauan dan penyebarluasan informasi potensi bencana alam
+1 19 xx 22 02 Pengadaan tempat penampungan sementara dan evakuasi penduduk dari ancaman/ korban bencana alam
+1 19 xx 22 03 Pengadaan sarana dan prasarana evakuasi penduduk dari ancaman/ korban bencana alam
+1 19 xx 22 04 Pengadaan logistik dan obat-obatan bagi penduduk di tempat penampungan sementara
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 19 xx 22 05 Dst……………
+1 20 Pemerintahan Umum
+1 20 xx 15 Program peningkatan kapasitas lembaga perwakilan rakyat daerah
+1 20 xx 15 01 Pembahasan rancangan peraturan daerah
+1 20 xx 15 02 Hearing/ dialog dan koordinasi dengan pejabat pemerintah daerah dan tokoh masyarakat/ tokoh agama
+1 20 xx 15 03 Rapat-rapat alat kelengkapan dewan
+1 20 xx 15 04 Rapat-rapat paripurna
+1 20 xx 15 05 Kegiatan Reses
+1 20 xx 15 06 Kunjungan kerja pimpinan dan anggota DPRD dalam daerah
+1 20 xx 15 07 Peningkatan kapasitas pimpinan dan anggota DPRD
+1 20 xx 15 08 Sosialisasi perturan perundang-undangan
+1 20 xx 15 09 Dst……………
+1 20 xx 16 Program peningkatan pelayanan kedinasan kepala daerah/ wakil kepala daerah
+1 20 xx 16 01 Dialog/ audiensi dengan tokoh-tokoh masyarakat, pimpinan/ anggota organisasi sosial dan masyarakat
+1 20 xx 16 02 Penerimaan kunjungan kerja pejabat negara/ departemen/ lembaga pemerintah non departemen/ luar negeri
+1 20 xx 16 03 Rapat koordinasi unsur MUSPIDA
+1 20 xx 16 04 Rapat koordinasi pejabat pemerintah daerah
+1 20 xx 16 05 Kunjungan kerja/ inspeksi kepala daerah/ wakil kepala daerah
+1 20 xx 16 06 Koordinasi dengan pemerintah pusat dan pemerintah daerah lainnya
+1 20 xx 16 07 Dst……………
+1 20 xx 17 Program peningkatan dan Pengembangan pengelolaan keuangan daerah
+1 20 xx 17 01 Penyusunan analisa standar belanja
+1 20 xx 17 02 penyusunan standar satuan harga
+1 20 xx 17 03 Penyusunan kebijakan akuntansi pemerintah daerah
+1 20 xx 17 04 Penyusunan sistem dan prosedur pengelolaan keuangan daerah
+1 20 xx 17 05 Penyusunan rancangan peraturan daerah tentang pajak daerah dan retribusi
+1 20 xx 17 06 Penyusunan rancangan peraturan daerah tentang APBD
+1 20 xx 17 07 Penyusunan rancangan peraturan KDH tentang Penjabaran APBD
+1 20 xx 17 08 Penyusunan rancangan peraturan daerah tentang Perubahan APBD
+1 20 xx 17 09 Penyusunan rancangan peraturan KDH tentang Penjabaran Perubahan APBD
+1 20 xx 17 10 Penyusunan rancangan peraturan daerah tentang pertanggungjawaban pelaksanaan APBD
+1 20 xx 17 11 Penyusunan rancangan peraturan KDH tentang penjabaran pertanggungjawaban pelaksanaan APBD
+1 20 xx 17 12 Penyusunan Sistem informasi keuangan daerah
+1 20 xx 17 13 Penyusunan Sistem informasi pengelolaan keuangan daerah
+1 20 xx 17 14 Sosialisasi paket regulasi tentang pengelolaan keuangan daerah
+1 20 xx 17 15 Bimbingan teknis implementasi paket regulasi tentang pengelolaan keuangan daerah
+1 20 xx 17 16 Peningkatan manajemen aset/ barang daerah
+1 20 xx 17 17 Peningkatan manajemen investasi daerah
+1 20 xx 17 18 Revaluasi/ appraisal aset/ barang daerah
+1 20 xx 17 19 Intensifikasi dan Ekstensifikasi sumber-sumberpendapatan daerah
+1 20 xx 17 20 Dst……………
+1 20 xx 18 Program pembinaan dan fasilitasi pengelolaan keuangan kabupaten/ kota
+1 20 xx 18 01 Evaluasi rancangan peraturan daerah tentang APBD kabupaten/ kota
+1 20 xx 18 02 Evaluasi rancangan peraturan KDH tentang Penjabaran APBD kabupaten/ kota
+1 20 xx 18 03 Evaluasi rancangan peraturan daerah tentang pajak daerah dan retribusi daerah kabupaten/ kota
+1 20 xx 18 04 Penyusunan standar evaluasi rancangan peraturan daerah tentang APBD kabupaten/ kota
+1 20 xx 18 05 Asistensi penyusunan rancangan pengelolaan keuangan daerah kabupaten/ kota
+1 20 xx 18 06 Dst……………
+1 20 xx 19 Program pembinaan dan fasilitasi pengelolaan keuangan desa
+1 20 xx 19 01 Evaluasi rancangan peraturan desa tentang APB Desa
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 20 xx 19 02 Evaluasi rancangan peraturan desa tentang pendapatan desa
+1 20 xx 19 03 Penyusunan pedoman pengelolaan keuangan desa
+1 20 xx 19 04 Dst……………
+1 20 xx 20 Program peningkatan sistem pengawasan internal dan pengendalian pelaksanaan kebijakan KDH
+1 20 xx 20 01 Pelaksanaan pengawasan internal secara berkala
+1 20 xx 20 02 Penanganan Kasus pengaduan di lingkungan pemerintah daerah
+1 20 xx 20 03 Pengendalian manajemen pelaksanaan kebijakan KDH
+1 20 xx 20 04 Penanganan kasus pada wilayah pemerintahan dibawahnya
+1 20 xx 20 05 Inventarisasi temuan pengawasan
+1 20 xx 20 06 Tindak lanjut hasil temuan pengawasan
+1 20 xx 20 07 Koordinasi pengawasan yang lebih komprehensif
+1 20 xx 20 08 Evaluasi berkala temuan hasil pengawasan
+1 20 xx 20 09 Dst….
+1 20 xx 21 Program Peningkatan Profesionalism tenaga pemeriksa dan aparatur pengawasan
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 20 xx 21 01 Pelatihan pengembangan tenaga pemeriksa dan aparatur pengawasan
+1 20 xx 21 02 Pelatihan teknis pengawasan dan penilaian akuntabilitas kinerja
+1 20 xx 21 03 Dst…
+1 20 xx 22 Program Penataan dan Penyempurnaan  kebijakan sistem dan prosedur pengawasan
+1 20 xx 22 01 Penyusunan naskah akademik kebijakan sistem dan prosedur pengawasan
+1 20 xx 22 02 Penyusunan kebijakan sistem dan prosedur pengawasan
+1 20 xx 22 03 Dst…
+1 20 xx 23 Program optimalisasi pemanfaatan teknologi informasi
+1 20 xx 23 01 Penyusunan sistem informasi terhadap layanan publik
+1 20 xx 23 02 Dst…
+1 20 xx 24 Program Mengintensifkan penanganan pengaduan masyarakat
+1 20 xx 24 01 Pembentukan unit khusus penanganan pengaduan masyarakat
+1 20 xx 24 02 Dst….
+1 20 xx 25 Program Peningkatan Kerjasama Antar Pemerintah Daerah
+1 20 xx 25 01 Fasilitasi/pembentukan kerjasama antar daerah dalam penyediaan pelayanan publik
+1 20 xx 25 02 Fasilitasi/pembentukan perkuatan kerjasama antar daerah pada bidang ekonomi 
+1 20 xx 25 03 Fasilitasi/pembentukan kerjasama antar daerah di bidang hukum
+1 20 xx 25 04 Fasilitasi/pembentukan kerjasama antar daerah dalam penyediaan sarana dan prasarana publik
+1 20 xx 25 05 Dst…
+1 20 xx 26 Program Penataan Peraturan Perundang-undangan
+1 20 xx 26 01 Koordinasi kerjasama permasalahan peraturan perundang-undangan
+1 20 xx 26 02 Penyusunan rencana kerja rancangan peraturan perundang-undangan
+1 20 xx 26 03 Legislasi rancangan peraturan perundang-undangan
+1 20 xx 26 04 Fasilitasi sosialisasi peraturan perundang-undangan
+1 20 xx 26 05 Publikasi peraturan perundang-undangan
+1 20 xx 26 06
+Kajian peraturan perundang-undangan daerah terhadap peraturan perundang-undangan yang baru,lebih tinggi dari keserasian 
+antar peraturan perundang-undangan daerah
+1 20 xx 26 07 Dst…
+1 20 xx 27 Program Penataan Daerah Otonomi Baru
+1 20 xx 27 01 Fasilitasi penyiapan data dan informasi pendukung proses pemekaran daerah
+1 20 xx 27 02 Fasilitasi percepatan penyerahan P3D dari daerah induk ke daerah pemekaran
+1 20 xx 27 03 Fasilitasi percepatan penyelesaian tapal batas wilayah administrasi antar daerah
+1 20 xx 27 04 Fasilitasi pemantapan SOTK pemerintah daerah otonom baru
+1 20 xx 27 05 Dst…
+1 20 xx 28 Program dst….
+1 21 Kepegawaian
+1 21 xx 15 Program Pendidikan Kedinasan
+1 21 xx 15 01 Pendidikan dan pelatihan teknis
+1 21 xx 15 02 pendidikan penjenjangan struktural
+1 21 xx 15 03 Pemantauan dan evaluasi penyelenggaraan pendidikan
+1 21 xx 15 04 Pembuatan buku juknis/juklak
+1 21 xx 15 05 Pengembangan kurikulum pendidikan dan pelatihan
+1 21 xx 15 06 Peningkatan ketrampilan dan profesionalisme
+1 21 xx 15 07 Dst…
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 21 xx 16 Program peningkatan kapasitas sumberdaya aparatur
+1 21 xx 16 01 Pendidikan dan pelatihan prajabatan bagi calon PNS Daerah
+1 21 xx 16 02 Pendidikan dan pelatihan struktural bagi PNS Daerah
+1 21 xx 16 03 Pendidikan dan pelatihan teknis tugas dasn fungsi bagi PNS daerah
+1 21 xx 16 04 Pendidikan dan pelatihan fungsional bagi PNS Daerah
+1 21 xx 16 05 Dst…
+1 21 xx 17 Program Pembinaan dan Pengembangan Aparatur
+1 21 xx 17 01 Penyusunan rencana pembinaan karir PNS
+1 21 xx 17 02 Seleksi penerimaan calon PNS
+1 21 xx 17 03 Penempatan PNS
+1 21 xx 17 04 Penataan sistem administrasi kenaikan pangkat otomatis PNS
+1 21 xx 17 05 Pembangunan/Pengembangan sistem informasi kepegawaian daerah
+1 21 xx 17 06 Penyusunan instrumen analisis jabatan PNS
+1 21 xx 17 07 Seleksi dan penetapan PNS untuk tugas belajar
+1 21 xx 17 08 Pemberian penghargaan bagi PNS yang berprestasi
+1 21 xx 17 09 Proses penanganan kasus-kasus pelanggaran disiplin PNS
+1 21 xx 17 10 Kajian sistem dan kualitas materi diklat PNS
+1 21 xx 17 11 Pemberian bantuan tugas belajar dan ikatan dinas
+1 21 xx 17 12 Pemberian bantuan penyelenggaraan penerimaan Praja IPDN
+1 21 xx 17 13 Penyelenggaraan diklat teknis, fungsional dan kepemimpinan
+1 21 xx 17 14 Pengembangan diklat (Analisis Kebutuhan Diklat, Penyusunan silabi, Penyusunan Modul, Penyusunan Pedoman Diklat)
+1 21 xx 17 15 Monitoring, evaluasi dan pelaporan
+1 21 xx 17 16 Koordinasi penyelenggaraan diklat
+1 21 xx 17 17 Dst…
+1 22 Pemberdayaan Masyarakat dan Desa
+1 22 xx 15 Program Peningkatan Keberdayaan Masyarakat Pedesaan
+1 22 xx 15 01 Pemberdayaan Lembaga dan Organisasi Masyarakat Pedesaan
+1 22 xx 15 02 Penyelenggaraan Pendidikan dan Pelatihan Tenaga Teknis dan Masyarakat
+1 22 xx 15 03 Penyelenggaraan Diseminasi Informasi bagi Masyarakat Desa
+1 22 xx 15 04 Dst…
+1 22 xx 16 Program pengembangan lembaga ekonomi pedesaan
+1 22 xx 16 01 Pelatihan ketrampilan usaha budidaya tanaman
+1 22 xx 16 02 Pelatihan ketrampilan manajemen badan usaha milik desa
+1 22 xx 16 03 Pelatihan ketrampilan usaha industri kerajinan
+1 22 xx 16 04 Pelatihan ketrampilan usaha pertanian dan perternakan
+1 22 xx 16 05 Fasilitasi permodalan bagi usaha mikro kecil dan menengah di perdesaan
+1 22 xx 16 06 Fasilitasi kemitraan swasta dan usaha mikro kecil dan menengah di pedesaan
+1 22 xx 16 07 Monitoring, evaluasi dan pelaporan
+1 22 xx 16 08 Dst……………..
+1 22 xx 17 Program peningkatan partisipasi masyarakat dalam membangun desa 
+1 22 xx 17 01 Pembinaan kelompok masyarakat pembangunan desa
+1 22 xx 17 02 Pelaksanaan musyawarah pembangunan desa
+1 22 xx 17 03 Pemberian stimulan pembangunan desa
+1 22 xx 17 04 Monitoring, evaluasi dan pelaporan
+1 22 xx 17 05 Dst……………
+1 22 xx 18 Program peningkatan kapasitas aparatur pemerintah desa
+1 22 xx 18 01 Pelatihan aparatur pemerintah desa dalam bidang pembangunan kawasan perdesaan
+1 22 xx 18 02 Pelatihan aparatur pemerintah desa dalam bidang pengelolaan keuangan desa
+1 22 xx 18 03 Pelatihan aparatur pemerintah desa dalam bidang manajemen pemerintahan desa
+1 22 xx 18 04 Monitoring, evaluasi dan pelaporan
+1 22 xx 18 05 Dst……………..
+1 22 xx 19 Program peningkatan peran perempuan di perdesaan
+1 22 xx 19 01 Pelatihan perempuan di perdesaan dalam bidang usaha ekonomi produktif
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 22 xx 19 02 Dst……………
+1 22 xx 19 Program dst…
+1 23 Statistik
+1
+1 23 xx 15 Program pengembangan data/informasi/statistik daerah
+1 23 xx 15 01 Penyusunan dan pengumpulan data dan statistik daerah
+1 23 xx 15 02 Pengolahan, updating dan analisis data dan statistik daerah
+1 23 xx 15 03 Penyusunan dan pengumpulan data PDRB
+23 xx 15 04 Pengolahan, updating dan analisis data PDRB
+23 xx 15 05 Dst……………
+1 24 Kearsipan
+1 24 xx 15 Program perbaikan sistem administrasi kearsipan
+1 24 xx 15 01 Pembangunan data base informasi kearsipan
+1 24 xx 15 02 Pengumpulan data
+1 24 xx 15 03 Pengklasifikasikan data
+1 24 xx 15 04 Penyusunan sistem katalog data
+1 24 xx 15 05 Pengadaan sarana penyimpanan
+1 24 xx 15 06 Kajian sistem administrasi kearsifan
+1 24 xx 15 07 Pemeliharaan peralatan jaringan informasi kearsifan
+1 24 xx 15 08 Dst……………
+1 24 xx 16 Program penyelamatan dan pelestarian dokumen/arsip daerah
+1 24 xx 16 01 Pengadaan sarana pengolahan dan penyimpanan arsip
+1 24 xx 16 02 Pendataan dan penataan dokumen/arsip daerah
+1 24 xx 16 03 Penduplikatan dokumen/arsip daerah dalam bentuk informatika
+1 24 xx 16 04 Pembangunan sistem keamanan penyimpanan data
+1 24 xx 16 05 Dst……………
+1 24 xx 17 Program pemeliharaan rutin/berkala sarana dan prasarana kerasipan
+1 24 xx 17 01 Pemeliharaan rutin/berkala sarana pengolahan dan penyimpanan arsip
+1 24 xx 17 02 Pemeliharaan rutin/berkala arsip daerah
+1 24 xx 17 03 Monitoring, evaluasi dan pelaporan kondisi situasi data
+1 24 xx 17 04 Dst……………
+1 24 xx 18 Program peningkatan kualitas pelayanan informasi
+1 24 xx 18 01 Penyusunan dan penerbitan naskah sumber arsip
+1 24 xx 18 02 Penyediaan sarana layanan informasi arsip
+1 24 xx 18 03 Sosialisasi/penyuluhan kearsipan di lingkungan instansi pemerintah/swasta
+1 24 xx 18 04 Dst……………
+1 25 Komunikasi dan Informatika
+1 25 xx 15 Program Pengembangan Komunikasi, Informasi dan Media Massa
+1 25 xx 15 01 Fasilitasi penyempurnaan peraturan perundangan penyiaran dan KMIP
+1 25 xx 15 02 Pembinaan dan pengembangan jaringan komunikasi dan informasi
+1 25 xx 15 03 Pembinaan dan pengembangan sumber daya komunikasi dan informasi
+1 25 xx 15 04 Penelitian dan pengembangan ilmu pengetahuan dan teknologi
+1 25 xx 15 05 Pengadaan alat studio dan komunikasi
+1 25 xx 15 06 Pengkajian dan pengembangan sistem informasi
+1 25 xx 15 07 Perencanaan dan pengembangan kebijakan komunikasi dan informasi
+1 25 xx 15 08 Dst……………
+1 25 xx 16 Program pengkajian dan penelitian bidang komunikasi dan informasi
+1 25 xx 16 01 Pengkajian dan penelitian bidang informasi dan komunikasi
+1 25 xx 16 02 Dst……………
+1 25 xx 17 Program fasilitasi Peningkatan SDM bidang komunikasi dan informasi
+1 25 xx 17 01 Pelatihan SDM dalam bidang komunikasi dan informasi
+1 25 xx 17 02 Dst……………
+1 25 xx Program kerjasama informsi dan media massa
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+1 25 xx 18 01 Penyebarluasan informasi pembangunan daerah
+1 25 xx 18 02 Penyebarluasan informasi penyelenggaraan pemerintahan daerah
+1 25 xx 18 03 Penyebarluasan informasi yang bersifat penyuluhan bagi masyarakat
+1 25 xx 18 04 Dst……………
+1 25 xx 19 Program dst………………………
+2 Urusan Pilihan
+2 01 Pertanian
+2 01 xx 15 Program Peningkatan Kesejahteraan Petani
+2 01 xx 15 01 Pelatihan petani dan pelaku agribisnis
+2 01 xx 15 02 Penyuluhan dan pendampingan petani dan pelaku agrobisnis
+2 01 xx 15 03 Peningkatan kemampuan lembaga petani
+2 01 xx 15 04 Peningkatan sistem insentif dan disnisentif bagi petani/kelompok tani
+2 01 xx 15 05 Penyuluhan dan bimbingan pemanfaatan dan produktivitas lahan tidur
+2 01 xx 15 06 Dst……………
+2 01 xx 16 Program Peningkatan Ketahanan Pangan pertanian/perkebunan
+2 01 xx 16 01 Penanganan daerah rawan pangan
+2 01 xx 16 02 Penyusunan data base potensi produk pangan
+2 01 xx 16 03 Analisis dan penyusunan pola konsumsi dan suplai pangan
+2 01 xx 16 04 Analisis rasio jumlah penduduk terhadap jumlah kebutuhan pangan
+2 01 xx 16 05 Laporan berkala kondisi ketahanan pangan daerah
+2 01 xx 16 06 Kajian rantai pasokan dan pemasaran pangan
+2 01 xx 16 07 Monitoring, evaluasi dan pelaporan kebijakan perberasan
+2 01 xx 16 08 Monitoring, evaluasi dan pelaporan kebijakan subsidi pertanian
+2 01 xx 16 09 Pemanfaatan perkarangan untuk pengembangan pangan
+2 01 xx 16 10 Pemantauan dan analisis akses pangan masyarakat
+2 01 xx 16 11 Pemantauan dan analisis akses harga pangan pokok
+2 01 xx 16 12 Penanganan pasca panen dan pengolahan hasil pertanian
+2 01 xx 16 13 Pengembangan cadangan pangan daerah
+2 01 xx 16 14 Pengembangan desa mandiri pangan
+2 01 xx 16 15 Pengembangan intensifikasi tanaman padi, palawija
+2 01 xx 16 16 Pengembangan diverisifikasi tanaman
+2 01 xx 16 17 Pengembangan pertanian pada lahan kering
+2 01 xx 16 18 Pengembangan lumbung pangan desa
+2 01 xx 16 19 Pengembangan model distribusi pangan yang efisien
+2 01 xx 16 20 Pengembangan perbinihan/perbibitan
+2 01 xx 16 21 Pengembangan sistem informasi pasar 
+2 01 xx 16 22 Peningkatan mutu dan keamanan pangan
+2 01 xx 16 23 Koordinasi kebijakan perberasan
+2 01 xx 16 24 Koordinasi perumusan kebijakan pertanahan dan infrastruktur pertanian dan perdesaan
+2 01 xx 16 25 Penelitian dan pengembangan sumber daya pertanian
+2 01 xx 16 26 Penelitian dan pengembangan teknologi biotekhnologi
+2 01 xx 16 27 Penelitian dan pengembangan  teknologi budi daya
+2 01 xx 16 28 Penelitian dan pengembangan teknologi pasca panen
+2 01 xx 16 29     Peningkatan produksi, produktivitas dan mutu produk perkebunan, produk pertanian
+2 01 xx 16 30 Penyuluhan sumber pangan alternatif
+2 01 xx 16 31 Monitoring, evaluasi dan pelaporan
+2 01 xx 16 32 Dst……………
+2 01 xx 17 Program peningkatan pemasaran hasil produksi pertanian/perkebunan
+2 01 xx 17 01 Penelitian dan pengembangan pemasaran hasil produksi pertanian/perkebunan
+2 01 xx 17 02 Fasilitasi kerjasama regioanal/nasioanal/internasional penyediaan hasil produksi pertanian/perkebunan komplementer
+2 01 xx 17 03 Pembangunan sarana dan prasarana pasar kecamatan/perdesaan produksi hasil pertanian/perkebunan
+2 01 xx 17 04 Pembangunan pusat-pusat etalase/eksibi/promosi atas hasil produksi pertanian/perkebuanan
+2 01 xx 17 05 Pemeliharan rutin/berkala sarana dan prasarana pasar kecamatan/pedesaan produksi hasil pertanian/perkebunan 
+2 01 xx 17 06 Pemeliharan rutin/berkala pusat-pusat etalase/eksibi/promosi atas hasil produksi pertanian/perkebuanan
+2 01 xx 17 07 Promosi atas hasil produksi pertanian/perkebunan unggul daerah
+2 01 xx 17 08 Penyuluhan pemasaran produksi pertanian/perkebunan guna menghindari tengkulak dan sistem ijon
+2 01 xx 17 09 Pembangunan pusat-pusat penampungan produksi hasil pertanian/perkabunan masyarakat yang akan dipasarakan
+2 01 xx 17 10 pengolahan informasi permintaan pasar atas hasil produksi pertanian/perkebunan masyarakat
+2 01 xx 17 11 Penyuluhan distribusi pemasaran atas hasil produksi pertanian/perkebunan masyarakat
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+2 01 xx 17 12 Penyuluhan kualitas dan teknis kemasan hasil produksi pertanian/perkebunan yang akan dipasarkan
+2 01 xx 17 13 Monitoring, evaluasi dan pelaporan
+2 01 xx 17 14 Dst……………
+2 01 xx 18 Program peningkatan penerapan teknologi pertanian/perkebunan
+2 01 xx 18 01 Penelitian dan pengembangan teknologi pertanian/perkebunan tepat guna
+2 01 xx 18 02 Pengadaan sarana dan prasaranan teknologi pertanian/perkebunan tepat guna
+2 01 xx 18 03 Pemeliharaan rutin/berkala sarana dan prasarana teknologi pertanian/perkebunan tepat guna
+2 01 xx 18 04 Kegiatan penyuluhan penerapan teknologi pertanian/perkebunan tepat guna
+2 01 xx 18 05 Pelatihan dan bimbingan pengoperasian teknologi pertanian/perkebunan tepat guna
+2 01 xx 18 06 Pelatihan penerapan teknologipertanian/perkebunan modern bercocok tanam
+2 01 xx 18 07 Monitoring, evaluasi dan pelaporan
+2 01 xx 18 08 Dst……………
+2 01 xx 19 Program peningkatan produksi pertanian/perkebunan
+2 01 xx 19 01 Penyuluhan peningkatan produksi pertanian/perkebunan
+2 01 xx 19 02 Penyediaan sarana produksi pertanian/perkebunan
+2 01 xx 19 03 Pengembangan bibit unggul pertanian/perkebunan
+2 01 xx 19 04 Sertifikasi bibit unggul pertanian/perkebunan
+2 01 xx 19 05 Penyusunan kebijakan pencegahan alih fungsi lahan pertanian
+2 01 xx 19 06 Monitoring, evaluasi dan pelaporan
+2 01 xx 19 07 Dst……………
+2 01 xx 20 Program pemberdayaan penyuluh pertanian/perkebunan lapangan
+2 01 xx 20 01 Peningkatan kapasitas tenaga penyuluh pertanian/perkebunan
+2 01 xx 20 02 Peningkatan kesejahteraan tenaga penyuluh pertanian/perkebunan
+2 01 xx 20 03 Penyuluhan dan pendampingan bagi pertanian/perkebunan
+2 01 xx 20 04 Dst……………
+2 01 xx 21 Program pencegahan dan penanggulangan penyakit ternak
+2 01 xx 21 01 Pendataan masalah peternakan
+2 01 xx 21 02 Pemeliharaan kesehatan dan pencegahan penyakit menular ternak
+2 01 xx 21 03 Pemusnahan ternak yang terjangkit penyakit endemik
+2 01 xx 21 04 Pengawasan perdagangan ternak antar daerah
+2 01 xx 21 05 Monitoring, evaluasi dan pelaporan
+2 01 xx 21 06 Dst……………
+2 01 xx 22 Program peningkatan produksi hasil peternakan
+2 01 xx 22 01 Pembangunan sarana dan prasarana pembibitan ternak
+2 01 xx 22 02 Pembibitan dan perawatan ternak
+2 01 xx 22 03 Pendistribusian bibit ternak kepada masyarakat
+2 01 xx 22 04 Penyuluhan pengelolaan bibit ternak yang didistribusikan kepada masyarakat
+2 01 xx 22 05 Penelitian dan pengolahan gizi dan pakan ternak
+2 01 xx 22 06 Pembelian dan pendistribusian vaksin dan pakan temak
+2 01 xx 22 07 Penyuluhan kualitas gizi dan pakan ternak
+2 01 xx 22 08 Pengembangan agribisnis pertenakan
+2 01 xx 22 09 Monitoring, evaluasi dan pelaporan
+2 01 xx 22 10 Dst……………
+2 01 xx 23 Program peningkatan pemasaran hasil produksi peternakan
+2 01 xx 23 01 Penelitian dan pengembangan pemasaran hasil produksi peternakan
+2 01 xx 23 02 Fasilitasi Kerjasama regional/nas'ronai/intemasional penyediaan hash produksi petemakan komplementer.
+2 01 xx 23 03 Pembangunan sarana dan prasarana pasar produksi hash peternakan
+2 01 xx 23 04 Pembangunan pusat-pusat etalase/eksebisi/promosi atas hasil produksi peternakan
+2 01 xx 23 05 Pemeliharaan nutin/berkala sarana dan prasarana pasar produksi hasil petemakan
+2 01 xx 23 06 Pemeliharaan rutin/berkala pusat-pusat etalase/eksebisi/promosi atas hasil produksi peternakan
+2 01 xx 23 07 Promosi atas hasil produksi peternakan unggulan daerah. _
+2 01 xx 23 08 Penyuluhan pemasaran produksi peternakan
+2 01 xx 23 09 Pembangunan pusat-pusat penampungan produksi hasil peternakan masyarakat
+2 01 xx 23 10 Pengolahan informasi permintaan pasar atas hasil produksi peternakan masyarakat
+2 01 xx 23 11 Penyuluhan distribusi pemasaran atas hasil produksi peternakan masyarakat
+2 01 xx 23 12 Penyuluhan kualitas dan teknis kemasan hasil produksi peternakan yang akan dipasarkan
+2 01 xx 23 13 Monitoring, evaluasi dan pelaporan
+2 01 xx 23 14 Dst……………
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+2 01 xx 24 Program peningkatan penerapan teknologi petemakan
+2 01 xx 24 01 Penelitian dan pengembangan teknologi peternakan tepat guna
+2 01 xx 24 02 Pengadaan sarana dan prasarana teknologi peternakan tepat guna
+2 01 xx 24 03 Pemeliharaan rutin/berkala sarana dan prasarana teknologi peternakan tepat guna
+2 01 xx 24 04 Kegiatan penyuluhan penerapan teknologi peternakan tepat guna
+2 01 xx 24 05 Pelatihan dan bimbingan pengoperasian teknologi peternakan tepat guna
+2 01 xx 24 06 Monitoring, evaluasi dan pelaporan
+2 01 xx 24 07 Dst……………
+2 01 xx 25 Program dst…
+2 02 Kehutanan
+2 02 xx 15 Program Pemanfaatan Potensi Sumber Daya Hutan
+2 02 xx 15 01 Pembentukan kesatuan pengelolaan hutan produksi
+2 02 xx 15 02 Pengembangan hutan tanaman
+2 02 xx 15 03 Pengembangan hasil hutan non-kayu
+2 02 xx 15 04 Perencanaan dan pengembangan hutan kemasyarakatan
+2 02 xx 15 05 Optimalisasi PNBP
+2 02 xx 15 06 Pengelolaan dan pemanfaatan hutan
+2 02 xx 15 07 Pengembangan industri dan pemasaran hasil hutan
+2 02 xx 15 08 Pengembangan pengujian dan pengendalian peredaran hasil hutan
+2 02 xx 15 09 Monitoring, evaluasi dan pelaporan
+2 02 xx 15 10 Dst……………
+2 02 xx 16 Program rehabilitasi hutan dan lahan
+2 02 xx 16 01 Koordinasi penyelenggaraan reboisasi dan penghijauan hutan
+2 02 xx 16 02 Pembuatan bibit/benih tanaman kehutanan
+2 02 xx 16 03 Penanaman pohon pada kawasan hutan industri dan hutan wisata
+2 02 xx 16 04 Pemeliharaan kawasan hutan industri dan hutan wisata
+2 02 xx 16 05 Pembinaan, pengendalian dan pengawasan gerakan rehabilitasi hutan dan lahan
+2 02 xx 16 06 Peningkatan pecan serta masyarakat dalam rehabilitasi hutan dan lahan
+2 02 xx 16 07 Monitoring, evaluasi dan pelaporan
+2 02 xx 16 08 Dst……………
+2 02 xx 17 Perlindungan dan konservasi sumber daya hutan
+2 02 xx 17 01 Pencegahan dan pengendalian kebakaran hutan dan lahan
+2 02 xx 17 02 Sosialisasi pencegahan dan dampak kebakaran hutan dan lahan
+2 02 xx 17 03 Bimbingan teknis pengendalian kebakaran hutan dan lahan
+2 02 xx 17 04 Penanggulangan kebakaran baton dan lahan
+2 02 xx 17 05 Penyuluhan kesadaran masyarakat mengenai dampak perusakan hutan
+2 02 xx 17 06 Dst……………
+2 02 xx 18 Program pemanfaatan kawasan baton industri
+2 02 xx 18 01 Pertanian tanaman palawija, padi gogorancah
+2 02 xx 18 02 Dst……………
+2 02 xx 19 Program pembinaan dan penertiban industri hasil hutan
+2 02 xx 19 01 Penyusunan peraturan daerah mengenai pengelolaan industri hasil hutan
+2 02 xx 19 02 Sosialisasi peraturan daerah mengenai pengelolaan industri hasil hutan
+2 02 xx 19 03 Pengawasan dan penertiban pelaksanaan peraturan daerah mengenai pengelolaan industri hasil hutan
+02 xx 19 04 Perluasan akses layanan informasi pemasaran hasil hutan
+2 02 xx 19 05 Monitoring, evaluasi dan pelaporan
+2 02 xx 19 06 Dst……………
+2 02 xx 20 Program perencanaan dan pengembangan baton
+2 02 xx 20 01 Pengembangan hutan masyarakat adat
+2 02 xx 20 02 Pendampingan kelompok usaha perhutanan rakyat
+2 02 xx 20 03 Dst……………
+2 02 xx 21 Program dst…
+2 03 Energi dan Sumberdaya Mineral
+2 03 xx 15 Program pembinaan dan pengawasan bidang pertambangan
+2 03 xx 15 01 Penyusunan regulasi mengenai kegiatan penambangan bahan galian C
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+2 03 xx 15 02 Sosialisasi regulasi mengenai kegiatan penambangan bahan galian C
+2 03 xx 15 03 Monitoring dan pengendalian kegiatan penambangan bahan galian C
+2 03 xx 15 04 Koordinasi dan pendataan tentang hasil produksi dibidang pertambangan
+2 03 xx 15 05 Pengawasan teritadap pelaksanaan kegiatan penambangan galian C
+2 03 xx 15 06 Monitoring, evaluasi dan pelaporan
+2 03 xx 15 07 Dst……………
+2 03 xx 16 Program pengawasan dan penertiban kegiatan rakyat yang berpotensi merusak lingkungan
+2 03 xx 16 01 Pengawasan penertiban kegiatan pertambangan rakyat
+2 03 xx 16 02 Monitoring, evaluasi dan pelaporan dampak kerusakan lingkungan akibat keglatan pertambangan rakyat
+2 03 xx 16 03 Penyebaran Peta Daerah Rawan Bencana Alam Geologi
+2 03 xx 16 04 Dst……………
+2 03 xx 17 Program pembinaan dan pengembangan bidang ketenagalistrikan
+03 xx 17 01 Koordinasi pengembangan ketenaga lisbikan
+2 03 xx 17 02 Dst……………
+2 03 xx 18 Program dst…
+2 04 Pariwisata
+2 04 xx 15 Program Pengembangan Pemasaran Pariwisata
+2 04 xx 15 01 Analisa pasar untuk promosi dan pemasaran objek pariwisata
+2 04 xx 15 02 Peningkatan pemanfaatan teknologi informasi dalam pemasaran pariwisata
+2 04 xx 15 03 Pengembangan jaringan kerja sama promosi pariwisata
+2 04 xx 15 04 Koordinasi dengan sektor pendukung pariwisata
+2 04 xx 15 05 Pelaksanaan promosi pariwisata nusantara di dalam dan di luar negeri
+2 04 xx 15 06 Pemantauan dan evaluas pelaksanaan program pengembangan pemasaran pariwisata
+2 04 xx 15 07 Pengembangan Statistik Kepariwisataan
+2 04 xx 15 08 Pelatihan pemandu wisata terpadu
+2 04 xx 15 09 Dst……………
+2 04 xx 16 Program Pengembangan Destinasi Pariwisata
+2 04 xx 16 01 Pengembangan objek pariwisata unggulan
+2 04 xx 16 02 Peningkatan pembangunan sarana dan perasarana pariwisata
+2 04 xx 16 03 Pengembangan jenis dan paket wisata unggulan
+2 04 xx 16 04 Pelaksanaan koordinasi pembangunan objek pariwisata dengan lembaga/dunia usaha
+2 04 xx 16 05 Pemantauan dan evaluasi pelaksanaan program pengembangan destinasi pemasaran pariwisata
+2 04 xx 16 06 Pengembangan daerah tujuan wisata
+2 04 xx 16 07 Pengembangan, sosialisasi, dan penerapan serta pengawasan standardisasi
+2 04 xx 16 08 Dst……………
+2 04 xx 17 Program Pengembangan Kemitraan
+2 04 xx 17 01 Pengembangan dan penguatan,informasi dan database
+2 04 xx 17 02 Pengembangan dan penguatan litbang, kebudayaan dan pariwisata
+2 04 xx 17 03 Pengembangan SDM di bidang kebudayaan dan pariwisata bekerjasama dengan lembaga lainnya
+2 04 xx 17 04 Fasilitasi pembentukan forum komunikasi antar pelaku industri pariwisata dan budaya
+2 04 xx 17 05 Pelaksanaan koordinasi pembangunan kemitraan pariwisata
+2 04 xx 17 06 Pemantauan dan evaluasi pelaksanaan program peningkatan kemitraan
+2 04 17 07 Pengembangan sumber daya manusia dan profesionalisme bidang pariwisata
+2 04 xx 17 08 Peningkatan peran serta masyarakat dalam pengembangan kemitraan pariwisata
+2 04 xx 17 09 Monitoring, evaluasi dan pelaporan
+2 04 xx 17 10 Dst……………
+2 04 xx 18 Program dst…
+2 05 Kelautan dan Perikanan
+2 05 xx 15 Program pemberdayaan ekonomi masyarakat pesisir
+2 05 xx 15 01 Pembinaan kelompok ekonomi masyarakat pesisir
+2 05 xx 15 02 Dst……………
+2 05 xx 16 Program pemberdayaan masyarakat dalam pengawasan dan pengendalian sumberdaya kelautan
+2 05 xx 16 01 Pembentukan kelompok masyarakat swakarsa pengamanan sumberdaya kelautan
+2 05 xx 16 02 Dst……………
+05 xx
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+2 05 xx 17 Program peningkatan kesadaran dan penegakan hukum dalam pendayagunaan sumberdaya laut
+2 05 xx 17 01 Penyuluhan hukum dalam pendayagunaan sumberdaya laut
+2 05 xx 17 02 Dst……………
+2 05 xx 18 Program peningkatan mitigasi bencana alam laut dan prakiraan iklim laut
+2 05 xx 18 01 Kajian mitigasi bencana alam laut dan prakiraan iklim laut
+2 05 xx 18 02 Dst……………
+2 05 xx 19 Program peningkatan kegiatan budaya kelautan dan wawasan maritim kepada masyarakat
+2 05 xx 19 01 Penyuluhan budaya kelautan
+2 05 xx 19 02 Dst……………
+2 05 xx 20 Program pengembangan budidaya perikanan
+2 05 xx 20 01 Pengembangan bibit ikan unggul
+2 05 xx 20 02 Pendampingan pada kelompok tani pembudidaya ikan
+2 05 xx 20 03 Pembinaan dan pengembangan perikanan
+2 05 xx 20 04 Dst……………
+05 xx 21 Program pengembangan perikanan tangkap
+2 05 xx 21 01 Pendampingan pada kelompok nelayan perikanan tangkap
+2 05 xx 21 02 Pembangunan tempat pelelangan ikan
+2 05 xx 21 03 Pemeliharaan rutin/berkala tempat pelelangan ikan
+2 05 xx 21 04 Rehabilitasi sedang/berat tempat pelelangan ikan
+2 05 xx 21 05 Pengembangan lembaga usaha perdagangan perikanan tangkap
+2 05 xx 21 06 Dst……………
+2 05 xx 22 Program pengembangan sistem Penyuluhan perikanan
+2 05 xx 22 01 Kajian sistem penyuluhan perikanan
+2 05 xx 22 02 Dst……………
+2 05 xx 23 Program optimalisasi pengelolaan dan pemasaran produksi perikanan
+2 05 xx 23 01 Kajian optimalisasi pengelolaan dan pemasaran produksi perikanan
+2 05 xx 23 02 Dst……………
+2 05 xx 24 Program pengembangan kawasan budidaya laut, air payau dan air tawar
+2 05 xx 24 01 Kajian kawasan budidaya laut, air payau dan air tawar
+2 05 xx 24 02 Dst……………
+2 05 xx 25 Program dst…
+2 06 Perdagangan
+2 06 xx 15 Program Perlindungan Konsumen dan pengamanan perdagangan
+2 06 xx 15 01 Koordinasi peningkatan hubungan kerja dengan lembaga perlindungan konsumen
+2 06 xx 15 02 Fasilitasi penyelesaian permasalahan-permasalahan pengaduan konsumen
+2 06 xx 15 03 Peningkatan pengawasan peredaran barang dan jasa
+2 06 xx 15 04 operasionalisasi dan pengembangan UPT kemetrologian daerah
+2 06 xx 15 05 Dst………
+2 06 xx 16 Program Peningkatan Kerjasama Perdagangan Internasional
+2 06 xx 16 01 Penyiapan data base kuota setiap jenis barang dan jasa
+2 06 xx 16 02 penyebarluasan informasi database kuota setiap jenis barang dan jasa
+2 06 xx 16 03 Penyusunan tim daerah dalam perundingan perdagangan internasional
+2 06 xx 16 04 Fasilitasi penyelesaian sengketa dagang
+2 06 xx 16 05 Koordinasi pengelolaan isu-isu perdagangan internasional
+2 06 xx 16 06 Dst………..
+2 06 xx 17 Program Peningkatan dan Pengembangan Ekspor
+2 06 xx 17 01 Koordinasi dan sinkronisasi kebijakan pengembangan industri
+2 06 xx 17 02 Pengenbangan informasi peluang pasar perdagangan luar negri
+2 06 xx 17 03 Sosialisasi kebijakan penyederhanaan prosedur dan dokumen ekspor dan impor
+2 06 xx 17 04 Pengembangan data base informasi potensi unggulan 
+2 06 xx 17 05 kerjasama standardisasi mutu produk baik nasional, bilateral, regional, dan internasional
+2 06 xx 17 06 Kerjasama dengan lembaga internasional dalam rangka pengembangan produk
+2 06 xx 17 07 Koordinasi penyelesaian masalah produksi dan distribusi sektor industri
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+2 06 xx 17 08 Membangun jejaring dengan eksportir
+2 06 xx 17 09 Koordinasi program pengembangan ekspor dengan instansi terkait
+2 06 xx 17 10 Pengembangan kluster produk ekspor
+2 06 xx 17 11 peningkatan kapasitas lab penguji mutu barang ekspor dan impor
+2 06 xx 17 12 Pembangunan promosi perdagangan internasional
+2 06 xx 17 13 Dst…………
+2 06 xx 18 Program Peningkatan Efisiensi Perdagangan Dalam Negri
+2 06 xx 18 01 Penyempurnaan perangkat peraturan, kebijakan dan pelaksanaan operasional
+2 06 xx 18 02 Fasilitasi kemudahan perijinan pengembangan usaha
+2 06 xx 18 03 Pengambangan pasar dan distribusi barang / produk
+2 06 xx 18 04 Pengembangan kelembagaan kerjasama kemitraan
+2 06 xx 18 05 Pengambangan  pasar lelang daerah
+2 06 xx 18 06 Peningkatan sistem dan jaringan informasi perdagangan
+2 06 xx 18 07 Sosialisasi peningkatan penggunaan produk dalam negri
+2 06 xx 18 08 Dst………
+2 06 xx 19 Program Pembinaan pedagang kaki lima dan asongan
+2 06 xx 19 01 Kegiatan pembinaan organisasi pedagang kakilima dan asongan
+2 06 xx 19 02 Kegiatan penyuluhan peningkatan disiplin pedagang kakilima dan asongan
+2 06 xx 19 03 Kegiatan penataan tempat berusaha bagi pedagang kakilima dan asongan
+2 06 xx 19 04 Kegiatan fasilitasi modal usaha bagi pedagang kakilima dan asongan
+2 06 xx 19 05 Kegiatan pengawasan mutu dagangan pedagang kakilima dan asongan
+2 06 xx 19 06 Kegiatan pembangunan gudang penyimpanan barang pedagang kakilima dan asongan
+2 06 xx 19 07 Dst……………
+2 06 xx 20 Dst……..
+2 07 Perindustrian
+2 07 xx 15 Program peningkatan Kapasitas Iptek Sistem Produksi
+2 07 xx 15 01 Koordinasi modal ventura bagi industri berbasis teknologi
+2 07 xx 15 02 Pelayanan pengambangan modal ventura dan inkubator
+2 07 xx 15 03 Pengembangan Infrastruktur kelembagaan standarisasi
+2 07 xx 15 04 Pengembangan kapasitas pranata pengukuran, standarisasi, pengujian dan kualitas
+2 07 xx 15 05 Pengembangan sistem inovasi teknologi industri
+2 07 xx 15 06 Penguatan kemampuan industri berbasis teknologi
+2 07 xx 15 07 Dst…………
+2 07 xx 16 Program Pengembangan Industri Kecil dan Menengah
+2 07 xx 16 01 Fasilitasi bagi industri kecil dan menengah terhadap pemanfaatan sumber daya
+2 07 xx 16 02 Pembinaan industri kecil dan menengah dalam memperkuat jaringan klaster industri
+2 07 xx 16 03     Penyusunan kebijakan industri terkait dan industri penunjang industri kecil dan menengah
+2 07 xx 16 04 Pemberian kemudahan izin usaha industri kecil dan menengah
+2 07 xx 16 05 Pemberian fasilitas kemudahan akses perbankan bagi industri kecil dan menengah
+2 07 xx 16 06 Fasilitasi kerjasama kemitraan industri mikro, kecil dan menengah dengan swasta
+2 07 xx 16 07 Dst…………
+2 07 xx 17 Program Peningkatan Kemampuan Teknologi Industri
+2 07 xx 17 01 Pembinaan kemampuan teknologi industri
+2 07 xx 17 02 Pengembangan dan pelayanan teknologi industri
+2 07 xx 17 03 Perluasan penerapan SNI untuk mendorong daya saing industri manufaktur
+2 07 xx 17 04 Perluasan penerapan standar produk industri manufaktur
+2 07 xx 17 05 Dst……….
+2 07 xx 18 Program Penataan Struktur Industri
+2 07 xx 18 01 Kebijakan keterkaitan industri hulu-hilir
+2 07 xx 18 02 Penyediaan sarana maupun prasarana klaster industri
+2 07 xx 18 03 Pembinaan keterkaitan produksi industri hulu hingga ke hilir
+2 07 xx 18 04 Dst……..
+2 07 xx 19 Program Pengembangan sentra-sentra industri potensial
+2 07 xx 19 01 Pembangunan akses transportasi sentra-sentra indrustri potensial
+2 07 xx 19 02 penyediaan sarana informasi yang dapat diakses masyarakat
+2 07 xx 19 03 Dst………
+PROGRAM DAN KEGIATAN
+KODE DAN DAFTAR PROGRAM DAN KEGIATAN
+MENURUT URUSAN PEMERINTAHAN DAERAH
+KODE
+Lampiran A.VII : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 
+2 07 xx 20 Program dst…..
+2 08 Transmigrasi
+2 08 xx 15 Program Pengembangan Wilayah Transmigrasi
+2 08 xx 15 01 Penguatan SDM pemerintah daerah dan masyarakat transmigrasi di kawasan transmigrasi di perbatasan
+2 08 xx 15 02 Peningkatan kerjasama antar wilayah, antar pelaku dan antar sektor dalam rangka pengembangan kawasan transmigrasi
+2 08 xx 15 03 Penyediaan dan pengelolaan prasarana dan sarana sosial dan ekonomi di kawasan transmigrasi
+2 08 xx 15 04 Penyediaan Lembaga Keuangan Daerah yang Membantu Modal Usaha di Kawasan Transmigrasi 
+2 08 xx 15 05 Pengerahan dan fasilitasi perpindahan serta penempatan transmigrasi untuk memenuhi kebutuhan SDM
+2 08 xx 15 06 Dst……..
+2 08 xx 16 Program Transmigrasi Lokal
+2 08 xx 16 01 Penyuluhan Transmigrasi Lokal
+2 08 xx 16 02 Pelatihan transmigrasi lokal
+2 08 xx 16 03 Dst…
+2 08 xx 17 Program Transmigrasi Regional
+2 08 xx 17 01 Penyuluhan transmigrasi regional
+2 08 xx 17 02 Pelatihan transmigrasi regional
+2 08 xx 17 03 Dst…
+2 08 xx 17 Program dst…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+asarana olahraga
+
+
+
+
+
+
+
+
+

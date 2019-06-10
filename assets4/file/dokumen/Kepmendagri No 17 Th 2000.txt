@@ -1,0 +1,611 @@
+MENTERI DALAM NEGERI REPUBLIK INDONESIA
+KEPUTUSAN MENTERI DALAM NEGERI NOMOR : 17 TAHUN 2000
+
+TENTANG SISTEM INFORMASI MANAJEMEN KEPEGAWAIAN DEPARTEMEN DALAM NEGERI DAN PEMERINTAH DAERAH
+
+MENTERI DALAM NEGERI,
+
+Menimbang:
+
+a. bahwa dalam rangka pelaksanaan Pasal 34 ayat (2)
+
+Undang-undang Nomor 43 Tahun 1999 tentang
+
+Perubahan Atas Undang-undang Nomor 8 Tahun 1974
+
+tentang
+
+Pokok-pokok
+
+Kepegawaian,
+
+perlu
+
+diselenggarakan dan dipelihara sistem informasi, yang
+
+dikembangkan dan dioperasikan melalui Sistem
+
+Informasi Manajemen Kepegawaian (SIMPEG)
+
+Departemen Dalam Negeri dan Pemerintah Daerah;
+
+b. bahwa pengembangan sistem informasi dimaksud,
+
+sangat penting dan menjadi kebutuhan sebagai
+
+instrumen komunikasi data yang tepat dalam rangka
+
+aktualisasi otonomi daerah;
+
+c. bahwa penetapan SIMPEG, perlu ditetapkan dengan
+
+Keputusan Menteri Dalam Negeri.
+
+Mengingat :
+
+1. Undang-undang Nomor 22 Tahun 1999 tentang Pemerintah Daerah (Lembaran Negara Tahun 1999 Nomor 60, Tambahan Lembaran Negara Nomor 3839 Tahun 1999)
+2. Undang-undang Nomor 43 Tahun 1999 tentang Perubahan Atas Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok Kepegawaian (Lembaran Negara Tahun 1999 Nomor 81, Tambahan Lembaran Negara Nomor 3041 Tahun 1999)
+3. Keputusan Presiden Nomor 136 Tahun 1999 tentang Susunan, Struktur Organisasi, Tugas Pokok dan Fungsi Departemen;
+4. Keputusan Presiden Nomor 17 Tahun 2000 tentang Pelaksanaan Anggaran Pendapatan dan Belanja Negara dan Nomor 18 Tahun 2000 tentang Pedoman Pelaksanaan Pengadaan Barang/Jasa Instansi Pemerintah;
+
+5. Keputusan Menteri Dalam Negeri Nomor 6 Tahun 1988 tentang Prosedur Penetapan Produk-produk Hukum di lingkungan Departemen Dalam Negeri;
+6. Keputusan Menteri Dalam Negeri Nomor 45 Tahun 1992 tentang Pokok-pokok Kebijaksanaan Sistem Informasi Manajemen Departemen Dalam Negeri;
+7. Keputusan Menteri Dalam Negeri Nomor 140 Tahun 1997 tentang Rencana Induk SIMDAGRI;
+8. Keputusan Menteri Dalam Negeri Nomor 99 Tahun 1999 tentang Organisasi dan Tata Kerja Departemen Dalam Negeri.
+MEMUTUSKAN :
+Menetapkan: KEPUTUSAN MENTERI DALAM NEGERI TENTANG SISTEM INFORMASI MANAJEMEN KEPEGAWAIAN DEPARTEMEN DALAM NEGERI, DAN PEMERINTAHAN DAERAH.
+BAB I
+KETENTUAN UMUM
+Pasal 1
+Dalam Keputusan ini yang dimaksud dengan : 1. Sistem Informasi Manajemen Kepegawaian yang selanjutnya disingkat
+SIMPEG adalah suatu totalitas yang terpadu terdiri atas perangkat pengolah meliputi pengumpul, prosedur, tenaga pengolah dan perangkat lunak; perangkat penyimpan meliputi pusat data dan bank data serta perangkat komunikasi yang saling berkaitan, berketergantungan dan saling menentukan dalam rangka penyediaan informasi di bidang kepegawaian. 2. Database adalah himpunan data seluruh Pegawai Negeri yang bermanfaat bagi perencanaan dan pelaksanaan pendayagunaan aparatur negara di Departemen Dalam Negeri dan Pemerintah Daerah. 3. Formulir Isian Pegawai adalah formulir yang berisikan kumpulan data pegawai di Departemen Dalam Negeri dan Pemerintah Daerah. 4. Pembangunan Database adalah serangkaian kegiatan pembentukan database yang meliputi pengumpulan data, pengolahan data dan pengamanan serta perawatan sistem. 5. Pembangunan sistem adalah serangkaian kegiatan yang meliputi pengadaan dan peningkatan kemampuan perangkat komputer, perangkat lunak serta jaringan komunikasi.
+BAB II
+PEMBANGUNAN DAN PENGEMBANGAN
+Pasal 2
+
+(1) Pembangunan dan pengembangan SIMPEG meliputi perangkat keras, perangkat lunak, sumber daya manusia, pengembangan dan peremajaan database dan jaringan komputer.
+(2) Pembangunan dan Pengembangan SIMPEG dilakukan pada tingkat lembaga pemerintah : a. Departemen Dalam Negeri, dilaksanakan oleh Biro Kepegawaian Departemen Dalam Negeri dan dikoordinasikan dengan Pusat Pengolahan data dan Sistem Informasi; b. Propinsi, dilaksanakan oleh Biro Kepegawaian Propinsi dan dikoordinasikan dengan Kantor pengolahan Data Elektronik (KPDE) Propinsi; c. Kabupaten/Kota, dilaksanakan oleh Bagian Kepegawaian Kabupaten/Kota dan dikoordinasikan dengan Kantor pengolahan Data Elektronik (KPDE) Kabupaten/Kota;
+BAB III
+KEDUDUKAN DAN PENGELOLAAN
+Pasal 3
+(1) SIMPEG Departemen Dalam Negeri berkedudukan di Departemen dalam Negeri, yang pengelolaannya secara fungsional dilaksanakan oleh Biro Kepegawaian Departemen Dalam Negeri.
+(2) SIMPEG Propinsi berkedudukan di Propinsi, yang pengelolaannya secara fungsional dilaksanakan oleh Biro Kepegawaian Propinsi.
+(3) SIMPEG Kabupaten/Kota berkedudukan di Kabupaten/Kota, yang pengelolaannya secara fungsional dilaksanakan oleh Bagian Kepegawaian Kabupaten/Kota.
+(4) Interaksi SIMPEG dapat berlangsung diantara Departemen Dalam Negeri, Propinsi dan Kabupaten/Kota berdasarkan kebutuhan.
+BAB IV
+KOORDINASI PELAKSANAAN
+Pasal 4
+(1) Menteri Dalam Negeri merumuskan kebijakan umum, melaksanakan koordinasi dan fasilitasi operasionalisasi SIMPEG berdasarkan Peraturan Perundang-undangan yang berlaku.
+(2) Gubernur/Bupati/Walikota melaksanakan koordinasi dalam hal pembinaan operasional pembangunan dan pengembangan SIMPEG menurut kompetensi berdasarkan Peraturan perundang-undang yang berlaku.
+BAB V
+PEMBIAYAAN
+
+Pasal 5 Segala pembiayaan yang berkaitan dengan pembangunan dan pengembangan SIMPEG Departemen Dalam Negeri, Propinsi dan Kabupaten/Kota dibebankan pada APBN, APBD Propinsi, APBD Kabupaten/Kota dan sumber lainnya yang sah.
+Pasal 6 Materi SIMPEG sebagaimana tertuang dalam lampiran Keputusan ini merupakan bagian yang tidak terpisahkan.
+Pasal 7 Dengan ditetapkan Keputusan ini, Keputusan Menteri Dalam Negeri Nomor 49 Tahun 1985 tentang Komputerisasi Kepegawaian dinyatakan tidak berlaku
+Pasal 8 Keputusan ini mulai berlaku pada tanggal ditetapkan.
+Ditetapkan di Jakarta Pada Tanggal 30 Mei 2000 MENTERI DALAM NEGERI ttd.
+SURJADI SOEDIDJA
+
+1. UMUM
+
+LAMPIRAN KEPUTUSAN MENTERI DALAM NEGERI NOMOR : 17 TAHUN 2000 TANGGAL : 30 MEI 2000
+
+Berdasarkan Undang-undang Nomor 43 Tahun 1999 tentang perubahan atas Undang-undang Nomor 8 Tahun 1974 tentang Pokok-pokok Kepegawaian khususnya pasal 34 ayat (2) menyatakan perlunya penyelenggaraan dan pemeliharaan informasi kepegawaian. Untuk mendukung kebijaksanaan tersebut, dipandang perlu dibangun dan dikembangkan Sistem Informasi Manajemen Kepegawaian (SIMPEG) dilingkungan Departemen Dalam Negeri dan Pemerintah Daerah. Yang merupakan sub-sistem dari Sistem Informasi Manajemen Departemen Dalam Negeri (SIMDAGRI). Hal ini menjadi sangat penting dalam rangka mendukung pelaksanaan otonomi daerah dan pemberdayaan aparatur pemerintah baik di Pusat maupun Daerah sesuai esensi. Undang-undang Nomor 22 Tahun 1999 tentang Pemerintahan Daerah dan Undang-undang Nomor 25 Tahun 1999 tentang Perimbangan Keuangan antara Pusat dan Daerah.
+
+Sementara itu, upaya untuk mendukung pemantapan administrasi kepegawaian telah dimulai dengan pembangunan Sistem Informasi Manajemen kepegawaian (SIMPEG) pada tahun 1994 di 21 Propinsi, sedangkan pengembangan selanjutnya terus dilaksanakan hingga saat ini melalui berbagai kegiatan yang meliputi :
+
+1. Pemutakhiran database pegawai serangkaian kegiatan peremajaan database kepegawaian seperti mutasi pengangkatan Pegawai Negeri Sipil, Mutasi Pangkat, Mutasi Kenaikan Gaji Berkala, Mutasi Pendidikan dan mutasi-mutasi lainnya berdasarkan organisasi dan individu.
+2. Perubahan kodefikasi pada tabel induk yang meliputi tabel organisasi, tabel unit kerja, tabel wilayah, tabel pendidikan umum, dan tabel-tabel lainnya yang fleksibel sesuai dengan dinamika orgainsasi.
+3. Perubahan jenis data, elemen data dan struktur database pegawai sebagai bagian perubahan pemutakhiran database dan perubahan kodefikasi pada tabel induk.
+
+Optimalisasi peningkatan administrasi kepegawaian yang meliputi fungsi-
+fungsi perencanaan, pengembangan, mutasi hingga pemensiunan Pegawai Negeri Sipil secar tertib, teratur, berdayaguna dan berhasilguna belum dapat terpenuhi, karena adanya beberapa kendala sebagai berikut : a. Pola pengumpulan dan pengolahan data masih bersifat sentralistis. b. Belum adanya pengaturan sistem informasi kepegawaian yang standard
+dan seragam. c. Masih kurangnya tenaga pelaksana yang profesional. d. Perangkat keras yang digunakan tidak mendukung proses pengolahan
+data.
+
+e. Pembangunan SIMPEG yang telah dilaksanakan masih mengalami gangguan pada perangkat lunak dan perangkat keras.
+f.Tenaga pengolah data yang telah dibekali pendidikan latihan teknis belum dapat diberdayakan secara berhasilguna dan berdayaguna.
+g. Belum adanya meanisme kerja pengelolaan SIMPEG antara unit-unit kerja tertentu, baik di Departemen Dalam Negeri dan Pemerintah Daerah.
+Sementara itu pimpinan Departemen Dalam Negeri telah melakukan berbagai upaya untuk mengatasi kendala dimaksud yaitu : a. Peningkatan kemampuan perangkat keras. b. Peningkatan Kualitas SDM dan materi pendidikan dan pelatihan teknis. c. Pengembangan aplikasi SIMPEG dengan Output :
+1) Desai Sistem SIMPEG 2) Tabel Induk 3) FIP-01, FIP-02 dan FIP-03 4) Elemen-elemen database SIMPEG 5) Struktur Kode.
+II. MAKSUD, TUJUAN DAN SASARAN
+Maksud pembanguan dan pengembangan SIMPEG Departemen dalam Negeri dan Pemerintah Daerah adalah : a. Terciptanya sistem pengumpulan dan pengolahan data kepegawaian yang
+bersifat standard dan seragam dengan cara pengolahan data tersebar (distributed data processing). b. Terbentuknya database (himpunan data) kepegawaian yang dapat menampung kebutuhan dan bermanfaat bagi proyeksi perencanaan dan pelaksanaan pendayagunaan aparatur negara di pusat mapun daerah.
+Tujuan SIMPEG adalah terciptanya database kepegawaian mulai dari tingkat Kabupaten/Kota, Propinsi dan Departemen Dalam Negeri yang dapat menampung, mengolah, menyimpan, menemukan kembali dan mendistribusikan data pegawai.
+Sasaran SIMPEG Departemen dalam Negeri dan Pemerintah Daerah adalah : a. Penteragaman dan penstandarisasian pengolahan data pegawai di
+Departemen Dalam Negeri, Propinsi dan Kabupaten/Kota dengan mempedomani petunjuk pelaksana yang ditetapkan oleh Menteri Dalam Negeri. b. Terciptanya mekanisme pendistribusian data yang diawali dari Kabupaten/Kota, Propinsi hingga Departemen Dalam Negeri melalui jaringan komunikasi data sehingga diperoleh data yang cepat, tepat dan akurat serta berkesinambungan. c. Terwujudnya SIMPEG sesuai dengan perkembangan teknologi informatika dan terbetuknya komunikasi data mulai dari Kabupaten/Kota, Propinsi dan Departemen Dalam Negeri, sertatersajinya informasi kepegawaian yang cepat, tepat dan akurat guna menunjang pengambilan keputusan bagi pimpinan.
+III. PEMBANGUNAN DAN PENGEMBANGAN SIMPEG
+
+Pembangunan dan pengembangan SIMPEG di Departemen Dalam Negeri, dilaksanakan oleh Biro Kepegawaian Departemen Dalam Negeri dan dikoordinasikan dengan Pusat Pengolahan Data dan Sistem Informasi Departemen Dalam Negeri; di Propinsi dilaksanakan oleh Biro Kepegawaian Propinsi dan dikoordinasikan dengan KPDE Propinsi, di Kabupaten/Kota dilaksanakan oleh Bagian Kepegawaian Kabupaten/Kota dan dikoordinasikan dengan KPDE Kabupaten/Kota.
+
+Pembagunan dan Pengembangan SIMPEG tersebut meliputi : a. Perangkat Keras (hardware) b. Perangkat Lunak (software) c. Database d. Sistem Jaringan Komputer (Netware) e. Sumber Daya Manusia (Brainware)
+
+A. Pembagunan dan Pengembangan Perangkat Keras
+
+Konfigurasi perangkat keras maupun perangkat lunak sistem dan aplikasi SIMPEG yang ditempatkan pada Biro Kepegawaian Departemen Dalam Negeri, Propinsi, dan Bagian Kepegawaian Kabupaten/Kota terdiri dari :
+
+1. SEVER dengan Kapasitas spesifikasi minimal :  Pentium III 550 Mhz  Harddisk 8,4 GB  SDRAM 128 MB  CD Rewritable (back-up)  UPS 500 KVA  Scanner Colour  FDD 1,44 MB  Display Card VGA  Monitor SEGA  LAN Card 10/100 Mbps Combo
+
+2. 5 (lima) buah client masing-masing minimal :
+ Pentium III 500 Mhz  Harddisk 4,3 GB  SDRAM 128 MB
+ CD Rewritable (back-up)  Stabilizer 500 watt  FDD 1,44 MB
+ Display Card VGA  Monitor SEGA  LAN Card 10/100 Mbps Combo  CDROM 50X
+
+dengan
+
+konfigurasi
+
+spesifikasi
+
+B. Pembangunan dan Pengembangan Perangkat Lunak Pembangunan dan Pengembangan perangkat lunak yang digunakan untuk mengoperasikan SIMPEG adalah :  Operating System 95/NT RDBMS (Relational Database Management System) Sybase 3.0 dengan alat bantu infomaker versi 5.0 dan Power Bulider versi 6.0.  DBMS (Database Management System) sybase 3.0 dengan alat bantu infomaker versi 5.0 dengan Power Builder versi 6.0  Strucured Query Language (SQL)
+C. Pembagunan dan Pengembangan Database
+Pembangunan database Kepegawaian, sebagai bagian dari Sistem Informasi Manajemen kepegawaian ini secara menyeluruh dirancang sebagai suatu interaktive sistem, dimana user dapat langsung berkomunikasi dengan komputer untuk mengakses data kepegawaian dan respon langsung komputer diberikan dalam bentuk suatu tampilan sebagai tanggapan terhadap input yang dimasukan. Dengan sistem yang interaktive ini diharapkan user akan mendapatkan informasi ini dapat terkumulasi dalam bentuk laporan dan grafik, dimana laporan yang dihasilkan dapat ditampilkan melalui media layar pada cetakan media printer. Untuk lebih memperjelas desain sistem yang diusulkan, maka gambaran dari " Sistem Informasi Manajemen Kepegawaian" dapat digambarkan sebagai berikut :
+
+Formulir Isian
+Pegawai
+
+Terminal
+
+DATA TABEL
+- Formulir Isian
+
+Program SIMPEG
+
+FILE RIWAYAT PEGAWAI
+
+FILE INDUK PEGAWAI
+: Merupakan sarana untuk pengumpulan data
+
+Pegawai
+
+master maupun data mutasi kepegawaian dengan
+
+- Data TPaKeLbraHeepkaetoasrelmialrnaan ngan GaMD:mEADTIAMfAboarermru:aptaskeapnerLPdatHrpoiaaosstryeialasan npgenaudnajadnidgaylaamngfidleiskimompapnuter. PteermhabdaagpundaantadSdiIdMeanPlagEamGnmicnaeikdmuiapekalinopmuatppi ulbikteeabrseir,aapnatakreapelanitningan
+- File Transadkigsai mbarka:nAsresbiapgyaai nbgerbikeruitsi: data mutasi yang disimpan
+
+dalam media komputer
+
+- Terminal
+
+: Peralatan yang digunakan untuk memasukan
+
+data kedalam media komputer dan digunakan
+
+untuk menampilkan hasil yang diinginkan.
+
+- File Induk
+
+: Arsip yang berisi data lengkap mengenai
+
+Pegawai
+
+administrasi pegawai yang tersimpan didalam
+
+media komputer
+
+FILE DATA POKOK
+PEGAWAI
+
+FILE MUTASI
+
+DDaatatabbaassee InIndduukk
+KKeeppeeggaawwaaiaiann
+
+DDataatabbaassee IHnidstuorkis
+KKeeppeeggaawwaiaan ian
+
+KeterSaTnAgTaISnTIKGambar :
+
+- File Data Pokok
+
+:
+
+- File Mutasi
+
+:
+
+- Database Pegawai :
+
+- Data Historis
+
+:
+
+- Statistik
+
+:
+
+- Informasi
+
+:
+
+INFORMASI
+adalah file yang berisikan data pokok pegawai yang bersifat tetap dan merupakan input. adalah file berisikan data-data mutasi pegawai, bila terjadi perubahan data dan merupakan input adalah himpunan data pegawai yang menampung seluruh elemen data dasar pegawai adalah data yang menampung seluruh riwayat pegawai. adalah data yang menampung seluruh riwayat pegawai merupakan output atau keluaran yang dapat dilihat memalui layar komputer atau terminal.
+
+Beberapa unsur Desain Sistem meliputi : 1. Jenis Data
+Jenis data yang digunakan untuk pembangunan database Kepegawaian ini adalah dengan menggunakan Formulir Isian Pegawai Model FIP-01, FIP-02 dan FIP-03. Adapun jenis data yang tercakup dalam formulir Isian Pegawai antara lain : a. Data Pokok Pegawai
+ Lokasi Kerja
+ Identitas Pegawai
+ Pengalaman Kerja
+ Pengangkatan sebagai Calon Pegawai
+ Pengangkatan sebagai PNS
+ Pangkat Terakhir
+ Kenaikan Gaji Berkala
+ Pendidikan Terakhir
+ Jabatan Terakhir b. Data Riwayat Pegawai
+ Riwayat Kepangkatan
+ Riwayat Jabatan
+ Riwayat Pendidikan Umum
+
+ Riwayat Pendidikan dan Latihan Jabatan  Riwayat Keluarga  Riwayat Keanggotaan Organisasi  Riwayat Tanda Jasa/Penghargaan  Riwayat Penugasan Luar Negeri  Riwayat Daftar Penilaian Pelaksanaan Pekerjaan  Riwayat Kemampuan Bahasa  Riwayat Cuti c. Data Mutasi Pegawai  Mutasi Pengangkatan PNS  Mutasi Pangkat  Mutasi Kenaikan Gaji Berkala  Mutasi Pendidikan  Mutasi Daftar Penilaian Prestasi Pegawai  Mutasi Kemampuan Bahasa  Mutasi Hukuman Disiplin Pegawai  Mutasi Jabatan  Mutasi Tanda Jasa/Penghargaan  Mutasi Cuti  Mutasi Pindah  Mutasi Pemberhentian/Pemberhentian sementara  Mutasi Pensiun
+2. Elemen-Elemen Database Utama SIMPEG :
+Dari ketiga kelompok jenis data yang diuraikan diatas dengan memperhatikan kebutuhan elemen data dari SIMKRI/BKN, maka elemen-elemen database utama SIMPEG adalah sebagai berikut :
+1) NIP/NRP *) 2) Nama Lengkap Pegawai *) 3) Gelar Akademik *) 4) Tempat Lahir *) 5) Tanggal Lahir *) 6) Pangkat/Gol Ruang Terakhir *) 7) TMT Pangkat/Gol.Ruang Terakhir *) 8) Masa Kerja Gol.Ruang Terakhir *) 9) Pangkat Lokal *) 10) Jabatan Struktural Terakhir *) 11) TMT Jabatan Struktural Terakhir *) 12) Eselon Jabatan Terakhir *) 13) Jabatan Fungsional Terakhir *) 14) TMT Jabatan Fungsional Terakhir *) 15) Instansi Induk *) 16) Instansi Tempat Bekerja *) 17) Unit Kerja *) 18) Lokasi Tempat Bekerja *) 19) Angka Kredit *) 20) Pendidikan Terakhir *)
+
+21) Status Pegawai *)
+22) Jenis Kepegawaian *) 23) Kode Mutasi *) 24) Kantor Pembayaran *) 25) KTUA *) 26) KARPEG *) 27) Jenis Kelamin *) 28) Agama *) 29) Status Perkawinan *) 30) Jumlah Tanggungan Suami/Istri *) 31) Jumlah Tanggungan Anak *) 32) Sumpah PNS *) 33) Ujian Dinas *) 34) KARIS/KARSU *) 35) Diklat Struktural Terakhir *) 36) Jenis Hukuman Disiplin *) 37) Jenis Penghargaan *) 38) Dasar Pengangkatan CPNS *) 39) TMT CPNS *) 40) Pangkat/Gol. Ruang Awal sebagi PNS *) 41) Dasar Pengankatan PNS *) 42) TMT PNS *) 43) Diklat Fungsional Terakhir *) 44) TASPEN *) 45) ASKES *) 46) Organisasi Profesi *) 47) Keluarga Berencana *) 48) KORPRI *) 49) Kedudukan Kepegawaian *) 50) Tahun Lulus Pendidikan Umum *) 51) Tahun Diklat Jabatan *) 52) Tahun Hukuman Disiplin *)
+
+Keterangan *) Elemen data yang sesuai dengan SIMKRI/BKN
+
+3. Struktur Kode
+
+Kode wilayah Bentuknya :
+
+1 2 3 4 5 6 7 8 9 10
+
+Keterangan Posisi : 1-2 = Kode Propinsi (01-27)
+
+3-4 = Jika 01-49 adalah Kabupaten
+
+= Jika 50-76 adalah Kota
+
+5-6 = Kode Kecamatan (00-99)
+
+7 = Kode Desa/Kelurahan
+
+8-10 = Nomor Urut Desa/Kelurahan (000-999)
+
+Kode Unit Kerja Bentuknya :
+
+12
+
+Keterangan Posisi : 1
+
+34567
+= Kode Tingkat Pemerintahan = Jika 0 adalah Depdagri
+
+Propinsi Kab/Kota Kecamatan
+
+= Jika 1 adalah Pemerintah Daerah
+= Jika 2 adalah Pemerintah Daerah
+= Jika 3 adalah Pemerintah Daerah
+= Jika 4 adalah Pemerintah Daerah Desa 2-3 = Kode Komponen (00-99) 4-5 = Kode Unit Kerja (00-99) 6 = Kode Satuan Kerja (0-9) 7 = Kode Subsatuan Kerja (0-9)
+
+Kode Unit Kerja Bentuknya 1 : 2 3
+Keterangan Posisi
+Propinsi Kab/Kota Kecamatan
+
+45
+:1
+2-3 4-5 6 7
+
+67
+= Kode Tingkat Pemerintahan = Jika 0 adalah Depdagri = Jika 1 adalah Pemerintah Daerah
+= Jika 2 adalah Pemerintah Daerah
+= Jika 3 adalah Pemerintah Daerah
+= Jika 4 adalah Pemerintah Daerah Desa = Kode Komponen (00-99) = Kode Unit Kerja (00-99) = Kode Satuan Kerja (0-9) = Kode Subsatuan Kerja (0-9)
+
+Kode Unit Kerja Bentuknya 1 : 2 3
+Keterangan Posisi
+Propinsi Kab/Kota Kecamatan
+
+45
+:1
+2-3 4-7
+
+67
+= Kode Tingkat Pemerintahan = Jika 0 adalah Depdagri = Jika 1 adalah Pemerintah Daerah
+= Jika 2 adalah Pemerintah Daerah
+= Jika 3 adalah Pemerintah Daerah
+= Jika 4 adalah Pemerintah Daerah Desa = Kode Komponen (00-99) = Kode Unit Kerja (0000-9999)
+
+Contoh : 1 0 1 1 3 0 0 1 = Kode Pemerintah Daerah Propinsi 01 = Kode Komponen Setda Propinsi
+1300 = Kode Jabatan untuk Kepala Biro Kepegawaian
+
+Contoh : 1 0 1 1 3 1 0
+
+1 = Kode Pemerintah Daerah Propinsi 01 = Kode Komponen Setda Propinsi 1310 = Kode Jabatan untuk Kepala Bagian Mutasi
+pada Biro Kepegawaian Setda Propinsi
+4. Bagan Arus Data
+Bagan arus data pembangunan SIMPEG merupakan petunjuk bagaimana pelaksanaan pengolahan data yang dimulai dari pengumpulan, pengolahan dan penyimpanan data sampai dengan penyajian informasi.
+Dalam Pembagunan SIMPEG ini yang meliputi data induk pegawai, data riwayat pegawai dan data mutasi pegawai dapat diproses setiap saat ataupun pada periode-periode tertentu.
+Untuk memperjelas gambaran dari proses terbentuknya database kepegawaian, dapat terlihat pada Bagan Alur Data berikut ini :
+
+Bagan Arus Data Awal Kepegawaian
+
+PEGAWAI
+
+UNIT KERJA
+
+ROPEG/BAGPEG
+
+FIP-01 & FIP-02
+DIISI & DITANDA TANGANI
+FIP-01 & FIP-02 YG TERISI
+PERBAIKI
+P E N G O L A H A N D A T A
+
+FIP-01 & FIP-02
+FIP-01 & FIP-02 YG TERISI
+PERIKSA &
+TELITI
+FIP-01 & FIP-02 YG TERISI
+
+FIP-01 & FIP-02
+FIP-01 & FIP-02 HASIL ISIAN
+PERIKSA &
+TELITI
+FIP-01 & FIP-02 HASIL
+FIP-01 & FIP-02 HASIL ISIAN
+TRANSKRIP & PEREKAMAN
+FILE SEMENTARA
+PEMBENTUKAN DATABASE
+PEMBENTUKAN DATABASE
+DATABASE KEPEGAWAIAN
+
+DATABASE HISTORIS
+
+PUSAT PENGOLAHAN
+DATA DAN SISTEM
+INFORMASI/ KPDE
+PROPINSI/KPDE KAB/KOTA
+P E N G U M P U L A N
+D A T A
+
+P
+
+E
+
+N Y A
+
+FIP-01 & FIP-02
+
+J HASIL ISIAN
+
+I
+
+A
+
+N
+
+I N ARSIP F O
+
+Keterangan Gambar : a. Kegiatan Pengumpalan Data
+ Data pokok pegawai dan data riwayat ditampung dalam bentuk model FIP-01 dan model FIP-02.
+ Biro Kepegawaian Setjen Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kabupaten/Kota mendistribusikan FIP-01 dan FIP-02 ke tiap-tiap unit kerja dilingkungan Kantor masing-masing.
+ Tiap-tiap unit kerja mengedarkan FIP-01 dan FIP-02 kepada masingmasing pegawai.
+ FIP-01 dan FIP-02 yang telah diisi dikumpulkan ke tiap-tiap unit kerja, kemudian diperiksa dan dilengkapi serta diserahkan ke Biro Kepagawaian Setjen Depdagri/Biro Kepagawaian Propinsi/ Bagian Kepegawaian Kab/Kota.
+ Biro Kepewaian Setjen Depadagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kab/Kota menerima, memeriksa, melengkapi dan mengolah FIP-01 dan FIP-02.
+b. Kegiatan Pengolahan Data Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kab/Kota, menerima FIP-01 dan FIP-02 yang telah diisi melalui unit organisasi yang bersangkutan. Selanjutnya ditranskrip dan direkam melalui komputer untuk disimpan sebagai arsip induk kepegawaian (database Kepegawaian).
+c. Kegiatan Penyajian Informasi  Didalam penyajian informasi atau laporan-laporan yang dihasilkan pada pembentukan database kepegawaian ini adalah Laporan Hasil Perekaman Data Kepegawaian oleh Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kab/Kota.
+
+ Laporan Hasil Perekaman Data Kepegawaian yang telah diolah, dikirim ke Pusat Pengolahan Data dan Sistem Informasi Depdagri/Kantor KPDE Propinsi, Kantor KPDE Kab/Kota guna dijadikan database historis.
+
+Bagan Arus Data Mutasi Pegawai
+
+PEGAWAI
+
+UNIT KERJA
+
+ROPEG/BAGPEG
+
+FIP-03
+
+BERKAS MUTASI
+PENGISIAN FORMULIR
+MUTASI
+FIP-03 TERISI
+
+FIP-03 TERISI
+PERIKSA &
+LENGKAPI
+FIP-03 TERISI
+
+PUSAT PENGOLAHAN
+DATA DAN SISTEM
+INFORMASI/ KPDE
+PROPINSI/KPDE KAB/KOTA
+P E N G U M P U L A N
+D A T A
+
+P
+
+E TRANSKRIP & N PEREKAMAN
+
+G
+
+O
+
+L FILE A SEMENTARA
+
+H
+
+A
+
+N
+
+PROSES UPDATING
+
+D
+
+A
+
+T A
+
+DATABASE KEPEGAWAIAN
+
+DATABASE HISTORIS
+
+PROSES PENCETAKAN
+P E N Y A J I A N
+I N
+
+FIP-01 & FIP-02 HASIL ISIAN
+ARSIP
+
+Keterangan Gambar : a. Kegiatan Pengumpulan Data :
+ Data Mutasi pegawai ditampung dalam bentuk formulir model FIP03
+ Jika ada perubahan data terjadi, pegawai yang bersangkutan segera melaporkan perubahan tersebut ke Unit Kerjanya disertai fotocopy bukti sah.
+ Unit Kerja yang bersangkutan segera mengisi FIP-03 dan melampirkan Fotocpy Bukti sah serta dikirimkan ke Biro Kepegawaian Setjen Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kab/Kota.
+ Biro Kepegawaian Setjen Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kab/Kota menerima, memeriksa dan melengkapi FIP-03 yang telah diisi.
+
+b. Kegiatan Pengolahan Data : Biro Kepegawaian Setjen Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kab/Kota, mentranskrip kemudian merekam data pegawai yang bersangkutan didalam arsip Kepegawaian (database Kepegawaian)
+
+c. Kegiatan Penyajian Informasi : Didalam penyajian informasi atau laporan-laporan yang dihasilkan pada pemutakhiran database kepegawaian ini adalah Laporan Hasil Perekaman Data Mutasi Pegawai dan Laporan Data Kepegawaian (Proses Akhir), dikirim ke Pusat pengolahan Data dan Sistem Informasi/ Kantor KPDE Propinsi, Kantor KPDE Kab/Kota, guna dijadikan database historis.
+
+5. Bagan Arus Sistem
+
+Bagan arus sistem menggambarkan urut-urutan pelaksanaan proses program-program komputer dimulai dari pembentukan database kepegawaian, proses pengolahan/perhitungan sampai dengan pencetakan laporan. a. Proses pembentukan database kepegawaian adalah pemasukan data
+dari formulir dan keluaran berupa file. b. Proses pengolahan/perhitungan adalah masukan dan keluran
+berupa file. c. Proses Pelaporan adalah masukan berupa file dan keluaran berupa
+laporan dan statistik.
+
+Dengan adanya bagan arus sistem maka gambaran umum tentang alur informasi dan transformasi yang bergerak dari proses pemasukan data hingga keluaran dapat terlihat jelas.
+
+Deskripsi pembangunan SIMPEG disajikan pada bagan alur berikut ini :
+
+INPUT
+
+PROSES PEREKAMAN
+
+MUTASI
+
+FILE
+
+PROSES PELAPRAN
+
+DATA TABEL
+FORM ISIAN PEGAWAI
+FORM RIWAYAT PEGAWAI
+FORM MUTASI PEGAWAI
+
+ REKAM  KOREKSI  HAPUS
+ REKAM  KOREKSI  HAPUS
+
+ REKAM  KOREKSI  HAPUS
+
+MUTASI
+
+FILE TABEL
+
+ LIHAT  CETAK
+
+FILE TABEL
+
+ LIHAT  CETAK
+
+FILE TABEL
+
+ LIHAT  CETAK
+
+DAFTAR TABEL
+DISPLAY
+DAFTAR TABEL
+DISPLAY
+DAFTAR TABEL DISPLAY
+
+Keterangan Gambar : 1. Input
+2. Proses Perekaman 3. Proses Mutasi
+4. Proses Pelaporan 5. Output
+
+: Adalah berkas dokumen yang terdiri dari formulir FIP-01, FIP-02 dan FIP-03 serta Daftar Tabel
+: merupakan tahap perekaman data dari
+formulir ke media komputer : Proses ini sama dengan proses peremajaan,
+yaitu menghasilkan data berstatus mutakhir dari valid. Perbedaanya adalah proses ini khusus dilakukan untuk pemutakhiran data kepegawaian. : Merupakan tahap pencetakan laporan baik hasil perekaman dan laporan akhir untuk penggunaan. : adalah bentuk hasil dari suatu proses pengolahan data yang dapat dilihat pada layar monitor komputer dalam bentuk kertas pada media printer.
+
+7. Mekanisme dan Prosedur
+
+a. Prosedur Pengumpulan, penyampaian dan Pengolahan Data 1) Pegawai yang bersangkutan, berkewajiban : 1.1Menerima Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai dari Unit Kerja masing-masing 1.2Mengisi Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02) berdasarkan dokumendokumen pendukung.
+
+1.3Meneliti kembali dan menandatangani Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02) yang telah diisi.
+1.4Menyerahkan kembali Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02) selambatlambatnya 3 (tiga) hari setelah diterima dari unit kerja dengan melampirkan salinan (Fotocopy SK. CPNS Pegawai Bulanan, SKP/Jabatan, KARPEG, KARIS/KARSU).
+2) Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi, Bagian Kepegawaian Kabupaten/Kota. a. Mengedarkan Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02) ke Unit Kerja masing-masing termasuk Kecamatan, khusus untuk Kabupaten/Kota. b. Menerima dan meneliti Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02) yang telah diisi oleh pegawai dari Unit Kerja masing-masing. c. Secara periodik hasil proses pengolahan data yang berupa Laporan dan Disket dari Bagian Kepegawaian Kabupaten/Kota dikirim ke Biro Kepegawaian Propinsi untuk diproses dan selanjutnya dikirim ke Biro Kepegawaian Depdagri.
+b. Prosedur Pemutakhiran Database Pegawai
+Prosedur pemutakhiran database kepegawaian dilakukan sehubungan dengan terjadinya perubahan data pegawai antara lain seperti : Pengangkatan Pegawai Baru (Calon PNS), Pengangkatan Calon PNS menjadi PNS, Kenaikan Pangkat, Penurunan Pangkat, Pengangkatan dalam atau Pemberhentian dari Jabatan, Perpindahan Wilayah Kerja, Perpindahan antar Instansi, Cuti, Hukuman Jabatan/Hukuman Disiplin Pegawai, Pemberian Tanda Jasa/Penghargaan, Pemberhentian sebagai PNS, Pensiun, Pengambilan Sumpah/Janji PNS, Meninggal Dunia, Mutasi Keluarga, Peningkatan Pendidikan, Kenaikan Gaji Berkala.
+Mekanisme dan Prosedur perubahan data tersebut diatur sebagai berikut : 1) Pegawai yang bersangkutan, berkewajiban :
+1.1Bagi Pegawai Baru atau Calon Pegawai Negeri Sipil, mengisi Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02) serta menyerahkannya kepada unit kerja masing-masing
+1.2Sedangkan untuk pegawai yang aktif harus melaporkan perubahan data kepada urusan kepegawaian pada unit kerjanya dengan bukti sah fotocopy dokumen data yang ada.
+1.3Mengirim Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02) bagi data pegawai baru sedangkan Formulir Mutasi Pegawai (Model FIP-03) untuk perubahan data pegawai ke Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kabupaten/Kota.
+
+2) Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi, Bagian Kepegawaian Kabupaten/Kota, berkewajiban : 2.1Mengedarkan Formulir Mutasi Pegawai (Model FIP-03) ke unit kerja masing-masing termasuk kecamatan, khususnya untuk Kabupaten/Kota. 2.2Menerima Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02) bagi perubahan data pegawai yang telah diisi oleh pegawai dari unit kerja masing-masing. 2.3Merekam Formulir Isian Pegawai (Model FIP-01) dan Formulir Riwayat Pegawai (Model FIP-02), Formulir Mutasi Pegawai (Model FIP-03) kedalam komputer dari Unit Kerja masingmasing Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kabupaten/Kota. 2.4Mengirim hasil proses pengolahan data yang berupa laporan dan disket dari Bagian Kepegawaian Kabupaten/Kota dikirim ke Biro Kepegawaian Propinsi untuk diproses dan selanjutnya dikirim ke Biro Kepegawaian Depdagri.
+c. Prosedur Pelaporan Informasi Kepegawaian : Jenis-jenis informasi yang dihasilkan dari ppengolahan data kepegawaian berupa laporan terdiri dari : Laporan Bulanan, Laporan Per Triwulan, Laporan Per Semester dan Laporan Tahunan. 1) Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi, Bagian Kepegawaian Kabupaten/Kota, berkewajiban : a. Mencetak laporan data kepegawaian bulanan/triwulan/semester/tahunan sesuai dengan jenis informasi yang dibutuhkan. b. Secara berjenjang mengirimkan laporan data kepegawaian hasil cetakan dari KPDE Kabupaten/Kota dan dari KPDE Propinsi serta dari Pusat Pengolahan Data dan Sistem Informasi Depdagri ke Biro Kepegawaian Depdagri. c. Menyiapkan laporan yang bersifat induery d. Menyiapkan laporan informasi yang bersifat strategis melalui terminal komputer secara off-line maupun on-line, yang diperlukan oleh pimpinan/pengambil keputusan di semua eselon/jajaran Depdagri/Pemerintah Daerah sesuai strata informasi yang ditentukan
+2) Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi, Bagian Kepegawaian Kabupaten/Kota, berkewajiban : a. Menerima, meneliti, memisahkan dan mengelompokan laporan data kepegawaian hasil cetakan dari Pusat Pengolahan Data dan Sistem Informasi Depdagri/KPDE Propinsi/KPDE Kabupaten/Kota. b. Mendistribusikan laporan kepegawaian tersebut sesuai dengan jenis informasi yang dihasilkan kepada unit organisasi yang bersangkutan. c. Melakukan analisa dan evaluasi terhadap informasi yang disajikan.
+
+d. Prosedur Pengamanan Data dan Informasi Kepegawaian. Prosedur Pengamanan Data dan Informasi Kepegawaian dimaksudkan agar terjamin kelangsungan pengolahan dan penyajian informasi kepegawaian. Kegiatan ini meliputi : 1. Pengamanan Data a. Melakukan Back-up terhadap data pegawai yang sudah pensiun, meninggal dunia dan diberhentikan sesuai retensi arsip. b. Mengamankan data kepegawaian sedemikian rupa sehingga tidak dibenarkan pemberian informasi kepegawaian tanpa ijin/persetujuan Biro Kepegawaian Depdagri/Biro Kepegawaian Propinsi/Bagian Kepegawaian Kabupaten/Kota. c. Otorisasi data kepegawaian diberikan oleh Biro Kepegawaian/Bagian Kepegawaian.
+2. Pengamanan Sistem Melakuka Back-up terhadap seluruh isi dari sistem yang digunakan dalam proses pengolahan data kepegawaian secara rutin.
+3. Perawatan Biro Kepegawaian Depdagri/Propinsi, Bagian Kepegawaian Kabupaten/Kota melaksanakan perawatan data karena menyangkut perangkat keras dan perangkat lunak yang dilakukan secara periodik.
+
+D. Pembagunan dan Pengembangan Sistem Jaringan Komputer Alternatif konfigurasi yang diuusulkan untuk jaringan Komputer Sistem Informasi Manajemen Kepegawaian adalah :
+
+BLANKO FIP
+
+DEPDAGRI
+
+DATABASE SIMKRI
+
+TERMINAL MEDIA DATA
+BLANKO FIP
+
+DATABASE SIMPEG
+
+DATABASE PENSIUN
+PRINTER
+PROPINSI
+
+TERMINAL MEDIA DATA
+BLANKO FIP
+
+DATABASE SIMPEG
+
+DATABASE PENSIUN
+PRINTER
+KABUPATEN/KOTA
+
+TERMINAL
+MEDIA DATA
+
+DATABASE SIMPEG
+
+DATABASE PENSIUN
+PRINTER
+
+Alternatif konfigurasi yang diusulkan untuk jaringan Komputer Sistem Informasi Manajemen Kepegawaian adalah :
+
+Keterangan : 1. Tingkat Depdagri
+2. Tingkat Propinsi
+3. Tingkat Kab/Kota
+4. Unit Kerja
+
+: Biro Kepegawaian menggunakan PC LAN dengan dihubungkan ke Sistem Komputer yang sudah ada di Puslahta dan Sinfo Depdagri.
+: Biro Kepegawaian Propinsi menggunakan PC LAN dengan dihubung-kan ke Sistem Komputer yang sudah ada di KPDE Propinsi.
+: Bagian Kepegawaian menggunakan PC LAN dengan dihubungkan ke Sistem Komputer yang sudah ada di KPDE Kab/Kota.
+: Merupakan sumber data penunjang proses pengolahan data kepegawaian dalam SIMPEG.
+
+Sistem komputerisasi data dapat digunakan sistem off-line yaitu melalui transfer media data (disket, CD, Tape Back-up) dan sistem online melalui jaringan Radio SSB, Dial-Up, VSAT, sebagaimana dapat dilihat pada gambar dibawah ini :
+
+E. Pembagunan dan Pengembangan Sumber Daya Manusia
+Pembagunan dan Pengembangan Sumber Daya Manusia (SDM) Departemen Dalam Negeri dan Pemerintah Daerah bertujuan :  Mempersiapkan tenaga yang memiliki kemampuan untuk
+mengoperasikan program aplikasi SIMPEG yang benar.  Memberikan dasar penggunaan program pembuatan laporan
+(infomaker).  Memberikan dasar dalam pengelolaan sistem jaringan komputer.  Memberikan kemampuan dasar dalam pengelolaan administrasi
+sistem basis data (menggunakan RDBMS Sybase).  Memberikan kemampuan dasar dalam pemeliharaan basis data.
+IV. KOORDINASI PELAKSANAAN 1. Menteri Dalam Negeri melaksanakan perumusan kebijakan umum, koordinasi dan fasilitasi SIMPEG. 2. Gubernur/Bupati/Walikota melaksanakan operasional di Propinsi/Kabupaten/Kota. 3. Dalam hal pembinaan operasional pengembangan SIMPEG, Bupati/Walikota berkoordinasi dengan Gubernur. 4. Dimi terciptanya suatu SIMPEG yang integratif dan aplikatif sesuai hakekat suatu sistem, maka : a. Gubernur/Bupati/Walikota mengkoordinasikan pelaksanaan pembagunan SIMPEG di wilayahnya dengan Biro Kepegawaian Departemen Dalam Negeri khususnya yang berkaitan dengan setting aplikasi SIMPEG. b. Kebijakan fasilitas SIMPEG serta kerjasama teknis dengan pihak ketiga di Propinsi dan Kabupaten/Kota akan diatur dan ditetapkan kemudian oleh Menteri Dalam Negeri. c. Pengembangan perangkat lunak, pembentukan database dan sistem jaringan komputer (LAN) serta pengembangan SDM pendukung SIMPEG di Propinsi dan Kabupaten/Kota agar terlebih dahulu berkonsultasi dengan Menteri Dalam Negeri.
+V. PENUTUP
+Dengan Pembagunan Sistem Informasi Manajemen Kepegawaian di Departemen Dalam Negeri dan Pemerintah Daerah maka kebijaksanaan tentang pelaksanaan dan pengendalian informasi kepegawaian secara terpadu, cepat, tepat dan akurat serta berkesinambungan akan terwujud melalui jaringan komputer secara berjenjang sehingga dapat bermanfaat bagi pimpinan dalam pengambilan keputusan
+SIMPEG merupakan bagian integral dari SIMDAGRI, dirancang agar sesuai dengan perkembangan dan kesiapan aplikasi sistem informasi kepegawaian yang ada memerlukan pengembangan melalui ali teknologi.
+
+Oleh karena itu pedoman umum tentang SIMPEG yang telah ditetapkan oleh Menteri Dalam Negeri harus menjadi acuan bagi pelaksananya di Departemen Dalam Negeri dan Pemerintah Daerah.
+Jakarta, 30 Mei 2000 MENTERI DALAM NEGERI
+ttd.
+SURJADI SOEDIRDJA
+
+

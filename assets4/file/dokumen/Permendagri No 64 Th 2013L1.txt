@@ -1,0 +1,504 @@
+LAMPIRAN I PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA NOMOR 64 TAHUN 2013 TENTANG PENERAPAN STANDAR AKUNTANSI PEMERINTAHAN BERBASIS AKRUAL PADA PEMERINTAH DAERAH
+PANDUAN PENYUSUNAN KEBIJAKAN AKUNTANSI PEMERINTAH DAERAH
+A. PENDAHULUAN
+Kebijakan akuntansi merupakan instrumen penting dalam penerapan akuntansi akrual. Dokumen yang ditetapkan dalam peraturan kepala daerah ini harus dipedomani dengan baik oleh fungsi-fungsi akuntansi, baik di SKPKD maupun di SKPD. Selain itu, dokumen ini juga seyogyanya dipedomani oleh pihak-pihak lain seperti perencana dan tim anggaran pemerintah daerah.
+Memperhatikan sifatnya yang strategis, penyusunan kebijakan akuntansi harus menjadi perhatian semua pihak. Dalam pembahasannya, perlu dijelaskan setiap dampak dari metode yang dipilih, baik pada proses penganggaran, penatausahaan maupun pelaporan. Dengan demikian, kebijakan akuntansi yang dihasilkan menjadi operasional serta dapat diantisipasi implementasinya.
+Praktek selama ini menunjukkan banyak kebijakan akuntansi disusun dengan menuliskan kembali hampir seluruh isi standar akuntansi pemerintahan. Praktek seperti ini menimbulkan inefisiensi karena adanya pengulangan (redundancy) antara SAP yang diatur oleh peraturan pemerintah dan kebijakan akuntansi yang diatur oleh peraturan kepala daerah. Oleh karena itu Peraturan Gubernur/Bupati/Walikota yang mengatur kebijakan akuntansi pemerintah daerah dapat mengambil unsur-unsur pokok dari SAP, lalu mengembangkan dalam pilihan-pilihan metode, baik dalam pengakuan, pengukuran, dan pengungkapan.
+B. PENYUSUNAN KEBIJAKAN AKUNTANSI
+Penyusunan kebijakan akuntansi pemerintah daerah dapat dilakukan melalui beberapa tahapan berdasarkan komponen utama kebijakan akuntansi sebagai berikut :
+1. Penyusunan Kebijakan Akuntansi Pelaporan Keuangan
+1
+
+Tahapan penyusunan kebijakan akuntansi terkait laporan keuangan dimulai dari pengumpulan rujukan atau referensi berupa peraturan perundangan dan literatur lain yang terkait dengan kebijakan akuntansi laporan keuangan pemerintah daerah. Sebagai rujukan utama adalah Lampiran I Peraturan Pemerintah Nomor 71 Tahun 2010 tentang Standar Akuntansi Pemerintahan, khususnya: a. PSAP 01 tentang Penyajian Laporan Keuangan; b. PSAP 02 tentang Laporan Realisasi Anggaran; c. PSAP 03 tentang Laporan Arus Kas; d. PSAP 04 tentang Catatan atas Laporan Keuangan; e. PSAP 11 tentang Laporan Keuangan Konsolidasian; f. PSAP 12 tentang Laporan Operasional; dan g. IPSAP dan Buletin Teknis SAP terkait pelaporan keuangan.
+
+Berdasarkan
+
+rujukan dan referensi tersebut dilakukan
+
+pemahaman dan analisa untuk melakukan proses penyesuaian dan
+
+harmonisasi sesuai kondisi dan kebutuhan pelaporan keuangan di
+
+pemerintah daerah. Hasil proses penyesuaian dan harmonisasi
+
+dicantumkan kedalam pernyataan-pernyataan pada kebijakan
+
+akuntansi pelaporan keuangan.
+
+2. Penyusunan Kebijakan Akuntansi Akun Tahapan penyusunan kebijakan akuntansi terkait akun dimulai
+dari mempelajari SAP khususnya pernyataan terkait akun-akun. Sebagai rujukan utama adalah Lampiran I Peraturan Pemerintah Nomor 71 Tahun 2010 tentang Standar Akuntansi Pemerintahan, khususnya: a. PSAP 05 tentang Akuntansi Persediaan; b. PSAP 06 tentang Akuntansi Investasi; c. PSAP 07 tentang Akuntansi Aset Tetap; d. PSAP 08 tentang Akuntansi Konstruksi Dalam Pengerjaan; e. PSAP 09 tentang Akuntansi Kewajiban; f. PSAP 10 tentang Koreksi Kesalahan, Perubahan Kebijakan
+Akuntansi, Perubahan Estimasi Akuntansi, dan Operasi yang Tidak Dilanjutkan; dan g. IPSAP dan Buletin Teknis SAP terkait akun.
+
+Selain menelaah SAP, pemerintah daerah perlu memperhatikan rujukan atau referensi berupa peraturan perundangan dan literatur
+
+2
+
+lain yang terkait dengan kebijakan akuntansi atas akun-akun yang terkait. Penelaahan diatas digunakan untuk: a. Mengidentifikasi akun-akun yang memerlukan pemilihan metode
+yang khusus atas pengakuan atau pengukurannya. b. Mengidentifikasi akun-akun yang memerlukan pengaturan yang
+lebih rinci atas kebijakan pengakuan dan pengukurannya. c. Mengidentifikasi hal-hal yang belum diatur di dalam SAP namun
+dibutuhkan dalam kebijakan akuntansi pemerintah daerah. Dalam menyusun hal-hal yang belum diatur di dalam SAP, perlu memperhatikan: 1) PSAP yang mengatur hal-hal yang mirip dengan masalah terkait. 2) Definisi serta kriteria pengakuan dan kriteria pengukuran atas
+aset, kewajiban, pendapatan-LO, beban, pendapatan-LRA, belanja, dan penerimaan/pengeluaran pembiayaan yang ditetapkan dalam Kerangka Konseptual Standar Akuntansi Pemerintahan dan PSAP.
+Hasil pemilihan metode, pengaturan lebih rinci dan pengaturan halhal yang belum diatur itulah yang kemudian dicantumkan dalam dokumen kebijakan akuntansi.
+Pemerintah daerah juga dapat melakukan diskusi yang bersifat terbatas dengan mengundang para ahli akuntansi pemerintahan atau para pemangku kepentingan lainnya untuk mendapatkan masukan obyektif dan membangun. Tim penyusun juga perlu melakukan penelaahan bersama-sama SKPD terkait dengan pembahasan akunakun tertentu seperti pembahasan kapitalisasi pemeliharaan jalan bersama dinas terkait.
+Pemerintah daerah dapat mencantumkan kerangka konseptual SAP berdasarkan PP No. 71 Tahun 2010 pada bagian awal kebijakan akuntansi pemerintah daerah. Pencantuman kerangka konseptual SAP dimaksudkan sebagai pemahaman dasar bagi pemerintah daerah dalam menyusun dan menggunakan kebijakan akuntansi pemerintah daerah.
+C. PENYAJIAN KEBIJAKAN AKUNTANSI PELAPORAN KEUANGAN DAN KEBIJAKAN AKUNTANSI AKUN
+3
+
+Untuk memberikan gambaran bentuk penyajian kebijakan akuntansi pemerintah daerah, dibawah ini diuraikan mengenai kebijakan akuntansi pelaporan keuangan dan kebijakan akuntansi akun yang dapat dijadikan sebagai panduan dalam penyusunan kebijakan akuntansi pemerintah daerah.
+1. KEBIJAKAN AKUNTANSI PELAPORAN KEUANGAN
+a. Pendahuluan
+1) Tujuan Kebijakan akuntansi pelaporan keuangan ini mengatur
+penyajian laporan keuangan untuk tujuan umum (general purpose financial statements) dalam rangka meningkatkan keterbandingan laporan keuangan baik terhadap anggaran, antar periode, maupun antar entitas.
+Laporan keuangan untuk tujuan umum adalah laporan keuangan yang ditujukan untuk memenuhi kebutuhan bersama sebagian besar pengguna laporan termasuk lembaga legislatif sebagaimana ditetapkan dalam ketentuan peraturan perundangundangan. Untuk mencapai tujuan tersebut, kebijakan akuntansi ini menetapkan seluruh pertimbangan dalam rangka penyajian laporan keuangan, pedoman struktur laporan keuangan, dan persyaratan minimal isi laporan keuangan. Laporan keuangan disusun dengan menerapkan basis akrual. Pengakuan, pengukuran, dan pengungkapan transaksi-transaksi spesifik dan peristiwa-peristiwa yang lain, mempedomani standar akuntansi pemerintahan.
+2) Ruang Lingkup Kebijakan akuntansi ini berlaku untuk entitas pelaporan
+dan entitas akuntansi dalam menyusun laporan keuangan. Entitas pelaporan yaitu pemerintah daerah, sedangkan entitas akuntansi yaitu SKPD dan PPKD. Tidak termasuk perusahaan daerah.
+
+3) Basis Akuntansi
+
+4
+
+Basis akuntansi yang digunakan dalam laporan keuangan pemerintah daerah yaitu basis akrual. Namun, dalam hal anggaran disusun dan dilaksanakan berdasar basis kas, maka LRA disusun berdasarkan basis kas.
+b. Tujuan Laporan Keuangan
+Tujuan umum laporan keuangan adalah menyajikan informasi mengenai posisi keuangan, realisasi anggaran, saldo anggaran lebih, arus kas, hasil operasi, dan perubahan ekuitas suatu entitas pelaporan yang bermanfaat bagi para pengguna dalam membuat dan mengevaluasi keputusan mengenai alokasi sumber daya.
+Secara spesifik, tujuan pelaporan keuangan pemerintah daerah adalah untuk menyajikan informasi yang berguna untuk pengambilan keputusan dan untuk menunjukkan akuntabilitas entitas pelaporan atas sumber daya yang dikelola, dengan:
+1) Menyediakan informasi mengenai posisi sumber daya ekonomi, kewajiban, dan ekuitas pemerintah daerah;
+2) Menyediakan informasi mengenai perubahan posisi sumber daya ekonomi, kewajiban, dan ekuitas pemerintah daerah;
+3) Menyediakan informasi mengenai sumber, alokasi, dan penggunaan sumber daya ekonomi;
+4) Menyediakan informasi mengenai ketaatan realisasi terhadap anggaran yang ditetapkan;
+5) Menyediakan informasi mengenai cara entitas pelaporan mendanai aktivitasnya dan memenuhi kebutuhan kasnya;
+6) Menyediakan informasi mengenai potensi pemerintah daerah untuk membiayai penyelenggaraan kegiatan pemerintahan; dan
+7) Menyediakan informasi yang berguna untuk mengevaluasi kemampuan entitas pelaporan dalam mendanai aktivitasnya.
+Pelaporan keuangan juga menyajikan informasi bagi pengguna mengenai:
+1) Indikasi sumber daya yang telah diperoleh dan digunakan sesuai dengan anggaran; dan
+2) Indikasi sumber daya yang diperoleh dan digunakan sesuai dengan ketentuan, termasuk batas anggaran yang ditetapkan dalam APBD.
+5
+
+Untuk memenuhi tujuan umum ini, laporan keuangan menyediakan informasi mengenai entitas pelaporan dalam hal: 1) Aset; 2) Kewajiban; 3) Ekuitas; 4) Pendapatan-LRA; 5) Belanja; 6) Transfer; 7) Pembiayaan; 8) Saldo Anggaran Lebih; 9) Pendapatan-LO; 10) Beban; dan 11) Arus Kas.
+Informasi dalam laporan keuangan tersebut relevan untuk memenuhi tujuan pelaporan keuangan, namun demikian masih diperlukan informasi tambahan, termasuk laporan nonkeuangan, untuk dilaporkan bersama-sama dengan laporan keuangan guna memberikan gambaran yang lebih komprehensif mengenai aktivitas suatu entitas pelaporan selama satu periode.
+c. Komponen Laporan Keuangan
+Komponen-komponen yang terdapat dalam satu set laporan keuangan terdiri atas laporan pelaksanaan anggaran (budgetary report) dan laporan finansial, sehingga seluruh komponen menjadi sebagai berikut: 1) Laporan Realisasi Anggaran; 2) Laporan Perubahan Saldo Anggaran Lebih; 3) Neraca; 4) Laporan Operasional; 5) Laporan Arus Kas; 6) Laporan Perubahan Ekuitas; dan 7) Catatan atas Laporan Keuangan.
+Komponen-komponen laporan keuangan tersebut disajikan oleh setiap entitas, kecuali Laporan Arus Kas dan Laporan Perubahan Saldo Anggaran Lebih yang hanya disajikan oleh entitas pelaporan.
+6
+
+d. Struktur dan Isi
+1) Laporan Realisasi Anggaran Laporan Realisasi Anggaran mengungkapkan kegiatan
+keuangan pemerintah daerah yang menunjukkan ketaatan terhadap APBD. Laporan Realisasi Anggaran menggambarkan perbandingan antara anggaran dengan realisasinya dalam satu periode pelaporan dan menyajikan unsur-unsur sebagai berikut: a) Pendapatan-LRA; b) Belanja; c) Transfer; d) Surplus/Defisit-LRA; e) Pembiayaan; dan f) Sisa lebih/kurang pembiayaan anggaran.
+2) Laporan Perubahan Saldo Anggaran Lebih Laporan Perubahan Saldo Anggaran Lebih menyajikan secara
+komparatif dengan periode sebelumnya pos-pos berikut: a) Saldo Anggaran Lebih awal; b) Penggunaan Saldo Anggaran Lebih; c) Sisa Lebih/Kurang Pembiayaan Anggaran tahun berjalan; d) Koreksi kesalahan pembukuan tahun sebelumnya; e) Lain-lain; dan f) Saldo Anggaran Lebih akhir.
+Di samping itu, pemerintah daerah menyajikan rincian lebih lanjut dari unsur-unsur yang terdapat dalam Laporan Perubahan Saldo Anggaran Lebih dalam Catatan atas Laporan Keuangan.
+3) Neraca Neraca menggambarkan posisi keuangan pemerintah daerah
+mengenai aset, kewajiban, dan ekuitas pada tanggal tertentu. pemerintah daerah mengklasifikasikan asetnya dalam aset lancar dan nonlancar serta mengklasifikasikan kewajibannya menjadi kewajiban jangka pendek dan jangka panjang dalam neraca. Sedangkan ekuitas adalah kekayaan bersih pemerintah yang merupakan selisih antara aset dan kewajiban pemerintah pada tanggal laporan.
+7
+
+4) Laporan Operasional Laporan operasional menyajikan pos-pos sebagai berikut: a) Pendapatan-LO dari kegiatan operasional; b) Beban dari kegiatan operasional; c) Surplus/defisit dari kegiatan non operasional; d) Pos luar biasa; dan e) Surplus/defisit-LO.
+5) Laporan Arus Kas Laporan Arus Kas menyajikan informasi mengenai sumber,
+penggunaan, perubahan kas dan setara kas selama satu periode akuntansi, dan saldo kas dan setara kas pada tanggal pelaporan. Arus masuk dan keluar kas diklasifikasikan berdasarkan aktivitas operasi, investasi, pendanaan, dan transitoris.
+6) Laporan Perubahan Ekuitas Laporan Perubahan Ekuitas menyajikan pos-pos: a) Ekuitas awal; b) Surplus/defisit-LO pada periode bersangkutan; c) Koreksi yang langsung menambah/mengurangi ekuitas, yang antara lain berasal dari dampak kumulatif yang disebabkan oleh perubahan kebijakan akuntansi dan koreksi kesalahan mendasar, seperti: (1) Koreksi kesalahan mendasar dari persediaan yang terjadi pada periode sebelumnya; (2) Perubahan nilai aset tetap karena revaluasi aset tetap. d) Ekuitas akhir.
+7) Catatan Atas Laporan Keuangan Hal-hal yang diungkapkan dalam Catatan atas Laporan
+Keuangan antara lain adalah: a) Informasi umum tentang entitas pelaporan dan entitas
+akuntansi; b) Informasi tentang kebijakan fiskal/keuangan dan ekonomi
+makro; c) Ikhtisar pencapaian target keuangan selama tahun pelaporan
+berikut kendala dan hambatan yang dihadapi dalam pencapaian target; d) Informasi tentang dasar penyusunan laporan keuangan dan kebijakan-kebijakan akuntansi yang dipilih untuk diterapkan
+8
+
+atas transaksi-transaksi dan kejadian-kejadian penting lainnya; e) Rincian dan penjelasan masing-masing pos yang disajikan pada lembar muka laporan keuangan; f) Informasi yang diharuskan oleh Pernyataan Standar Akuntansi Pemerintahan yang belum disajikan dalam lembar muka laporan keuangan; dan g) Informasi lainnya yang diperlukan untuk penyajian yang wajar, yang tidak disajikan dalam lembar muka laporan keuangan.
+Catatan atas Laporan Keuangan disajikan secara sistematis. Setiap pos dalam Laporan Realisasi Anggaran, Laporan Perubahan Saldo Anggaran Lebih, Neraca, Laporan Operasional, Laporan Arus Kas, dan Laporan Perubahan Ekuitas harus mempunyai referensi silang dengan informasi terkait dalam Catatan atas Laporan Keuangan. Didalam bagian penjelasan kebijakan akuntansi pada Catatan atas Laporan Keuangan, diuraikan hal-hal sebagai berikut: a) Dasar pengakuan dan pengukuran yang digunakan dalam
+penyusunan laporan keuangan; b) Kebijakan-kebijakan akuntansi yang berkaitan dengan
+Standar Akuntansi Pemerintahan yang memerlukan pengaturan lebih rinci oleh entitas pelaporan; dan c) Setiap kebijakan akuntansi tertentu yang diperlukan untuk memahami laporan keuangan.
+2. KEBIJAKAN AKUNTANSI AKUN
+a. Aset
+1) Kas Kas terdiri dari Kas di Kas Daerah, Kas di Bendahara
+Penerimaan, Kas di Bendahara Pengeluaran dan Kas di Badan Layanan Umum Daerah (BLUD). Termasuk dalam kategori kas adalah setara kas yang merupakan investasi jangka pendek yang sangat likuid dan siap dicairkan menjadi kas dengan jatuh tempo kurang dari 3 bulan tanggal perolehannya.
+9
+
+2) Investasi Jangka Pendek Investasi Jangka Pendek adalah investasi yang dapat segera
+diperjualbelikan atau dicairkan serta dimiliki 3 (tiga) bulan sampai dengan 12 (dua belas) bulan terhitung mulai tanggal pelaporan. Investasi jangka pendek dapat berupa: a) Deposito; b) Surat Utang Negara (SUN); c) Sertifikat Bank Indonesia (SBI); dan d) Surat Perbendaharaan Negara (SPN). 3) Piutang Piutang diakui saat: a) Diterbitkan surat ketetapan; atau b) Telah diterbitkan surat penagihan dan telah dilaksanakan
+penagihan; atau c) Belum dilunasi sampai dengan akhir periode pelaporan.
+Piutang dicatat dan diukur sebesar: a) Nilai yang belum dilunasi dari setiap tagihan yang ditetapkan;
+atau b) Nilai bersih yang dapat direalisasikan (net realizable value).
+Piutang yang disajikan sebesar nilai bersih yang dapat direalisasikan (net realizable value), oleh karenanya terhadap piutang yang diperkirakan tidak akan tertagih dilakukan penyisihan.
+Penyisihan piutang tidak tertagih dilakukan melalui estimasi berdasarkan umur piutang (aging schedule). Piutang dalam aging schedule dibedakan menurut jenis piutang, baik dalam menetapkan umur maupun penentuan besaran yang akan disisihkan sesuai tabel berikut.
+Contoh Tabel Kebijakan Persentase Penyisihan Piutang
+Berdasarkan Jenis dan Umur Piutang
+
+Nomor
+
+Jenis Piutang
+
+1 Piutang .... 2 Piutang ... 3 Dst
+
+1 Tahun
+0% 0% 0%
+
+Umur Piutang
+
+>1 s.d. 2 >2 s.d. 3
+
+Tahun
+
+Tahun
+
+...% ...%
+
+...% ...%
+
+...% ...%
+
+>3 Tahun
+...% ...% ...%
+
+10
+
+4) Persediaan Pencatatan persediaan dilakukan dengan: a) Metode Perpetual, untuk jenis persediaan yang sifatnya continues dan membutuhkan kontrol yang besar, seperti obatobatan. Dengan metode perpetual, pencatatan dilakukan setiap ada persediaan yang masuk dan keluar, sehingga nilai/jumlah persediaan selalu ter-update.
+b) Metode Periodik, untuk persediaan yang penggunaannya sulit diidentifikasi, seperti Alat Tulis Kantor (ATK). Dengan metode ini, pencatatan hanya dilakukan pada saat terjadi penambahan, sehingga tidak meng-update jumlah persediaan. Jumlah persediaan akhir diketahui dengan melakukan stock opname pada akhir periode.
+Persediaan dinilai dengan metode FIFO (First In First Out). Harga pokok dari barang-barang yang pertama kali dibeli akan menjadi harga barang yang digunakan/dijual pertama kali. Sehingga nilai persediaan akhir dihitung dimulai dari harga pembelian terakhir.
+5) Investasi Jangka Panjang Penilaian investasi jangka panjang dilakukan dengan tiga metode yaitu: a) Metode biaya Investasi jangka panjang dicatat sebesar biaya perolehan. Penghasilan atas investasi jangka panjang tersebut diakui sebesar bagian hasil yang diterima dan tidak mempengaruhi besarnya investasi pada badan usaha/badan hukum yang terkait. Penghasilan tersebut diatas diakui sebagai pendapatan dari bagian laba atas penyertaan modal (Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan). b) Metode ekuitas Pada metode ini, pemerintah daerah mencatat investasi awal sebesar biaya perolehan dan ditambah atau dikurangi sebesar bagian laba atau rugi pemerintah setelah tanggal perolehan. Bagian laba kecuali dividen dalam bentuk saham yang diterima pemerintah akan mengurangi nilai investasi pemerintah. Bagian laba ini diakui sebagai pendapatan dari
+11
+
+bagian laba atas penyertaan modal dan mengurangi nilai investasi pemerintah daerah. Penyesuaian terhadap nilai investasi juga diperlukan untuk mengubah porsi kepemilikan investasi pemerintah, misalnya adanya perubahan yang timbul akibat pengaruh valuta asing serta revaluasi aset tetap. c) Metode nilai bersih yang dapat direalisasikan Metode ini digunakan terutama untuk kepemilikan yang akan dilepas/dijual dalam jangka waktu dekat
+Pemilihan metode penilaian investasi didasarkan pada kriteria sebagai berikut: a) Kepemilikan kurang dari 20% menggunakan metode biaya
+terkecuali kepemilikan itu berpengaruh signifikan menggunakan metode ekuitas; b) Kepemilikan 20% atau lebih menggunakan metode ekuitas; dan c) Kepemilikan bersifat nonpermanen menggunakan metode nilai bersih yang direalisasikan.
+6) Aset Tetap a) Biaya Perolehan Aset tetap dinilai dengan biaya perolehan. Apabila penilaian aset tetap dengan menggunakan biaya perolehan tidak memungkinkan maka nilai aset tetap didasarkan pada nilai wajar pada saat perolehan.
+Biaya perolehan adalah jumlah kas atau setara kas yang dibayarkan atau nilai wajar imbalan lain yang diberikan untuk memperoleh suatu aset pada saat perolehan atau konstruksi sampai dengan aset tersebut dalam kondisi dan tempat yang siap untuk dipergunakan.
+Biaya perolehan suatu aset tetap terdiri dari harga belinya atau konstruksinya, termasuk bea impor dan setiap biaya yang dapat diatribusikan secara langsung dalam membawa aset tersebut ke kondisi yang membuat aset tersebut dapat bekerja untuk penggunaan yang dimaksudkan yang dikelompokkan berdasarkan jenis aset tetap sesuai tabel berikut :
+12
+
+Contoh Tabel Komponen Biaya Perolehan Berdasarkan Jenis Aset Tetap
+Biaya perolehan dari masing-masing Aset Tetap yang diperoleh secara gabungan ditentukan dengan mengalokasikan harga gabungan tersebut berdasarkan perbandingan nilai wajar masing-masing aset yang bersangkutan. Biaya perolehan Aset Tetap yang dibangun dengan cara swakelola meliputi: (1) biaya langsung untuk tenaga kerja, bahan baku; (2) biaya tidak langsung termasuk biaya perencanaan dan
+pengawasan, perlengkapan, tenaga listrik, sewa peralatan; dan (3) semua biaya lainnya yang terjadi berkenaan dengan pembangunan Aset Tetap tersebut. Pengukuran Aset Tetap harus memperhatikan kebijakan pemerintah daerah mengenai ketentuan nilai satuan minimum kapitalisasi Aset Tetap. Jika nilai perolehan Aset Tetap di bawah nilai satuan minimum kapitalisasi maka atas Aset Tetap
+13
+
+tersebut tidak dapat diakui dan disajikan sebagai Aset Tetap, namun tetap diungkapkan dalam Catatan Atas Laporan Keuangan.
+Nilai satuan minimum kapitalisasi adalah pengeluaran pengadaan baru. Contoh nilai satuan minimum kapitalisasi aset tetap untuk per satuan peralatan dan mesin, dan alat olah raga, hewan yang sama dengan atau lebih dari Rp 1.000.000,00 (satu juta rupiah)
+Nilai Satuan Minimum Kapitalisasi Aset Tetap dikecualikan terhadap pengeluaran untuk tanah, jalan/irigasi/jaringan, dan aset tetap lainnya berupa koleksi perpustakaan dan barang bercorak kesenian, peralatan untuk proses belajar mengajar.
+Besaran nilai minimum kapitalisasi aset tetap dan jenisnya ditetapkan oleh kepala daerah.
+b) Pengeluaran Setelah Perolehan Suatu pengeluaran setelah perolehan atau pengeluaran pemeliharaan akan dikapitalisasi jika memenuhi kriteria sebagai berikut: (1) Manfaat ekonomi atas aset tetap yang dipelihara: (a) bertambah ekonomis/efisien, dan/atau (b) bertambah umur ekonomis, dan/atau (c) bertambah volume, dan/atau (d) bertambah kapasitas produksi. (2) Nilai pengeluaran belanja atas pemeliharaan aset tetap tersebut harus sama dengan atau melebihi nilai satuan minimum kapitalisasi Aset Tetap. Nilai satuan minimum kapitalisasi adalah penambahan nilai aset tetap dari hasil pengembangan, reklasifikasi, renovasi, dan restorasi. Contoh ditetapkan nilai satuan minimum kapitalisasi untuk pemeliharaan gedung dan bangunan sama dengan atau melebihi dari Rp 20.000.000,00 (dua puluh juta rupiah).
+c) Penyusutan Aset Tetap Penyusutan adalah alokasi yang sistematis atas nilai suatu aset tetap yang dapat disusutkan (depreciable assets) selama
+14
+
+masa manfaat aset yang bersangkutan. Nilai penyusutan untuk masing-masing periode diakui sebagai pengurang nilai tercatat aset tetap dalam neraca dan beban penyusutan dalam laporan operasional. Aset Tetap Lainnya berupa hewan, tanaman, dan buku perpustakaan tidak dilakukan penyusutan secara periodik, melainkan diterapkan penghapusan pada saat Aset Tetap Lainnya tersebut sudah tidak dapat digunakan atau mati. Metode penyusutan yang digunakan adalah metode garis lurus dengan estimasi masa manfaat sesuai tabel berikut.
+Contoh Tabel Masa Manfaat Aset Tetap
+15
+
+Khusus penambahan masa manfaat aset tetap karena adanya perbaikan terhadap aset tetap baik berupa overhaul dan renovasi disajikan tersendiri pada modul implementasi SAP Berbasis Akrual pada Pemerintah Daerah.
+Sedangkan formula penghitungan penyusutan barang milik daerah adalah sebagai berikut:
+
+Nilai yang dapat disusutkan Penyusutan per periode =
+Masa manfaat
+
+16
+
+Keterangan formula adalah sebagai berikut:
+i. Penyusutan per periode merupakan nilai penyusutan untuk aset tetap suatu periode yang dihitung pada akhir tahun;
+ii. Nilai yang dapat disusutkan merupakan nilai buku per 31 Desember 2014 untuk Aset Tetap yang diperoleh sampai dengan 31 Desember 2014. Untuk Aset Tetap yang diperoleh setelah 31 Desember 2014 menggunakan nilai perolehan; dan
+iii. Masa manfaat adalah periode suatu Aset Tetap yang diharapkan digunakan untuk aktivitas pemerintahan dan/atau pelayanan publik atau jumlah produksi atau unit serupa yang diharapkan diperoleh dari aset untuk aktivitas pemerintahan dan/atau pelayanan publik.
+7) Aset Lainnya
+Aset lainnya adalah aset pemerintah selain aset lancar, investasi jangka panjang, aset tetap dan dana cadangan. Aset lainnya antara lain aset tak berwujud, kemitraan dengan pihak ketiga, kas yang dibatasi penggunaannya, dan aset lain-lain.
+Ruang lingkup yang diatur pada bagian ini hanya aset tak berwujud, kemitraan dengan pihak ketiga, dan aset lain-lain yang berasal dari penghentian penggunaan aktif aset tetap pemerintah.
+a) Aset Tak Berwujud (1) Jenis Aset Tak Berwujud:
+(a) Goodwill
+Goodwill adalah kelebihan nilai yang diakui oleh suatu entitas akibat adanya pembelian kepentingan/saham di atas nilai buku. Goodwill dihitung berdasarkan selisih antara nilai entitas berdasarkan pengakuan dari suatu transaksi peralihan/penjualan kepentingan/saham dengan nilai buku kekayaan bersih perusahaan.
+(b) Hak Paten atau Hak Cipta
+17
+
+Hak-hak ini pada dasarnya diperoleh karena adanya kepemilikan kekayaan intelektual atau atas suatu pengetahuan teknis atau suatu karya yang dapat menghasilkan manfaat bagi entitas. Di samping itu dengan adanya hak ini dapat mengendalikan pemanfaatan aset tersebut dan membatasi pihak lain yang tidak berhak untuk memanfaatkannya.
+(c) Royalti
+Nilai manfaat ekonomi yang akan/dapat diterima atas kepemilikan hak cipta/hak paten/hak lainnya pada saat hak dimaksud akan dimanfaatkan oleh orang, instansi atau perusahaan lain.
+(d) Software
+Software computer yang masuk dalam kategori Aset Tak Berwujud adalah software yang bukan merupakan bagian tak terpisahkan dari hardware komputer tertentu. Jadi software ini adalah yang dapat digunakan di komputer lain.
+(e) Lisensi
+Adalah izin yang diberikan pemilik Hak Paten atau Hak Cipta yang diberikan kepada pihak lain berdasarkan perjanjian pemberian hak untuk menikmati manfaat ekonomi dari suatu Hak Kekayaan Intelektual yang diberi perlindungan dalam jangka waktu dan syarat tertentu.
+(f) Hasil Kajian/Penelitian yang memberikan manfaat jangka panjang
+Hasil kajian/pengembangan yang memberikan manfaat jangka panjang adalah suatu kajian atau pengembangan yang memberikan manfaat ekonomis dan/atau sosial dimasa yang akan datang yang dapat diidentifikasi sebagai aset.
+(g) Aset Tak Berwujud Lainnya
+18
+
+Aset Tak berwujud Lainnya merupakan jenis aset tak berwujud yang tidak dapat dikelompokkan ke dalam jenis aset tak berwujud yang ada.
+(h) Aset Tak Berwujud dalam Pengerjaan
+Terdapat kemungkinan pengembangan suatu Aset Tak Berwujud yang diperoleh secara internal yang jangka waktu penyelesaiannya melebihi satu tahun anggaran atau pelaksanaan pengembangannya melewati tanggal pelaporan. Dalam hal terjadi seperti ini, maka atas pengeluaran yang telah terjadi dalam rangka pengembangan tersebut sampai dengan tanggal pelaporan harus diakui sebagai Aset Tak Berwujud dalam Pengerjaan (intangible asset ­ work in progress), dan setelah pekerjaan selesai kemudian akan direklasifikasi menjadi Aset Tak Berwujud yang bersangkutan.
+(2) Pengakuan
+Untuk dapat diakui sebagai Aset Tak Berwujud harus dapat dibuktikan bahwa aktivitas/kegiatan tersebut telah memenuhi:
+(a) Definisi dari Aset Tak Berwujud; dan
+(b) Kriteria pengakuan.
+Aset Tak Berwujud harus memenuhi kriteria sebagai berikut:
+(a) Kemungkinan besar diperkirakan manfaat ekonomi di masa datang yang diharapkan atau jasa potensial yang diakibatkan dari Aset Tak Berwujud tersebut akan mengalir kepada/dinikmati oleh entitas; dan
+(b) Biaya perolehan atau nilai wajarnya dapat diukur dengan andal.
+(3) Pengukuran
+Aset Tak Berwujud diukur dengan harga perolehan, yaitu harga yang harus dibayar entitas untuk memperoleh suatu Aset Tak Berwujud hingga siap untuk digunakan
+19
+
+dan Aset Tak Berwujud tersebut mempunyai manfaat ekonomi yang diharapkan dimasa datang atau jasa potensial yang melekat pada aset tersebut akan mengalir masuk kedalam entitas tersebut.
+Terhadap Aset Tak Berwujud dilakukan amortisasi, kecuali atas Aset Tak Berwujud yang memiliki masa manfaat tak terbatas. Amortisasi dapat dilakukan dengan berbagai metode seperti garis lurus, metode saldo menurun dan metode unit produksi.
+Biaya untuk memperoleh Aset Tak Berwujud dengan pembelian terdiri dari:
+(a) Harga beli, termasuk biaya import dan pajak-pajak, setelah dikurangi dengan potongan harga dan rabat; dan
+(b) Setiap biaya yang dapat diatribusikan secara langsung dalam membawa aset tersebut ke kondisi yang membuat aset tersebut dapat bekerja untuk penggunaan yang dimaksudkan.
+Contoh dari biaya yang dapat diatribusikan secara langsung adalah:
+i. Biaya staff yang timbul secara langsung agar aset tersebut dapat digunakan;
+ii. Biaya professional yang timbul secara langsung agar aset tersebut dapat digunakan; dan
+iii. Biaya pengujian untuk menjamin aset tersebut dapat berfungsi secara baik.
+Pengukuran Aset Tak Berwujud yang diperoleh secara internal adalah:
+i. Aset Tak Berwujud dari kegiatan pengembangan yang memenuhi syarat pengakuan, diakui sebesar biaya perolehan yang meliputi biaya yang dikeluarkan sejak memenuhi kriteria pengakuan;
+ii. Pengeluaran atas unsur tidak berwujud yang awalnya telah diakui oleh entitas sebagai beban tidak boleh
+20
+
+diakui sebagai bagian dari harga perolehan Aset Tak Berwujud di kemudian hari; dan
+iii. Aset Tak Berwujud yang dihasilkan dari pengembangan software komputer, maka pengeluaran yang dapat dikapitalisasi adalah pengeluaran tahap pengembangan aplikasi.
+Aset yang memenuhi definisi dan syarat pengakuan aset tak berwujud, namun biaya perolehannya tidak dapat ditelusuri dapat disajikan sebesar nilai wajar.
+(4) Penyajian dan Pengungkapan
+ATB disajikan dalam neraca sebagai bagian dari "Aset Lainnya". Hal-hal yang diungkapkan dalam Laporan Keuangan atas Aset Tak Berwujud antara lain sebagai berikut:
+(a) Masa manfaat dan metode amortisasi;
+(b) Nilai tercatat bruto, akumulasi amortisasi dan nilai sisa Aset Tak Berwujud; dan
+(c) Penambahan maupun penurunan nilai tercatat pada awal dan akhir periode, termasuk penghentian dan pelepasan Aset Tak Berwujud.
+b) Aset Kemitraan dengan Pihak Ketiga
+(1) Jenis Aset Kemitraan dengan Pihak Ketiga
+(a) Aset Kerjasama/Kemitraan adalah aset tetap yang dibangun atau digunakan untuk menyelenggarakan kegiatan kerjasama/kemitraan.
+(b) Bangun Guna Serah (BGS), adalah pemanfaatan barang milik daerah berupa tanah oleh pihak lain dengan cara mendirikan bangunan dan/atau sarana berikut fasilitasnya, kemudian didayagunakan oleh pihak lain tersebut dalam jangka waktu tertentu yang telah disepakati, untuk selanjutnya diserahkan kembali tanah beserta bangunan dan/atau sarana berikut fasilitasnya setelah berakhirnya jangka waktu.
+21
+
+(c) Bangun Serah Guna (BSG), adalah pemanfaatan barang milik daerah berupa tanah oleh pihak lain dengan cara mendirikan bangunan dan/atau sarana berikut fasilitasnya, dan setelah selesai pembangunannya diserahkan untuk didayagunakan oleh pihak lain tersebut dalam jangka waktu tertentu yang disepakati.
+(d) Kerjasama Pemanfaatan (KSP) adalah pendayagunaan Barang Milik Daerah oleh pihak lain dalam jangka waktu tertentu dalam rangka peningkatan penerimaan daerah.
+(e) Sewa, adalah pemanfaatan barang milik daerah oleh pihak lain dalam jangka waktu tertentu dengan menerima imbalan uang tunai.
+(f) Masa kerjasama/kemitraan adalah jangka waktu dimana Pemerintah Daerah dan mitra kerjasama masih terikat dengan perjanjian kerjasama/kemitraan.
+(2) Pengakuan
+(a) Aset Kerjasama/Kemitraan diakui pada saat terjadi perjanjian kerjasama/ kemitraan, yaitu dengan perubahan klasifikasi aset dari aset tetap menjadi aset kerjasama/kemitraan.
+(b) Aset Kerjasama/Kemitraan berupa Gedung dan/atau sarana berikut fasilitasnya, dalam rangka kerja sama BSG, diakui pada saat pengadaan/pembangunan Gedung dan/atau Sarana berikut fasilitasnya selesai dan siap digunakan untuk digunakan/dioperasikan.
+(c) Setelah masa perjanjian kerjasama berakhir, aset kerjasama/kemitraan harus diaudit oleh aparat pengawas fungsional sebelum diserahkan kepada Pengelola Barang.
+(d) Penyerahan kembali objek kerjasama beserta fasilitasnya kepada Pengelola Barang dilaksanakan setelah berakhirnya perjanjian dituangkan dalam berita acara serah terima barang.
+(e) Setelah masa pemanfaatan berakhir, tanah serta bangunan dan fasilitas hasil kerjasama/ kemitraan
+22
+
+ditetapkan status penggunaannya oleh Pengelola Barang.
+(f) Klasifikasi aset hasil kerjasama/kemitraan berubah dari "Aset Lainnya" menjadi "Aset Tetap" sesuai jenisnya setelah berakhirnya perjanjian dan telah ditetapkan status penggunaannya oleh Kepala Daerah.
+
+(3) Pengukuran
+(a) Aset yang diserahkan oleh Pemerintah Daerah untuk diusahakan dalam perjanjian kerjasama/kemitraan harus dicatat sebagai aset kerjasama/kemitraan sebesar nilai bersih yang tercatat pada saat perjanjian atau nilai wajar pada saat perjanjian, dipilih yang paling objektif atau paling berdaya uji.
+(b) Dana yang ditanamkan Pemerintah Daerah dalam Kerjasama/Kemitraan dicatat sebagai penyertaan Kerjasama/Kemitraan. Di sisi lain, investor mencatat dana yang diterima ini sebagai kewajiban.
+(c) Aset hasil kerjasama yang telah diserahkan kepada pemerintah setelah berakhirnya perjanjian dan telah ditetapkan status penggunaannya, dicatat sebesar nilai bersih yang tercatat atau sebesar nilai wajar pada saat aset tersebut diserahkan, dipilih yang paling objektif atau paling berdaya uji.
+
+(4) Penyajian dan Pengungkapan
+
+Aset kerjasama/kemitraan disajikan dalam neraca
+
+sebagai aset lainnya. Dalam hal sebagian dari luas aset
+
+kemitraan (tanah dan atau gedung/bangunan), sesuai
+
+perjanjian, digunakan untuk kegiatan operasional SKPD,
+
+harus
+
+diungkapkan
+
+dalam
+
+CaLK.
+
+Aset
+
+kerjasama/kemitraan selain tanah harus dilakukan
+
+penyusutan selama masa kerja sama. Masa penyusutan
+
+aset kemitraan dalam rangka Bangun Guna Serah (BGS)
+
+melanjutkan masa penyusutan aset sebelum direklasifikasi
+
+menjadi aset kemitraan. Masa penyusutan aset kemitraan
+
+23
+
+dalam rangka Bangun Serah Guna (BSG) adalah selama masa kerjasama.
+Sehubungan dengan pengungkapan yang lazim untuk aset, pengungkapan berikut harus dibuat untuk aset kerjasama/kemitraan :
+a) Klasifikasi aset yang membentuk aset kerjasama
+b) Penentuan biaya perolehan aset kerjasama/kemitraan
+c) Penentuan depresiasi/penyusutan aset kerjasama/kemitraan.
+Setelah aset diserahkan dan ditetapkan penggunaannya, aset hasil kerjasama disajikan dalam neraca dalam klasifikasi aset tetap.
+c) Aset Lain-Lain
+Aset Lain-lain digunakan untuk mencatat aset lainnya yang tidak dapat dikelompokkan dalam aset tak berwujud, tagihan penjualan angsuran, tuntutan perbendaharaan, tuntutan ganti rugi, dan kemitraan dengan pihak ketiga.
+(1) Definisi Aset Lain-lain
+Aset tetap yang dimaksudkan untuk dihentikan dari penggunaan aktif pemerintah direklasifikasi ke dalam Aset Lain-lain. Hal ini dapat disebabkan karena rusak berat, usang, dan/atau aset tetap yang tidak digunakan karena sedang menunggu proses pemindahtanganan (proses penjualan, sewa beli, penghibahan, penyertaan modal).
+(2) Pengakuan
+Pengakuan aset lain-lain diakui pada saat dihentikan dari penggunaan aktif pemerintah dan direklasifikasikan ke dalam aset lain-lain.
+(3) Pengukuran
+Aset tetap yang dimaksudkan untuk dihentikan dari penggunaan aktif pemerintah direklasifikasi ke dalam Aset Lain-lain menurut nilai tercatatnya. Aset lain ­ lain yang berasal dari reklasifikasi aset tetap disusutkan mengikuti kebijakan penyusutan aset tetap. Proses penghapusan
+24
+
+terhadap aset lain ­ lain dilakukan paling lama 12 bulan sejak direklasifikasi kecuali ditentukan lain menurut ketentuan perundang-undangan.
+(4) Penyajian dan Pengungkapan
+Aset Lain-lain disajikan di dalam kelompok Aset Lainnya dan diungkapkan secara memadai di dalam CaLK. Hal-hal yang perlu diungkapkan antara lain adalah faktorfaktor yang menyebabkan dilakukannya penghentian penggunaan, jenis aset tetap yang dihentikan penggunaannya, dan informasi lainnya yang relevan.
+b. Kewajiban
+1) Klasifikasi kewajiban Kewajiban dapat diklasifikasikan menjadi kewajiban jangka
+pendek dan kewajiban jangka panjang. Suatu kewajiban diklasifikasikan sebagai kewajiban jangka pendek jika diharapkan dibayar dalam waktu 12 (dua belas) bulan setelah tanggal pelaporan. Semua kewajiban lainnya diklasifikasikan sebagai kewajiban jangka panjang. Kewajiban jangka panjang hanya terdapat di PPKD. Kewajiban jangka pendek di PPKD terdiri atas: a) Utang Bunga; b) Bagian Lancar Utang Jangka Panjang; c) Utang Beban; dan d) Utang Jangka Pendek Lainnya;
+Kewajiban jangka pendek di SKPD terdiri atas: a) Utang Perhitungan Pihak Ketiga (PFK); b) Pendapatan Diterima Dimuka; c) Utang Beban; dan d) Utang Jangka Pendek Lainnya.
+Kewajiban jangka panjang di PPKD terdiri atas: a) Utang Dalam Negeri; b) Utang Luar Negeri; dan c) Utang Jangka Panjang Lainnya.
+2) Pengakuan Kewajiban Kewajiban diakui pada saat:
+25
+
+a) Dana pinjaman diterima oleh pemerintah; atau b) Dana pinjaman dikeluarkan oleh kreditur sesuai dengan
+kesepakatan pemerintah daerah; atau c) Pada saat kewajiban timbul.
+Kewajiban dapat timbul dari:
+a) Transaksi dengan pertukaran (exchange transactions); b) Transaksi tanpa pertukaran (non-exchange transactions),
+sesuai hukum yang berlaku dan kebijakan yang diterapkan, yang belum dibayar lunas sampai dengan saat tanggal pelaporan; c) kejadian yang berkaitan dengan pemerintah (governmentrelated events); dan d) Kejadian yang diakui pemerintah (government-acknowledged events).
+3) Pengukuran Kewajiban Kewajiban dicatat sebesar nilai nominal yang mencerminkan
+nilai kewajiban pemerintah daerah pada saat pertama kali transaksi berlangsung.
+c. Ekuitas Akun ini terdiri dari: 1) Ekuitas Ekuitas adalah kekayaan bersih pemerintah yang merupakan selisih antara aset dan kewajiban pemerintah pada tanggal laporan. Saldo Ekuitas berasal dari Ekuitas awal ditambah (dikurang) oleh Surplus/Defisit LO dan perubahan lainnya seperti koreksi nilai persediaan, selisih evaluasi Aset Tetap, dan lain-lain. 2) Ekuitas SAL Ekuitas SAL digunakan untuk mencatat akun perantara dalam rangka penyusunan Laporan Realisasi Anggaran dan Laporan Perubahan SAL mencakup antara lain Estimasi Pendapatan, Estimasi Penerimaan Pembiayaan, Apropriasi Belanja, Apropriasi Pengeluaran Pembiayaan, dan Estimasi Perubahan SAL, Surplus/Defisit - LRA.
+26
+
+3) Ekuitas untuk Dikonsolidasikan Ekuitas untuk Dikonsolidasikan digunakan untuk mencatat
+reciprocal account untuk kepentingan konsolidasi, yang mencakup antara lain Rekening Koran PPKD.
+d. Pendapatan-LRA 1) Pengakuan Pendapatan-LRA Pendapatan diakui pada saat: a) Diterima di Rekening Kas Umum Daerah; atau b) Diterima oleh SKPD; atau c) Diterima entitas lain diluar pemerintah daerah atas nama BUD. 2) Pengukuran Pendapatan-LRA a) Akuntansi Pendapatan-LRA dilaksanakan berdasarkan azas bruto, yaitu dengan membukukan penerimaan bruto, dan tidak mencatat jumlah netonya (setelah dikompensasikan dengan pengeluaran). b) Pendapatan-LRA diukur dengan menggunakan nilai nominal kas yang masuk ke kas daerah dari sumber pendapatan dengan menggunakan asas bruto, yaitu pendapatan dicatat tanpa dikurangkan/dikompensasikan dengan belanja yang dikeluarkan untuk memperoleh pendapatan tersebut c) Dalam hal besaran pengurang terhadap Pendapatan-LRA bruto (biaya) bersifat variabel terhadap pendapatan dimaksud dan tidak dapat dianggarkan terlebih dahulu dikarenakan proses belum selesai, maka asas bruto dapat dikecualikan. d) Pengecualian azas bruto dapat terjadi jika penerimaan kas dari pendapatan tersebut lebih mencerminkan aktivitas pihak lain dari pada pemerintah daerah atau penerimaan kas tersebut berasal dari transaksi yang perputarannya cepat, volume transaksi banyak dan jangka waktunya singkat. 3) Penyajian Pendapatan-LRA disajikan pada Laporan Realisasi Anggaran dan Laporan Arus Kas. Pendapatan LRA disajikan dalam mata uang rupiah. Apabila penerimaan kas atas pendapatan LRA dalam mata uang asing, maka penerimaan tersebut dijabarkan dan dinyatakan dalam mata uang rupiah. Penjabaran mata uang asing tersebut menggunakan kurs pada tanggal transaksi.
+27
+
+e. Belanja
+1) Pengakuan Belanja a) Belanja diakui pada saat terjadinya pengeluaran dari Rekening Kas Umum Daerah. b) Khusus pengeluaran melalui bendahara pengeluaran, pengakuan terjadi pada saat pertanggungjawaban atas pengeluaran tersebut disahkan oleh pengguna anggaran.
+2) Pengukuran belanja Akuntansi belanja dilaksanakan berdasarkan azas bruto dan diukur berdasarkan nilai nominal yang dikeluarkan dan tercantum dalam dokumen pengeluaran yang sah.
+f. Transfer
+1) Pengakuan Transfer Transfer diakui pada saat terjadinya pengeluaran dari Rekening Kas Umum Daerah.
+2) Pengukuran Transfer Akuntansi Transfer dilaksanakan berdasarkan azas bruto dan diukur berdasarkan nilai nominal yang dikeluarkan dan tercantum dalam dokumen pengeluaran yang sah.
+g. Pembiayaan
+1) Pengakuan Pembiayaan a) Penerimaan pembiayaan diakui pada saat diterima pada Rekening Kas Umum Daerah. b) Pengeluaran pembiayaan diakui pada saat dikeluarkan dari Rekening Kas Umum Daerah.
+2) Pengukuran Pembiayaan a) Pengukuran pembiayaan menggunakan mata uang rupiah berdasarkan nilai sekarang kas yang diterima atau yang akan diterima dan nilai sekarang kas yang dikeluarkan atau yang akan dikeluarkan. b) Pembiayaan yang diukur dengan mata uang asing dikonversi ke mata uang rupiah berdasarkan nilai tukar (kurs tengah Bank Indonesia) pada tanggal transaksi pembiayaan.
+h. Pendapatan-LO
+28
+
+1) Definisi Pendapatan-LO Pendapatan-LO merupakan hak pemerintah daerah yang
+diakui sebagai penambah ekuitas dalam periode tahun anggaran yang bersangkutan dan tidak perlu dibayar kembali. PendapatanLO merupakan pendapatan yang menjadi tanggung jawab dan wewenang entitas pemerintah, baik yang dihasilkan oleh transaksi operasional, non operasional dan pos luar biasa yang meningkatkan ekuitas entitas pemerintah. Pendapatan-LO dikelompokkan dari dua sumber, yaitu transaksi pertukaran (exchange transactions) dan transaksi non-pertukaran (nonexchange transactions)
+Pendapatan dari Transaksi Pertukaran adalah manfaat ekonomi yang diterima dari berbagai transaksi pertukaran seperti penjualan barang atau jasa layanan tertentu, dan barter. Pendapatan dari transaksi non-pertukaran adalah manfaat ekonomi yang diterima pemerintah tanpa kewajiban pemerintah menyampaikan prestasi balik atau imbalan balik kepada pemberi manfaat ekonomi termasuk (namun tidak terbatas pada) pendapatan pajak, rampasan, hibah, sumbangan, donasi dari entitas di luar entitas akuntansi dan entitas pelaporan, dan hasil alam.
+Kebijakan akuntansi pendapatan-LO meliputi kebijakan akuntansi pendapatan-LO untuk PPKD dan kebijakan akuntansi pendapatan-LO untuk SKPD. Akuntansi Pendapatan-LO pada PPKD meliputi Pendapatan Asli Daerah, Pendapatan Transfer, Lain-Lain Pendapatan Daerah yang Sah, serta Pendapatan Non Operasional. Akuntansi Pendapatan-LO pada SKPD meliputi Pendapatan Asli Daerah.
+2) Pengakuan Pendapatan-LO Pendapatan-LO diakui pada saat:  Timbulnya hak atas pendapatan. Kriteria ini dikenal juga dengan earned.  Pendapatan direalisasi, yaitu adanya aliran masuk sumber daya ekonomi baik sudah diterima pembayaran secara tunai (realized) maupun masih berupa piutang (realizable).
+a) Pengakuan Pendapatan-LO pada PPKD
+29
+
+(1) Pendapatan Asli Daerah Merupakan pendapatan yang diperoleh daerah yang
+dipungut berdasarkan Peraturan Daerah sesuai dengan Peraturan Perundang-Undangan. Pendapatan tersebut dapat dikelompokkan ke dalam tiga kategori, yaitu PAD Melalui Penetapan, PAD Tanpa Penetapan, dan PAD dari Hasil Eksekusi Jaminan.
+(a) PAD Melalui Penetapan
+PAD yang masuk ke dalam kategori ini adalah Tuntutan Ganti Kerugian Daerah, Pendapatan Denda atas Keterlambatan Pelaksanaan Pekerjaan, Pendapatan Denda Pajak, dan Pendapatan Denda Retribusi. Pendapatan-pendapatan tersebut diakui ketika telah diterbitkan Surat Ketetapan atas pendapatan terkait.
+(b) PAD Tanpa Penetapan
+PAD yang masuk ke dalam kategori ini antara lain Penerimaan Jasa Giro, Pendapatan Bunga Deposito, Komisi, Potongan dan Selisih Nilai Tukar Rupiah, Pendapatan dari Pengembalian, Fasilitas Sosial dan Fasilitas Umum, Pendapatan dari Penyelenggaraan Pendidikan dan Pelatihan, Pendapatan dari Angsuran/Cicilan Penjualan, dan Hasil dari Pemanfaatan Kekayaan Daerah. Pendapatan-pendapatan tersebut diakui ketika pihak terkait telah melakukan pembayaran langsung ke Rekening Kas Umum Daerah.
+(c) PAD dari Hasil Eksekusi Jaminan
+Pendapatan hasil eksekusi jaminan diakui saat pihak ketiga tidak menunaikan kewajibannya. Pada saat tersebut, PPKD akan mengeksekusi uang jaminan yang sebelumnya telah disetorkan, dan mengakuinya sebagai pendapatan. Pengakuan pendapatan ini dilakukan pada saat dokumen eksekusi yang sah telah diterbitkan.
+(2) Pendapatan Transfer
+30
+
+Pemerintah Pusat akan mengeluarkan ketetapan mengenai jumlah dana transfer yang akan diterima oleh Pemerintah Daerah. Namun demikian ketetapan pemerintah belum dapat dijadikan dasar pengakuan pendapatan LO, mengingat kepastian pendapatan tergantung pada persyaratan-persyaratan sesuai peraturan perundangan penyaluran alokasi tersebut. Untuk itu pengakuan pendapatan transfer dilakukan bersamaan dengan diterimanya kas pada Rekening Kas Umum Daerah. Walaupun demikian, pendapatan transfer dapat diakui pada saat terbitnya peraturan mengenai penetapan alokasi, jika itu terkait dengan kurang salur.
+
+(3) Lain-Lain Pendapatan Daerah yang Sah
+
+Merupakan kelompok pendapatan lain yang tidak
+
+termasuk dalam kategori pendapatan sebelumnya. Lain-
+
+Lain Pendapatan Daerah yang Sah pada PPKD, antara lain
+
+meliputi Pendapatan Hibah baik dari Pemerintah,
+
+Pemerintah Daerah Lainnya, Badan/Lembaga/Organisasi
+
+Swasta
+
+Dalam
+
+Negeri,
+
+maupun
+
+Kelompok
+
+Masyarakat/Perorangan. Naskah Perjanjian Hibah yang
+
+ditandatangani belum dapat dijadikan dasar pengakuan
+
+pendapatan LO mengingat adanya proses dan persyaratan
+
+untuk realisasi pendapatan hibah tersebut.
+
+(4) Pendapatan Non Operasional Pendapatan Non Operasional mencakup antara lain
+Surplus Penjualan Aset Nonlancar, Surplus Penyelesaian Kewajiban Jangka Panjang, Surplus dari Kegiatan Non Operasional Lainnya. Pendapatan Non Operasional diakui ketika dokumen sumber berupa Berita Acara kegiatan (misal: Berita Acara Penjualan untuk mengakui Surplus Penjualan Aset Nonlancar) telah diterima.
+
+b) Pengakuan Pendapatan-LO pada SKPD
+
+Pendapatan Daerah pada SKPD hanya sebagian dari Pendapatan Asli Daerah yaitu pendapatan pajak daerah dalam hal instansi pungutan pajak terpisah dari BUD, pendapatan retribusi dan sebagian dari lain-lain PAD yang sah.
+
+31
+
+Pendapatan Asli Daerah merupakan pendapatan yang diperoleh daerah yang dipungut berdasarkan Peraturan Daerah sesuai dengan Peraturan Perundang-Undangan. Alternatif pengakuan pendapatan tersebut dapat dibagi menjadi tiga, yaitu: (1) Alternatif satu (1) yaitu kelompok pendapatan pajak yang
+didahului oleh penerbitan Surat Ketetapan Pajak Daerah (SKP Daerah) untuk kemudian dilakukan pembayaran oleh wajib pajak yang bersangkutan. Pendapatan Pajak ini diakui ketika telah diterbitkan penetapan berupa Surat Ketetapan (SK) atas pendapatan terkait. (2) Alternatif dua (2) yaitu kelompok pendapatan pajak yang didahului dengan penghitungan sendiri oleh wajib pajak (self assessment) dan dilanjutkan dengan pembayaran oleh wajib pajak berdasarkan perhitungan tersebut. Selanjutnya, dilakukan pemeriksaan terhadap nilai pajak yang dibayar apakah sudah sesuai, kurang atau lebih bayar untuk kemudian dilakukan penetapan. Pendapatan Pajak ini diakui ketika telah diterbitkan penetapan berupa Surat Ketetapan (SK) atas pendapatan terkait. (3) Alternatif Tiga (3) yaitu kelompok pendapatan retribusi yang pembayarannya diterima untuk memenuhi kewajiban dalam periode tahun berjalan. Pendapatan retribusi ini diakui ketika pembayaran telah diterima. 3) Pengukuran Pendapatan-LO a) Pendapatan-LO operasional non pertukaran, diukur sebesar aset yang diperoleh dari transaksi non pertukaran yang pada saat perolehan tersebut diukur dengan nilai wajar b) Pendapatan-LO dari transaksi pertukaran diukur dengan menggunakan harga sebenarnya (actual price) yang diterima ataupun menjadi tagihan sesuai dengan perjanjian yang telah membentuk harga. Pendapatan-LO dari transaksi pertukaran harus diakui pada saat barang atau jasa diserahkan kepada masyarakat ataupun entitas pemerintah lainnya dengan harga tertentu yang dapat diukur secara andal.
+i. Beban
+1) Pengakuan Beban
+32
+
+Beban diakui pada saat timbulnya kewajiban, terjadi konsumsi aset, atau terjadinya penurunan manfaat ekonomi atau potensi jasa. Saat timbulnya kewajiban adalah saat terjadinya peralihan hak dari pihak lain ke pemerintah tanpa diikuti keluarnya kas dari kas umum daerah. Contohnya tagihan rekening telepon dan rekening listrik yang belum dibayar pemerintah. Yang dimaksud dengan terjadinya konsumsi aset adalah saat pengeluaran kas kepada pihak lain yang tidak didahului timbulnya kewajiban dan/atau konsumsi aset nonkas dalam kegiatan operasional pemerintah. Sedangkan penurunan manfaat ekonomi atau potensi jasa terjadi pada saat penurunan nilai aset sehubungan dengan penggunaan aset bersangkutan/berlalunya waktu. Contoh penurunan manfaat ekonomi atau potensi jasa adalah penyusutan atau amortisasi.
+a) Pengakuan Beban pada PPKD (1) Beban Bunga Beban Bunga merupakan alokasi pengeluaran pemerintah daerah untuk pembayaran bunga (interest) yang dilakukan atas kewajiban penggunaan pokok utang (principal outstanding) termasuk beban pembayaran biayabiaya yang terkait dengan pinjaman dan hibah yang diterima pemerintah daerah seperti biaya commitment fee dan biaya denda.
+Beban Bunga meliputi Beban Bunga Pinjaman dan Beban Bunga Obligasi. Beban bunga diakui saat bunga tersebut jatuh tempo untuk dibayarkan. Untuk keperluan pelaporan keuangan, nilai beban bunga diakui sampai dengan tanggal pelaporan walaupun saat jatuh tempo melewati tanggal pelaporan.
+(2) Beban Subsidi Beban Subsidi merupakan pengeluaran atau alokasi
+anggaran yang diberikan pemerintah daerah kepada perusahaan/lembaga tertentu agar harga jual produksi/jasa yang dihasilkan dapat terjangkau oleh masyarakat. Beban subsidi diakui pada saat kewajiban pemerintah daerah untuk memberikan subsidi telah timbul.
+33
+
+(3) Beban Hibah Beban Hibah merupakan beban pemerintah dalam
+bentuk uang, barang, atau jasa kepada pemerintah, pemerintah daerah lainnya, perusahaan daerah, masyarakat, dan organisasi kemasyarakatan, yang bersifat tidak wajib dan tidak mengikat.
+Pengakuan beban hibah sesuai NPHD dilakukan bersamaan dengan penyaluran belanja hibah, mengingat kepastian beban tersebut belum dapat ditentukan berdasarkan NPHD karena harus dilakukan verifikasi atas persyaratan penyaluran hibah.
+(4) Beban Bantuan Sosial Beban Bantuan Sosial merupakan beban pemerintah
+daerah dalam bentuk uang atau barang yang diberikan kepada individu, keluarga, kelompok dan/atau masyarakat yang sifatnya tidak secara terus menerus dan selektif yang bertujuan untuk melindungi dari kemungkinan terjadinya resiko sosial.
+Pengakuan beban bantuan sosial dilakukan bersamaan dengan penyaluran belanja bantuan sosial, mengingat kepastian beban tersebut belum dapat ditentukan sebelum dilakukan verifikasi atas persyaratan penyaluran bantuan sosial.
+(5) Beban Penyisihan Piutang Beban Penyisihan Piutang merupakan cadangan yang
+harus dibentuk sebesar persentase tertentu dari akun piutang terkait ketertagihan piutang. Beban Penyisihan Piutang diakui saat akhir tahun.
+(6) Beban Transfer Beban Transfer merupakan beban berupa pengeluaran
+uang atau kewajiban untuk mengeluarkan uang dari pemerintah daerah kepada entitas pelaporan lain yang diwajibkan oleh peraturan perundang-undangan. Beban transfer diakui saat diterbitkan SP2D atau pada saat timbulnya kewajiban pemerintah daerah (jika terdapat dokumen yang memadai). Dalam hal pada akhir Tahun
+34
+
+Anggaran terdapat pendapatan yang harus dibagihasilkan tetapi belum disalurkan dan sudah diketahui daerah yang berhak menerima, maka nilai tersebut dapat diakui sebagai beban.
+b) Pengakuan Beban Pada SKPD (1) Beban Pegawai Beban pegawai merupakan kompensasi terhadap pegawai baik dalam bentuk uang atau barang, yang harus dibayarkan kepada pejabat negara, pegawai negeri sipil, dan pegawai yang dipekerjakan oleh pemerintah daerah yang belum berstatus PNS sebagai imbalan atas pekerjaan yang telah dilaksanakan, kecuali pekerjaan yang berkaitan dengan pembentukan modal.
+Pembayaran atas beban pegawai dapat dilakukan melalui mekanisme UP/GU/TU seperti honorarium non PNS, atau melalui mekanisme LS seperti beban gaji dan tunjangan .
+Beban pegawai yang pembayarannya melalui mekanisme LS, beban pegawai diakui saat diterbitkan SP2D atau pada saat timbulnya kewajiban pemerintah daerah (jika terdapat dokumen yang memadai).
+Beban pegawai yang pembayarannya melalui mekanisme UP/GU/TU, beban pegawai diakui ketika bukti pembayaran beban (misal: bukti pembayaran honor) telah disahkan pengguna anggaran.
+(2) Beban Barang Beban Barang merupakan penurunan manfaat
+ekonomi dalam periode pelaporan yang menurunkan ekuitas, yang dapat berupa pengeluaran atau konsumsi aset atau timbulnya kewajiban akibat transaksi pengadaan barang dan jasa yang habis pakai, perjalanan dinas, pemeliharaan termasuk pembayaran honorarium kegiatan kepada non pegawai dan pemberian hadiah atas kegiatan tertentu terkait dengan suatu prestasi. Beban barang diakui ketika bukti penerimaan barang atau Berita Acara Serah Terima ditandatangani. Dalam hal pada akhir tahun
+35
+
+masih terdapat barang persediaan yang belum terpakai, maka dicatat sebagai pengurang beban.
+
+2) Pengukuran Beban a) Beban dari transaksi non pertukaran diukur sebesar aset yang digunakan atau dikeluarkan yang pada saat perolehan tersebut diukur dengan nilai wajar. b) Beban dari transaksi pertukaran diukur dengan menggunakan harga sebenarnya (actual price) yang dibayarkan ataupun yang menjadi tagihan sesuai dengan perjanjian yang telah membentuk harga.
+
+j. Koreksi Kesalahan
+
+Koreksi adalah tindakan pembetulan secara akuntansi agar akun/pos yang tersaji dalam laporan keuangan entitas menjadi sesuai dengan yang seharusnya. Sedangkan kesalahan adalah penyajian akun/pos yang secara signifikan tidak sesuai dengan yang seharusnya yang mempengaruhi laporan keuangan periode berjalan atau periode sebelumnya.
+
+Kesalahan ditinjau dari sifat kejadian (dua) jenis: 1) Kesalahan tidak berulang; dan 2) Kesalahan berulang dan sistemik.
+
+dikelompokkan dalam 2
+
+Kesalahan tidak berulang adalah kesalahan yang diharapkan tidak akan terjadi kembali, terdiri atas : 1) Kesalahan tidak berulang yang terjadi pada periode berjalan; dan 2) Kesalahan tidak berulang yang terjadi pada periode sebelumnya.
+
+Kesalahan berulang dan sistemik adalah kesalahan yang disebabkan sifat alamiah (normal) dari jenis-jenis transaksi tertentu yang diperkirakan akan terjadi secara berulang. Contohnya adalah penerimaan pajak dari wajib pajak yang memerlukan koreksi sehingga perlu dilakukan restitusi atau tambahan pembayaran dari wajib pajak. Setiap kesalahan harus dikoreksi segera setelah diketahui.
+Koreksi kesalahan ada beberapa macam. Berikut adalah beberapa macam koreksi kesalahan pada pemerintah daerah:
+
+36
+
+1) Koreksi kesalahan yang tidak berulang yang terjadi pada periode berjalan, baik yang mempengaruhi posisi kas maupun yang tidak, dilakukan dengan pembetulan pada akun yang bersangkutan dalam periode berjalan, baik pada akun pendapatan-LRA atau akun belanja, maupun akun pendapatan-LO atau akun beban.
+2) Koreksi kesalahan yang tidak berulang yang terjadi pada periodeperiode sebelumnya dan mempengaruhi posisi kas, apabila laporan keuangan periode tersebut belum diterbitkan, dilakukan dengan pembetulan pada akun yang bersangkutan, baik pada akun pendapatan-LRA atau akun belanja, maupun akun pendapatan-LO atau akun beban.
+3) Koreksi kesalahan atas pengeluaran belanja (sehingga mengakibatkan penerimaan kembali belanja) yang tidak berulang yang terjadi pada periode-periode sebelumnya dan menambah posisi kas, apabila laporan keuangan periode tersebut sudah diterbitkan, dilakukan dengan pembetulan pada akun pendapatan lain-lain­LRA. Dalam hal mengakibatkan pengurangan kas dilakukan dengan pembetulan pada akun Saldo Anggaran Lebih.
+4) Koreksi kesalahan atas perolehan aset selain kas yang tidak berulang yang terjadi pada periode-periode sebelumnya dan menambah maupun mengurangi posisi kas, apabila laporan keuangan periode tersebut sudah diterbitkan, dilakukan dengan pembetulan pada akun kas dan akun aset bersangkutan.
+5) Koreksi kesalahan atas beban yang tidak berulang, sehingga mengakibatkan pengurangan beban, yang terjadi pada periodeperiode sebelumnya dan mempengaruhi posisi kas dan tidak mempengaruhi secara material posisi aset selain kas, apabila laporan keuangan periode tersebut sudah diterbitkan, dilakukan dengan pembetulan pada akun pendapatan lain-lain-LO/ekuitas. Dalam hal mengakibatkan penambahan beban dilakukan dengan pembetulan pada akun beban lain-lain-LO/ekuitas.
+6) Koreksi kesalahan atas penerimaan pendapatan-LRA yang tidak berulang yang terjadi pada periode-periode sebelumnya dan menambah maupun mengurangi posisi kas, apabila laporan keuangan periode tersebut sudah diterbitkan, dilakukan dengan pembetulan pada akun kas dan akun Saldo Anggaran Lebih.
+37
+
+7) Koreksi kesalahan atas penerimaan pendapatan-LO yang tidak berulang yang terjadi pada periode-periode sebelumnya dan menambah maupun mengurangi posisi kas, apabila laporan keuangan periode tersebut sudah diterbitkan, dilakukan dengan pembetulan pada akun kas dan akun ekuitas.
+8) Koreksi kesalahan atas penerimaan dan pengeluaran pembiayaan yang tidak berulang yang terjadi pada periode-periode sebelumnya dan menambah maupun mengurangi posisi kas, apabila laporan keuangan periode tersebut sudah diterbitkan, dilakukan dengan pembetulan pada akun kas dan akun Saldo Anggaran Lebih.
+9) Koreksi kesalahan yang tidak berulang atas pencatatan kewajiban yang terjadi pada periode-periode sebelumnya dan menambah maupun mengurangi posisi kas, apabila laporan keuangan periode tersebut sudah diterbitkan, dilakukan dengan pembetulan pada akun kas dan akun kewajiban bersangkutan.
+10) Koreksi kesalahan tidak berulang yang terjadi pada periodeperiode sebelumnya dan tidak mempengaruhi posisi kas, baik sebelum maupun setelah laporan keuangan periode tersebut diterbitkan, pembetulan dilakukan pada akun-akun neraca terkait pada periode kesalahan ditemukan. Kesalahan berulang dan sistemik tidak memerlukan koreksi,
+melainkan dicatat pada saat terjadi pengeluaran kas untuk mengembalikan kelebihan pendapatan dengan mengurangi pendapatan-LRA maupun pendapatan-LO yang bersangkutan.
+Koreksi kesalahan yang berhubungan dengan periode-periode yang lalu terhadap posisi kas dilaporkan dalam Laporan Arus Kas tahun berjalan pada aktivitas yang bersangkutan. Koreksi kesalahan diungkapkan pada Catatan atas Laporan Keuangan.
+
+MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+ttd
+
+GAMAWAN FAUZI
+
+38
+
+Salinan sesuai dengan aslinya KEPALA BIRO HUKUM ttd
+ZUDAN ARIF FAKRULLOH Pembina Utama Muda (IV/c) NIP. 19690824 199903 1 001
+39
+
+

@@ -1,0 +1,148 @@
+ 
+URUSAN PEMERINTAHAN DAERAH
+1 URUSAN WAJIB
+1 01 Pendidikan 
+1 01 01 Dinas Pendidikan
+1 01 02 Kantor Perpustakaan Daerah
+1 01 03 Dst……………
+1 02 Kesehatan
+1 02 01 Dinas Kesehatan
+1 02 02 Rumah Sakit Umum Daerah
+1 02 03 Rumah Sakit Jiwa
+1 02 04 Rumah Sakit paru-paru
+1 02 05 Rumah Sakit Ketergantungan Obat
+1 02 06 Dst……………
+1 03 Pekerjaan Umum 
+1 03 01 Dinas Pekerjaan Umum
+1 03 02 Dinas Bina Marga
+1 03 03 Dinas Pengairan
+1 03 04 Dinas Pengawasan Bangunan dan Tata Kota
+1 03 05 Dinas Cipta Karya
+1 03 06 Dst……………
+1 04 Perumahan
+1 04 01 Dinas Permukiman
+1 04 02 Dinas Pemadam Kebakaran *)
+1 04 03 Dinas Pemakaman *)
+1 04 04 Dst……………
+1 05 Penataan Ruang
+1 05 01 Dinas Tata Ruang *)
+1 05 02 Dst……………
+1
+05.       
+  Perencanaan Pembangunan 
+1 06 01 BAPPEDA
+1 06 02 Dst……………
+1 07 Perhubungan 
+1 07 01 Dinas Perhubungan
+KODE
+DAN ORGANISASI
+KODE DAN KLASIFIKASI URUSAN PEMERINTAH DAERAH
+Lampiran A.I : PERATURAN MENTERI DALAM NEGERI  
+                         Nomor        : 13 Tahun 2006 
+                         Tanggal      : 15 Mei 2006 
+URUSAN PEMERINTAHAN DAERAH KODE
+1 07 02 Dst……………
+1 08 Lingkungan Hidup 
+1 08 01 Dinas Lingkungan Hidup
+1 08 02 Badan Pengendalian Dampak Lingkungan Daerah
+1 08 03 Dinas Pertamanan
+1 08 04 Dinas Kebersihan
+1 08 05 Dst……………
+1 09 Pertanahan
+1 09 01 Badan Pertanahan Daerah
+1 09 02 Dst……………
+1 10 Kependudukan dan Catatan Sipil 
+1 10 01 Dinas Kependudukan dan Catatan Sipil
+1 10 02 Dst……………
+1 11 Pemberdayaan Perempuan 
+1 11 01 Dinas Pemberdayaan Perempuan
+1 11 02 Dst……………
+1 12 Keluarga Berencana dan Keluarga Sejahtera 
+1 12 01 Badan Koordinasi Keluarga Berencana Daerah
+1 12 02 Dst……………
+1 13 Sosial 
+1 13 01 Dinas Sosial
+1 13 02 Dst……………
+1 14 Tenaga Kerja  
+1 14 01 Dinas Tenaga Kerja 
+1 14 02 Dst……………
+1 15 Koperasi dan Usaha Kecil Menengah 
+1 15 01 Dinas Koperasi dan UKM
+1 15 02 Dst……………
+1 16 Penanaman Modal 
+1 16 01 Badan Penanaman Modal Daerah
+1 16 02 Dst……………
+1 17 Kebudayaan
+1 17 01 Dinas Kebudayaan
+1 17 02 Permuseuman
+1 17 03 Dst……………
+1 18 Pemuda dan Olah Raga 
+URUSAN PEMERINTAHAN DAERAH KODE
+1 18 01 Dinas Pemuda dan Olah Raga
+1 18 02 Dst……………
+1 19 Kesatuan Bangsa dan Politik Dalam Negeri 
+1 19 01 Dinas Kesbang Linmas
+1 19 02 Dinas Ketentraman dan Ketertiban
+1 19 03 Kantor Satuan Polisi Pamong Praja
+1 19 04 Dst……………
+1 20 Pemerintahan Umum 
+1 20 01 DPRD
+1 20 02 KDH & WKDH
+1 20 03 Sekretariat Daerah 
+1 20 04 Sekretariat DPRD
+1 20 05 Badan Pengelola Keuangan Daerah 
+1 20 06 Badan Penelitian dan Pengembangan
+1 20 07 Badan Pengawasan Daerah
+1 20 08 Kantor Penghubung
+1 20 09 Kecamatan
+1 20 10 Kelurahan
+1 20 11 Dst……………
+1 21 Kepegawaian 
+1 21 01 Badan Pendidikan dan Pelatihan
+1 21 02 Badan Kepegawaian Daerah
+1 21 03 Dst……………
+1 22 Pemberdayaan Masyarakat dan Desa 
+1 22 01 Badan Pemberdayaan Masyarakat Desa
+1 22 02 Dst……………
+1 23 Statistik
+1 23 01 Badan Statistik daerah
+1 23 02 Kantor Statistik Daerah
+1 23 03 Dst……………
+1 24 Kearsipan 
+1 24 01 Kantor Arsip Daerah
+1 24 02 Dst……………
+1 25 Komunikasi dan Informatika 
+1 25 01 Dinas Informasi dan Komunikasi 
+1 25 02 Kantor Pengolahan Data Elektronik
+1 25 03 Dst……………
+2 URUSAN PILIHAN
+URUSAN PEMERINTAHAN DAERAH KODE
+2 01 Pertanian 
+2 01 01 Dinas Pertanian
+2 01 02 Dinas Perkebunan
+2 01 03 Dinas Peternakan
+2 01 04 Dinas Ketahanan Pangan
+2 01 05 Dst……………
+2 02 Kehutanan 
+2 02 01 Dinas Kehutanan
+2 02 02 Dst……………
+2 03 Energi dan Sumberdaya Mineral 
+2 03 01 Dinas Pertambangan
+2 03 02 Dst……………
+2 04 Pariwisata
+2 04 01 Dinas Pariwisata
+2 04 02 Kebun Binatang
+2 04 03 Dst……………
+2 05 Kelautan dan Perikanan 
+2 05 01 Dinas Kelautan dan Perikanan
+2 05 02 Dst……………
+2 06 Perdagangan 
+2 06 01 Dinas Perdagangan
+2 06 02 Dinas Pasar
+2 06 03 Dst……………
+2 07 Perindustrian 
+2 07 01 Dinas Dinas Perindustrian
+2 07 02 Dst……………
+2 08 Transmigrasi
+2 08 01 Dinas Transmigrasi
+2 08 02 Dst……………

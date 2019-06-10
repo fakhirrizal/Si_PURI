@@ -1,0 +1,48 @@
+LAMPIRAN PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA NOMOR 2 TAHUN 2016 TENTANG KARTU IDENTITAS ANAK
+A. DESAIN
+
+B. FITUR PENGAMAN
+
+HOLOGRAM:
+1.. Combination Effect 2 Single Color 3. Dynamic Color Effect 4. White Effect 5. Guilloche 6. Kinetic Silver Effect 7. Special Raster 8. Special Pixel 9. Mini text: KIARI dan RI 10. Micro text: KIARI & INDONESIA
+11. Flip-flop mini text: KIARI & RI 12. Flip-flop micro text: NKRI &
+INDONESIA
+13 Error Micro text:KIARI & RI
+14 Nano text: INDONESIA
+15 Hidden text: KIARI
+
+MICROTEXT:
+Berupa teks KARTUIDENTITASANAKRE PUBLIKINDONESIA yang ditempatkan diatas garis horisontal blok warna merah dibagian depan Kartu Identitas Anak. Hanya dapat di baca menggunakan alat baca khusus.
+
+GUILLOCHE:
+
+RELIEF BACKGROUND:
+
+Tulisan "KARTUIDENTITASANAK" yang tidak terputus dan dibentuk oleh garis-garis yang naik turun sesuai bentuk huruf.
+
+Gambar Kepulauan Indonesia dengan latar belakang gambar bendera merah putih yang dibentuk oleh garis-garis tebal tipis sesuai bentuk kepulauan dan bendera tersebut.
+
+KOMBINASI GUILLOCHE & RELIEF BACKGROUND:
+Tulisan "KARTU IDENTITAS ANAK" yang tidak terputus dan dibentuk oleh garis- garis yang naik turun sesuai bentuk huruf dan dipadukan dengan garis- garis tebal tipis sesuai bentuk huruf tersebut
+
+C. PERSONALISASI
+
+Blanko KARTU IDENTITAS ANAK (KIA)
+Dinas Kependudukan dan Pencatatan Sipil di Kabupaten/Kota akan menerima blangko KIA dengan bentuk seperti di sebelah kiri
+PROSE PERSONALISASI: Mencetak data-data kependudukan dan foto Anak yang bersangkutan serta ditambah 1 komponen sekuriti yang disebut QR Code
+
+KARTU IDENTITAS ANAK (KIA) Blangko Kartu Identitas Anak dapat di proses PERSONALISASI dengan menggunakan Printer dan Ribbon yang sama dengan yang digunakan pada
+proses Personalisasi KTP Elektronik
+Salinan sesuai dengan aslinya KEPALA BIRO HUKUM,
+ttd
+W. SIGIT PUDJIANTO
+NIP. 19590203 198903 1 001.
+
+QR Code QR Code : singkatan dari Quick Response Code adalah
+Sebuah barcode yang berisi informasi tentang data-data kependudukan yang tercetak di KIA. Kode QR menggunakan empat mode pengkodean standar (numerik, alfanumerik, byte / biner, dan kanji) untuk secara efisien menyimpan data.
+Dengan alat baca tertentu, QR Code dapat dibaca dan langsung dapat terkoneksi dengan data- data di server kependudukan
+MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+ttd
+TJAHJO KUMOLO
+
+

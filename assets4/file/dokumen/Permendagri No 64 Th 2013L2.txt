@@ -1,0 +1,3383 @@
+LAMPIRAN II PERATURAN MENTERI DALAM NEGERI REPUBLIK INDONESIA NOMOR 64 TAHUN 2013 TENTANG PENERAPAN STANDAR AKUNTANSI PEMERINTAHAN BERBASIS AKRUAL PADA PEMERINTAH DAERAH
+PANDUAN PENYUSUNAN SISTEM AKUNTANSI PEMERINTAH DAERAH
+A. PENDAHULUAN
+Sistem akuntansi pemerintah daerah (SAPD) merupakan suatu instrumen penting yang harus disiapkan dalam rangka implementasi SAP berbasis akrual. SAPD sebagai alat untuk mewujudkan prinsip-prinsip dasar yang telah ditetapkan oleh SAP dan kebijakan akuntansi menjadi serangkaian prosedur pencatatan dengan menggunakan akuntansi double entry melalui alat-alatnya berupa buku jurnal, buku besar, neraca saldo, dan laporan keuangan itu sendiri.
+Sebagai sebuah pedoman, SAPD menjelaskan siapa melakukan apa sekaligus menegaskan transaksi apa dicatat bagaimana. Pedoman ini dapat diuraikan dalam sebuah penjelasan langkah demi langkah yang dijelaskan melalui sebuah gambaran deskriptif atau bagan alir. Intinya SAPD sebagai suatu pedoman dapat dipahami dan dilaksanakan oleh para petugas khususnya fungsi akuntansi.
+B. PENYUSUNAN SAPD
+Untuk menyusun SAPD tersebut, perlu memperhatikan beberapa tahapan sebagai berikut :
+1. Identifikasi prosedur Tahapan penyusunan sistem akuntansi pemerintah daerah dimulai dari memahami proses bisnis pada pemerintah daerah khususnya terkait siklus pengelolaan keuangan daerah. Berdasarkan siklus itulah tim penyusun SAPD mengidentifikasi prosedur-prosedur apa saja yang harus dibuat.
+2. Menentukan pihak-pihak terkait Setelah prosedur-prosedur teridentifikasi, ditentukan pihak-pihak yang terkait pada masing-masing prosedur. Masing-masing pihak memiliki peran tersendiri agar prosedur dapat menghasilkan output yang diinginkan.
+1
+
+3. Menentukan dokumen terkait Setelah prosedur dan pihak terkait ditentukan, langkah selanjutnya adalah mengidentifikasi dokumen-dokumen yang mengalir pada prosedur sekaligus menentukan pihak-pihak pengguna dokumen tersebut. Dari semua dokumen tersebut diidentifikasi dokumen mana yang valid untuk dijadikan sebagai dokumen sumber pencatatan jurnal.
+4. Menentukan jurnal standar Pada setiap prosedur yang telah ditetapkan tim penyusun menelaah SAP dan kebijakan akuntansi terkait. Berdasarkan penelaahan tersebut tim penyusun menentukan jurnal debet dan kredit yang akan digunakan untuk mencatat.
+5. Menuangkannya dalam langkah teknis Langkah terakhir dalam penyusunan SAPD ialah menyusun langkah teknis. Langkah teknis merupakan alur pelaksanaan sistem akuntansi yang menjelaskan pihak-pihak yang melaksanakan sistem akuntansi, dokumen apa saja yang diperlukan, dan bagaimana pihak-pihak tersebut memperlakukan dokumen-dokumen yang terkait. Selain itu, diberikan ilustrasi atau format pencatatan dalam bentuk penjurnalan akuntansi pada setiap bagan alur atau transaksi yang membutuhkan pencatatan.
+Pemerintah daerah dapat mengembangkan sistem akuntansi pemerintah daerah dengan menambahkan bagan alir dan ilustrasi soal atau transaksi beserta jawabannya.
+C. PENYAJIAN SAPD
+Untuk memberikan gambaran bentuk penyajian sistem akuntansi pemerintah daerah, dibawah ini diuraikan mengenai sistem akuntansi PPKD dan sistem akuntansi SKPD yang dapat dijadikan sebagai panduan dalam sistem akuntansi pemerintah daerah.
+1. SISTEM AKUNTANSI PPKD a. Pencatatan Anggaran pada PPKD Pencatatan anggaran pada PPKD merupakan tahap persiapan sistem akuntansi pemerintah daerah. Pada tahap ini dilakukan pencatatan untuk merekam data anggaran yang akan membentuk estimasi
+2
+
+perubahan Saldo Anggaran Lebih (SAL). Estimasi perubahan SAL ini juga merupakan akun antara yang berguna dalam rangka pencatatan transaksi realisasi anggaran. Di dalam neraca, estimasi perubahan SAL merupakan bagian ekuitas SAL.
+
+1) Pihak-Pihak Terkait Pihak-pihak yang melaksanakan pencatatan anggaran PPKD adalah sebagai berikut: a) PPKD b) Fungsi Akuntansi PPKD
+2) Langkah-Langkah Teknis Dokumen Pelaksanaan Anggaran PPKD (DPA-PPKD) yang sudah dibuat oleh PPKD dan disetujui oleh sekretaris daerah diserahkan kepada fungsi akuntansi PPKD. Berdasarkan DPA PPKD tersebut, fungsi akuntansi PPKD kemudian akan mencatat "Estimasi Pendapatan" di debit sebesar total anggaran pendapatan, "Estimasi Penerimaan Pembiayaan" di debit sebesar total anggaran penerimaan pembiayaan, "Apropriasi Belanja" di kredit sebesar total anggaran belanja dan "Apropriasi Pengeluaran Pembiayaan" di kredit sebesar total anggaran pengeluaran pembiayaan. Selisih antara anggaran pendapatan, belanja dan pembiayaan dicatat sebagai "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Estimasi Pendapatan Estimasi Penerimaan Pembiayaan
+Estimasi Perubahan SAL Apropriasi Belanja Apropriasi Pengeluaran Pembiayaan
+
+xxx xxx
+xxx xxx xxx
+
+b. Akuntansi Pendapatan PPKD 1) Pihak-Pihak Terkait Pihak-pihak yang melaksanakan sistem akuntansi pendapatan PPKD adalah sebagai berikut: a) Pejabat Pengelola Keuangan Daerah (PPKD) b) Fungsi Akuntansi PPKD
+
+3
+
+2) Langkah-Langkah Teknis a) Pendapatan Asli Daerah (PAD)
+(1) Pendapatan Pajak
+Pendapatan Pajak-LO diakui pada saat kas diterima di kas daerah dan dicatat berdasarkan dokumen sumber setoran pajak. Fungsi akuntansi PPKD mencatat "Kas di Kas Daerah" di debit dan "Pendapatan Pajak-LO (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Kas di Kas Daerah Pendapatan Pajak...­LO
+
+xxx xxx
+
+Dalam hal pada akhir tahun terdapat surat ketetapan pajak yang belum dibayar oleh masyarakat, maka nilainya diakui sebagai penambah Pendapatan Pajak-LO. Fungsi Akuntansi PPKD mencatat "Piutang Pajak Daerah" di debit dan "Pendapatan Pajak-LO (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Piutang Pajak Daerah Pendapatan Pajak ....­LO
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Pajak-LRA (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Pajak ....-LRA
+
+xxx xxx
+
+(2) Hasil Eksekusi Jaminan
+Pihak ketiga melakukan pembayaran uang jaminan bersamaan dengan pembayaran perizinan, misal perizinan pemasangan iklan, kemudian akan menerima Tanda Bukti Pembayaran (TBP). TBP juga menjadi dasar bagi Fungsi Akuntansi PPKD untuk mengakui utang jaminan mencatat
+
+4
+
+"Kas di Kas Daerah" di debit dan "Utang Jaminan" di kredit dengan jurnal:
+
+Kas di Kas Daerah Utang Jaminan
+
+xxx xxx
+
+Kemudian saat pihak ketiga tidak menunaikan kewajibannya, PPKD akan mengeksekusi uang jaminan yang sebelumnya telah disetorkan. Fungsi Akuntansi PPKD akan membuat bukti memorial terkait eksekusi jaminan tersebut untuk diotorisasi oleh PPKD. Berdasarkan bukti memorial tersebut, Fungsi Akuntansi PPKD melakukan pencatatan "Utang Jaminan" di debit dan "Pendapatan Hasil Eksekusi Atas Jaminan-LO" di kredit dengan jurnal:
+
+Utang Jaminan Pendapatan Hasil Eksekusi atas Jaminan­LO
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Hasil Eksekusi Atas Jaminan-LRA" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Hasil Eksekusi Atas Jaminan ­LRA
+
+xxx xxx
+
+b) Pendapatan Transfer Pendapatan transfer yang akan diterima oleh Pemerintah Daerah berdasarkan dokumen resmi yang ditetapkan oleh Pemerintah Pusat dan/atau pemerintah provinsi. Namun demikian penetapan tersebut belum dapat dijadikan dasar pengakuan pendapatan LO, mengingat kepastian pendapatan tergantung pada persyaratan-persyaratan yang diatur untuk penyaluran alokasi tersebut. Untuk itu pengakuan pendapatan transfer dilakukan bersamaan dengan diterimanya kas pada Rekening Kas Umum Daerah. Dalam kasus ini, Fungsi Akuntansi PPKD akan mencatat "Kas di Kas Daerah" di debit
+5
+
+dan "Pendapatan Transfer-LO (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Kas di Kas Daerah Pendapatan Transfer.... ­LO
+
+xxx xxx
+
+Walaupun demikian, pendapatan transfer dapat diakui pada saat terbitnya dokumen resmi mengenai penetapan alokasi, jika itu terkait dengan kurang salur sebagai dasar pencatatan pengakuan pendapatan. Fungsi Akuntansi PPKD akan mencatat "Piutang Pendapatan" di debit dan "Pendapatan Transfer-LO (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Piutang Pendapatan Pendapatan Transfer.... ­LO
+
+xxx xxx
+
+Apabila pemerintah daerah telah menerima dana transfer dari pemerintah pusat atas kurang salur tersebut, maka Rekening Kas Umum Daerah akan mengeluarkan Nota Kredit untuk PPKD. Berdasarkan Nota Kredit ini Fungsi Akuntansi PPKD akan mencatat "Kas di Kas Daerah" di debit dan "Piutang Pendapatan Transfer (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Kas di Kas Daerah Piutang Pendapatan Transfer ...
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran terhadap realisasi pendapatan transfer, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan TransferLRA (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Transfer.... ­LRA
+
+xxx xxx
+
+c) Lain-Lain Pendapatan Daerah yang Sah (1) Pendapatan Hibah Naskah Perjanjian Hibah yang ditandatangani belum dapat dijadikan dasar pengakuan pendapatan LO, mengingat adanya proses dan persyaratan untuk realisasi pendapatan hibah tersebut. Untuk itu Fungsi Akuntansi PPKD mengakui
+6
+
+Pendapatan Hibah bersamaan dengan diterimanya kas pada RKUD dengan mencatat "Kas di Kas Daerah" di debit dan "Pendapatan Hibah-LO" di kredit dengan jurnal:
+
+Kas di Kas Daerah Pendapatan Hibah-LO
+
+xxx xxx
+
+Selain itu, karena hibah yang diterima berupa uang merupakan realisasi anggaran, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Hibah-LRA" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Hibah ­LRA
+
+xxx xxx
+
+Khusus untuk hibah barang berupa aset tetap, fungsi akuntansi PPKD mencatat "Aset Tetap" di debit dan "Pendapatan Hibah-LO" di kredit dengan jurnal:
+
+Aset Tetap Pendapatan Hibah-LO
+
+xxx xxx
+
+(2) Pendapatan Non Operasional ­ Surplus Penjualan Aset Nonlancar - LO Surplus Penjualan Aset Nonlancar pada PPKD berasal dari aktivitas pelepasan investasi. Surplus terjadi ketika harga jual dalam pelepasan investasi lebih tinggi daripada nilai buku investasi tersebut.
+Untuk transaksi pelepasan investasi, berdasarkan dokumen transaksi yang dimiliki PPKD, Fungsi Akuntansi PPKD mencatat "Kas di Kas Daerah" di debit serta "Surplus Pelepasan Investasi Jangka Panjang - LO" dan "Investasi ..." di kredit dengan jurnal:
+
+Kas di Kas Daerah Surplus Pelepasan Investasi Jangka Panjang - LO Investasi ...
+
+xxx xxx xxx
+
+7
+
+Sebagai transaksi realisasi anggaran terhadap penerimaan pembiayaan, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Penerimaan Pembiayaan" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Penerimaan Pembiayaan
+
+xxx xxx
+
+(3) Pendapatan Non Operasional ­ Surplus Penyelesaian Kewajiban Jangka Panjang Surplus Penyelesaian Kewajiban Jangka Panjang timbul karena harga perolehan kembali (nilai yang harus dibayar) lebih rendah dibandingkan dengan nilai tercatat (carrying value) dari kewajiban tersebut.
+Berdasarkan salinan SP2D LS PPKD, Fungsi Akuntansi PPKD akan menghapus kewajiban yang telah dibayar dan mengakui adanya surplus dari penyelesaian kewajiban tersebut dengan mencatat "Kewajiban Jangka Panjang (sesuai rincian objek terkait)" di debit serta "Surplus Penyelesaian Kewajiban Jangka Panjang....-LO" dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Kewajiban Jangka Panjang ....
+Surplus Penyelesaian Kewajiban Jangka Panjang ...-LO Kas di Kas Daerah
+
+xxx
+xxx xxx
+
+Sebagai transaksi realisasi anggaran karena pelunasan
+
+kewajiban tersebut merupakan pengeluaran pembiayaan,
+
+Fungsi Akuntansi PPKD
+
+mencatat "Pengeluaran
+
+Pembiayaan" di debit dan "Estimasi Perubahan SAL" di
+
+kredit dengan jurnal:
+
+Pengeluaran Pembiayaan Estimasi Perubahan SAL
+
+xxx xxx
+
+8
+
+c. Akuntansi Belanja dan Beban PPKD 1) Pihak-Pihak Terkait Pihak-pihak yang melaksanakan sistem akuntansi beban PPKD adalah sebagai berikut: a) Fungsi Akuntansi PPKD b) PPKD c) Kuasa BUD
+2) Langkah-Langkah Teknis a) Beban Bunga Berdasarkan Dokumen Perjanjian Utang, Fungsi Akuntansi PPKD membuat bukti memorial terkait pengakuan beban bunga untuk diotorisasi oleh PPKD. Berdasarkan Bukti memorial untuk pengakuan beban tersebut, Fungsi Akuntansi PPKD melakukan pencatatan "Beban Bunga" di debit dan "Utang Bunga" di kredit dengan jurnal:
+
+Beban Bunga Utang Bunga
+
+xxx xxx
+
+Selanjutnya dilaksanakan proses penatausahaan untuk pembayaran beban bunga tersebut. Berdasarkan SP2D pengeluaran kas untuk pelunasan utang bunga tersebut, Fungsi Akuntansi PPKD mencatat "Utang Bunga" di debit dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Utang Bunga Kas di Kas Daerah
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran terhadap belanja bunga, Fungsi Akuntansi PPKD mencatat "Belanja Bunga" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja Bunga Estimasi Perubahan SAL
+
+xxx xxx
+
+b) Beban Subsidi Berdasarkan tagihan dari penerima subsidi yang telah melaksanakan prestasi sesuai persyaratan pemberian subsidi, Fungsi Akuntansi PPKD menyiapkan bukti memorial terkait
+9
+
+pengakuan beban subsidi. Setelah diotorisasi oleh PPKD, bukti memorial tersebut menjadi dasar bagi Fungsi Akuntansi PPKD mencatat "Beban Subsidi" di debit dan "Utang Belanja Subsidi" di kredit dengan jurnal:
+
+Beban Subsidi Utang Belanja Subsidi
+
+xxx xxx
+
+Selanjutnya dilaksanakan proses penatausahaan untuk pembayaran beban subsidi tersebut mulai dari pengajuan SPP, pembuatan SPM hingga penerbitan SP2D. Berdasarkan SP2D pengeluaran kas untuk pelunasan utang subsidi tersebut, Fungsi Akuntansi PPKD mencatat "Utang Belanja Subsidi" di debit dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Utang Belanja Subsidi Kas di Kas Daerah
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran terhadap belanja subsidi, Fungsi Akuntansi PPKD mencatat "Belanja Subsidi" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja Subsidi Estimasi Perubahan SAL
+
+xxx xxx
+
+c) Beban Hibah
+
+PPKD dan Pemerintah/Pemerintah Daerah Lain/Perusahaan
+
+Daerah/Masyarakat/Ormas
+
+bersama-sama
+
+melakukan
+
+penandatanganan Naskah Perjanjian Hibah Daerah (NPHD).
+
+Pengakuan beban hibah sesuai NPHD dilakukan bersamaan
+
+dengan penyaluran belanja hibah, mengingat kepastian beban
+
+tersebut belum dapat ditentukan berdasarkan NPHD karena
+
+mengingat masih perlu ditindaklanjuti dengan penerbitan
+
+dokumen pencairan. Untuk itu atas pengakuan beban hibah,
+
+Fungsi Akuntansi PPKD mencatat "Beban Hibah" di debit dan "Kas
+
+di Kas Daerah" di kredit dengan jurnal:
+
+Beban Hibah Kas di Kas Daerah
+
+xxx xxx
+
+10
+
+Sebagai transaksi realisasi anggaran terhadap Belanja Hibah, Fungsi Akuntansi PPKD mencatat "Belanja Hibah" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja Hibah Estimasi Perubahan SAL
+
+xxx xxx
+
+d) Beban Bantuan Sosial Realisasi Beban Bantuan Sosial dilakukan melalui proses penatausahaan yang dimulai dari pengajuan SPP, pembuatan SPM hingga penerbitan SP2D. Berdasarkan SP2D pembayaran beban bantuan sosial tersebut, Fungsi Akuntansi PPKD mencatat "Beban Bantuan Sosial" di debit dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Beban Bantuan Sosial Kas di Kas Daerah
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran terhadap realisasi belanja bantuan sosial tersebut, Fungsi Akuntansi PPKD mencatat "Belanja Bantuan Sosial" (sesuai rincian objek terkait) di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja Bantuan Sosial.... Estimasi Perubahan SAL
+
+xxx xxx
+
+e) Beban Transfer Pengakuan beban transfer bersamaan dengan penyaluran dana transfer dari RKUD berdasarkan peraturan kepala daerah tentang penetapan belanja transfer yang terkait. Fungsi Akuntansi PPKD membuat pengakuan beban transfer berdasarkan bukti penyaluran memorial tersebut. Fungsi Akuntansi PPKD mencatat "Beban transfer" di debit dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Beban Transfer Kas di Kas Daerah
+
+xxx xxx
+
+11
+
+Sebagai transaksi realisasi anggaran terhadap realisasi transfer tersebut, Fungsi Akuntansi PPKD mencatat "Transfer (sesuai rincian objek terkait)" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Transfer.... Estimasi Perubahan SAL
+
+xxx xxx
+
+d. Akuntansi Aset PPKD 1) Pihak-Pihak Terkait Pihak-pihak yang melaksanakan sistem akuntansi aset PPKD adalah sebagai berikut: a) Fungsi Akuntansi PPKD b) PPKD c) Kuasa BUD 2) Langkah-Langkah Teknis a) Perolehan Investasi
+(1) Perolehan Investasi (Investasi Jangka Pendek)
+Ketika Pemerintah Daerah melakukan pembentukan Investasi Jangka Pendek, Fungsi Akuntansi PPKD mencatat "Investasi Jangka Pendek....." di debit dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Investasi Jangka Pendek ..... Kas di Kas Daerah
+
+xxx xxx
+
+(2) Perolehan Investasi (Investasi Jangka Panjang)
+Perolehan investasi dicatat ketika penyertaan modal dalam peraturan daerah dieksekusi. Pencatatan dilakukan oleh Fungsi Akuntansi PPKD berdasarkan SP2D LS yang menjadi dasar pencairan pengeluaran pembiayaan untuk investasi tersebut. Fungsi akuntansi PPKD mencatat "Investasi Jangka Panjang....." di debit dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Investasi Jangka Panjang ..... Kas di Kas Daerah
+
+xxx xxx
+
+12
+
+Sebagai transaksi realisasi anggaran terhadap pengeluaran pembiayaan tersebut, Fungsi Akuntansi PPKD mencatat "Pengeluaran Pembiayaan" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Pengeluaran Pembiayaan Estimasi Perubahan SAL
+
+xxx xxx
+
+b) Hasil Investasi
+
+(1) Hasil Investasi Jangka Pendek Hasil investasi jangka pendek berupa pendapatan bunga. Pendapatan bunga ini biasanya diperoleh bersamaan dengan pelepasan investasi jangka pendek tersebut, sehingga pembahasannya akan digabungkan ke bagian Pelepasan Investasi.
+
+(2) Hasil Investasi Jangka Panjang
+
+(a) Metode Biaya Dalam metode biaya, keuntungan perusahaan tidak mempengaruhi investasi yang dimiliki pemerintah daerah. Pemerintah daerah hanya menerima dividen yang dibagikan oleh perusahaan. Berdasarkan pengumuman pembagian dividen yang dilakukan oleh perusahaan investee, PPKD dapat mengetahui jumlah dividen yang akan diterima pada periode berjalan. Selanjutnya Fungsi Akuntansi PPKD mencatat "Piutang Lainnya" di debit dan "Pendapatan Hasil Pengelolaan Kekayaan Daerah yang dipisahkan ­ LO" di kredit dengan jurnal:
+
+Piutang Lainnya Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan­ LO
+
+xxx xxx
+
+Pada saat perusahaan investee membagikan dividen tunai kepada pemerintah daerah, Fungsi Akuntansi PPKD mencatat "Kas di Kas Daerah" di debit dan "Piutang Lainnya" di kredit dengan jurnal:
+
+Kas di Kas Daerah Piutang Lainnya
+
+xxx xxx
+
+13
+
+Sebagai transaksi realisasi anggaran, Fungsi Akuntansi PPKD juga mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Hasil Pengelolaan Kekayaan Daerah yang dipisahkan ­ LRA" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Hasil Pengelolaan Kekayaan Daerah yang dipisahkan­ LRA
+
+xxx xxx
+
+(b) Metode Ekuitas Berdasarkan Laporan Keuangan Perusahaan, PPKD dapat mengetahui jumlah keuntungan perusahaan pada periode berjalan. Dalam metode ekuitas, keuntungan yang diperoleh perusahaan akan mempengaruhi jumlah investasi yang dimiliki pemerintah daerah. Fungsi Akuntansi PPKD mencatat "Investasi....." di debit dan "Pendapatan Hasil Pengelolaan Kekayaan Daerah yang dipisahkan ­ LO" di kredit dengan jurnal:
+
+Investasi ..... Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan ­ LO
+
+xxx xxx
+
+Pada saat perusahaan membagikan dividen, Fungsi Akuntansi PPKD akan mencatat penerimaan dividen tersebut pada "Kas di Kas Daerah" di debit dan "Investasi....." di kredit dengan jurnal:
+
+Kas di Kas Daerah Investasi .....
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran, Fungsi Akuntansi PPKD juga mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Hasil Pengelolaan Kekayaan Daerah yang dipisahkan ­ LRA" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan ­ LRA
+
+xxx xxx
+
+14
+
+(c) Metode Nilai Bersih yang Dapat Direalisasikan Ketika pendapatan bunga dari investasi jangka panjang (misal pendapatan bunga dari dana bergulir) telah diterima, Fungsi Akuntansi PPKD mencatat "Kas di Kas Daerah" di debit dan "Pendapatan Bunga Dana Bergulir - LO" di kredit dengan jurnal:
+
+Kas di Kas Daerah Pendapatan Bunga Dana Bergulir ­ LO
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran, Fungsi Akuntansi PPKD mencatat pendapatan LRA "Estimasi Perubahan SAL" di debit dan "Pendapatan Bunga ­ LRA" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Bunga ­ LRA
+
+xxx xxx
+
+c) Pelepasan Investasi
+(1) Pelepasan Investasi Jangka Pendek
+Dalam pelepasan investasi jangka pendek, berdasarkan Dokumen Transaksi yang dimiliki PPKD, Fungsi Akuntansi PPKD mencatat "Kas di Kas Daerah" di debit serta "Pendapatan Bunga-LO" dan "Investasi Jangka Pendek" di kredit dengan jurnal:
+
+Kas di Kas Daerah Pendapatan Bunga ­ LO Investasi Jangka Pendek
+
+xxx xxx xxx
+
+Sebagai transaksi realisasi anggaran, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Bunga-LRA" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Bunga ­ LRA
+
+xxx xxx
+
+15
+
+(2) Pelepasan Investasi Jangka Panjang
+Dalam pelepasan investasi jangka panjang misalnya saham, berdasarkan Dokumen Transaksi yang dimiliki PPKD, Fungsi Akuntansi PPKD mencatat "Kas di Kas Daerah" di debit serta "Surplus Pelepasan Investasi Jangka Panjang - LO" dan "Investasi Jangka Panjang" di kredit dengan jurnal:
+
+Kas di Kas Daerah
+
+xxx
+
+Surplus Pelepasan Investasi Jangka Panjang - LO xxx
+
+Investasi Jangka Panjang
+
+xxx
+
+Sebagai transaksi realisasi anggaran, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Penerimaan Pembiayaan" di kredit sebesar nilai kas yang diterima dengan jurnal:
+
+Estimasi Perubahan SAL Penerimaan Pembiayaan
+
+xxx xxx
+
+e. Akuntansi Kewajiban PPKD 1) Pihak-Pihak Terkait Pihak-pihak yang melaksanakan sistem akuntansi kewajiban PPKD adalah sebagai berikut: a) Fungsi Akuntansi PPKD b) Kuasa BUD c) PPKD
+
+2) Langkah-Langkah Teknis a) Penerimaan Utang Berdasarkan Nota Kredit yang menunjukkan telah masuknya penerimaan pembiayaan ke rekening kas daerah, Fungsi Akuntansi PPKD mengakui adanya kewajiban jangka panjang dengan mencatat jurnal "Kas di Kas Daerah" di debit dan "Kewajiban Jangka Panjang (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Kas di Kas Daerah Kewajiban Jangka Panjang .....
+
+xxx xxx
+
+16
+
+Sebagai transaksi realisasi anggaran terhadap realisasi penerimaan pembiayaan, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Penerimaan Pembiayaan" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Penerimaan Pembiayaan
+
+xxx xxx
+
+b) Pembayaran Kewajiban Realisasi pembayaran kewajiban dilakukan melalui proses penatausahaan yang dimulai dari pengajuan SPP, pembuatan SPM hingga penerbitan SP2D. Berdasarkan SP2D tersebut, Fungsi Akuntansi PPKD mencatat "Kewajiban Jangka Panjang (sesuai rincian objek terkait)" di debit dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Kewajiban Jangka Panjang..... Kas di Kas Daerah
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran terhadap realisasi pengeluaran pembiayaan, Fungsi Akuntansi PPKD juga mencatat "Pengeluaran Pembiayaan" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Pengeluaran Pembiayaan Estimasi Perubahan SAL
+
+xxx xxx
+
+c) Reklasifikasi Utang Berdasarkan Dokumen Perjanjian Utang, Fungsi Akuntansi PPKD menyiapkan bukti memorial terkait pengakuan bagian utang jangka panjang yang harus dibayar tahun ini. Setelah diotorisasi oleh PPKD, bukti memorial tersebut menjadi dasar bagi Fungsi Akuntansi PPKD untuk melakukan pengakuan reklasifikasi dengan mencatat "Kewajiban Jangka Panjang" di debit dan "Bagian Lancar Utang Jangka Panjang" di kredit dengan jurnal:
+
+Kewajiban Jangka Panjang Bagian Lancar Utang Jangka Panjang
+
+xxx xxx
+
+17
+
+f. Akuntansi Pembiayaan PPKD 1) Pihak-Pihak Terkait Pihak-pihak yang melaksanakan sistem akuntansi pembiayaan PPKD adalah sebagai berikut : a) Fungsi Akuntansi PPKD b) PPKD 2) Langkah-Langkah Teknis a) Penerimaan Pembiayaan Akuntansi penerimaan pembiayaan PPKD pada dasarnya merupakan akuntasi yang tidak berdiri sendiri. Akuntansi penerimaan pembiayaan ini melekat pada pencatatan transaksi lainnya khususnya penerimaan kas dari transaksi aset nonlancar dan kewajiban jangka panjang. Akuntansi ini akan menjadi sebuah jurnal komplementer yang melengkapi jurnal transaksi pelepasan investasi, transaksi penerimaan utang dan transaksi lainnya yang sejenis.
+
+Fungsi akuntansi PPKD mencatat "Kas di Kas Daerah" di debit dan "Kewajiban Jangka Panjang" di kredit dengan jurnal:
+
+Kas di Kas Daerah Kewajiban Jangka Panjang
+
+xxx xxx
+
+Berdasarkan transaksi di atas, Fungsi akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Penerimaan Pembiayaan" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Penerimaan Pembiayaan
+
+xxx xxx
+
+b) Pengeluaran Pembiayaan
+Sama halnya dengan akuntansi penerimaan pembiayaan PPKD, akuntansi pengeluaran pembiayaan PPKD pada dasarnya juga merupakan akuntansi yang tidak berdiri sendiri. Akuntansi pengeluaran pembiayaan ini melekat pada pencatatan transaksi lainnya khususnya pengeluaran kas atas transaksi aset nonlancar dan kewajiban jangka panjang. Akuntansi ini akan menjadi sebuah jurnal komplementer yang melengkapi jurnal
+
+18
+
+transaksi perolehan investasi, transaksi pembayaran utang dan transaksi lainnya yang sejenis.
+
+Fungsi akuntansi PPKD mencatat pembayaran pokok pinjaman dari bank atau lembaga keuangan pada "Kewajiban Jangka Panjang" di debit dan "Kas di Kas Daerah" di kredit dengan jurnal:
+
+Kewajiban Jangka Panjang Kas di Kas Daerah
+
+xxx xxx
+
+Berdasarkan Bukti Memorial yang telah diotorisasi, PPKD, Fungsi akuntansi PPKD mencatat "Pengeluaran Pembiayaan" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Pengeluaran Pembiayaan Estimasi Perubahan SAL
+
+xxx xxx
+
+g. Jurnal Koreksi dan Penyesuaian PPKD 1) Pihak-Pihak Terkait Pihak-pihak yang melaksanakan sistem akuntansi dalam jurnal penyesuaian dan koreksi PPKD adalah sebagai berikut : a) Fungsi Akuntansi PPKD b) PPKD 2) Langkah-Langkah Teknis a) Koreksi kesalahan pencatatan Untuk melakukan koreksi atas terjadinya kesalahan pencatatan, berdasarkan dokumen atau bukti koreksi terkait, Fungsi Akuntansi PPKD membuat bukti memorial terkait koreksi kesalahan pencatatan. Selanjutnya bukti memorial tersebut diotorisasi oleh PPKD dan kemudian digunakan sebagai dasar Fungsi Akuntansi PPKD untuk membuat koreksi atas jurnal yang salah catat tersebut. Misal, transaksi beban/belanja hibah dicatat pada beban/belanja subsidi. Untuk melakukan koreksi atas kesalahan tersebut, Fungsi Akuntansi PPKD mencatat "Beban Hibah" di debit dan "Beban Subsidi" di kredit dengan jurnal:
+
+Beban Hibah Beban Subsidi
+
+xxx xxx
+
+19
+
+Selain itu pada saat bersamaan terhadap koreksi atas realisasi belanja, Fungsi Akuntansi PPKD mencatat "Belanja Hibah" di debit dan "Belanja Subsidi" di kredit dengan jurnal:
+
+Belanja Hibah Belanja Subsidi
+
+xxx xxx
+
+b) Beban Penyisihan Piutang Dalam metode penyisihan (Allowance method), setiap akhir tahun berdasarkan Laporan Neraca atau Laporan golongan umur piutang pemerintah daerah akhir periode, Fungsi Akuntansi PPKD akan membuat cadangan piutang tak tertagih. Fungsi Akuntansi PPKD mencatat "Beban Penyisihan Piutang" di debit dan "Penyisihan Piutang..." di kredit dengan jurnal:
+
+Beban Penyisihan Piutang Penyisihan Piutang ...
+
+xxx xxx
+
+Pada saat terbit Surat Keputusan Kepala Daerah tentang Penghapusan Piutang, Fungsi Akuntansi PPKD mencatat "Penyisihan Piutang ..." di debit dan "Piutang..." di kredit dengan jurnal:
+
+Penyisihan Piutang ... Piutang ...
+
+xxx xxx
+
+h. Jurnal, Buku Besar, dan Neraca Saldo PPKD 1) Jurnal Sebagai entitas akuntansi, SKPD melakukan proses akuntansi yang dimulai dari pencatatan transaksi hingga penyusunan Laporan Keuangan. Transaksi-transaksi tersebut dicatat oleh Fungsi Akuntansi PPKD sesuai dengan dokumen transaksinya ke dalam buku jurnal. Contoh format buku jurnal yang digunakan Pemerintah Provinsi/Kabupaten/Kota, sebagai berikut:
+
+20
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA... BUKU JURNAL PPKD
+
+Tanggal 1
+
+Nomor Bukti
+2
+
+Kode Rekening 3
+
+Uraian 4
+
+Halaman:
+
+Debit
+
+Kredit
+
+56
+
+........, ........................ Fungsi Akuntansi PPKD
+(tanda tangan)
+
+(nama lengkap) NIP.
+
+Cara pengisian: a. Kolom 1 diisi tanggal transaksi atau tanggal yang terdapat dalam bukti
+transaksi. b. Kolom 2 diisi nomor bukti yang sesuai, misalnya SP2D, kuitansi, STS, Tanda
+Bukti Pembayaran, dan sebagainya. c. Kolom 3 diisi kode rekening yang sesuai, dimulai dari kode urusan, organisasi,
+program, kegiatan, hingga rincian obyeknya. Misalnya kode rekening untuk belanja telepon pada Dinas Pendapatan adalah :
+
+1.07.1.07.01.01.02.5.2.2.03.01
+
+1.07
+
+Kode Urusan
+
+1.07.01
+
+Kode Organisasi
+
+01.02
+
+Kode Program & Kegiatan
+
+5.2.2.03.01 Rincian Obyek Belanja
+
+d. Kolom 4 diisi uraian kode rekening, misalnya "Belanja Telepon". e. Kolom 5 diisi jumlah rupiah yang dijurnal di debit.
+f. Kolom 6 diisi jumlah rupiah yang dijurnal di kredit.
+
+2) Buku Besar Tahapan selanjutnya setelah pencatatan transaksi melalui jurnal adalah posting ke buku besar. Dalam tahap ini, Fungsi Akuntansi PPKD mem-posting atau memindahkan setiap akun beserta jumlahnya dari buku jurnal ke buku besar masing-masing akun. Format buku besar yang digunakan adalah sebagai berikut:
+
+21
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA......
+
+BUKU BESAR
+
+PPKD
+
+KODE REKENING
+
+: .................................
+
+NAMA REKENING
+
+: .................................
+
+PAGU APBD
+
+: .................................
+
+PAGU PERUBAHAN APBD
+
+: .................................
+
+Tanggal 1
+
+Uraian 2
+
+Ref
+
+Debit
+
+Kredit
+
+34
+
+5
+
+Saldo 6
+
+................, tanggal............. Fungsi Akuntansi PPK (tanda tangan) (nama lengkap) NIP.
+
+Cara pengisian: a. Kode Rekening diisi dengan kode rekening yang sesuai, dimulai dari kode
+urusan, organisasi, program, kegiatan, hingga rincian obyeknya. Misalnya kode rekening untuk belanja telepon pada Dinas Pendapatan adalah sebagai berikut:
+
+1.07.1.07.01.01.02.5.2.2.03.01
+
+1.07
+
+Kode Urusan
+
+1.07.01
+
+Kode Organisasi
+
+01.02
+
+Kode Program & Kegiatan
+
+5.2.2.03.01 Rincian Obyek Belanja
+
+b. Nama Rekening diisi dengan nama/uraian kode rekening sesuai kode rekeningnya.
+c. Pagu APBD diisi dengan pagu pendapatan/belanja sesuai dengan jumlah yang terdapat dalam DPA Dinas/Badan/Kantor. Untuk aset, kewajiban, dan ekuitas dana, nilai Pagu APBD ini dikosongkan.
+d. Pagu Perubahan APBD diisi dengan pagu pendapatan/belanja sesuai dengan jumlah yang terdapat dalam DPA Perubahan Dinas/Badan/Kantor. Untuk aset, kewajiban, dan ekuitas dana, nilai Pagu Perubahan APBD ini dikosongkan.
+e. Kolom 1 diisi tanggal transaksi atau tanggal yang terdapat dalam jurnal yang bersangkutan.
+f. Kolom 2 diisi penjelasan seperlunya terkait dengan jurnal yang diposting. g. Kolom 3 diisi referensi atau dari buku jurnal halaman berapa jurnal yang
+diposting tersebut. h. Kolom 4 diisi jumlah rupiah sesuai dengan yang ada di jurnal kolom debit. i. Kolom 5 diisi jumlah rupiah sesuai dengan yang ada di jurnal kolom kredit. j. Kolom 6 diisi saldo akumulasi.
+
+22
+
+3) Neraca Saldo Pada setiap akhir periode akuntansi atau sesaat sebelum penyusunan laporan keuangan, Fungsi Akuntansi PPKD menyusun Neraca Saldo. Neraca Saldo adalah suatu daftar yang berisi seluruh kode rekening beserta saldonya pada tanggal tertentu. Format Neraca Saldo yang digunakan adalah sebagai berikut:
+
+Kode Rekening
+1
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA...... NERACA SALDO PPKD PER TANGGAL .........
+
+Nama Rekening 2
+
+Debit 3
+
+Halaman... Jumlah
+Kredit 4
+
+..........., tanggal...... Fungsi Akuntansi PPKD
+(tanda tangan)
+(nama lengkap) NIP.
+Cara pengisian: a. Tanggal diisi dengan tanggal Neraca Saldo disusun. b. Kolom 1 diisi kode rekening setiap buku besar. c. Kolom 2 diisi nama/uraian kode rekening sesuai kode rekeningnya. d. Kolom 3 diisi jumlah saldo buku besar yang memiliki saldo akhir debit.
+e. Kolom 4 diisi jumlah saldo buku besar yang memiliki saldo akhir kredit.
+i. Penyusunan Laporan Keuangan PPKD 1) Ketentuan Umum Laporan Keuangan yang dihasilkan pada tingkat PPKD dihasilkan melalui proses akuntansi yang secara periodik dilakukan oleh Fungsi Akuntansi PPKD. Jurnal dan posting yang telah dilakukan terhadap transaksi keuangan menjadi dasar dalam penyusunan laporan keuangan.
+23
+
+Dari 7 Laporan Keuangan wajib yang terdapat dalam Peraturan Pemerintah Nomor 71 Tahun 2010 tentang Standar Akuntansi Pemerintahan, terdapat 5 Laporan Keuangan yang dibuat oleh PPKD sebagai entitas akuntansi, yaitu: a) Laporan Realisasi Anggaran (LRA); b) Neraca; c) Laporan Operasional (LO); d)Laporan Perubahan Ekuitas (LPE); dan e) Catatan atas Laporan Keuangan (CaLK).
+
+Bagan berikut ini menunjukkan proses penyusunan Laporan Keuangan PPKD:
+
+Menyiapkan Kertas Kerja
+
+Mengisi Neraca Saldo 1 Sebelum . Penyesuaian
+
+Membuat
+
+2 .
+
+Jurnal Penyesuaian
+
+Membuat
+
+3 .
+
+Neraca Saldo Setelah
+Penyesuaian
+
+Menyusun Laporan Keuangan
+
+Menyusun LRA, membuat jurnal 1 penutup LRA . dan NS Setelah Penutupan LRA
+
+Menyusun LO, membuat jurnal 2 penutup LO dan . NS Setelah Penutupan LO
+
+Menyusun
+
+Neraca,
+
+3 .
+
+membuat jurnal penutup akhir dan NS akhir
+
+Menyusun
+
+4 .
+
+Laporan Perubahan
+Ekuitas
+
+Menyusun
+
+5 .
+
+Catatan atas Laporan Keuangan
+
+24
+
+2) Pihak-Pihak Terkait Pihak-pihak yang terkait dalam prosedur penyusunan laporan keuangan adalah : a) Fungsi Akuntansi PPKD b) PPKD
+3) Langkah-Langkah Teknis
+a) Menyiapkan Kertas Kerja Fungsi Akuntansi PPKD menyiapkan kertas kerja (worksheet) sebagai alat untuk menyusun Laporan Keuangan. Kertas kerja adalah alat bantu yang digunakan dalam proses pembuatan Laporan Keuangan. Kertas kerja berguna untuk mempermudah proses pembuatan laporan keuangan yang dihasilkan secara manual. Penggunaan format dalam hal ini disesuaikan dengan kebutuhan yang berkembang. Informasi minimal yang harus ada dalam format kertas kerja tercantum dalam tabel sebagai berikut.
+
+Kode Rekening
+
+Uraian
+
+Neraca Saldo (NS) DK
+
+Penyesuaian DK
+
+NS Setelah Penyesuaian DK
+
+(1) Mengisi Neraca Saldo Sebelum Penyesuaian Fungsi Akuntansi PPKD melakukan rekapitulasi saldo-saldo buku besar menjadi neraca saldo. Angka-angka neraca saldo tersebut diletakkan di kolom "Neraca Saldo" yang terdapat pada Kertas Kerja.
+(2) Membuat Jurnal Penyesuaian Fungsi Akuntansi PPKD membuat jurnal penyesuaian. Jurnal ini dibuat dengan tujuan melakukan penyesuaian atas saldo pada akun-akun tertentu dan pengakuan atas transaksitransaksi yang bersifat akrual. Jurnal penyesuaian tersebut
+25
+
+diletakkan dalam kolom "Penyesuaian" yang terdapat pada Kertas Kerja.
+
+Jurnal penyesuaian yang diperlukan antara lain digunakan untuk: (a) Koreksi kesalahan/Pemindahbukuan (b) Pencatatan jurnal yang belum dilakukan (c) Pencatatan piutang, persediaan dan atau aset lainnya
+pada akhir tahun (3) Membuat Neraca Saldo Setelah Penyesuaian
+Fungsi Akuntansi PPKD melakukan penyesuaian atas neraca saldo berdasarkan jurnal penyesuaian yang telah dibuat sebelumnya. Nilai yang telah disesuaikan diletakkan pada kolom "Neraca Saldo Setelah Penyesuaian" yang terdapat pada Kertas Kerja.
+
+b) Menyusun Laporan Keuangan (1) Menyusun LRA, membuat jurnal penutup LRA, dan Neraca Saldo setelah Penutupan LRA Berdasarkan Neraca Saldo yang telah disesuaikan, Fungsi Akuntansi PPKD mengidentifikasi akun-akun yang termasuk dalam komponen Laporan Realisasi Anggaran dan kemudian disajikan dalam "Laporan Realisasi Anggaran".
+
+Bersamaan dengan pembuatan LRA, Fungsi Akuntansi PPKD membuat jurnal penutup. Prinsip penutupan ini adalah membuat nilai akun-akun LRA menjadi 0. Jurnal penutup tersebut dilakukan dalam 3 tahap, sebagai berikut:
+
+(a) Jurnal Penutup untuk menutup jurnal penganggaran yang dibuat di awal tahun anggaran
+
+Apropriasi Belanja Apropriasi Pengeluaran Pembiayaan Estimasi Perubahan SAL
+Estimasi Pendapatan Estimasi Penerimaan Pembiayaan
+
+xxx xxx xxx
+xxx xxx
+
+26
+
+(b) Jurnal Penutup untuk realisasi anggaran, ditutup pada akun surplus/defisit - LRA
+
+Pendapatan ­ LRA Penerimaan Pembiayaan
+Belanja Pengeluaran Pembiayaan Surplus/Defisit - LRA
+
+xxx xxx
+xxx xxx xxx
+
+(c) Jurnal Penutup untuk menutup akun surplus/defisit ­ LRA pada akun Estimasi Perubahan SAL yang terbentuk selama transaksi.
+
+Surplus/Defisit- LRA Estimasi Perubahan SAL
+
+xxx xxx
+
+Kemudian setelah membuat jurnal penutup, Fungsi Akuntansi PPKD menyusun Neraca Saldo setelah Penutupan LRA. Berikut ini adalah format LRA PPKD:
+
+27
+
+PEMERINTAH PROVINSI ............ PPKD
+LAPORAN REALISASI ANGGARAN PENDAPATAN DAN BELANJA UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+NO.
+
+URAIAN
+
+1 PENDAPATAN 2 PENDAPATAN ASLI DAERAH 3 Pendapatan Pajak Daerah 4 Pendapatan Has il Pengelolaan Kekayaan Daerah yang Dipis ahkan 5 Lain-lain PAD yang Sah 6 Jumlah Pendapatan Asli Daerah 7 8 PENDAPATAN TRANSFER 9 TRANSFER PEMERINTAH PUSAT - DANA PERIMBANGAN 10 Dana Bagi Has il Pajak 11 Dana Bagi Has il Sum ber Daya Alam 12 Dana Alokas i Um um 13 Dana Alokas i Khus us 14 Jumlah Pendapatan Transfer Dana Perimbangan 15 16 TRANSFER PEMERINTAH PUSAT - LAINNYA 17 Dana Otonom i Khus us 18 Dana Penyes uaian 19 Jumlah Pendapatan Transfer Lainnya 20 Jumlah Pendapatan Transfer 21 22 LAIN-LAIN PENDAPATAN YANG SAH 23 Pendapatan Hibah 24 Pendapatan Lainnya 25 Jumlah Lain-lain Pendapatan yang Sah 26 JUMLAH PENDAPATAN 27 28 BELANJA 29 BELANJA OPERASI 30 Belanja Bunga 31 Belanja Subs idi 32 Belanja Hibah 33 Belanja Bantuan Sos ial 34 Jumlah Belanja Operasi 35 36 BELANJA TAK TERDUGA 37 Belanja Tak Terduga 38 Jumlah Belanja Tak Terduga 39 JUMLAH BELANJA 40 41 TRANSFER 42 TRANSFER BAGI HASIL PENDAPATAN 43 Trans fer Bagi Has il Pajak 44 Trans fer Bagi Has il Pendapatan Lainnya 45 Jumlah Transfer Bagi Hasil Pendapatan 46 47 TRANSFER BANTUAN KEUANGAN 48 Trans fer Bantuan Keuangan ke Pem erintah Daerah Lainnya 49 Trans fer Bantuan Keuangan ke Des a 50 Trans fer Bantuan Keuangan Lainnya 51 Jumlah Transfer Bantuan Keuangan 52 Jumlah Transfer 53 54 JUMLAH BELANJA DAN TRANSFER 55 56 SURPLUS/DEFISIT 57 58 PEMBIAYAAN 59 PENERIMAAN PEMBIAYAAN 60 Penggunaan SiLPA 61 Pencairan Dana Cadangan 62 Has il Penjualan Kekayaan Daerah yang Dipis ahkan 63 Pinjam an Dalam Negeri - Pem erintah Pus at 64 Pinjam an Dalam Negeri - Pem erintah Daerah Lainnya 65 Pinjam an Dalam Negeri - Lem baga Keuangan Bank 66 Pinjam an Dalam Negeri - Lem baga Keuangan Bukan Bank 67 Pinjam an Dalam Negeri - Obligas i 68 Pinjam an Dalam Negeri - Lainnya 69 Penerim aan Kem bali Pinjam an kepada Perus ahaan Negara 70 Penerim aan Kem bali Pinjam an kepada Perus ahaan Daerah 71 Penerim aan Kem bali Pinjam an kepada Pem erintah Daerah Lainnya 72 Penerim aan Kem bali Piutang 73 Penerim aan Kem bali Inves tas i Dana Bergulir 74 Jumlah Penerimaan Pembiayaan 75 76 PENGELUARAN PEMBIAYAAN 77 Pem bentukan Dana Cadangan 78 Penyertaan Modal/ Inves tas i Pem erintah Daerah 79 Pem bayaran Pokok Pinjam an Dalam Negeri - Pem erintah Pus at 80 Pem bayaran Pokok Pinjam an Dalam Negeri - Pem erintah Daerah Lainnya 81 Pem bayaran Pokok Pinjam an Dalam Negeri - Lem baga Keuangan Bank 82 Pem bayaran Pokok Pinjam an Dalam Negeri - Lem baga Keuangan Bukan Bank 83 Pem bayaran Pokok Pinjam an Dalam Negeri - Obligas i 84 Pem bayaran Pokok Pinjam an Dalam Negeri - Lainnya 85 Pem berian Pinjam an kepada Perus ahaan Negara 86 Pem berian Pinjam an kepada Perus ahaan Daerah 87 Pem berian Pinjam an kepada Pem erintah Daerah Lainnya 88 Jumlah Pengeluaran Pembiayaan 89 JUMLAH PEMBIAYAAN 90
+SISA LEBIH PEMBIAYAAN ANGGARAN/ (SISA KURANG 91 PEMBIAYAAN ANGGARAN)
+
+Anggaran Realisasi
+
+20X1
+
+20X1
+
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+(Dalam Rupiah) (%) Realisasi
+20X0
+
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xx x xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+28
+
+PEMERINTAH KABUPATEN/ KOTA ............ PPKD
+LAPORAN REALISASI ANGGARAN PENDAPATAN DAN BELANJA UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+NO.
+
+URAIAN
+
+1 PENDAPATAN 2 PENDAPATAN ASLI DAERAH 3 Pajak Daerah 4 Pendapatan Has il Pengelolaan Kekayaan Daerah yang Dipis ahkan 5 Lain-lain PAD yang Sah 6 Jumlah Pendapatan Asli Daerah 7 8 PENDAPATAN TRANSFER 9 TRANSFER PEMERINTAH PUSAT - DANA PERIMBANGAN 10 Dana Bagi Has il Pajak 11 Dana Bagi Has il Sum ber Daya Alam 12 Dana Alokas i Um um 13 Dana Alokas i Khus us 14 Jumlah Pendapatan Transfer Dana Perimbangan 15 16 TRANSFER PEMERINTAH PUSAT - LAINNYA 17 Dana Otonom i Khus us 18 Dana Penyes uaian 19 Jumlah Pendapatan Transfer Lainnya 20 21 TRANSFER PEMERINTAH PROVINSI 22 Pendapatan Bagi Has il Pajak 23 Pendapatan Bagi Has il Lainnya 24 Jumlah Transfer Pemerintah Provinsi 25 Jumlah Pendapatan Transfer 26 27 LAIN-LAIN PENDAPATAN YANG SAH 28 Pendapatan Hibah 29 Pendapatan Lainnya 30 Jumlah Lain-lain Pendapatan yang Sah 31 JUMLAH PENDAPATAN 32 33 BELANJA 34 BELANJA OPERASI 35 Belanja Bunga 36 Belanja Subs idi 37 Belanja Hibah 38 Belanja Bantuan Sos ial 39 Jumlah Belanja Operasi 40 41 BELANJA TAK TERDUGA 42 Belanja Tak Terduga 43 Jumlah Belanja Tak Terduga 44 JUMLAH BELANJA 45 46 TRANSFER 47 TRANSFER BAGI HASIL PENDAPATAN 48 Trans fer Bagi Has il Pajak 49 Trans fer Bagi Has il Pendapatan Lainnya 50 Jumlah Transfer Bagi Hasil Pendapatan 51 52 TRANSFER BANTUAN KEUANGAN 53 Trans fer Bantuan Keuangan ke Pem erintah Daerah Lainnya 54 Trans fer Bantuan Keuangan ke Des a 55 Trans fer Bantuan Keuangan Lainnya 56 Jumlah Transfer Bantuan Keuangan 57 Jumlah Transfer 58 59 JUMLAH BELANJA DAN TRANSFER 60 61 SURPLUS/DEFISIT 62 63 PEMBIAYAAN 64 PENERIMAAN PEMBIAYAAN 65 Penggunaan SiLPA 66 Pencairan Dana Cadangan 67 Has il Penjualan Kekayaan Daerah yang Dipis ahkan 68 Pinjam an Dalam Negeri - Pem erintah Pus at 69 Pinjam an Dalam Negeri - Pem erintah Daerah Lainnya 70 Pinjam an Dalam Negeri - Lem baga Keuangan Bank 71 Pinjam an Dalam Negeri - Lem baga Keuangan Bukan Bank 72 Pinjam an Dalam Negeri - Obligas i 73 Pinjam an Dalam Negeri - Lainnya 74 Penerim aan Kem bali Pinjam an kepada Perus ahaan Negara 75 Penerim aan Kem bali Pinjam an kepada Perus ahaan Daerah 76 Penerim aan Kem bali Pinjam an kepada Pem erintah Daerah Lainnya 77 Penerim aan Kem bali Piutang 78 Penerim aan Kem bali Inves tas i Dana Bergulir 79 Jumlah Penerimaan Pembiayaan 80 81 PENGELUARAN PEMBIAYAAN 82 Pem bentukan Dana Cadangan 83 Penyertaan Modal/ Inves tas i Pem erintah Daerah 84 Pem bayaran Pokok Pinjam an Dalam Negeri - Pem erintah Pus at 85 Pem bayaran Pokok Pinjam an Dalam Negeri - Pem erintah Daerah Lainnya 86 Pem bayaran Pokok Pinjam an Dalam Negeri - Lem baga Keuangan Bank 87 Pem bayaran Pokok Pinjam an Dalam Negeri - Lem baga Keuangan Bukan Bank 88 Pem bayaran Pokok Pinjam an Dalam Negeri - Obligas i 89 Pem bayaran Pokok Pinjam an Dalam Negeri - Lainnya 90 Pem berian Pinjam an kepada Perus ahaan Negara 91 Pem berian Pinjam an kepada Perus ahaan Daerah 92 Pem berian Pinjam an kepada Pem erintah Daerah Lainnya 93 Jumlah Pengeluaran Pembiayaan 94 JUMLAH PEMBIAYAAN 95
+SISA LEBIH PEMBIAYAAN ANGGARAN/ (SISA KURANG 96 PEMBIAYAAN ANGGARAN)
+
+Anggaran Realisasi
+
+20X1
+
+20X1
+
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+(Dalam Rupiah) (%) Realisasi
+20X0
+
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xx x xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+29
+
+(2) Menyusun LO, jurnal penutup LO dan Neraca Saldo setelah Penutupan LO Fungsi Akuntansi PPKD mengidentifikasi akun-akun yang termasuk dalam komponen Laporan Operasional untuk kemudian membuat Laporan Operasional.
+
+Bersamaan dengan pembuatan LO, Fungsi Akuntansi PPKD membuat jurnal penutup. Prinsip penutupan ini adalah membuat nilai akun-akun LO menjadi 0. Berikut ini contoh jurnal penutup LO.
+
+Pendapatan-LO Surplus/Defisit...-LO Beban
+
+xxx xxx xxx
+
+Kemudian, setelah membuat jurnal penutupan, Fungsi Akuntansi PPKD menyusun Neraca Saldo setelah Penutupan LO. Berikut ini adalah format LO PPKD:
+
+30
+
+PEMERINTAH PROVINSI ......... PPKD
+LAPORAN OPERASIONAL UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+No URAIAN KEGIATAN OPERASIONAL
+1 PENDAPATAN 2 PENDAPATAN ASLI DAERAH 3 Pajak Daerah 4 Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan 5 Lain-lain PAD yang Sah 6 Jumlah Pendapatan Asli Daerah 7 8 PENDAPATAN TRANSFER 9 TRANSFER PEMERINTAH PUSAT-DANA PERIMBANGAN 10 Dana Bagi Hasil Pajak 11 Dana Bagi Hasil Sumber Daya Alam 12 Dana Alokasi Umum 13 Dana Alokasi Khusus 14 Jumlah Pendapatan Transfer Dana Perimbangan 15 16 TRANSFER PEMERINTAH PUSAT LAINNYA 17 Dana Otonomi Khusus 18 Dana Penyesuaian 19 Jumlah Pendapatan Transfer Lainnya 20 Jumlah Pendapatan Transfer 21 22 LAIN-LAIN PENDAPATAN YANG SAH 23 Pendapatan Hibah 24 Pendapatan Lainnya 25 Jumlah Lain-lain Pendapatan yang sah 26 JUMLAH PENDAPATAN 27 28 BEBAN 29 BEBAN OPERASI 30 Beban Subsidi 31 Beban Hibah 32 Beban Bantuan Sosial 33 Beban Lain-lain 34 Jumlah Beban Operasi 35 36 BEBAN TRANSFER 37 Beban Transfer Bagi Hasil Pajak 38 Beban Transfer Bagi Hasil Pendapatan Lainnya 39 Beban Transfer Bantuan Keuangan ke Pemerintah Daerah Lainnya 40 Beban Transfer Bantuan Keuangan ke Desa 41 Beban Transfer Keuangan Lainnya 42 Jumlah Beban Transfer 43 JUMLAH BEBAN 44 45 SURPLUS/DEFISIT DARI OPERASI 46 47 SURPLUS/DEFISIT DARI KEGIATAN NON OPERASIONAL 48 SURPLUS NON OPERASIONAL 49 Surplus Penjualan Aset Non lancar 50 Surplus Penyelesaian Kewajiban Jangka Panjang 51 Surplus dari Kegiatan Non Operasional Lainnya 52 Jumlah Surplus Non Operasional 53 54 DEFISIT NON OPERASIONAL 55 Defisit Penjualan Aset Non lancar 56 Defisit Penyelesaian Kewajiban Jangka Panjang 57 Defisit dari Kegiatan Non Operasional Lainnya 58 Jumlah Defisit Non Operasional 59 JUMLAH SURPLUS/DEFISIT DARI KEGIATAN NON OPERASIONAL 60 61 SURPLUS/DEFISIT SEBELUM POS LUAR BIASA 62 63 POS LUAR BIASA 64 PENDAPATAN LUAR BIASA 65 Pendapatan Luar Biasa 66 Jumlah Pendapatan Luar Biasa 67 68 BEBAN LUAR BIASA 69 Beban Luar Biasa 70 Jumlah Beban Luar Biasa 71 POS LUAR BIASA 72 73 SURPLUS/DEFISIT-LO
+
+20X1
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx
+xxx xxx xxx
+xxx
+
+20X0
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx
+xxx xxx xxx
+xxx
+
+(Dalam rupiah) Kenaikan/ (%)
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx xxx
+
+31
+
+PEMERINTAH KABUPATEN/ KOTA ......... PPKD
+LAPORAN OPERASIONAL UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+No URAIAN KEGIATAN OPERASIONAL
+1 PENDAPATAN 2 PENDAPATAN ASLI DAERAH 3 Pajak Daerah 4 Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan 5 Lain-lain PAD yang Sah 6 Jumlah Pendapatan Asli Daerah 7 8 PENDAPATAN TRANSFER 9 TRANSFER PEMERINTAH PUSAT-DANA PERIMBANGAN 10 Dana Bagi Hasil Pajak 11 Dana Bagi Hasil Sumber Daya Alam 12 Dana Alokasi Umum 13 Dana Alokasi Khusus 14 Jumlah Pendapatan Transfer Dana Perimbangan 15 16 TRANSFER PEMERINTAH PUSAT LAINNYA 17 Dana Otonomi Khusus 18 Dana Penyesuaian 19 Jumlah Pendapatan Transfer Lainnya 20 21 TRANSFER PEMERINTAH PROVINSI 22 Pendapatan Bagi Hasil Pajak 23 Pendapatan Bagi Hasil Lainnya 24 JumlahTransfer Pemerintah Provinsi 25 Jumlah Pendapatan Transfer 26 27 LAIN-LAIN PENDAPATAN YANG SAH 28 Pendapatan Hibah 29 Pendapatan Lainnya 30 Jumlah Lain-lain Pendapatan yang sah 31 JUMLAH PENDAPATAN 32 33 BEBAN 34 BEBAN OPERASI 35 Beban Subsidi 36 Beban Hibah 37 Beban Bantuan Sosial 38 Beban Lain-lain 39 Jumlah Beban Operasi 40 41 BEBAN TRANSFER 42 Beban Transfer Bagi Hasil Pajak 43 Beban Transfer Bagi Hasil Pendapatan Lainnya 44 Beban Transfer Bantuan Keuangan ke Pemerintah Daerah Lainnya 45 Beban Transfer Bantuan Keuangan ke Desa 46 Beban Transfer Keuangan Lainnya 47 Jumlah Beban Transfer 48 JUMLAH BEBAN 49 50 SURPLUS/DEFISIT DARI OPERASI 51 52 SURPLUS/DEFISIT DARI KEGIATAN NON OPERASIONAL 53 SURPLUS NON OPERASIONAL 54 Surplus Penjualan Aset Non lancar 55 Surplus Penyelesaian Kewajiban Jangka Panjang 56 Surplus dari Kegiatan Non Operasional Lainnya 57 Jumlah Surplus Non Operasional 58 59 DEFISIT NON OPERASIONAL 60 Defisit Penjualan Aset Non lancar 61 Defisit Penyelesaian Kewajiban Jangka Panjang 62 Defisit dari Kegiatan Non Operasional Lainnya 63 Jumlah Defisit Non Operasional 64 JUMLAH SURPLUS/DEFISIT DARI KEGIATAN NON OPERASIONAL 65 66 SURPLUS/DEFISIT SEBELUM POS LUAR BIASA 67 68 POS LUAR BIASA 69 PENDAPATAN LUAR BIASA 70 Pendapatan Luar Biasa 71 Jumlah Pendapatan Luar Biasa 72 73 BEBAN LUAR BIASA 74 Beban Luar Biasa 75 Jumlah Beban Luar Biasa 76 POS LUAR BIASA 77 78 SURPLUS/DEFISIT-LO
+
+20X1
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx
+xxx xxx xxx
+xxx
+
+20X0
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx
+xxx xxx xxx
+xxx
+
+(Dalam rupiah)
+
+Kenaikan/
+
+(%)
+
+xxx xxx xxx xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx xxx
+
+32
+
+(3) Menyusun Neraca, jurnal penutup akhir, dan Neraca Saldo Akhir Berdasarkan Neraca Saldo setelah Penutupan LO, Fungsi Akuntansi PPKD membuat Neraca. Bersamaan dengan pembuatan Neraca, Fungsi Akuntansi PPKD membuat jurnal penutup akhir untuk menutup akun Surplus/Defisit...­LO ke akun Ekuitas. Berikut contoh jurnal penutup akhir.
+
+Surplus/Defisit...-LO Ekuitas
+
+xxx xxx
+
+Setelah membuat jurnal penutup akhir, Fungsi Akuntansi PPKD menyusun Neraca Saldo Akhir. Neraca Saldo Akhir ini akan menjadi Neraca Awal untuk periode akuntansi yang selanjutnya. Berikut merupakan contoh format neraca PPKD Pemerintah Provinsi/Kabupaten/Kota.
+
+33
+
+PEMERINTAH PROVINSI/KABUPATEN /KOTA PPKD
+NERACA PER 31 DESEMBER 20X1 DAN 20X0
+No. Uraian
+1 ASET 2 ASET LANCAR 3 Kas di Kas Daerah 4 Investasi Jangka Pendek 5 Penyisihan Piutang 6 Bagian Lancar Pinjaman kepada Perusahaan Negara 7 Bagian Lancar Pinjaman kepada Perusahaan Daerah 8 Bagian Lancar Pinjaman kepada Pemerintah Pusat 9 Bagian Lancar Pinjaman kepada Pemerintah Daerah Lainnya 10 Bagian Lancar Tagihan Penjualan Angsuran 11 Bagian lancar Tuntutan Ganti Rugi 12 Piutang Lainnya 13 RK SKPD ...... 14 Jumlah Aset Lancar 15 16 INVESTASI JANGKA PANJANG 17 Investasi Nonpermanen 18 Pinjaman Jangka Panjang 19 Investasi dalam Surat Utang Negara 20 Investasi dalam Proyek Pembangunan 21 Investasi Nonpermanen Lainnya 22 Jumlah Investasi Nonpermanen 23 Investasi Permanen 24 Penyertaan Modal Pemerintah Daerah 25 Investasi Permanen Lainnya 26 Jumlah Investasi Permanen 27 Jumlah Investasi Jangka Panjang 28 29 DANA CADANGAN 30 Dana Cadangan 31 Jumlah Dana Cadangan 32 33 ASET LAINNYA 34 Tagihan Jangka Panjang 35 Kemitraan dengan Pihak Ketiga 36 Aset Tidak Berwujud 37 Aset Lain-laim 38 Jumlah Aset Lainnya 39 40 JUMLAH ASET 41 42 KEWAJIBAN 43 44 KEWAJIBAN JANGKA PENDEK 45 Utang Perhitungan Pihak Ketiga (PFK) 46 Utang Bunga 47 Bagian Lancar Utang Jangka Panjang 48 Pendapatan Diterima Dimuka 49 Utang Jangka Pendek Lainnya 50 Jumlah Kewajiban Jangka Pendek 51 52 KEWAJIBAN JANGKA PANJANG 53 Utang Dalam Negeri - Sektor Perbankan 54 Utang Dalam Negeri - Obligasi 55 Premium (Diskonto) Obligasi 56 Utang Jangka Panjang Lainnya 57 Jumlah Kewajiban Jangka Panjang 58 59 JUMLAH KEWAJIBAN 60 61 EKUITAS 62 63 EKUITAS 64 Ekuitas 65 Jumlah Ekuitas 66 67 JUMLAH KEWAJIBAN DAN EKUITAS DANA
+
+(Dalam Rupiah)
+
+20X1
+
+20X0
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+
+xxx xxx xxx xxx xxx xxx
+34
+
+(4) Menyusun Laporan Perubahan Ekuitas
+Selanjutnya, Fungsi Akuntansi PPKD membuat Laporan Perubahan Ekuitas menggunakan data Ekuitas Awal dan data perubahan ekuitas periode berjalan yang salah satunya diperoleh dari Laporan Operasional yang telah dibuat sebelumnya. Laporan Perubahan Ekuitas ini akan menggambarkan pergerakan ekuitas PPKD. Berikut ini merupakan contoh format Laporan Perubahan Ekuitas PPKD Pemerintah Provinsi/Kabupaten/Kota.
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA PPKD
+LAPORAN PERUBAHAN EKUITAS UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 DAN 20X0
+
+NO URAIAN
+
+20X1 20X0
+
+1 EKUITAS AWAL
+
+XXX XXX
+
+2 SURPLUS/DEFISIT-LO
+
+XXX XXX
+
+3 DAMPAK KUMULATIF PERUBAHAN KEBIJAKAN/KESALAHAN MENDASAR:
+
+4 KOREKSI NILAI PERSEDIAAN
+
+XXX XXX
+
+5 SELISIH REVALUASI ASET TETAP
+
+XXX XXX
+
+6 LAIN-LAIN
+
+XXX XXX
+
+7 EKUITAS AKHIR
+
+XXX XXX
+
+(5) Menyusun Catatan atas Laporan Keuangan Catatan atas Laporan Keuangan meliputi penjelasan naratif atau rincian dari angka yang tertera dalam Laporan Realisasi Anggaran, Laporan Operasional, Laporan Perubahan Ekuitas, dan Neraca. Hal-hal yang diungkapkan di dalam Catatan atas Laporan Keuangan antara lain:
+a) Informasi umum tentang Entitas Pelaporan dan Entitas Akuntansi;
+b) Informasi tentang kebijakan fiskal/keuangan dan ekonomi makro;
+c) Ikhtisar pencapaian target keuangan selama tahun pelaporan berikut kendala dan hambatan yang dihadapi dalam pencapaian target;
+d) Informasi tentang dasar penyusunan laporan keuangan dan kebijakan-kebijakan akuntansi yang dipilih untuk diterapkan atas transaksi-transaksi dan kejadian-kejadian penting lainnya;
+
+35
+
+e) Rincian dan penjelasan masing-masing pos yang disajikan pada lembar muka laporan keuangan;
+f) Informasi yang diharuskan oleh Pernyataan Standar Akuntansi Pemerintahan yang belum disajikan dalam lembar muka laporan keuangan; dan
+g) Informasi lainnya yang diperlukan untuk penyajian yang wajar, yang tidak disajikan dalam lembar muka laporan keuangan.
+Berikut ini merupakan contoh format Catatan atas Laporan Keuangan Pemerintah Provinsi/Kabupaten/Kota.
+36
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA PPKD
+CATATAN ATAS LAPORAN KEUANGAN
+
+Bab I Bab II Bab III
+Bab IV Bab V
+
+Pendahuluan 1.1 Maksud dan tujuan penyusunan laporan keuangan PPKD 1.2 Landasan hukum penyusunan laporan keuangan PPKD 1.3 Sistematika penulisan catatan atas laporan keuangan PPKD Ikhtisar pencapaian kinerja keuangan pemerintah daerah 2.1 Ikhtisar realisasi pencapaian target kinerja keuangan pemerintah daerah 2.2 Hambatan dan kendala yang ada dalam pencapaian target yang telah
+ditetapkan Penjelasan pos-pos laporan keuangan pemerintah daerah 3.1 Rincian dari penjelasan masing-masing pos-pos pelaporan keuangan
+pemerintah daerah 3.1.1 Pendapatan 3.1.2 Beban 3.1.3 Belanja 3.1.4 Aset 3.1.5 Kewajiban 3.1.6 Ekuitas Dana
+3.2 Pengungkapan atas pos-pos aset dan kewajiban yang timbul sehubungan dengan penerapan basis akrual atas pendapatan dan belanja dan rekonsiliasinya dengan penerapan basis kas, untuk entitas akuntansi/entitas pelaporan yang menggunakan basis akrual pada pemerintah daerah.
+Penjelasan atas informasi-informasi nonkeuangan pemerintah daerah Penutup
+
+37
+
+j. Penyusunan Laporan Keuangan Konsolidasian Pemerintah Daerah 1) Ketentuan Umum Laporan Keuangan Konsolidasian adalah suatu laporan keuangan yang merupakan gabungan keseluruhan laporan keuangan entitas pelaporan, atau entitas akuntansi, sehingga tersaji sebagai satu entitas tunggal. Laporan keuangan pemerintah daerah disusun dengan melakukan proses konsolidasi dari seluruh laporan keuangan entitas akuntansi yang terdapat pada pemerintah daerah. Neraca saldo dari semua entitas akuntansi SKPD dan entitas akuntansi PPKD menjadi dasar dalam penyusunan laporan keuangan. Terdapat 7 Laporan Keuangan yang dibuat oleh PPKD, yaitu: a) Laporan Realisasi Anggaran (LRA); b) Laporan Perubahan Saldo Anggaran Lebih (SAL); c) Neraca; d) Laporan Operasional (LO); e) Laporan Arus Kas (LAK); f) Laporan Perubahan Ekuitas (LPE); dan g) Catatan atas Laporan Keuangan (CaLK).
+38
+
+Bagan berikut ini menunjukkan proses penyusunan Laporan Keuangan Pemerintah Daerah:
+
+Mengisi
+
+Neraca Saldo
+
+SKPD dan
+
+1 .
+
+PPKD
+
+Menyiapkan Kertas Kerja Konsolidasi
+
+Membuat 2 Jurnal . eliminasi
+
+3 .
+
+Membuat Neraca Saldo
+Pemda
+
+Menyusun Laporan Keuangan Konsolidasi
+
+Menyusun LRA, membuat jurnal
+1 penutup LRA dan . NS Setelah
+Penutupan LRA
+
+Menyusun LO,
+
+2 .
+
+membuat jurnal penutup LO dan
+NS Setelah
+
+Penutupan LO
+
+Menyusun
+
+Neraca, membuat
+
+3 .
+
+jurnal penutup akhir dan NS
+akhir
+
+Menyusun 4 Laporan . Perubahan SAL
+
+Menyusun
+
+5 .
+
+Laporan Perubahan
+Ekuitas
+
+Menyusun
+
+7 .
+
+Catatan atas Laporan Keuangan
+
+Menyusun
+6 Laporan Arus Kas .
+
+2) Pihak-Pihak Terkait Pihak-pihak yang melaksanakan penyusunan laporan keuangan pemerintah daerah adalah sebagai berikut : a) Fungsi Akuntansi PPKD b) PPKD
+3) Langkah-Langkah Teknis a) Menyiapkan Kertas Kerja Konsolidasi Fungsi Akuntansi PPKD menyiapkan kertas kerja (worksheet) dengan lajur sesuai banyaknya SKPD dan PPKD sebagai alat untuk menyusun Neraca Saldo Gabungan SKPD dan PPKD. Kertas kerja ini adalah alat bantu yang digunakan untuk menyiapkan kolom neraca saldo pemerintah daerah dalam kertas kerja penyusunan Laporan Keuangan Pemerintah Daerah. Kertas kerja berguna untuk mempermudah proses pembuatan laporan keuangan yang dihasilkan secara manual.
+39
+
+Neraca Saldo SKPD dan Neraca Saldo PPKD yang dimasukkan
+
+kedalam kertas kerja konsolidasi adalah Neraca Saldo yang
+
+sudah disesuaikan. Setelah memasukkan semua neraca saldo
+
+kedalam kertas kerja konsolidasi, Fungsi Akuntansi PPKD
+
+membuat jurnal eliminasi untuk menghapus akun transitoris
+
+yaitu RK PPKD dan RK SKPD. Berdasarkan Neraca Saldo SKPD
+
+dan Neraca Saldo PPKD serta Jurnal Eliminasi, Fungsi
+
+Akuntansi PPKD mengisi Neraca Saldo Pemerintah Daerah.
+
+Untuk eliminasi kedua akun tersebut, fungsi akuntansi PPKD
+
+mencatat "RK-PPKD" di debit dan "RK-SKPD" di kredit dengan
+
+jurnal:
+
+RK-PPKD RK-SKPD
+
+xxx xxx
+
+Penggunaan format dalam hal ini disesuaikan dengan kebutuhan yang berkembang. Informasi minimal yang harus ada pada format kertas kerja sebagai berikut.
+
+40
+
+Kode Akun
+
+Uraian
+
+Neraca Saldo SKPD A
+DK
+
+Neraca Saldo SKPD B
+DK
+
+Neraca Saldo SKPD dst DK
+
+Neraca Saldo PPKD
+DK
+
+Jurnal Eliminasi DK
+
+Neraca Saldo Pemda
+DK
+
+41
+
+b) Menyusun Laporan Keuangan Konsolidasi (1) Menyusun LRA, membuat jurnal penutup LRA, dan Neraca Saldo setelah Penutupan LRA Berdasarkan Neraca Saldo Pemerintah Daerah, Fungsi Akuntansi PPKD mengidentifikasi akun-akun yang termasuk dalam komponen Laporan Realisasi Anggaran dan kemudian disajikan dalam "Laporan Realisasi Anggaran".
+Nilai kolom debit dan kredit pada kolom "Laporan Realisasi Anggaran" dijumlahkan. Selisih antara kedua nilai ini merupakan nilai "SILPA tahun berjalan". Nilai ini ditempatkan di bawah kolom yang nilainya lebih kecil, sehingga akan diperoleh nilai yang seimbang antara kolom debit dan kredit.
+Bersamaan dengan pembuatan LRA, PPKD juga membuat jurnal penutup. Prinsip penutupan ini adalah membuat nilai akun-akun LRA menjadi 0. Berikut contoh jurnal penutup LRA
+
+Pendapatan-LRA Penerimaan Pembiayaan ­LRA Apropriasi Belanja Apropriasi Pengeluaran Pembiayaan
+Estimasi Perubahan SAL Belanja Pengeluaran Pembiayaan ­LRA Estimasi Pendapatan Estimasi Penerimaan Pembiayaan
+
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+
+Kemudian, setelah membuat jurnal penutupan, Akuntansi PPKD menyusun Neraca Saldo setelah Penutupan LRA.
+Berikut ini merupakan contoh format Laporan Realisasi Anggaran Pendapatan dan Belanja Daerah.
+
+42
+
+PEMERINTAH PROVINSI LAPORAN REALISASI ANGGARAN PENDAPATAN DAN BELANJA DAERAH UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+NO.
+
+URAIAN
+
+1 PENDAPATAN
+
+2 PENDAPATAN ASLI DAERAH
+
+3 Pendapatan Pajak Daerah
+
+4 Pendapatan Retribus i Daerah
+
+5 Pendapatan Has il Pengelolaan Kekayaan Daerah yang Dipis ahkan
+
+6 Lain-lain PAD yang Sah
+
+7 Jumlah Pendapatan Asli Daerah
+
+8
+
+9 PENDAPATAN TRANSFER
+
+10 TRANSFER PEMERINTAH PUSAT - DANA PERIMBANGAN
+
+11 Dana Bagi Has il Pajak
+
+12 Dana Bagi Has il Sum ber Daya Alam
+
+13 Dana Alokas i Um um
+
+14 Dana Alokas i Khus us
+
+15 Jumlah Pendapatan Transfer Dana Perimbangan
+
+16
+
+17 TRANSFER PEMERINTAH PUSAT - LAINNYA
+
+18 Dana Otonom i Khus us
+
+19 Dana Penyes uaian
+
+20 Jumlah Pendapatan Transfer Lainnya
+
+21 Total Pendapatan Transfer
+
+22
+
+23 LAIN-LAIN PENDAPATAN YANG SAH
+
+24 Pendapatan Hibah
+
+25 Pendapatan Dana Darurat
+
+26 Pendapatan Lainnya
+
+27 Jumlah Pendapatan Lain-lain yang Sah
+
+28 JUMLAH PENDAPATAN
+
+29 BELANJA
+
+30 BELANJA OPERASI
+
+31 Belanja Pegawai
+
+32 Belanja Barang
+
+33 Bunga
+
+34 Subs idi
+
+35 Hibah
+
+36 Bantuan Sos ial
+
+37 Jumlah Belanja Operasi
+
+38
+
+39 BELANJA MODAL
+
+40 Belanja Tanah
+
+41 Belanja Peralatan dan Mes in
+
+42 Belanja Gedung dan Bangunan
+
+43 Belanja Jalan, Irigas i dan Jaringan
+
+44 Belanja As et Tetap Lainnya
+
+45 Belanja As et Lainnya
+
+46 Jumlah Belanja Modal
+
+47
+
+48 BELANJA TAK TERDUGA
+
+49 Belanja Tak Terduga
+
+50 Jumlah Belanja Tak Terduga
+
+51 Jumlah Belanja
+
+52
+
+53 TRANSFER
+
+54 TRANSFER/BAGI HASIL PENDAPATAN KE KABUPATEN/KOTA
+
+55 Bagi Has il Pajak ke Kabupaten/Kota
+
+56 Bagi Has il Retribus i ke Kabupaten/Kota
+
+57 Bagi Has il Pendapatan Lainnya ke Kabupaten/Kota
+
+58 Jumlah Transfer Bagi Hasil Pendapatan ke Kab./Kota
+
+59
+
+60 TRANSFER/ BANTUAN KEUANGAN
+
+61 Bantuan Keuangan ke Pem erintah Daerah Lainnya
+
+62 Bantuan Keuangan Lainnya
+
+63 Jumlah Transfer/Bantuan Keuangan
+
+64 Jumlah Transfer
+
+65 JUMLAH BELANJA DAN TRANSFER
+
+66
+
+67 SURPLUS/DEFISIT
+
+68
+
+69 PEMBIAYAAN
+
+70
+
+71 PENERIMAAN PEMBIAYAAN
+
+72 Penggunaan SiLPA
+
+73 Pencairan Dana Cadangan
+
+74 Has il Penjualan Kekayaan Daerah yang Dipis ahkan
+
+75 Pinjam an Dalam Negeri - Pem erintah Pus at
+
+76 Pinjam an Dalam Negeri - Pem erintah Daerah Lainnya
+
+77 Pinjam an Dalam Negeri - Lem baga Keuangan Bank
+
+78 Pinjam an Dalam Negeri - Lem baga Keuangan Bukan Bank
+
+79 Pinjam an Dalam Negeri - Obligas i
+
+80 Pinjam an Dalam Negeri - Lainnya
+
+81 Penerim aan Kem bali Pinjam an kepada Perus ahaan Negara
+
+82 Penerim aan Kem bali Pinjam an kepada Perus ahaan Daerah
+
+83 Penerim aan Kem bali Pinjam an kepada Pem erintah Daerah Lainnya
+
+84 Jumlah Penerimaan
+
+85
+
+86 PENGELUARAN PEMBIAYAAN
+
+87 Pem bentukan Dana Cadangan
+
+94 Penyertaan Modal Pem erintah Daerah
+
+88 Pem bayaran Pokok Pinjam an Dalam Negeri - Pem erintah Pus at
+
+89 Pem bayaran Pokok Pinjam an Dalam Negeri - Pem erintah Daerah Lainnya
+
+90 Pem bayaran Pokok Pinjam an Dalam Negeri - Lem baga Keuangan Bank
+
+91 Pem bayaran Pokok Pinjam an Dalam Negeri - Lem baga Keuangan Bukan Bank
+
+92 Pem bayaran Pokok Pinjam an Dalam Negeri - Obligas i
+
+93 Pem bayaran Pokok Pinjam an Dalam Negeri - Lainnya
+
+95 Pem berian Pinjam an kepada Perus ahaan Negara
+
+96 Pem berian Pinjam an kepada Perus ahaan Daerah
+
+97 Pem berian Pinjam an kepada Pem erintah Daerah Lainnya
+
+98 Jumlah Pengeluaran
+
+99 PEMBIAYAAN NETO
+
+100
+
+101
+
+Sisa Lebih Pembiayaan Anggaran
+
+(Dalam Rupiah)
+
+Anggaran Realisasi
+
+20X1
+
+20X1
+
+(%)
+
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx
+xx xx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+Realisasi 20X0
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+43
+
+PEMERINTAH KABUPATEN/ KOTA LAPORAN REALISASI ANGGARAN PENDAPATAN DAN BELANJA DAERAH UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+NO.
+
+URAIAN
+
+1 PENDAPATAN
+
+2 PENDAPATAN ASLI DAERAH
+
+3 Pendapatan Pajak Daerah
+
+4 Pendapatan Retribus i Daerah
+
+5 Pendapatan Has il Pengelolaan Kekayaan Daerah yang Dipis ahkan
+
+6 Lain-lain PAD yang Sah
+
+7 Jumlah Pendapatan Asli Daerah
+
+8
+
+9 PENDAPATAN TRANSFER
+
+10 TRANSFER PEMERINTAH PUSAT - DANA PERIMBANGAN
+
+11 Dana Bagi Has il Pajak
+
+12 Dana Bagi Has il Sum ber Daya Alam
+
+13 Dana Alokas i Um um
+
+14 Dana Alokas i Khus us
+
+15 Jumlah Pendapatan Transfer Dana Perimbangan
+
+16
+
+17 TRANSFER PEMERINTAH PUSAT - LAINNYA
+
+18 Dana Otonom i Khus us
+
+19 Dana Penyes uaian
+
+20 Jumlah Pendapatan Transfer Pusat - Lainnya
+
+21
+
+22 TRANSFER PEMERINTAH PROVINSI
+
+23 Pendapatan Bagi Has il Pajak
+
+24 Pendapatan Bagi Has il Lainnya
+
+25 Jumlah Transfer Pemerintah Provinsi
+
+26 Total Pendapatan Transfer
+
+27
+
+28 LAIN-LAIN PENDAPATAN YANG SAH
+
+29 Pendapatan Hibah
+
+30 Pendapatan Dana Darurat
+
+31 Pendapatan Lainnya
+
+32 Jumlah Pendapatan Lain-lain yang Sah
+
+33 JUMLAH PENDAPATAN
+
+34
+
+35 BELANJA
+
+36 BELANJA OPERASI
+
+37 Belanja Pegawai
+
+38 Belanja Barang
+
+39 Bunga
+
+40 Subs idi
+
+41 Hibah
+
+42 Bantuan Sos ial
+
+43 Jumlah Belanja Operasi
+
+44
+
+45 BELANJA MODAL
+
+46 Belanja Tanah
+
+47 Belanja Peralatan dan Mes in
+
+48 Belanja Gedung dan Bangunan
+
+49 Belanja Jalan, Irigas i dan Jaringan
+
+50 Belanja As et Tetap Lainnya
+
+51 Belanja As et Lainnya
+
+52 Jumlah Belanja Modal
+
+53
+
+54 BELANJA TAK TERDUGA
+
+55 Belanja Tak Terduga
+
+56 Jumlah Belanja Tak Terduga
+
+57 Jumlah Belanja
+
+58
+
+59 TRANSFER
+
+60 TRANSFER/BAGI HASIL KE DESA
+
+61 Bagi Has il Pajak
+
+62 Bagi Has il Retribus i
+
+63 Bagi Has il Pendapatan Lainnya
+
+64 Jumlah Transfer Bagi Hasil Ke Desa
+
+65
+
+66 TRANSFER/ BANTUAN KEUANGAN
+
+67 Bantuan Keuangan ke Pem erintah Daerah Lainnya
+
+68 Bantuan Keuangan Lainnya
+
+69 Jumlah Transfer/Bantuan Keuangan
+
+70 Jumlah Transfer
+
+71 JUMLAH BELANJA DAN TRANSFER
+
+72
+
+73 SURPLUS/DEFISIT
+
+74
+
+75 PEMBIAYAAN
+
+76
+
+77 PENERIMAAN PEMBIAYAAN
+
+78 Penggunaan SiLPA
+
+79 Pencairan Dana Cadangan
+
+80 Has il Penjualan Kekayaan Daerah yang Dipis ahkan
+
+81 Pinjam an Dalam Negeri - Pem erintah Pus at
+
+82 Pinjam an Dalam Negeri - Pem erintah Daerah Lainnya
+
+83 Pinjam an Dalam Negeri - Lem baga Keuangan Bank
+
+84 Pinjam an Dalam Negeri - Lem baga Keuangan Bukan Bank
+
+85 Pinjam an Dalam Negeri - Obligas i
+
+86 Pinjam an Dalam Negeri - Lainnya
+
+87 Penerim aan Kem bali Pinjam an kepada Perus ahaan Negara
+
+88 Penerim aan Kem bali Pinjam an kepada Perus ahaan Daerah
+
+89 Penerim aan Kem bali Pinjam an kepada Pem erintah Daerah Lainnya
+
+90 Jumlah Penerimaan
+
+91
+
+92 PENGELUARAN PEMBIAYAAN
+
+93 Pem bentukan Dana Cadangan
+
+94 Penyertaan Modal Pem erintah Daerah
+
+95 Pem bayaran Pokok Pinjam an Dalam Negeri - Pem erintah Pus at
+
+96 Pem bayaran Pokok Pinjam an Dalam Negeri - Pem erintah Daerah Lainnya
+
+97 Pem bayaran Pokok Pinjam an Dalam Negeri - Lem baga Keuangan Bank
+
+98 Pem bayaran Pokok Pinjam an Dalam Negeri - Lem baga Keuangan Bukan Bank
+
+99 Pem bayaran Pokok Pinjam an Dalam Negeri - Obligas i
+
+100
+
+Pem bayaran Pokok Pinjam an Dalam Negeri - Lainnya
+
+101
+
+Pem berian Pinjam an kepada Perus ahaan Negara
+
+102
+
+Pem berian Pinjam an kepada Perus ahaan Daerah
+
+103
+
+Pem berian Pinjam an kepada Pem erintah Daerah Lainnya
+
+104
+
+Jumlah Pengeluaran
+
+105
+
+PEMBIAYAAN NETO
+
+106
+
+107
+
+Sisa Lebih Pembiayaan Anggaran
+
+(Dalam Rupiah)
+
+Anggaran Realisasi
+
+20X1
+
+20X1
+
+(%)
+
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx
+xx xx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+Realisasi 20X0
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+
+44
+
+(2) Menyusun LO, membuat jurnal penutup LO dan Neraca Saldo setelah Penutupan LO Berdasarkan Neraca Saldo setelah Penutupan LRA, Fungsi Akuntansi PPKD mengidentifikasi akun-akun yang termasuk dalam komponen Laporan Operasional untuk kemudian membuat Laporan Operasional.
+Bersamaan dengan pembuatan LO, PPKD juga membuat jurnal penutup. Prinsip penutupan ini adalah membuat nilai akun-akun LO menjadi 0. Berikut ini contoh jurnal penutup LO.
+
+Pendapatan-LO Surplus/Defisit...-LO Beban
+
+xxx xxx xxx
+
+Kemudian, setelah membuat jurnal penutupan, Akuntansi PPKD menyusun Neraca Saldo setelah Penutupan LO.
+Berikut ini merupakan contoh format Laporan Operasional.
+
+45
+
+PEMERINTAH PROVINSI LAPORAN OPERASIONAL UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+No URAIAN KEGIATAN OPERASIONAL
+1 PENDAPATAN 2 PENDAPATAN ASLI DAERAH 3 Pendapatan Pajak Daerah 4 Pendapatan Retribusi Daerah 5 Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan 6 Lain-lain PAD yang Sah 7 Jumlah Pendapatan Asli Daerah 8 9 PENDAPATAN TRANSFER 10 TRANSFER PEMERINTAH PUSAT - DANA PERIMBANGAN 11 Dana Bagi Hasil Pajak 12 Dana Bagi Hasil Sumber Daya Alam 13 Dana Alokasi Umum 14 Dana Alokasi Khusus 15 Jumlah Pendapatan Transfer Dana Perimbangan 16 17 TRANSFER PEMERINTAH PUSAT LAINNYA 18 Dana Otonomi Khusus 19 Dana Penyesuaian 20 Jumlah Pendapatan Transfer Lainnya 21 Jumlah Pendapatan Transfer 22 23 LAIN-LAIN PENDAPATAN YANG SAH 24 Pendapatan Hibah 25 Pendapatan Lainnya 26 Jumlah Lain-lain Pendapatan Yang Sah 27 JUMLAH PENDAPATAN 28 29 BEBAN 30 BEBAN OPERASI 31 Beban Pegawai 32 Beban Barang Jasa 33 Beban Bunga 34 Beban Subsisdi 35 Beban Hibah 36 Beban Bantuan Sosial 37 Beban Penyusutan 38 Beban Lain-lain 39 Jumlah Beban Operasi 40 41 BEBAN TRANSFER 42 Beban Transfer Bagi Hasil Pajak 43 Beban Transfer Bagi Hasil Pendapatan Lainnya 44 Beban Transfer Bantuan Keuangan ke Pemerintah Daerah Lainnya 45 Beban Transfer Bantuan Keuangan ke Desa 46 Beban Transfer Keuangan Lainnya 47 Jumlah Beban Transfer 48 JUMLAH BEBAN 49 50 JUMLAH SURPLUS/ DEFISIT DARI OPERASI 51 52 SURPLUS/ DEFISIT DARI KEGIATAN NON OPERASIONAL 53 SURPLUS NON OPERASIONAL 54 Surplus Penjualan Aset Non Lancar 55 Surplus Penyelesaian Kewajiban Jangka Panjang 56 Surplus dari Kegiatan Non Operasional Lainnya 57 Jumlah Surplus Non Operasional 58 59 DEFISIT NON OPERASIONAL 60 Defisit Penjualan Aset Non Lancar 61 Defisit Penyelesaian Kewajiban Jangka Panjang 62 Defisit dari Kegiatan Non Operasional Lainnya 63 Jumlah Defisit Non Operasional 64 JUMLAH SURPLUS/ DEFISIT DARI KEGIATAN NON OPERASIONAL 65 66 SURPLUS/ DEFISIT SEBELUM POS LUAR BIASA 67 68 POS LUAR BIASA 69 PENDAPATAN LUAR BIASA 70 Pendapatan Luar Biasa 71 Jumlah Pendapatan Luar Biasa 72 73 BEBAN LUAR BIASA 74 Beban Luar Biasa 75 Jumlah Beban Luar Biasa 76 POS LUAR BIASA 77 78 SURPLUS/ DEFISIT - LO
+
+20X1
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx
+xxx xxx xxx
+xxx
+
+20X0
+
+(Dalam rupiah) Kenaikan/ Penurunan (%)
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+46
+
+PEMERINTAH KABUPATEN/ KOTA LAPORAN OPERASIONAL
+UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+No URAIAN KEGIATAN OPERASIONAL
+1 PENDAPATAN 2 PENDAPATAN ASLI DAERAH 3 Pendapatan Pajak Daerah 4 Pendapatan Retribusi Daerah 5 Pendapatan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan 6 Lain-lain PAD yang Sah 7 Jumlah Pendapatan Asli Daerah 8 9 PENDAPATAN TRANSFER 10 TRANSFER PEMERINTAH PUSAT - DANA PERIMBANGAN 11 Dana Bagi Hasil Pajak 12 Dana Bagi Hasil Sumber Daya Alam 13 Dana Alokasi Umum 14 Dana Alokasi Khusus 15 Jumlah Pendapatan Transfer Dana Perimbangan 16 17 TRANSFER PEMERINTAH PUSAT LAINNYA 18 Dana Otonomi Khusus 19 Dana Penyesuaian 20 Jumlah Pendapatan Transfer Lainnya 21 22 TRANSFER PEMERINTAH PROVINSI 23 Pendapatan Bagi Hasil Pajak 24 Pendapatan Bagi Hasil Lainnya 25 Jumlah Transfer Pemerintah Provinsi 26 Jumlah Pendapatan Transfer 27 28 LAIN-LAIN PENDAPATAN YANG SAH 29 Pendapatan Hibah 30 Pendapatan Lainnya 31 Jumlah Lain-lain Pendapatan Yang Sah 32 JUMLAH PENDAPATAN 33 34 BEBAN 35 BEBAN OPERASI 36 Beban Pegawai 37 Beban Barang Jasa 38 Beban Bunga 39 Beban Subsisdi 40 Beban Hibah 41 Beban Bantuan Sosial 42 Beban Penyusutan 43 Beban Lain-lain 44 Jumlah Beban Operasi 45 46 BEBAN TRANSFER 47 Beban Transfer Bagi Hasil Pajak 48 Beban Transfer Bagi Hasil Pendapatan Lainnya 49 Beban Transfer Bantuan Keuangan ke Pemerintah Daerah Lainnya 50 Beban Transfer Bantuan Keuangan ke Desa 51 Beban Transfer Keuangan Lainnya 52 Jumlah Beban Transfer 53 JUMLAH BEBAN 54 55 JUMLAH SURPLUS/ DEFISIT DARI OPERASI 56 57 SURPLUS/ DEFISIT DARI KEGIATAN NON OPERASIONAL 58 SURPLUS NON OPERASIONAL 59 Surplus Penjualan Aset Non Lancar 60 Surplus Penyelesaian Kewajiban Jangka Panjang 61 Surplus dari Kegiatan Non Operasional Lainnya 62 Jumlah Surplus Non Operasional 63 64 DEFISIT NON OPERASIONAL 65 Defisit Penjualan Aset Non Lancar 66 Defisit Penyelesaian Kewajiban Jangka Panjang 67 Defisit dari Kegiatan Non Operasional Lainnya 68 Jumlah Defisit Non Operasional 69 JUMLAH SURPLUS/ DEFISIT DARI KEGIATAN NON OPERASIONAL 70 71 SURPLUS/ DEFISIT SEBELUM POS LUAR BIASA 72 73 POS LUAR BIASA 74 PENDAPATAN LUAR BIASA 75 Pendapatan Luar Biasa 76 Jumlah Pendapatan Luar Biasa 77 78 BEBAN LUAR BIASA 79 Beban Luar Biasa 80 Jumlah Beban Luar Biasa 81 POS LUAR BIASA 82 83 SURPLUS/ DEFISIT - LO
+
+20X1
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx
+xxx xxx xxx
+xxx
+
+20X0
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx
+xxx xxx
+xxx xxx xxx
+xxx
+
+(Dalam rupiah) Kenaikan/ Penurunan (%)
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx xxx
+
+47
+
+(3) Menyusun Neraca, membuat jurnal penutup akhir, dan Neraca Saldo Akhir Berdasarkan Neraca Saldo setelah Penutupan LO, Fungsi Akuntansi PPKD membuat Neraca. Bersamaan dengan pembuatan Neraca, PPKD membuat jurnal penutup akhir untuk menutup akun Surplus/Defisit­LO ke akun Ekuitas. Berikut ini contoh jurnal penutup akhir.
+
+Surplus/Defisit-LO Ekuitas
+
+xxx xxx
+
+Setelah membuat jurnal penutup akhir, Fungsi Akuntansi PPKD menyusun Neraca Saldo Akhir. Neraca Saldo Akhir ini akan menjadi Neraca Awal untuk periode akuntansi yang selanjutnya.
+Berikut ini merupakan contoh format Neraca Pemerintah Provinsi/Kabupaten/Kota.
+
+48
+
+PEMERINTAH PROVINSI/KABUPATEN /KOTA NERACA
+PER 31 DESEMBER 20X1 DAN 20X0
+
+No.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80
+
+Uraian
+
+ASET
+
+ASET LANCAR Kas di Kas Daerah Kas di Bendahara Pengeluaran Kas di Bendahara Penerimaan Investasi Jangka Pendek Piutang Pajak Piutang Retribusi Penyisihan Piutang Belanja Dibayar Dimuka Bagian Lancar Pinjaman kepada Perusahaan Negara Bagian Lancar Pinjaman kepada Perusahaan Daerah Bagian Lancar Pinjaman kepada Pemerintah Pusat Bagian Lancar Pinjaman kepada Pemerintah Daerah Lainnya Bagian Lancar Tagihan Penjualan Angsuran Bagian lancar Tuntutan Ganti Rugi Piutang Lainnya Persediaan Jumlah Aset Lancar
+
+INVESTASI JANGKA PANJANG Investasi Nonpermanen Pinjaman Jangka Panjang Investasi dalam Surat Utang Negara Investasi dalam Proyek Pembangunan Investasi Nonpermanen Lainnya Jumlah Investasi Nonpermanen Investasi Permanen Penyertaan Modal Pemerintah Daerah Investasi Permanen Lainnya Jumlah Investasi Permanen Jumlah Investasi Jangka Panjang
+
+ASET TETAP Tanah Peralatan dan Mesin Gedung dan Bangunan Jalan, Irigasi dan Jaringan Aset Tetap Lainnya Konstruksi dalam Pengerjaan Akumulasi Penyusutan Jumlah Aset Tetap
+
+DANA CADANGAN Dana Cadangan Jumlah Dana Cadangan
+
+ASET LAINNYA Tagihan Penjualan Angsuran Tuntutan Ganti Rugi Kemitraan dengan Pihak Ketiga Aset Tak Berwujud Aset Lain-laim Jumlah Aset Lainnya
+
+JUMLAH ASET
+
+KEWAJIBAN
+
+KEWAJIBAN JANGKA PENDEK Utang Perhitungan Pihak Ketiga (PFK) Utang Bunga Bagian Lancar Utang Jangka Panjang Pendapatan Diterima Dimuka Utang Belanja Utang Jangka Pendek Lainnya Jumlah Kewajiban Jangka Pendek
+
+KEWAJIBAN JANGKA PANJANG Utang Dalam Negeri - Sektor Perbankan Utang Dalam Negeri - Obligasi Premium (Diskonto) Obligasi Utang Jangka Panjang Lainnya Jumlah Kewajiban Jangka Panjang JUMLAH KEWAJIBAN
+
+EKUITAS Ekuitas
+
+JUMLAH KEWAJIBAN DAN EKUITAS DANA
+
+(Dalam Rupiah)
+
+20X1
+
+20X0
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx xxx
+
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx xxx
+49
+
+(4) Menyusun Laporan Perubahan SAL Dari Laporan Realisasi Anggaran yang telah dibuat sebelumnya, Fungsi Akuntansi PPKD dapat menyusun Laporan Perubahan SAL. Laporan Perubahan SAL ini merupakan akumulasi SiLPA periode berjalan dan tahuntahun sebelumnya. Berikut ini merupakan contoh format Laporan Perubahan Saldo Anggaran Lebih Pemerintah Daerah.
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA ...... LAPORAN PERUBAHAN SALDO ANGGARAN LEBIH
+PER 31 DESEMBER 20X1 DAN 20X0
+
+NO URAIAN
+
+20X1 20X0
+
+1 Saldo Anggaran Lebih Awal 2 Penggunaan SAL sebagai Penerimaan Pembiayaan Tahun Berjalan 3 Subtotal (1 + 2) 4 Sisa Lebih/Kurang Pembiayaan Anggaran (SiLPA/SiKPA) 5 Subtotal (3 + 4) 6 Koreksi Kesalahan Pembukuan Tahun Sebelumnya 7 Lain-lain 8 Saldo Anggaran Lebih Akhir (5 + 6 + 7)
+
+XXX (XXX)
+XXX XXX XXX XXX XXX XXX
+
+XXX (XXX)
+XXX XXX XXX XXX XXX XXX
+
+(5) Menyusun Laporan Perubahan Ekuitas Selanjutnya, Fungsi Akuntansi PPKD membuat Laporan Perubahan Ekuitas menggunakan data Ekuitas Awal dan data perubahan ekuitas periode berjalan yang salah satunya diperoleh dari Laporan Operasional yang telah dibuat sebelumnya. Laporan Perubahan Ekuitas ini akan menggambarkan pergerakan ekuitas PPKD. Berikut ini merupakan contoh format Laporan Perubahan Ekuitas Pemerintah Daerah.
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA LAPORAN PERUBAHAN EKUITAS
+UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 DAN 20X0
+
+NO URAIAN
+
+20X1 20X0
+
+1 EKUITAS AWAL 2 SURPLUS/DEFISIT-LO 3 DAMPAK KUMULATIF PERUBAHAN KEBIJAKAN/KESALAHAN MENDASAR: 4 KOREKSI NILAI PERSEDIAAN 5 SELISIH REVALUASI ASET TETAP 6 LAIN-LAIN 7 EKUITAS AKHIR
+
+XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX
+
+50
+
+(6) Membuat Laporan Arus Kas Laporan Arus Kas disusun oleh Bendahara Umum Daerah. Inti unsur dari Laporan Arus Kas ialah penerimaan kas dan pengeluaran kas. Informasi tersebut dapat diperoleh dari Buku Besar Kas dan juga jurnal yang telah dibuat sebelumnya. Semua transaksi terkait Arus Kas tersebut kemudian diklasifikasikan ke dalam aktivitas operasi, aktivitas investasi, aktivitas pendanaan, aktivitas transitoris. Berikut ini merupakan contoh format Laporan Arus Kas Pemerintah Daerah.
+51
+
+PEMERINTAH PROVINSI
+LAPORAN ARUS KAS
+Untuk Tahun Yang Berakhir Sampai Dengan 31 Desember 20X1 dan 20X0 Metode Langsung
+
+No.
+
+Ura i a n
+
+1 Arus Kas dari Aktivitas Operasi
+
+2 Arus Masuk Kas
+
+3 Penerimaan Pajak Daerah
+
+4 Penerimaan Retribusi Daerah
+
+5 Penerimaan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan
+
+6 Penerimaan Lain-lain PAD yang sah
+
+7 Penerimaan Dana Bagi Hasil Pajak
+
+8 Penerimaan Dana Bagi Hasil Sumber Daya Alam
+
+9 Penerimaan Dana Alokasi Umum
+
+10 Penerimaan Dana Alokasi Khusus
+
+11 Penerimaan Dana Otonomi Khusus
+
+12 Penerimaan Dana Penyesuaian
+
+13 Penerimaan Hibah
+
+14 Penerimaan Dana Darurat
+
+15 Penerimaan Lainnya
+
+16 Penerimaan dari Pendapatan Luar Biasa
+
+17 Jumlah Arus Masuk Kas
+
+18 Arus Keluar Kas
+
+19 Pembayaran Pegawai
+
+20 Pembayaran Barang
+
+21 Pembayaran Bunga
+
+22 Pembayaran Subsidi
+
+23 Pembayaran Hibah
+
+24 Pembayaran Bantuan Sosial
+
+25 Pembayaran Tak Terduga
+
+26 Pembayaran Bagi Hasil Pajak ke Kabupaten/ Kota
+
+27 Pembayaran Bagi Hasil Retribusi ke Kabupaten/ Kota
+
+28 Pembayaran Bagi Hasil Pendapatan Lainnya ke Kabupaten Kota
+
+29 Pembayaran Kejadian Luar Biasa
+
+30 Jumlah Arus Keluar Kas
+
+31 Arus Kas Bersih dari Aktivitas Operasi
+
+32 Arus Kas dari Aktivitas Investasi
+
+33 Arus Masuk Kas
+
+34 Pencairan Dana Cadangan
+
+35 Penjualan atas Tanah
+
+36 Penjualan atas Peralatan dan Mesin
+
+37 Penjualan atas Gedung dan Bangunan
+
+38 Penjualan atas Jalan, Irigasi dan Jaringan
+
+39 Penjualan Aset Tetap
+
+40 Penjualan Aset Lainnya
+
+41 Hasil Penjualan Kekayaan Daerah yang Dipisahkan
+
+42 Penerimaan Penjualan Investasi Non Permanen
+
+43 Jumlah Arus Masuk Kas
+
+44 Arus Keluar Kas
+
+45 Pembentukan Dana Cadangan
+
+46 Perolehan Tanah
+
+47 Perolehan Peralatan dan Mesin
+
+48 Perolehan Gedung dan Bangunan
+
+49 Perolehan Jalan, Irigasi dan Jaringan
+
+50 Perolehan Aset Tetap Lainnya
+
+51 Perolehan Aset Lainnya
+
+52 Penyertaan Modal Pemerintah Daerah
+
+53 Pengeluaran Pembelian Investasi Non Permanen
+
+54 Jumlah Arus Keluar Kas
+
+55 Arus Kas Bersih dari Aktivitas Investasi
+
+56 Arus Kas dari Aktivitas Pendanaan
+
+57 Arus Masuk Kas
+
+58 Pinjaman Dalam Negeri - Pemerintah Pusat
+
+59 Pinjaman Dalam Negeri - Pemerintah Daerah Lainnya
+
+60 Pinjaman Dalam Negeri - Lembaga Keuangan Bank
+
+61 Pinjaman Dalam Negeri - Lembaga Keuangan Bukan Bank
+
+62 Pinjaman Dalam Negeri - Obligasi
+
+63 Pinjaman Dalam Negeri - Lainnya
+
+64 Penerimaan Kembali Pinjaman kepada Perusahaan Negara
+
+65 Penerimaan Kembali Pinjaman kepada Perusahaan Daerah
+
+66 Penerimaan Kembali Pinjaman kepada Pemerintah Daerah Lainnya
+
+67 Jumlah Arus Masuk Kas
+
+68 Arus Keluar Kas
+
+69 Pembayaran Pokok Pinjaman Dalam Negeri - Pemerintah Pusat
+
+70 Pembayaran Pokok Pinjaman Dalam Negeri - Pemerintah Daerah Lainnya
+
+71 Pembayaran Pokok Pinjaman Dalam Negeri - Lembaga Keuangan Bank
+
+72 Pembayaran Pokok Pinjaman Dalam Negeri - Lembaga Keuangan Bukan Bank
+
+73 Pembayaran Pokok Pinjaman Dalam Negeri - Obligasi
+
+74 Pembayaran Pokok Pinjaman Dalam Negeri - Lainnya
+
+75 Pemberian Pinjaman kepada Perusahaan Negara
+
+76 Pemberian Pinjaman kepada Perusahaan Daerah
+
+77 Pemberian Pinjaman kepada Pemerintah Daerah Lainnya
+
+78 Jumlah Arus Keluar Kas
+
+79 Arus Kas Bersih dari Aktivitas Pendanaan
+
+80 Arus Kas dari Aktivitas Transitoris
+
+81 Arus Masuk Kas
+
+82 Penerimaan Perhitungan Fihak Ketiga
+
+83 Jumlah Arus Masuk Kas
+
+84 Arus Keluar Kas
+
+85 Pengeluaran Perhitungan Fihak Ketiga (PFK)
+
+86 Jumlah Arus Keluar Kas
+
+87 Arus Kas Bersih dari Aktivitas transitoris
+
+88 Kenaikan/Penurunan Kas
+
+89 Saldo Awal Kas di BUD & Kas di Bendahara Pengeluaran
+
+90 Saldo Akhir Kas di BUD & Kas di Bendahara Pengeluaran
+
+91 Saldo Akhir Kas di Bendahara Penerimaan
+
+92 Saldo Akhir Kas
+
+(Dalam Rupiah)
+
+20X1
+
+20X0
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX
+
+52
+
+PEMERINTAH KABUPATEN/KOTA
+LAPORAN ARUS KAS
+Untuk Tahun Yang Berakhir Sampai Dengan 31 Desember 20X1 dan 20X0 Metode Langsung
+
+No.
+
+Ura i a n
+
+1 Arus Kas dari Aktivitas Operasi
+
+2 Arus Masuk Kas
+
+3 Penerimaan Pajak Daerah
+
+4 Penerimaan Retribusi Daerah
+
+5 Penerimaan Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan
+
+6 Penerimaan Lain-lain PAD yang sah
+
+7 Penerimaan Dana Bagi Hasil Pajak
+
+8 Penerimaan Dana Bagi Hasil Sumber Daya Alam
+
+9 Penerimaan Dana Alokasi Umum
+
+10 Penerimaan Dana Alokasi Khusus
+
+11 Penerimaan Dana Otonomi Khusus
+
+12 Penerimaan Dana Penyesuaian
+
+13 Penerimaan Pendapatan Bagi Hasil Pajak
+
+14 Penerimaan Bagi Hasil Lainnya
+
+15 Penerimaan Hibah
+
+16 Penerimaan Dana Darurat
+
+17 Penerimaan Lainnya
+
+18 Penerimaan dari Pendapatan Luar Biasa
+
+19 Jumlah Arus Masuk Kas
+
+20 Arus Keluar Kas
+
+21 Pembayaran Pegawai
+
+22 Pembayaran Barang
+
+23 Pembayaran Bunga
+
+24 Pembayaran Subsidi
+
+25 Pembayaran Hibah
+
+26 Pembayaran Bantuan Sosial
+
+27 Pembayaran Tak Terduga
+
+28 Pembayaran Bagi Hasil Pajak
+
+29 Pembayaran Bagi Hasil Retribusi
+
+30 Pembayaran Bagi Hasil Pendapatan Lainnya
+
+31 Pembayaran Kejadian Luar Biasa
+
+32 Jumlah Arus Keluar Kas
+
+33 Arus Kas Bersih dari Aktivitas Operasi
+
+34 Arus Kas dari Aktivitas Investasi
+
+35 Arus Masuk Kas
+
+36 Pencairan Dana Cadangan
+
+37 Penjualan atas Tanah
+
+38 Penjualan atas Peralatan dan Mesin
+
+39 Penjualan atas Gedung dan Bangunan
+
+40 Penjualan atas Jalan, Irigasi dan Jaringan
+
+41 Penjualan Aset Tetap
+
+42 Penjualan Aset Lainnya
+
+43 Hasil Penjualan Kekayaan Daerah yang Dipisahkan
+
+44 Penerimaan Penjualan Investasi Non Permanen
+
+45 Jumlah Arus Masuk Kas
+
+46 Arus Keluar Kas
+
+47 Pembentukan Dana Cadangan
+
+48 Perolehan Tanah
+
+49 Perolehan Peralatan dan Mesin
+
+50 Perolehan Gedung dan Bangunan
+
+51 Perolehan Jalan, Irigasi dan Jaringan
+
+52 Perolehan Aset Tetap Lainnya
+
+53 Perolehan Aset Lainnya
+
+54 Penyertaan Modal Pemerintah Daerah
+
+55 Pengeluaran Pembelian Investasi Non Permanen
+
+56 Jumlah Arus Keluar Kas
+
+57 Arus Kas Bersih dari Aktivitas Investasi
+
+58 Arus Kas dari Aktivitas Pendanaan
+
+59 Arus Masuk Kas
+
+60 Pinjaman Dalam Negeri - Pemerintah Pusat
+
+61 Pinjaman Dalam Negeri - Pemerintah Daerah Lainnya
+
+62 Pinjaman Dalam Negeri - Lembaga Keuangan Bank
+
+63 Pinjaman Dalam Negeri - Lembaga Keuangan Bukan Bank
+
+64 Pinjaman Dalam Negeri - Obligasi
+
+65 Pinjaman Dalam Negeri - Lainnya
+
+66 Penerimaan Kembali Pinjaman kepada Perusahaan Negara
+
+67 Penerimaan Kembali Pinjaman kepada Perusahaan Daerah
+
+68 Penerimaan Kembali Pinjaman kepada Pemerintah Daerah Lainnya
+
+69 Jumlah Arus Masuk Kas
+
+70 Arus Keluar Kas
+
+71 Pembayaran Pokok Pinjaman Dalam Negeri - Pemerintah Pusat
+
+72 Pembayaran Pokok Pinjaman Dalam Negeri - Pemerintah Daerah Lainnya
+
+73 Pembayaran Pokok Pinjaman Dalam Negeri - Lembaga Keuangan Bank
+
+74 Pembayaran Pokok Pinjaman Dalam Negeri - Lembaga Keuangan Bukan Bank
+
+75 Pembayaran Pokok Pinjaman Dalam Negeri - Obligasi
+
+76 Pembayaran Pokok Pinjaman Dalam Negeri - Lainnya
+
+77 Pemberian Pinjaman kepada Perusahaan Negara
+
+78 Pemberian Pinjaman kepada Perusahaan Daerah
+
+79 Pemberian Pinjaman kepada Pemerintah Daerah Lainnya
+
+80 Jumlah Arus Keluar Kas
+
+81 Arus Kas Bersih dari Aktivitas Pendanaan
+
+82 Arus Kas dari Aktivitas Transitoris
+
+83 Arus Masuk Kas
+
+84 Penerimaan Perhitungan Fihak Ketiga
+
+85 Jumlah Arus Masuk Kas
+
+86 Arus Keluar Kas
+
+87 Pengeluaran Perhitungan Fihak Ketiga (PFK)
+
+88 Jumlah Arus Keluar Kas
+
+89 Arus Kas Bersih dari Aktivitas transitoris
+
+90 Kenaikan/Penurunan Kas
+
+91 Saldo Awal Kas di BUD & Kas di Bendahara Pengeluaran
+
+92 Saldo Akhir Kas di BUD & Kas di Bendahara Pengeluaran
+
+93 Saldo Akhir Kas di Bendahara Penerimaan
+
+94 Saldo Akhir Kas
+
+(Dalam Rupiah)
+
+20X1
+
+20X0
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX
+
+XXX XXX
+XXX XXX XXX XXX XXX XXX XXX XXX
+
+53
+
+(7) Membuat Catatan atas Laporan Keuangan Catatan atas Laporan Keuangan meliputi penjelasan atau rincian dari angka yang tertera dalam Laporan Realisasi Anggaran, Laporan Perubahan SAL, Laporan Operasional, Laporan Perubahan Ekuitas, Neraca, dan Laporan Arus Kas. Hal-hal yang diungkapkan di dalam Catatan atas Laporan Keuangan antara lain:  Informasi umum tentang Entitas Pelaporan dan Entitas Akuntansi;  Informasi tentang kebijakan keuangan dan ekonomi makro;  Ikhtisar pencapaian target keuangan selama tahun pelaporan berikut kendala dan hambatan yang dihadapi dalam pencapaian target;  Informasi tentang dasar penyusunan laporan keuangan dan kebijakan-kebijakan akuntansi yang dipilih untuk diterapkan atas transaksi-transaksi dan kejadian-kejadian penting lainnya;  Rincian dan penjelasan masing-masing pos yang disajikan pada lembar muka laporan keuangan;  Informasi yang diharuskan oleh Pernyataan Standar Akuntansi Pemerintahan yang belum disajikan dalam lembar muka laporan keuangan; dan  Informasi lainnya yang diperlukan untuk penyajian yang wajar, yang tidak disajikan dalam lembar muka laporan keuangan. Berikut ini merupakan contoh format Catatan atas Laporan Keuangan Pemerintah Provinsi/Kabupaten/Kota.
+54
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA....... CATATAN ATAS LAPORAN KEUANGAN
+
+Bab I Bab II Bab III Bab IV
+Bab V
+Bab VI Bab VII
+
+PENDAHULUAN
+Pendahuluan 1.1 Maksud dan tujuan penyusunan laporan keuangan pemerintah daerah 1.2 Landasan hukum penyusunan laporan keuangan pemerintah daerah 1.3 Sistematika penulisan catatan atas laporan keuangan pemerintah
+daerah Ekonomi makro, kebijakan keuangan dan pencapaian target kinerja APBD
+2.1 Ekonomi makro
+2.2 Kebijakan keuangan 2.3 Indikator pencapaian target kinerja APBD Ikhtisar pencapaian kinerja keuangan pemerintah daerah
+3.1 Ikhtisar realisasi pencapaian target kinerja keuangan pemerintah daerah 3.2 Hambatan dan kendala yang ada dalam pencapaian target yang telah
+ditetapkan
+Kebijakan akuntansi 4.1 Entitas akuntansi / entitas pelaporan keuangan daerah
+4.2 Basis akuntansi yang mendasari penyusunan laporan keuangan pemerintah daerah
+4.3 Basis pengukuran yang mendasari penyusunan laporan keuangan pemerintah daerah
+4.4 Penerapan kebijakan akuntansi berkaitan dengan ketentuan yang ada dalam SAP pada pemerintah daerah
+Penjelasan pos-pos laporan keuangan pemerintah daerah 5.1 Rincian dari penjelasan masing-masing pos-pos pelaporan keuangan
+pemerintah daerah
+5.1.1 Pendapatan ­ LRA 5.1.2 Belanja 5.1.3 Transfer 5.1.4 Pembiayaan
+5.1.5 Pendapatan ­ LO 5.1.6 Beban
+5.1.7 Aset 5.1.8 Kewajiban
+5.1.9 Ekuitas Dana 5.2 Pengungkapan atas pos-pos aset dan kewajiban yang timbul
+sehubungan dengan penerapan basis akrual atas pendapatan dan belanja dan rekonsiliasinya dengan penerapan basis kas, untuk entitas akuntansi/entitas pelaporan yang menggunakan basis akrual pada pemerintah daerah. Penjelasan atas informasi-informasi nonkeuangan pemerintah daerah Penutup
+
+55
+
+2. SISTEM AKUNTANSI SKPD
+a. Pencatatan Anggaran pada SKPD
+Pencatatan anggaran pada SKPD merupakan tahap persiapan sistem akuntansi pemerintah daerah. Pada tahap ini dilakukan pencatatan untuk merekam data anggaran yang akan membentuk estimasi perubahan SAL. Estimasi perubahan SAL ini merupakan akun perantara yang berguna dalam rangka pencatatan transaksi realisasi anggaran. 1) Pihak-Pihak Terkait
+Pihak-pihak yang terkait dalam prosedur akuntansi pendapatan SKPD adalah: a) Pengguna Anggaran b) Pejabat Penatausahaan Keuangan (PPK-SKPD)
+2) Langkah-Langkah Teknis Berdasarkan dokumen Pelaksanaan Anggaran SKPD (DPA-SKPD), PPK-SKPD mencatat "Estimasi Pendapatan" di debit sebesar total anggaran pendapatan, dan "Apropriasi Belanja" di kredit sebesar total anggaran belanja. Selisih antara anggaran pendapatan dan anggaran belanja dicatat "Estimasi Perubahan SAL" di debit. Atas transaksi di atas, PPK-SKPD membuat jurnal sebagai berikut:
+
+Estimasi Pendapatan Estimasi Perubahan SAL
+Apropriasi Belanja
+
+xxx xxx
+xxx
+
+b. Akuntansi Pendapatan SKPD
+1) Pihak-Pihak Terkait Pihak-pihak yang terkait dalam prosedur akuntansi pendapatan SKPD adalah: a) PPKD b) Pejabat Penatausahaan Keuangan (PPK-SKPD)
+2) Langkah-Langkah Teknis Bagian ini akan menjelaskan urutan prosedur yang harus dilakukan oleh PPK SKPD dalam melakukan pencatatan transaksi pendapatan. Transaksi pendapatan SKPD merupakan
+56
+
+pendapatan yang dipungut berdasarkan peraturan daerah sesuai dengan peraturan perundang-undangan. Dalam hal instansi pemungut pajak terpisah dari bendahara umum daerah (BUD), maka pajak daerah dianggarkan dan dicatat pada instansi tersebut. Sebaliknya apabila pemungutan pajak dilakukan oleh pejabat pengelolaan keuangan daerah (PPKD) selaku BUD, pajak daerah dianggarkan dan dicatat oleh PPKD. Ilustrasi pencatatan dalam hal instansi pemungut pajak terpisah dari PPKD disajikan sebagai berikut : a) Pemungutan pajak dapat didahului dengan penerbitan Surat
+Ketetapan Pajak Daerah maupun penyetoran langsung oleh masyarakat. Terhadap kedua cara pemungutan tersebut pengakuan pendapatan pajak dilakukan pada saat penyetoran oleh Wajib Pajak ke Rekening Kas Daerah. Langkah-langkah teknis SKPD yang berwenang akan menerbitkan Surat Ketetapan Pajak Daerah (SKP Daerah) terkait. Selain disampaikan kepada Wajib Pajak (WP), SKP Daerah tersebut akan didistribusikan kepada PPK-SKPD. SKP Daerah tersebut akan menjadi dokumen sumber dalam mengakui pendapatan pajak daerah setelah dilakukan pembayaran. Terhadap transaksi tersebut PPK-SKPD mengakui pendapatan pajak dengan mencatat "Kas di Bendahara Penerimaan" di debit dan "Pendapatan Pajak Daerah­LO (sesuai rincian objek terkait)" dengan jurnal :
+
+Kas di Bendahara Penerimaan Pendapatan Pajak Daerah ...-LO
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran, PPK-SKPD mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Pajak Daerah -LRA (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Pajak Daerah ...-LRA
+
+xxx xxx
+
+Atas pajak yang diterima tersebut akan dilakukan penyetoran ke Kas Daerah dengan menggunakan Surat Tanda Setoran
+
+57
+
+(STS). Berdasarkan STS tersebut, PPK-SKPD mencatat "RK PPKD" di debit dan "Kas di Bendahara Penerimaan" di kredit dengan jurnal:
+
+RK PPKD Kas di Bendahara Penerimaan
+
+xxx xxx
+
+Pada akhir tahun terhadap SKP yang belum dilunasi, PPK SKPD mencatat "Piutang Pajak Daerah (sesuai rincian objek terkait)" di debit dan "Pendapatan Pajak Daerah­ LO (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Piutang Pajak Daerah ...
+
+xxx
+
+Pendapatan Pajak Daerah..... - LO
+
+xxx
+
+b) Kelompok pendapatan retribusi untuk memenuhi kewajiban dalam periode tahun berjalan, diakui ketika pembayarannya telah diterima. Langkah-langkah teknis Wajib retribusi melakukan pembayaran retribusi kemudian akan menerima Tanda Bukti Pembayaran (TBP). TBP juga menjadi dasar bagi PPK SKPD untuk mengakui pendapatan dengan mencatat "Kas di Bendahara Penerimaan" di debit dan "Pendapatan Retribusi Daerah - LO (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Kas di Bendahara Penerimaan
+
+xxx
+
+Pendapatan Retribusi Daerah... -LO
+
+xxx
+
+Sebagai transaksi realisasi anggaran terhadap realisasi pendapatan retribusi, PPK-SKPD mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Retribusi DaerahLRA (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Retribusi Daerah -LRA
+
+xxx
+
+xxx
+
+Atas retribusi yang diterima tersebut akan dilakukan penyetoran ke Kas Daerah dengan menggunakan Surat Tanda Setoran (STS). Berdasarkan STS tersebut, PPK-SKPD mencatat "RK PPKD" di debit dan "Kas di Bendahara Penerimaan" di kredit dengan jurnal:
+58
+
+RK PPKD Kas di Bendahara Penerimaan
+
+xxx
+
+xxx
+
+Pada akhir tahun terhadap SKR yang belum dilunasi, PPK SKPD mencatat "Piutang Retribusi Daerah (sesuai rincian objek terkait)" di debit dan "Pendapatan Retribusi Daerah ­ LO (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Piutang Retribusi Daerah.....
+
+xxx
+
+Pendapatan Retribusi Daerah.... - LO
+
+xxx
+
+c. Akuntansi Belanja dan Beban SKPD
+1) Pihak-Pihak Terkait Pihak-pihak yang terkait dalam prosedur akuntansi beban SKPD adalah: a) Kuasa Bendahara Umum Daerah (BUD) b) Pejabat Penatausahaan Keuangan (PPK-SKPD) c) Pengguna Anggaran/Kuasa Pengguna Anggaran
+2) Langkah-Langkah Teknis a) Belanja dan Beban Pegawai
+(1) Belanja dan Beban Pegawai Menggunakan Uang Persediaan Bendahara Pengeluaran SKPD menyerahkan bukti transaksi beban pegawai yang menggunakan uang persediaan. Berdasarkan bukti transaksi tersebut, PPKSKPD mencatat jurnal "Beban Pegawai-LO" di debit dan "Kas di Bendahara Pengeluaran" di kredit dengan jurnal:
+
+Beban Pegawai-LO Kas di Bendahara Pengeluaran
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran realisasi belanja pegawai, PPK-SKPD mencatat "Belanja Pegawai" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja Pegawai Estimasi Perubahan SAL
+
+xxx xxx
+
+59
+
+(2) Belanja dan Beban Pegawai Menggunakan Mekanisme LS Pengakuan beban pegawai yang menggunakan mekanisme LS dilakukan berdasarkan SP2D LS. SP2D LS ini menjadi dasar bagi PPK-SKPD untuk mencatat "Beban Pegawai LO" di debit dan "RK PPKD" di kredit dengan jurnal:
+
+Beban Pegawai - LO RK PPKD
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran terhadap realisasi belanja pegawai, PPK-SKPD mencatat "Belanja Pegawai" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja Pegawai Estimasi Perubahan SAL
+
+xxx xxx
+
+Belanja Pegawai tersebut dicatat jumlah brutonya, yaitu nilai sebelum potongan-potongan. Berbagai potongan atas Belanja Pegawai tidak dicatat oleh PPK-SKPD, karena akan dicatat oleh Fungsi Akuntansi PPKD.
+
+(3) Pengajuan Ganti Uang Pengakuan ganti uang persediaan dilakukan berdasarkan SP2D GU. SP2D GU ini menjadi dasar bagi PPK-SKPD untuk mencatat "Kas di Bendahara Pengeluaran" di debit dan "RK PPKD" di kredit dengan jurnal:
+
+Kas di Bendahara Pengeluaran RK PPKD
+
+xxx xxx
+
+b) Belanja dan Beban Barang dan Jasa (1) Belanja dan Beban Barang Menggunakan Uang Persediaan Bendahara Pengeluaran SKPD menyerahkan bukti transaksi beban barang dengan menggunakan uang persediaan. Pengakuan beban barang yang menggunakan uang persediaan dilakukan berdasarkan bukti transaksi beban barang. Bukti transaksi ini menjadi dasar bagi PPKSKPD untuk mencatat "Beban Barang dan Jasa (sesuai
+
+60
+
+rincian objek terkait)" di debit dan "Kas di Bendahara Pengeluaran" di kredit dengan jurnal:
+
+Beban Barang dan Jasa..... Kas di Bendahara Pengeluaran
+
+xxx xxx
+
+Khusus untuk pengadaan barang dan jasa berupa belanja bahan pakai habis, belanja bahan/material, PPK-SKPD mencatat "Beban Persediaan" di debit dan "Kas di bendahara Pengeluaran" di kredit dengan jurnal:
+
+Beban Persediaan Kas di Bendahara Pengeluaran
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran terhadap realisasi belanja, PPK-SKPD mencatat "Belanja Barang dan Jasa (sesuai rincian objek terkait)" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja Barang dan Jasa .... Estimasi Perubahan SAL
+
+xxx xxx
+
+(2) Belanja dan Beban Barang dan Jasa Menggunakan Mekanisme LS Pengakuan beban barang yang menggunakan mekanisme LS dilakukan berdasarkan Berita Acara Serah Terima Barang. Berita Acara Serah Terima Barang tersebut menjadi dasar bagi PPK-SKPD untuk mencatat "Beban Barang dan Jasa (sesuai rincian objek terkait)" di debit dan "Utang Belanja Barang dan Jasa....." di kredit dengan jurnal:
+
+Beban Barang dan Jasa ... Utang Belanja Barang dan Jasa ...
+
+xxx xxx
+
+Selanjutnya dilaksanakan proses penatausahaan untuk
+
+pembayaran beban barang tersebut. Berdasarkan SP2D
+
+pelunasan utang beban tersebut, PPK-SKPD mencatat
+
+"Utang Belanja Barang....." di debit dan "RK PPKD" di
+
+kredit dengan jurnal:
+
+Utang Belanja Barang ...
+
+xxx
+
+RK PPKD
+
+xxx
+
+61
+
+Sebagai transaksi realisasi anggaran terhadap realisasi belanja, PPK-SKPD mencatat "Belanja (sesuai rincian objek terkait)" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja ..... Estimasi Perubahan SAL
+
+xxx xxx
+
+Belanja barang tersebut dicatat berdasarkan nilai bruto.
+
+(3) Pengajuan Ganti Uang Pengakuan ganti uang persediaan dilakukan berdasarkan SP2D GU. SP2D GU ini menjadi dasar bagi PPK-SKPD untuk mencatat "Kas di Bendahara Pengeluaran" di debit dan "RK PPKD" di kredit dengan jurnal:
+
+Kas di Bendahara Pengeluaran RK PPKD
+
+xxx xxx
+
+(4) Transaksi pembayaran biaya sewa yang masa manfaatnya
+
+lebih dari satu tahun anggaran
+
+Apabila SKPD melakukan pembayaran sewa yang masa
+
+manfaatnya lebih dari satu tahun anggaran yang dicatat
+
+dengan pendekatan beban oleh pemerintah daerah, PPK-
+
+SKPD akan mencatat "Beban Sewa" untuk mencatat
+
+beban tahun berkenaan dan "Beban Sewa Dibayar di
+
+Muka" untuk mencatat sisanya di debit dan "RK PPKD" di
+
+kredit dengan jurnal:
+
+Beban Sewa Beban Sewa Dibayar di Muka
+
+xxx xxx
+
+RK PPKD
+
+xxx
+
+c) Pengembalian Beban Dalam kasus terjadi penerimaan kembali beban pada periode berjalan dan mempengaruhi posisi kas, PPK-SKPD mencatat "Kas di Bendahara Pengeluaran" di debit dan "Beban (sesuai rincian objek yang terkait)" di kredit dengan jurnal:
+
+Kas di Bendahara Pengeluaran Beban ...
+
+xxx xxx
+
+62
+
+Sebagai transaksi untuk mengkoreksi realisasi anggaran, PPK-SKPD mencatat "Estimasi Perubahan SAL" di debit dan "Belanja (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Belanja ...
+
+xxx xxx
+
+Kasus pengembalian beban juga dapat terjadi pada belanjabelanja yang terjadi di periode sebelumnya (pengembalian dilakukan setelah laporan keuangan diterbitkan). Pada kasus seperti ini harus diidentifikasi terlebih dahulu apakah pengembalian terjadi pada belanja yang sifatnya berulang atau tidak berulang. Dalam hal pengembalian terjadi pada belanja yang sifatnya berulang, PPK-SKPD mencatat "RK PPKD" di debit dan "Beban (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+RK PPKD Beban ...
+
+xxx xxx
+
+Sebagai transaksi untuk mengkoreksi realisasi anggaran, PPK-SKPD mencatat "Estimasi Perubahan SAL" di debit dan "Belanja (sesuai rincian objek terkait)" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Belanja .....
+
+xxx xxx
+
+Dalam hal pengembalian belanja yang sifatnya tidak berulang, PPK-SKPD tidak melakukan pencatatan. Pencatatan dilakukan oleh Fungsi Akuntansi PPKD dimana Fungsi Akuntansi PPKD mencatat "Kas di Kas Daerah" di debit dan "Pendapatan Lainnya-LO" di kredit dengan jurnal:
+
+Kas di Kas Daerah Pendapatan Lainnya-LO
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran, Fungsi Akuntansi PPKD mencatat "Estimasi Perubahan SAL" di debit dan "Pendapatan Lainnya­LRA" di kredit dengan jurnal:
+
+Estimasi Perubahan SAL Pendapatan Lainnya-LRA
+
+xxx xxx
+
+63
+
+d. Akuntansi Aset SKPD
+1) Pihak-Pihak Terkait
+Pihak-pihak yang terkait dalam prosedur akuntansi aset SKPD adalah: a) Kuasa BUD b) PPKD c) Pengguna Barang d) Pengelola Barang e) Pejabat penatausahaan Keuangan SKPD (PPK-SKPD) 2) Langkah-Langkah Teknis
+a) Pembelian Aset Tetap Dalam kasus pembelian aset tetap, berdasarkan bukti transaksi berupa Berita Acara Penerimaan Barang, PPK-SKPD akan membuat bukti memorial aset tetap yang kemudian diotorisasi oleh Pengguna Anggaran. Berdasarkan bukti memorial aset tetap ini, PPK-SKPD mencatat "Aset Tetap....." di debit dan "Utang Belanja Modal" di kredit dengan jurnal:
+
+Aset Tetap ..... Utang Belanja Modal
+
+xxx xxx
+
+Selanjutnya dilaksanakan proses penatausahaan untuk pembayaran perolehan aset tetap tersebut mulai dari pengajuan SPP, pembuatan SPM hingga penerbitan SP2D. Berdasarkan SP2D tersebut PPK-SKPD akan mencatat "Utang Belanja Modal" di debit dan "RK PPKD" di kredit dengan jurnal:
+
+Utang Belanja Modal RK PPKD
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran, PPK-SKPD juga mencatat "Belanja Modal (sesuai jenisnya)" di debit dan "Estimasi Perubahan SAL" di kredit dengan jurnal:
+
+Belanja Modal ..... Estimasi Perubahan SAL
+
+xxx xxx
+
+64
+
+b) Penghapusan Aset Tetap
+
+Penghapusan aset tetap dapat terjadi karena penjualan,
+
+tukar-menukar, hibah, penyertaan modal, pemusnahan atau
+
+karena sebab-sebab lainnya.
+
+Untuk penghapusan aset tetap karena penjualan surplus,
+
+PPK SKPD akan mencatat "RK PPKD" dan "Akumulasi
+
+Penyusutan" di debit serta "Surplus Penjualan Aset Non
+
+Lancar - LO" dan "Aset tetap (sesuai jenisnya)" sebesar nilai
+
+perolehannya di kredit dengan jurnal:
+
+RK PPKD Akumulasi Penyusutan
+Surplus Penjualan Aset Non Lancar - LO
+
+xxx xxx
+xxx
+
+Aset tetap.....
+
+xxx
+
+Sedangkan untuk penghapusan aset tetap karena pemusnahan PPK-SKPD mencatat penghapusan aset tetap tersebut. Terhadap kejadian diatas, PPK-SKPD mencatat "Akumulasi Penyusutan Aset Tetap....." dan "Defisit dari Kegiatan Non Operasional Lainnya -LO" di debit dan "Aset Tetap....." di kredit dengan jurnal:
+
+Akumulasi Penyusutan Aset Tetap..... Defisit dari Kegiatan Non Operasional Lainnya - LO
+Aset Tetap .....
+
+xxx xxx
+xxx
+
+e. Akuntansi Kewajiban SKPD
+1) Pihak-Pihak Terkait Pihak-pihak yang terkait dalam prosedur akuntansi kewajiban SKPD adalah: a) Pejabat Penatausahaan Keuangan (PPK-SKPD) b) Pejabat Pelaksana Teknis Kegiatan (PPTK)
+2) Langkah-Langkah Teknis Ketika SKPD melakukan suatu transaksi pembelian barang dan jasa yang telah dilaksanakan dan pelunasan belum dilakukan, PPK-SKPD akan mengakui adanya utang/kewajiban akibat transaksi tersebut dengan mencatat "Beban...(sesuai rincian objek terkait)" di debit dan "Utang Belanja" di kredit dengan jurnal:
+
+65
+
+Beban.... Utang Belanja
+
+xxx xxx
+
+Dalam kasus pembelian aset tetap dan pelunasan belum dilakukan, PPK-SKPD mencatat "Aset Tetap" di debit dan "Utang Belanja" di kredit dengan jurnal:
+
+Aset Tetap Utang Belanja
+
+xxx xxx
+
+Pada saat SKPD melakukan pembayaran, maka PPK-SKPD mencatat "Utang Belanja" di debit dan "Kas di Bendahara Pengeluaran" (untuk kasus belanja menggunakan UP) atau "RK PPKD" (untuk kasus belanja dengan mekanisme LS) di kredit dengan jurnal:
+
+Utang Belanja Kas di Bendahara Pengeluaran
+ATAU
+Utang Belanja RK PPKD
+
+xxx xxx
+xxx xxx
+
+f. Jurnal Koreksi dan Penyesuaian SKPD
+1) Pihak-Pihak Terkait Pihak-pihak yang terkait dalam prosedur jurnal penyesuaian dan koreksi SKPD adalah: a) Pejabat Penatausahaan Keuangan (PPK-SKPD) b) Pihak yang Melakukan Stock Opname
+2) Langkah-Langkah Teknis a) Koreksi kesalahan pencatatan Untuk melakukan koreksi atas terjadinya kesalahan pencatatan, PPK-SKPD akan membuat bukti memorial yang akan diotorisasi oleh Pengguna Anggaran. Berdasarkan bukti memorial yang telah diotorisasi, PPK-SKPD langsung membuat pembetulan atas jurnal yang salah catat tersebut. Misal, transaksi beban/belanja telepon dicatat pada beban/belanja listrik. Untuk melakukan koreksi atas kesalahan tersebut, PPK-SKPD mencatat "Beban Jasa
+
+66
+
+Telepon" di debit dan "Beban Jasa listrik" di kredit dengan jurnal:
+
+Beban Jasa Telepon Beban Jasa Listrik
+
+xxx xxx
+
+Sebagai transaksi realisasi anggaran, PPK-SKPD mencatat "Belanja telepon" di debit dan "Belanja listrik" di kredit dengan jurnal:
+
+Belanja telepon Belanja listrik
+
+xxx xxx
+
+b) Pengakuan persediaan Apabila SKPD melakukan transaksi persediaan dengan pendekatan beban dan metode periodik, maka pada akhir periode sebelum menyusun laporan keuangan, secara rutin akan dilakukan stock opname setiap akhir periode untuk mengetahui sisa persediaan yang dimiliki. Berdasarkan berita acara stock opname, PPK-SKPD mencatat "Persediaan... (sesuai jenisnya)" di debit dan "Beban Barang dan Jasa (sebesar persediaan yang ada di akhir periode)" di kredit dengan jurnal:
+
+Persediaan ... Beban Barang dan Jasa
+
+xxx xxx
+
+c) Jurnal penyusutan Berdasarkan daftar barang dan kebijakan akuntansi yang dimiliki oleh Pemerintah Daerah, PPK-SKPD pada akhir tahun akan membuat bukti memorial yang kemudian akan diotorisasi oleh Pengguna Anggaran untuk mengakui depresiasi atau penyusutan atas aset tetap yang dimiliki. PPK-SKPD mencatat "Beban Penyusutan..." di debit dan "Akumulasi Penyusutan" di kredit dengan jurnal:
+
+Beban Penyusutan ... Akumulasi Penyusutan
+
+xxx xxx
+
+67
+
+d) Penyesuaian Beban Jasa Dibayar di Muka Apabila SKPD telah mencatat transaksi pengadaan barang dan jasa untuk beberapa tahun seperti pembayaran sewa, Pemerintah Daerah perlu membuat jurnal penyesuaian pada akhir tahun untuk menyesuaikan beban tersebut. Pada akhir tahun berikutnya, berdasarkan Surat Perjanjian Sewa, PPKSKPD akan membuat bukti memorial yang kemudian akan diotorisasi oleh Pengguna Anggaran untuk penyesuaian beban sewa. PPK-SKPD akan mencatat "Beban Sewa" di debit dan "Beban Jasa dibayar dimuka" di kredit dengan jurnal:
+
+Beban Sewa Beban Jasa dibayar dimuka
+
+xxx xxx
+
+g. Jurnal, Buku Besar dan Neraca Saldo SKPD
+1) Jurnal Sebagai entitas akuntansi, SKPD melakukan proses akuntansi yang dimulai dari pencatatan transaksi hingga penyusunan Laporan Keuangan. Transaksi-transaksi tersebut dicatat oleh PPK-SKPD sesuai dengan dokumen transaksinya ke dalam buku jurnal. Format buku jurnal yang digunakan adalah sebagai berikut:
+
+68
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA......... BUKU JURNAL
+
+SKPD: ..... Tanggal 1
+
+Nomor Bukti
+2
+
+Kode Rekening 3
+
+Uraian 4
+
+Halaman:
+
+Debit
+
+Kredit
+
+56
+
+xxxx, ........................ PPK SKPD
+(tanda tangan)
+
+Cara pengisian:
+
+(nama lengkap) NIP.
+
+a. Kolom 1 diisi tanggal transaksi atau tanggal yang terdapat dalam bukti transaksi.
+b. Kolom 2 diisi nomor bukti yang sesuai, misalnya SP2D, kuitansi, STS, Tanda Bukti Pembayaran, dan sebagainya.
+c. Kolom 3 diisi kode rekening yang sesuai, dimulai dari kode urusan, organisasi, program, kegiatan, hingga rincian obyeknya. Misalnya kode rekening untuk belanja telepon pada Dinas Pendapatan adalah :
+
+1.07.1.07.01.01.02.5.2.2.03.01
+
+1.07
+
+Kode urusan
+
+1.07.01
+
+Kode organisasi
+
+01.02
+
+Kode Program & Kegiatan
+
+5.2.2.03.01 Rincian obyek belanja
+
+d. Kolom 4 diisi uraian kode rekening, misalnya "Belanja Telepon".
+
+e. Kolom 5 diisi jumlah rupiah yang dijurnal di debit.
+
+f. Kolom 6 diisi jumlah rupiah yang dijurnal di kredit.
+
+2) Buku Besar Tahapan selanjutnya setelah pencatatan transaksi melalui jurnal adalah posting ke buku besar. Dalam tahap ini, PPK-SKPD memposting atau memindahkan setiap akun beserta jumlahnya dari buku jurnal ke buku besar masing-masing akun. Format buku besar yang digunakan adalah sebagai berikut:
+
+69
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA.......
+
+BUKU BESAR
+
+SKPD KODE REKENING NAMA REKENING PAGU APBD PAGU PERUBAHAN APBD
+
+: ................................. : ................................. : ................................. : ................................. : .................................
+
+Tanggal 1
+
+Uraian 2
+
+Ref
+
+Debit
+
+Kredit
+
+34
+
+5
+
+Saldo 6
+
+................, tanggal.............
+
+PPK SKPD
+
+(tanda tangan)
+
+(nama lengkap) NIP.
+
+Cara pengisian: a. SKPD diisi dengan nama Dinas/Badan/Kantor yang bersangkutan. b. Kode Rekening diisi dengan kode rekening yang sesuai, dimulai dari kode
+urusan, organisasi, program, kegiatan, hingga rincian obyeknya. Misalnya kode rekening untuk belanja telepon pada Dinas Pendapatan adalah:
+
+1.07.1.07.01.01.02.5.2.2.03.01
+
+1.07
+
+Kode urusan
+
+1.07.01
+
+Kode organisasi
+
+01.02
+
+Kode Program & Kegiatan
+
+5.2.2.03.01 Rincian obyek belanja
+
+c. Nama Rekening diisi dengan nama/uraian kode rekening sesuai kode rekeningnya.
+d. Pagu APBD diisi dengan pagu pendapatan/belanja sesuai dengan jumlah yang terdapat dalam DPA Dinas/Badan/Kantor. Untuk aset, kewajiban, dan ekuitas dana, nilai Pagu APBD ini dapat dikosongkan.
+e. Pagu Perubahan APBD diisi dengan pagu pendapatan/belanja sesuai dengan jumlah yang terdapat dalam DPA Perubahan Dinas/Badan/Kantor. Untuk aset, kewajiban, dan ekuitas dana, nilai Pagu Perubahan APBD ini dapat dikosongkan.
+f. Kolom 1 diisi tanggal transaksi atau tanggal yang terdapat dalam jurnal yang bersangkutan.
+
+70
+
+g. Kolom 2 diisi penjelasan seperlunya terkait dengan jurnal yang diposting. h. Kolom 3 diisi referensi, atau dari buku jurnal halaman berapa jurnal yang
+diposting tersebut. i. Kolom 4 diisi jumlah rupiah sesuai dengan yang ada di jurnal kolom debit. j. Kolom 5 diisi jumlah rupiah sesuai dengan yang ada di jurnal kolom kredit. k. Kolom 6 diisi saldo akumulasi.
+3) Neraca Saldo Pada setiap akhir periode akuntansi, atau sesaat sebelum penyusunan laporan keuangan, PPK-SKPD menyusun Neraca Saldo. Neraca Saldo adalah suatu daftar yang berisi seluruh kode rekening beserta saldonya pada tanggal tertentu. Format Neraca Saldo yang digunakan adalah sebagai berikut:
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA....... NERACA SALDO PER TANGGAL .........
+
+SKPD Kode
+Rekening 1
+
+: ........................ Nama Rekening 2
+
+Debit 3
+
+Halaman... Jumlah
+Kredit 4
+
+..........., tanggal...... PPK SKPD
+(tanda tangan)
+(nama lengkap) NIP.
+Cara pengisian: a. Tanggal diisi dengan tanggal Neraca Saldo disusun b. SKPD diisi dengan nama Dinas/Badan/Kantor yang bersangkutan. c. Kolom 1 diisi kode rekening setiap buku besar. d. Kolom 2 diisi nama/uraian kode rekening sesuai kode rekeningnya. e. Kolom 3 diisi jumlah saldo buku besar yang memiliki saldo akhir debit.
+f. Kolom 4 diisi jumlah saldo buku besar yang memiliki saldo akhir kredit.
+71
+
+h. Penyusunan Laporan Keuangan SKPD 1) Ketentuan Umum Laporan Keuangan yang dihasilkan pada tingkat SKPD dihasilkan melalui proses akuntansi lanjutan yang dilakukan oleh PPKSKPD. Jurnal dan posting yang telah dilakukan terhadap transaksi keuangan menjadi dasar dalam penyusunan laporan keuangan. Dari 7 Laporan Keuangan wajib yang terdapat dalam Peraturan Pemerintah Nomor 71 Tahun 2010 tentang Standar Akuntansi Pemerintahan, terdapat 5 Laporan Keuangan yang dibuat oleh SKPD, yaitu: a) Laporan Realisasi Anggaran (LRA); b) Neraca; c) Laporan Operasional (LO); d) Laporan Perubahan Ekuitas (LPE); dan e) Catatan atas Laporan Keuangan (CaLK). Bagan berikut ini menunjukkan proses penyusunan Laporan Keuangan SKPD:
+72
+
+Mengisi Neraca Saldo Sebelum 1 Penyesuaian .
+
+Menyiapkan Kertas Kerja
+
+Membuat
+
+2 .
+
+Jurnal penyesuaian
+
+Membuat
+
+3 .
+
+Neraca Saldo Setelah
+Penyesuaian
+
+Menyusun Laporan Keuangan
+
+Menyusun LRA,
+
+membuat jurnal
+
+1 .
+
+penutup LRA dan NS Setelah
+
+Penutupan LRA
+
+Menyusun LO,
+
+membuat jurnal
+
+2 .
+
+penutup LO dan NS Setelah
+Penutupan LO
+
+Menyusun
+
+Neraca,
+
+3 .
+
+membuat jurnal penutup akhir dan NS akhir
+
+Menyusun
+
+4 .
+
+Laporan Perubahan
+Ekuitas
+
+Menyusun
+
+5 .
+
+Catatan atas Laporan Keuangan
+
+2) Pihak-Pihak Terkait Pihak-pihak yang terkait dalam prosedur penyusunan laporan keuangan adalah : a) Pejabat Penatausahaan Keuangan (PPK-SKPD) b) Pengguna Anggaran
+3) Langkah-Langkah Teknis a) Menyiapkan Kertas Kerja PPK-SKPD menyiapkan kertas kerja (worksheet) sebagai alat untuk menyusun Laporan Keuangan. Kertas kerja adalah alat bantu yang digunakan dalam proses pembuatan Laporan Keuangan. Kertas kerja berguna untuk mempermudah proses pembuatan laporan keuangan yang dihasilkan secara manual. Penggunaan format dalam hal ini disesuaikan dengan kebutuhan yang berkembang. Informasi minimal yang harus ada pada format kertas kerja adalah sebagai berikut:
+73
+
+Kode Rekening
+
+Uraian
+
+Neraca Saldo (NS) DK
+
+Penyesuaian DK
+
+NS Setelah Penyesuaian
+DK
+
+(1) Mengisi Neraca Saldo sebelum penyesuaian PPK-SKPD melakukan rekapitulasi saldo-saldo buku besar menjadi neraca saldo. Angka-angka neraca saldo tersebut diletakkan di kolom "Neraca Saldo" yang terdapat pada Kertas Kerja.
+(2) Membuat Jurnal Penyesuaian PPK-SKPD membuat jurnal penyesuaian. Jurnal ini dibuat dengan tujuan melakukan penyesuaian atas saldo pada akun-akun tertentu dan pengakuan atas transaksitransaksi yang bersifat akrual. Jurnal penyesuaian tersebut diletakkan dalam kolom "Penyesuaian" yang terdapat pada Kertas Kerja. Jurnal penyesuaian yang diperlukan antara lain digunakan untuk: (a) Koreksi kesalahan/Pemindahbukuan (b) Pencatatan jurnal yang belum dilakukan (c) Pencatatan piutang, persediaan dan atau aset lainnya pada akhir tahun
+(3) Membuat Neraca Saldo Setelah Penyesuaian PPK-SKPD melakukan penyesuaian atas neraca saldo berdasarkan jurnal penyesuaian yang telah dibuat sebelumnya. Nilai yang telah disesuaikan diletakkan pada kolom "Neraca Saldo Setelah Penyesuaian" yang terdapat pada Kertas Kerja.
+74
+
+b) Menyusun Laporan Keuangan
+(1) Menyusun LRA, membuat jurnal penutup LRA, dan Neraca Saldo setelah Penutupan LRA Berdasarkan Neraca Saldo yang telah disesuaikan, Akuntansi SKPD mengidentifikasi akun-akun yang termasuk dalam komponen Laporan Realisasi Anggaran dan kemudian disajikan dalam "Laporan Realisasi Anggaran".
+
+Bersamaan dengan pembuatan LRA, Akuntansi SKPD juga membuat jurnal penutup. Prinsip penutupan ini adalah membuat nilai akun-akun LRA menjadi 0. Berikut ini contoh jurnal penutup LRA
+
+(a) Jurnal Penutup untuk menutup jurnal penganggaran yang dibuat di awal tahun anggaran
+
+Apropriasi Belanja Estimasi Perubahan SAL
+Estimasi Pendapatan
+
+xxx xxx
+xxx
+
+(b) Jurnal Penutup untuk realisasi anggaran, ditutup pada akun surplus/defisit­LRA
+
+Pendapatan­LRA Belanja Surplus/Defisit-LRA
+
+xxx xxx xxx
+
+(c) Jurnal Penutup untuk menutup akun surplus/defisit­ LRA pada akun Estimasi Perubahan SAL yang terbentuk selama transaksi.
+
+Surplus/Defisit-LRA Estimasi Perubahan SAL
+
+xxx xxx
+
+Kemudian, setelah membuat jurnal penutupan, Akuntansi SKPD menyusun Neraca Saldo setelah Penutupan LRA.
+Berikut ini adalah format LRA pendapatan dan belanja SKPD.
+
+75
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA SKPD
+LAPORAN REALISASI ANGGARAN PENDAPATAN DAN BELANJA UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+NO. URAIAN
+1 PENDAPATAN 2 PENDAPATAN ASLI DAERAH 3 Pendapatan Pajak Daerah 4 Pendapatan Retribusi Daerah 5 Lain-lain PAD yang Sah 6 Jumlah Pendapatan Asli Daerah 7 8 JUMLAH PENDAPATAN 9 10 BELANJA 11 BELANJA OPERASI 12 Belanja Pegawai 13 Belanja Barang 14 Jumlah Belanja Operasi 15 16 BELANJA MODAL 17 Belanja Tanah 18 Belanja Peralatan dan Mesin 19 Belanja Gedung dan Bangunan 20 Belanja Jalan, Irigasi dan Jaringan 21 Belanja Aset Tetap Lainnya 22 Belanja Aset Lainnya 23 Jumlah Belanja Operasi 24 25 JUMLAH BELANJA 26 27 SURPLUS/DEFISIT
+
+Anggaran Realisasi
+
+20X1
+
+20X1
+
+(Dalam Rupiah)
+
+(%)
+
+Realisasi 20X0
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx
+
+xxx xxx xxx xxx
+xxx
+
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+
+(2) Menyusun LO, jurnal penutup LO dan Neraca Saldo setelah Penutupan LO Berdasarkan Neraca Saldo setelah Penutupan LRA, Akuntansi SKPD mengidentifikasi akun-akun yang termasuk dalam komponen Laporan Operasional untuk kemudian disajikan dalam Laporan Operasional. Bersamaan dengan pembuatan LO, Akuntansi SKPD juga membuat jurnal penutup. Prinsip penutupan ini adalah membuat nilai akun-akun LO menjadi 0. Kemudian, setelah membuat jurnal penutupan, Akuntansi SKPD menyusun Neraca Saldo setelah Penutupan LO. Berikut ini contoh jurnal penutup LO.
+
+Pendapatan-LO Surplus/Defisit...-LO Beban
+
+xxx xxx xxx
+
+76
+
+PEMERINTAH PROVINSI/KABUPATEN/ KOTA SKPD
+LAPORAN OPERASIONAL UNTUK TAHUN YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 dan 20X0
+
+No KEGIATAN OPERASIONAL
+1 PENDAPATAN 2 PENDAPATAN ASLI DAERAH 3 Pendapatan Pajak Daerah 4 Pendapatan Retribusi Daerah 5 Lain-lain PAD yang Sah 6 Jumlah Pendapatan Asli Daerah 7 8 BEBAN 9 BEBAN OPERASI 10 Beban Pegawai 11 Beban Barang Jasa 12 Beban Bunga 13 Beban Subsisdi 14 Beban Hibah 15 Beban Bantuan Sosial 16 Beban Penyusutan 17 Beban Lain-lain 18 Jumlah Beban Operasi 19 20 JUMLAH BEBAN 21 22 SURPLUS/ DEFISIT - LO
+
+URAIAN
+
+20X1
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx
+
+20X0
+xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx
+xxx
+
+(Dalam rupiah) Kenaikan/ Penurunan (%)
+xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+xxx xxx
+
+(3) Menyusun Neraca, membuat jurnal penutup akhir, dan Neraca Saldo akhir
+Berdasarkan Neraca Saldo setelah Penutupan LO, Akuntansi SKPD membuat Neraca. Bersamaan dengan pembuatan Neraca, Akuntansi SKPD membuat jurnal penutup akhir untuk menutup akun Surplus (Defisit) ­ LO ke akun Ekuitas. Berikut ini contoh jurnal penutup akhir.
+
+Surplus/Defisit...-LO Ekuitas
+
+xxx xxx
+
+Kemudian, setelah membuat jurnal penutup akhir, Akuntansi SKPD menyusun Neraca Saldo Akhir. Neraca Saldo Akhir ini akan menjadi Neraca Awal untuk periode akuntansi yang selanjutnya. Berikut ini merupakan contoh format Neraca SKPD Pemerintah Provinsi/Kabupaten/Kota.
+
+77
+
+PEMERINTAH PROVINSI/KABUPATEN /KOTA SKPD
+NERACA PER 31 DESEMBER 20X1 DAN 20X0
+No. Uraian
+1 ASET 2 3 ASET LANCAR 4 Kas di Bendahara Pengeluaran 5 Kas di Bendahara Penerimaan 6 Piutang Pajak Daerah 7 Piutang Retribusi Daerah 8 Penyisihan Piutang 9 Belanja di Bayar di muka 10 Bagian Lancar Tagihan Penjualan Angsuran 11 Bagian Lancar Tuntutan Ganti Kerugian 12 Piutang Lainnya 13 Persediaan 14 Jumlah Aset Lancar 15 16 ASET TETAP 17 Tanah 18 Peralatan dan Mesin 19 Gedung dan Bangunan 20 Jalan, Irigasi dan Jaringan 21 Aset Tetap Lainnya 22 Konstruksi Dalam Pengerjaan 23 Akumulasi Penyusutan 24 Jumlah Aset Tetap 25 26 ASET LAINNYA 27 Tagihan Penjualan Angsuran 28 Tuntutan Ganti Kerugian 29 Kemitraan Dengan Pihak Ketiga 30 Aset Tak Berwujud 31 Aset Lain-lain 32 Jumlah Aset Lainnya 33 34 JUMLAH ASET 35 36 KEWAJIBAN 37 38 KEWAJIBAN JANGKA PENDEK 39 Utang Perhitungan Pihak Ketiga (PFK) 40 Pendapatan Diterima Dimuka 41 Utang Belanja 42 Utang Jangka Pendek Lainnya 43 Jumlah Kewajiban Jangka Pendek 44 JUMLAH KEWAJIBAN 45 46 EKUITAS 47 48 EKUITAS 49 Ekuitas 50 RK RKPPKD 51 JUMLAH EKUITAS 52 53 JUMLAH KEWAJIBAN DAN EKUITAS
+
+(Dalam Rupiah)
+20X1 20X0
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx
+xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx xxx xxx
+xxx xxx
+78
+
+(4) Menyusun Laporan Perubahan Ekuitas
+Selanjutnya, Akuntansi SKPD membuat Laporan Perubahan Ekuitas menggunakan data Ekuitas Awal dan data perubahan ekuitas periode berjalan yang salah satunya diperoleh dari Laporan Opersional yang telah dibuat sebelumnya. Laporan Perubahan Ekuitas ini akan menggambarkan pergerakan ekuitas SKPD. Berikut ini merupakan contoh format Laporan Perubahan Ekuitas SKPD.
+PEMERINTAH PROVINSI/KABUPATEN/KOTA SKPD
+LAPORAN PERUBAHAN EKUITAS UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 20X1 DAN 20X0
+
+NO URAIAN
+
+20X1 20X0
+
+1 EKUITAS AWAL 2 SURPLUS/DEFISIT-LO 3 DAMPAK KUMULATIF PERUBAHAN KEBIJAKAN/KESALAHAN MENDASAR: 4 KOREKSI NILAI PERSEDIAAN 5 SELISIH REVALUASI ASET TETAP 6 LAIN-LAIN 7 EKUITAS AKHIR
+
+XXX XXX XXX XXX
+
+XXX XXX XXX XXX
+
+XXX XXX XXX XXX
+
+(5) Menyusun Catatan atas Laporan Keuangan
+Catatan atas Laporan Keuangan meliputi penjelasan naratif atau rincian dari angka yang tertera dalam Laporan Realisasi Anggaran, Laporan Perubahan SAL, Laporan Operasional, Laporan Perubahan Ekuitas, Neraca, dan Laporan Arus Kas. Hal-hal yang diungkapkan di dalam Catatan atas Laporan Keuangan antara lain: (a) Informasi umum tentang Entitas Pelaporan dan
+Entitas Akuntansi; (b) Informasi tentang kebijakan fiskal/keuangan dan
+ekonomi makro; (c) Ikhtisar pencapaian target keuangan selama tahun
+pelaporan berikut kendala dan hambatan yang dihadapi dalam pencapaian target; (d) Informasi tentang dasar penyusunan laporan keuangan dan kebijakan-kebijakan akuntansi yang dipilih untuk diterapkan atas transaksi-transaksi dan kejadian-kejadian penting lainnya. Rincian dan penjelasan masing-masing pos yang disajikan pada lembar muka laporan keuangan; (e) Informasi yang diharuskan oleh Pernyataan Standar Akuntansi Pemerintahan yang belum disajikan dalam lembar muka laporan keuangan; dan (f) Informasi lainnya yang diperlukan untuk penyajian yang wajar, yang tidak disajikan dalam lembar muka laporan keuangan.
+
+79
+
+Bab I Bab II Bab III
+Bab IV Bab V
+
+Berikut ini merupakan contoh format Catatan atas
+
+Laporan
+
+Keuangan
+
+SKPD
+
+Pemerintah
+
+Provinsi/Kabupaten/Kota.
+
+PEMERINTAH PROVINSI/KABUPATEN/KOTA SKPD
+CATATAN ATAS LAPORAN KEUANGAN
+Pendahuluan 1.1 Maksud dan tujuan penyusunan laporan keuangan SKPD 1.2 Landasan hukum penyusunan laporan keuangan SKPD 1.3 Sistematika penulisan catatan atas laporan keuangan SKPD Ikhtisar pencapaian kinerja keuangan SKPD 2.1 Ikhtisar realisasi pencapaian target kinerja keuangan SKPD 2.2 Hambatan dan kendala yang ada dalam pencapaian target yang telah
+ditetapkan Penjelesan pos-pos laporan keuangan SKPD 3.1 Rincian dari penjelasan masing-masing pos-pos pelaporan keuangan
+Pemda 3.1.1 Pendapatan 3.1.2 Beban 3.1.3 Belanja 3.1.4 Aset 3.1.5 Kewajiban 3.1.6 Ekuitas Dana 3.2 Pengungkapan atas pos-pos aset dan kewajiban yang timbul sehubungan dengan penerapan basis akrual atas pendapatan dan belanja dan rekonsiliasinya dengan penerapan basis kas, untuk entitas akuntansi/entitas pelaporan yang rnenggunakan basis akrual pada Pemda. Penjelasan atas informasi-informasi nonkeuangan Pemda Penutup
+
+MENTERI DALAM NEGERI REPUBLIK INDONESIA,
+
+Salinan sesuai dengan aslinya KEPALA BIRO HUKUM
+ttd
+ZUDAN ARIF FAKRULLOH Pembina Utama Muda (IV/c) NIP. 19690824 199903 1 001
+
+ttd GAMAWAN FAUZI
+80
+
+

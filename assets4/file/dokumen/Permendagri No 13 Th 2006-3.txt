@@ -1,0 +1,18 @@
+KODE FUNGSI
+01.      Pelayanan Umum
+02.      Pertahanan *)
+03.      Ketertiban dan ketentraman
+04.      Ekonomi
+05.      Lingkungan Hidup
+06.      Perumahan dan fasilitas umum
+07.      Kesehatan
+08.      Pariwisata dan Budaya
+09.      Agama *)
+10.      Pendidikan
+11.      Perlindungan sosial
+Keterangan :
+*) Urusan Pemerintahan yang menjadi wewenang Pemerintah 
+KODE DAN KLASIFIKASI FUNGSI
+Lampiran A.V : PERATURAN MENTERI DALAM NEGERI  
+                       Nomor     : 13 Tahun 2006 
+                       Tanggal   : 15 Mei 2006 

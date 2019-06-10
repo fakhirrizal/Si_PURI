@@ -1,0 +1,399 @@
+PERATURAN MENTERI NEGARA LINGKUNGAN HIDUP NOMOR 04 TAHUN 2007
+
+TENTANG BAKU MUTU AIR LIMBAH BAGI USAHA DAN/ATAU KEGIATAN
+MINYAK DAN GAS SERTA PANAS BUMI
+
+MENTERI NEGARA LINGKUNGAN HIDUP,
+
+Menimbang : a. bahwa dalam rangka pelestarian fungsi lingkungan
+
+hidup perlu dilakukan upaya pengendalian terhadap
+
+usaha dan/atau kegiatan
+
+yang
+
+berpotensi
+
+menimbulkan pencemaran dan/atau kerusakan
+
+lingkungan hidup;
+
+b. bahwa salah satu usaha dan/atau kegiatan yang potensial menimbulkan pencemaran dan/atau
+kerusakan lingkungan hidup adalah usaha dan/atau kegiatan minyak dan gas serta panas bumi;
+
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b serta untuk melaksanakan ketentuan Pasal 21 ayat (1) Peraturan Pemerintah Nomor 82 Tahun 2001 tentang Pengelolaan Kualitas Air dan Pengendalian Pencemaran Air perlu menetapkan Peraturan Menteri Negara Lingkungan Hidup tentang Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Minyak dan Gas serta Panas Bumi;
+
+Mengingat
+
+: 1. Undang-Undang Nomor 23 Tahun 1997 tentangPengelolaan Lingkungan Hidup (Lembaran Negara Republik Indonesia Tahun 1997 Nomor 68, Tambahan Lembaran Negara Republik Indonesia Nomor 3699);
+2. Undang-Undang Nomor 22 Tahun 2001 tentang Minyak dan Gas Bumi (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 136, Tambahan Lembaran Negara Republik Indonesia Nomor 4152);
+3. Undang-Undang Nomor 27 Tahun 2003 tentang Panas Bumi (Lembaran Negara Republik Indonesia Tahun 2003 Nomor 115, Tambahan Lembaran Negara Republik Indonesia Nomor 4327);
+4. Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik
+
+Indonesia Tahun 2004 Nomor 125, Tambahan Lembaran
+
+Negara Republik Indonesia Nomor 4437) sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2005 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 3 Tahun 2005 tentang Perubahan Atas Undang-Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah Menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2005 Nomor 108, Tambahan Lembaran Negara Republik Indonesia Nomor 4548); 5. Peraturan Pemerintah Nomor 82 Tahun 2001 tentang Pengelolaan Kualitas Air dan Pengendalian Pencemaran Air (Lembaran Negara Republik Indonesia Tahun 2001 Nomor 153, Tambahan Lembaran Negara Republik Indonesia Nomor 4161); 6. Peraturan Presiden Nomor 09 Tahun 2005 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi dan Tata Kerja Kementerian Negara sebagaimana telah diubah terakhir dengan Peraturan Presiden Nomor 62 Tahun 2005; 7. Keputusan Presiden Nomor 187/M Tahun 2004 sebagaimana telah diubah dengan Keputusan Presiden Nomor 8/M Tahun 2005
+
+MEMUTUSKAN:
+
+Menetapkan :
+
+PERATURAN MENTERI NEGARA LINGKUNGAN HIDUP TENTANG BAKU MUTU AIR LIMBAH BAGI USAHA DAN/ATAU KEGIATAN MINYAK DAN GAS SERTA PANAS BUMI.
+
+Pasal 1
+
+Dalam Peraturan Menteri ini yang dimaksud dengan:
+1. Usaha dan/atau kegiatan minyak dan gas serta panas bumi adalah usaha dan/atau kegiatan di bidang minyak, gas, dan/atau panas bumi yang meliputi : eksplorasi dan produksi minyak dan gas bumi (MIGAS) baik on shore maupun off shore, eksplorasi dan produksi panas bumi, pengilangan minyak bumi, pengilangan liquified natural gas (LNG) dan liquified petroleum gas (LPG), dan instalasi, depot dan terminal minyak.
+2. Eksplorasi adalah kegiatan yang bertujuan memperoleh informasi mengenai kondisi geologi untuk menemukan dan memperoleh perkiraan cadangan minyak dan gas bumi di wilayah kerja yang ditentukan.
+3. Eksploitasi adalah rangkaian kegiatan yang bertujuan untuk menghasilkan minyak dan gas bumi yang terdiri atas pengeboran dan penyelesaian sumur, pembangunan sarana pengangkutan, penyimpanan, dan pengolahan untuk pemisahan dan pemurnian minyak dan gas bumi di lapangan serta kegiatan lain yang mendukungnya.
+4. Produksi adalah pekerjaan pertambangan dengan maksud untuk menghasilkan bahan-bahan galian minyak dan gas bumi dengan jalan
+
+yang lazim.
+5. Pengolahan adalah kegiatan memurnikan, memperoleh bagian-bagian, mempertinggi mutu, dan mempertinggi nilai tambah minyak bumi dan/atau gas bumi, tetapi tidak termasuk pengolahan lapangan.
+6. Depot adalah tempat kegiatan penerimaan, penimbunan dan penyaluran kembali bahan bakar minyak (BBM) yang penerimaannya dilaksanakan dengan menggunakan sarana angkutan pengairan (sungai, laut), sistem pipa, mobil tangki (bridgen) dan rail tank wagon (RTW).
+7. Fasilitas eksplorasi dan produksi minyak dan gas lepas pantai (offshore) adalah fasilitas yang digunakan untuk kegiatan eksplorasi, pengeboran, sumur produksi, sumur injeksi, well treatment dari industri minyak dan gas yang berlokasi di laut.
+8. Fasilitas eksplorasi dan produksi minyak dan gas darat (on-shore) adalah fasilitas yang digunakan untuk kegiatan eksplorasi, pengeboran, sumur produksi, sumur injeksi, well treatment dari industri minyak dan gas yang berlokasi di darat.
+9. Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Minyak dan Gas serta Panas Bumi adalah batas kadar dan jumlah unsur pencemar yang ditenggang keberadaannya dalam air limbah yang akan dibuang ke lingkungan dari usaha dan/atau kegiatan minyak dan gas serta panas bumi.
+10. Air limbah adalah limbah dalam bentuk cair yang dihasilkan oleh usaha dan/atau kegiatan di bidang minyak dan gas serta panas bumi yang dibuang ke lingkungan.
+11. Air terproduksi adalah air (brine) yang dibawa ke atas dari strata yang mengandung hidrokarbon selama kegiatan pengambilan minyak dan gas bumi atau uap air bagi kegiatan panas bumi termasuk didalamnya air formasi, air injeksi dan bahan kimia yang ditambahkan untuk pengeboran atau untuk proses pemisahan minyak/air.
+12. Air limbah drainase dek adalah semua air limbah yang berasal dari pencucian dek, tumpahan, selokan dan tetesan-tetesan minyak yang berasal dari tangki dan area kerja, dan air hujan yang bersinggungan langsung dengan semua bahan baku produk antara, produk akhir dan produk sampingan atau limbah yang berlokasi dalam wilayah kegiatan eksplorasi dan eksploitasi minyak bumi fasilitas lepas pantai (offshore).
+13. Air limbah domestik fasilitas lepas pantai (off-shore) adalah air limbah yang dibuang dari bak cuci piring, kamar mandi, tempat cuci pakaian, safety shower, tempat cuci tangan, tempat-tempat cuci dapur yang berada di fasilitas lepas pantai (off-shore).
+14. Limbah sanitary adalah limbah yang berupa tinja dan air seni yang
+dibuang dari toilet dan kamar mandi yang berada di fasilitas lepas
+pantai (off-shore).
+15. Air limbah drainase usaha dan/atau kegiatan eksplorasi dan produksi minyak dan gas bumi fasilitas darat adalah semua air limbah yang berasal dari pencucian, tumpahan, selokan dan tetesan-tetesan
+
+minyak yang berasal dari tangki dan area kerja, dan air hujan yang bersinggungan langsung dengan semua bahan baku produk antara, produk akhir dan produk sampingan atau limbah yang berlokasi dalam wilayah kegiatan eksplorasi dan eksploitasi minyak bumi fasilitas darat.
+16. Air limbah drainase usaha dan/atau kegiatan eksplorasi dan produksi panas bumi adalah semua air limbah yang berasal dari pencucian, tumpahan, selokan dan tetesan-tetesan minyak yang berasal dari tangki dan area kerja, dan air hujan yang bersinggungan langsung dengan semua bahan baku produk antara, produk akhir dan produk sampingan atau limbah yang berlokasi dalam wilayah kegiatan eksplorasi dan produksi panas bumi.
+17. Air limbah proses kegiatan pengolahan minyak bumi adalah air limbah dari fasilitas produksi yang menghasilkan produk-produk minyak.
+18. Air limbah drainase usaha dan/atau kegiatan pengolahan minyak bumi adalah semua air limbah yang berasal dari pencucian, tumpahan, selokan dan tetesan-tetesan minyak yang berasal dari tangki dan area kerja, dan air hujan yang bersinggungan langsung dengan semua bahan baku produk antara, produk akhir dan produk sampingan atau limbah yang berlokasi dalam wilayah kegiatan pengolahan minyak bumi.
+19. Air pendingin (once through cooling water) adalah air limbah yang berasal dari aliran air yang digunakan untuk penghilangan panas dan tidak berkontak langsung dengan bahan baku, produk antara dan produk akhir.
+20. Air limbah drainase kegiatan pengolahan LNG dan LPG terpadu adalah semua air limbah yang berasal dari pencucian, tumpahan, selokan dan tetesan-tetesan minyak yang berasal dari tangki dan area kerja, dan air hujan yang bersinggungan langsung dengan semua bahan baku produk antara, produk akhir dan produk sampingan atau limbah yang berlokasi dalam wilayah kegiatan pengolahan LNG dan LPG terpadu.
+21. Air limbah kegiatan instalasi, depot dan terminal minyak adalah semua air limbah yang berasal dari pencucian, tumpahan, selokan dan tetesan-tetesan minyak yang berasal dari tangki dan area kerja, dan air hujan yang bersinggungan langsung dengan semua bahan baku produk antara, produk akhir dan produk sampingan atau limbah yang berlokasi dalam wilayah kegiatan instalasi depot dan terminal minyak.
+22. Debit maksimum air limbah adalah debit tertinggi yang masih diperbolehkan dibuang ke lingkungan.
+23. Kadar maksimum air limbah adalah kadar tertinggi yang masih diperbolehkan dibuang ke lingkungan.
+24. Beban pencemaran maksimum adalah beban tertinggi yang masih diperbolehkan dibuang ke lingkungan.
+25. Kondisi normal adalah kondisi operasi yang sesuai dengan parameter desain operasi.
+26. Kondisi abnormal adalah kondisi operasi di luar parameter operasi normal dan masih dapat dikendalikan meliputi : start-up, shut-down
+
+dan up-set. 27. Kondisi darurat adalah kondisi operasi di luar parameter operasi
+normal dan tidak dapat dikendalikan.
+28. Instansi teknis adalah instansi yang bertanggung jawab di bidang kegiatan minyak dan gas serta panas bumi.
+29. Menteri adalah Menteri yang ditugasi untuk mengelola lingkungan hidup.
+Pasal 2
+(1) Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Minyak dan Gas serta Panas Bumi meliputi : a. Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Eksplorasi dan Produksi Migas sebagaimana tercantum dalam Lampiran I Peraturan Menteri ini; b. Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Eksplorasi dan Produksi Panas Bumi sebagaimana tercantum dalam Lampiran II Peraturan Menteri ini; c. Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Pengolahan Minyak Bumi sebagaimana tercantum dalam Lampiran III Peraturan Menteri ini; d. Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Pengilangan LNG dan LPG Terpadu sebagaimana tercantum dalam Lampiran IV Peraturan Menteri ini; dan e. Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Instalasi, Depot dan Terminal Minyak sebagaimana tercantum dalam Lampiran V Peraturan Menteri ini.
+(2) Lampiran sebagaimana dimasud pada ayat (1) merupaan bagian yang tidak terpisahkan dari Peraturan Menteri ini.
+(3) Baku mutu air limbah sebagaimana dimaksud pada ayat (1) ditetapkan berdasarkan kadar, kecuali usaha dan/atau kegiatan pengolahan minyak bumi sebagaimana dimaksud pada ayat (1) huruf c ditetapkan berdasarkan beban pencemaran dan kadar.
+(4) Baku mutu air limbah sebagaimana dimaksud pada ayat (1) huruf a, khusus untuk parameter TDS mulai berlaku pada tanggal 1 Januari 2009.
+Pasal 3
+Dalam kondisi normal, baku mutu air limbah sebagaimana tercantum dalam Lampiran Peraturan Menteri ini setiap saat tidak boleh dilampaui.
+Pasal 4
+(1) Gubernur dapat menetapkan parameter tambahan di luar parameter sebagaimana tercantum dalam Lampiran Peraturan Menteri ini setelah
+
+mendapat persetujuan dari Menteri. (2) Menteri dapat menyetujui atau menolak permohonan penambahan
+parameter yang diajukan oleh Gubernur selambat-lambatnya 4 (empat) bulan sejak diterimanya permohonan tersebut dengan memperhatikan saran dan pertimbangan instansi teknis terkait.
+Pasal 5
+(1) Daerah dapat menetapkan baku mutu air limbah lebih ketat dari ketentuan sebagaimana tercantum dalam Lampiran Peraturan Menteri ini.
+(2) Penetapan baku mutu air limbah sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Daerah Provinsi.
+(3) Apabila daerah tidak menetapkan Baku Mutu Air Limbah Bagi Usaha dan/atau Kegiatan Minyak dan Gas serta Panas Bumi, maka berlaku baku mutu air limbah sebagaimana tercantum dalam Lampiran Peraturan Menteri ini.
+Pasal 6
+Apabila Analisis Mengenai Dampak Lingkungan Hidup bagi usaha dan/atau kegiatan minyak dan gas serta panas bumi mensyaratkan baku mutu air limbah lebih ketat dari baku mutu air limbah sebagaimana dimaksud dalam Lampiran Peraturan Menteri ini, maka untuk kegiatan tersebut berlaku baku mutu air limbah sebagaimana yang dipersyaratkan oleh Analisis Mengenai Dampak Lingkungan Hidup.
+Pasal 7
+Apabila berdasarkan hasil kajian dampak pembuangan air limbah mensyaratkan baku mutu air limbah lebih ketat dari baku mutu air limbah sebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 5, atau Pasal 6, maka dalam persyaratan izin pembuangan air limbah diberlakukan baku mutu air limbah berdasarkan hasil kajian.
+Pasal 8
+Ketentuan baku mutu air limbah sebagaimana dimaksud dalam Pasal 2 ayat (1), Pasal 5, Pasal 6, atau Pasal 7 wajib dicantumkan ke dalam izin pembuangan air limbah.
+Pasal 9
+(1) Dalam kondisi normal, setiap penanggung jawab usaha dan/atau kegiatan minyak dan gas serta panas bumi wajib: a. melakukan pengelolaan air limbah sehingga mutu air limbah yang di buang ke lingkungan tidak melampaui baku mutu air limbah yang telah ditetapkan;
+
+b. memeriksa kadar parameter baku mutu air limbah sebagaimana tercantum dalam Lampiran Peraturan Menteri ini secara periodik paling sedikit 1 (satu) kali dalam sebulan di laboratorium yang terakreditasi;
+c. menyusun prosedur penanganan kondisi abnormal dan/atau darurat; dan khusus untuk kegiatan pengolahan MIGAS :
+1) memasang alat ukur debit atau laju air limbah dan melakukan pencatatan debit harian air limbah tersebut;
+2) menyampaikan laporan tentang pencatatan debit harian dan kadar parameter baku mutu air limbah sebagaimana dimaksud pada huruf b dan huruf c paling sedikit 3 (tiga) bulan sekali kepada Bupati/ Walikota, Gubernur, Menteri dan instansi teknis.
+(2) Dalam kondisi abnormal atau darurat, setiap penanggung jawab usaha dan/atau kegiatan minyak dan gas serta panas bumi wajib:
+a. melaporkan terjadinya kondisi abnormal dalam jangka waktu 2 x 24 jam dan kondisi darurat dalam jangka waktu 1 x 24 jam kepada Bupati/Walikota, Gubernur, Menteri dan instansi teknis;
+b. menangani kondisi abnormal atau darurat dengan menjalankan prosedur penanganan yang telah ditetapkan, sehingga tidak membahayakan keselamatan dan kesehatan manusia, serta tidak menimbulkan pencemaran dan/atau perusakan lingkungan.
+Pasal 10
+Apabila baku mutu air limbah bagi usaha dan/atau kegiatan sebagaimana dimaksud dalam Pasal 2 ayat (1) telah ditetapkan sebelum berlakunya Peraturan Menteri ini :
+a. lebih ketat atau sama dengan baku mutu air limbah sebagaimana tercantum dalam Lampiran Peraturan Menteri ini, dinyatakan tetap berlaku;
+b. lebih longgar dari baku mutu air limbah sebagaimana tercantum dalam Lampiran Peraturan Menteri ini, wajib disesuaikan dengan baku mutu air limbah sebagaimana tercantum dalam Lampiran Peraturan Menteri ini paling lama 1 (satu) tahun setelah ditetapkannya Peraturan Menteri ini.
+Pasal 11
+Dengan berlakunya Peraturan Menteri ini, maka Keputusan Menteri Negara Lingkungan Hidup Nomor : KEP-42/MENLH/10/1996 tentang Baku Mutu Limbah Cair Bagi Kegiatan Minyak dan Gas Serta Panas Bumi, dan Keputusan Menteri Negara Lingkungan Hidup Nomor: KEP09/MENLH/4/1997 tentang Perubahan Keputusan Menteri Negara Lingkungan Hidup Nomor: Kep-42/MENLH/10/1996 tentang Baku Mutu Limbah Cair Bagi Kegiatan Minyak dan Gas serta Panas Bumi dicabut dan
+
+dinyatakan tidak berlaku lagi. Pasal 12
+Peraturan Menteri ini mulai berlaku pada tanggal ditetapkan.
+Ditetapkan di Jakarta pada tanggal : 8 Mei 2007
+Menteri Negara Lingkungan Hidup, ttd
+Ir. Rachmat Witoelar.
+
+Lampiran I Peraturan Menteri Negara Lingkungan Hidup Nomor04 Tahun 2007 Tanggal8 Mei 2007
+BAKU MUTU AIR LIMBAH BAGI USAHA DAN/ATAU KEGIATAN EKSPLORASI DAN PRODUKSI MIGAS
+I. Baku Mutu Air Limbah dari Fasilitas Eksplorasi dan Produksi Migas di Lepas Pantai (Off-Shore).
+
+NO. JENIS AIR LIMBAH
+
+PARAMETER
+
+KADAR
+
+METODE PENGUKURAN
+
+1. Air Terproduksi
+
+Minyak dan
+
+Maksimum 50
+
+SNI 06-6989.10-2004
+
+Lemak
+
+mg/L
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Air limbah drainase dek Minyak Bebas
+
+Nihil (1)
+
+visual
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+3. Air limbah domestik
+
+Benda terapung dan Nihil (2)
+
+visual
+
+buih busa
+
+----------------------------------------------------------------------------------------------------------------------------- ------------------------
+
+4. Air limbah saniter
+
+Residu Chlorine
+
+1-2 mg/L
+
+Standard Method
+
+4500-Cl
+
+Keterangan : (1) Tidak mengandung minyak bebas, dalam pengertian menyebabkan
+terjadinya lapisan minyak atau perubahan warna pada permukaan badan air penerima. (2)Tidak terdapat benda-benda yang terapung dan buih-buih busa.
+
+II. Baku Mutu Air Limbah Kegiatan Eksplorasi dan Produksi Migas dari Fasilitas Darat (On-Shore).
+
+NO. JENIS AIR LIMBAH
+
+PARAMETER
+
+KADAR MAKSIMUM METODE PENGUKURAN
+
+1. Air Terproduksi 2. Air Limbah
+
+COD
+Minyak dan Lemak Sulfida Terlarut (sebagai H2S) Amonia (sebagai NH3-N) Phenol Total Temperatur pH TDS Minyak dan Lemak
+
+200 mg/L
+25 mg/L 0,5 mg/L
+5 mg/L
+2 mg/L 40 0 C 6­9 4000 mg/L 15 mg/L
+
+SNI 06-6989:2-2004 atau SNI 06-6989:15-2004 atau APHA 5220 SNI 06-6989.10-2004 SNI 06-2470-1991 atau APHA 4500-S2SNI 06-6989.30-2005 atau APHA 4500-NH3 SNI 06-6989.21-2005 SNI 06-6989.23-2005 SNI 06-6989.11-2004 SNI 06-6989.27-2005 SNI 06-6989.10-2004
+
+Drainase
+
+Karbon Organik Total
+
+110 mg/L
+
+SNI 06-6989.28-2005 atau APHA 5310
+
+Menteri Negara Lingkungan Hidup,
+ttd
+Ir. Rachmat Witoelar.
+
+Lampiran II Peraturan Menteri Negara Lingkungan Hidup Nomor: 04 Tahun 2007 Tanggal: 8 Mei 2007
+
+BAKU MUTU AIR LIMBAH BAGI USAHA DAN/ATAU KEGIATAN EKSPLORASI DAN PRODUKSI PANAS BUMI
+
+NO JENIS AIR LIMBAH
+
+PARAMETER
+
+KADAR METODE PENGUKURAN
+MAKSIMUM
+
+1. Air Terproduksi 2. Air limbah drainase
+
+Sulfida Terlarut (sebagai H2S)
+Amonia (sebagai NH3-N)
+Air Raksa (Hg) Total
+
+1 mg/L 10 mg/L 0,005 mg/L
+
+Arsen (As) Total Temperatur pH Minyak dan Lemak Karbon Organik Total
+
+0,5 mg/L 45 0 C 6­9
+15 110
+
+SNI 06-2470-1991 atau APHA 4500-S2-
+SNI 06-6989.30-2005 atau APHA 4500-NH3
+SNI 19-1420-1989 atau SNI 06-2462-1991 atau SNI 06-2912-1992 atau
+APHA 3500-Hg
+APHA 3500-As
+SNI 06-6989.23-2005
+SNI 06-6989.11-2004
+SNI 06-6989.10-2004
+SNI 06-6989.28-2005 atau APHA 5310
+
+Menteri Negara Lingkungan Hidup,
+ttd
+Ir. Rachmat Witoelar.
+
+Lampiran III Peraturan Menteri Negara Lingkungan Hidup Nomor: 04 Tahun 2007 Tanggal: 8 Mei 2007
+
+BAKU MUTU AIR LIMBAH BAGI USAHA DAN/ATAU KEGIATAN PENGOLAHAN MINYAK BUMI
+I. Baku Mutu Pembuangan Air Limbah Proses dari Kegiatan Pengolahan Minyak Bumi.
+
+PARAMETER BOD 5 COD
+
+KADAR MAKSIMUM (mg/L)
+80 160
+
+Minyak dan Lemak Sulfida Terlarut (sebagai H2S) Amonia (sebagai NH3-N) Phenol Total Temperatur pH Debit Air Limbah Maksimum
+
+20 0,5 8 0,8
+1000 m3 per 1000 m3
+
+BEBAN PENCEMARAN MAKSIMUM (gram/m3)
+80 160
+20 0,5
+8
+0,8 45 0 C 6­9
+bahan baku minyak
+
+METODE PENGUKURAN SNI 06-2503-1991
+SNI 06-6989:2-2004 atau SNI 06-6989:15-2004 atau
+APHA 5220 SNI 06-6989.10-2004 SNI 06-2470-1991 atau
+APHA 4500-S2SNI 06-6989.30-2005 atau
+APHA 4500-NH3 SNI 06-6989.21-2005 SNI 06-6989.23-2005 SNI 06-6989.11-2004
+
+II. Baku Mutu Pembuangan Air Limbah Drainase dan Air Pendingin Kegiatan Pengolahan Minyak Bumi.
+
+No. JENIS AIR LIMBAH
+
+PARAMETER
+
+KADAR MAKSIMUM (mg/L)
+
+METODE PENGUKURAN
+
+1. Air Limbah Drainase 2. Air Pendingin
+
+Minyak dan Lemak Karbon Organik Total Residu Klorin
+Karbon Organik Total
+
+15 SNI 06-6989.10-2004 110 SNI 06-6989.28-2005 2 Standard Method
+4500-Cl 5 SNI 06-6989.28-2005
+atau APHA 5310
+
+Catatan : Apabila air limbah drainase tercampur dengan air limbah proses,
+maka campuran air limbah tersebut harus memenuhi Baku Mutu
+Pembuangan Air Limbah Proses.
+Menteri Negara Lingkungan Hidup,
+ttd
+
+Ir. Rachmat Witoelar. Lampiran IV Peraturan Menteri Negara Lingkungan Hidup Nomor: 04 Tahun 2007 Tanggal : 8 Mei 2007
+
+BAKU MUTU AIR LIMBAH BAGI USAHA DAN/ATAU KEGIATAN PENGILANGAN LNG DAN LPG TERPADU
+
+JENIS AIR No. LIMBAH
+
+PARAMETE
+
+R
+
+KADAR
+
+METODE
+
+MAKSIMUM PENGUKURAN
+
+Air limbah 1. proses
+
+Minyak dan Lemak
+
+SNI 06-6989.10-
+
+25 mg/L
+
+2004
+
+Residu Chlorine
+
+2 mg/L Standard Method 4500-Cl
+
+Temperatur pH
+
+45 0 C 6­9
+
+SNI 06-6989.232005
+SNI 06-6989.112004
+
+Air limbah 2. drainase
+
+Minyak dan Lemak
+Karbon Organik Total
+
+SNI 06-6989.10-
+
+15 mg/L
+
+2004
+
+SNI 06-6989.28-
+
+110 mg/L
+
+2005
+
+atau APHA 5310
+
+Catatan : Apabila air limbah drainase tercampur dengan air limbah proses, maka
+campuran air limbah tersebut harus memenuhi baku mutu air limbah
+proses.
+
+Menteri Negara Lingkungan Hidup,
+ttd
+Ir. Rachmat Witoelar.
+
+Lampiran V Peraturan Menteri Negara Lingkungan Hidup Nomor 04 Tahun 2007 Tanggal 8 Mei 2007
+
+BAKU MUTU AIR LIMBAH BAGI USAHA DAN/ATAU KEGIATAN INSTALASI, DEPOT DAN TERMINAL MINYAK
+
+KADAR PARAMETER MAKSIMUM
+
+METODE PENGUKURAN
+
+Minyak dan Lemak
+
+25 mg/L
+
+SNI 06-6989.10-2004
+
+Karbon Organik Total
+
+110 mg/L
+
+SNI 06-6989.28-2005 atau APHA 5310
+
+pH 6-9 SNI 06-6989.11-2004
+
+Menteri Negara Lingkungan Hidup,
+ttd
+Ir. Rachmat Witoelar.
+
+

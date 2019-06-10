@@ -1,0 +1,85 @@
+LEMBARAN NEGARA
+
+REPUBLIK INDONESIA
+
+No.68, 2015
+
+PERBANKAN. BI. Suku Bunga Penawaran Antar Bank. Pasar Uang. (Penjelasan Dalam
+Tambahan Lembaran Negara Republik Indonesia Nomor 5681)
+
+PERATURAN BANK INDONESIA NOMOR17/2/PBI/2015 TENTANG
+SUKU BUNGA PENAWARAN ANTARBANK
+DENGAN RAHMAT TUHAN YANG MAHA ESA GUBERNUR BANK INDONESIA,
+
+Menimbang : a. b. c. d.
+Mengingat : 1.
+
+bahwa untuk mendukung stabilitas moneter dan sistem keuangan dibutuhkan efisiensi transaksi di pasar uang;
+bahwa efisiensi transaksi di pasar uang perlu ditunjang oleh pasar uang yang likuid dan dalam;
+bahwa pasar uang yang likuid dan dalam membutuhkan suku bunga penawaran antarbank yang kredibel;
+bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Bank Indonesia tentang Suku Bunga Penawaran Antarbank;
+Undang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 66, Tambahan Lembaran Negara Republik Indonesia Nomor 3843) sebagaimana telah diubah beberapa kali, terakhir dengan UndangUndang Nomor 6 Tahun 2009 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang
+
+www.peraturan.go.id
+
+2015, No.68
+
+2
+
+Nomor 2 Tahun 2008 tentang Perubahan Kedua atasUndang-Undang Nomor 23 Tahun 1999 tentang Bank Indonesia menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2009 Nomor 7, Tambahan Lembaran Negara Republik Indonesia Nomor 4962);
+2. Undang-Undang Nomor 7 Tahun 1992 tentang Perbankan (Lembaran Negara Republik Indonesia Tahun 1992 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 3472) sebagaimana telah diubah dengan Undang-Undang Nomor 10 Tahun 1998 (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 182, Tambahan Lembaran Negara Republik Indonesia Nomor 3790);
+MEMUTUSKAN:
+Menetapkan : PERATURAN BANK INDONESIA TENTANG SUKU BUNGA PENAWARAN ANTARBANK.
+BAB I
+KETENTUAN UMUM
+Pasal 1
+Dalam Peraturan Bank Indonesia ini yang dimaksud dengan:
+1. Suku Bunga Penawaran Antarbank adalah Jakarta Interbank Offered Rate dan Jakarta Interbank Bid Rate.
+2. Jakarta Interbank Offered Rate yang selanjutnya disebut JIBOR adalah rata-rata dari suku bunga indikasi pinjaman tanpa agunan (unsecured) yang ditawarkan dan dimaksudkan untuk ditransaksikan oleh Bank Kontributor kepada Bank Kontributor lain untuk meminjamkan rupiah untuk tenor tertentu di Indonesia.
+3. Jakarta Interbank Bid Rate yang selanjutnya disebut JIBID adalah rata-rata dari suku bunga indikasi pinjaman tanpa agunan (unsecured) yang diminta dan dimaksudkan untuk ditransaksikan oleh Bank Kontributor kepada Bank Kontributor lain untuk meminjam rupiah untuk tenor tertentu di Indonesia.
+4. Bank adalah Bank Umum yang melaksanakan kegiatan usaha secara konvensional sebagaimana dimaksud dalam Undang-Undang yang mengatur mengenai perbankan, termasuk kantor cabang dari bank yang berkedudukan di luar negeri.
+5. Bank Kontributor adalah Bank yang menyampaikan suku bunga indikasi kepada Bank Indonesia untuk digunakan dalam penetapan Suku Bunga Penawaran Antarbank.
+
+www.peraturan.go.id
+
+3 2015, No.68
+6. Asking Bank adalah Bank Kontributor yang meminta Quoting Bank untuk melakukan transaksi dengan Asking Bank.
+7. Quoting Bank adalah Bank Kontributor yang menerima permintaan Asking Bank untuk melakukan transaksi dengan Asking Bank.
+BAB II PENETAPAN SUKU BUNGA PENAWARAN ANTARBANK
+Pasal 2 (1) Suku Bunga Penawaran Antarbank ditetapkan oleh Bank Indonesia
+berdasarkan suku bunga indikasi yang disampaikan oleh Bank Kontributor. (2) Bank Kontributor ditetapkan oleh Bank Indonesia. (3) Ketentuan lebih lanjut mengenai penetapan Suku Bunga Penawaran Antarbank sebagaimana dimaksud pada ayat (1) diatur dalam Surat Edaran Bank Indonesia.
+Pasal 3 (1) Bank Kontributor wajib menyampaikan kuotasi suku bunga indikasi
+kepada Bank Indonesia. (2) Suku bunga indikasi sebagaimana dimaksud pada ayat (1)
+memperhatikan spread antara offer rate dan bid rate. (3) Tata cara penyampaian suku bunga indikasi sebagaimana dimaksud
+pada ayat (1) mengacu pada ketentuan Bank Indonesia yang mengatur mengenai laporan harian bank umum. (4) Ketentuan lebih lanjut mengenai spread antara offer rate dan bid rate sebagaimana dimaksud pada ayat (2) diatur dalam Surat Edaran Bank Indonesia.
+Pasal 4 (1) Bank Kontributor dapat bertindak sebagai Asking Bank atau Quoting
+Bank. (2) Asking Bank dapat meminta Quoting Bank untuk:
+a. meminjam rupiah dari Asking Bank; atau b. meminjamkan rupiah kepada Asking Bank, pada tingkat suku bunga sesuai suku bunga indikasi yang disampaikan oleh Quoting Bank. (3) Quoting Bank wajib memenuhi permintaan transaksi (deal) dari Asking Bank sebagaimana dimaksud pada ayat (2) sepanjang memenuhi batasan waktu dan batasan tertentu.
+www.peraturan.go.id
+
+2015, No.68
+
+4
+
+(4) Dalam hal Bank Kontributor yang bertindak sebagai Quoting Bank tidak memenuhi kewajiban sebagaimana dimaksud pada ayat (3), Bank Kontributor yang bertindak sebagai Asking Bank harus menyampaikan informasi mengenai penolakan tersebut secara tertulis kepada Bank Indonesia.
+(5) Ketentuan lebih lanjut mengenai batasan waktu dan batasan tertentu sebagaimana dimaksud pada ayat (3) diatur dalam Surat Edaran Bank Indonesia.
+BAB III SANKSI
+Pasal 5
+(1) Bank Kontributor yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 3 ayat (1) dikenakan sanksi sesuai dengan ketentuan Bank Indonesia yang mengatur mengenai laporan harian bank umum.
+(2) Bank Kontributor yang melanggar ketentuan sebagaimana dimaksud dalam Pasal 4 ayat (3) dikenakan sanksi administratif berupa teguran tertulis.
+(3) Ketentuan lebih lanjut mengenai tata cara pengenaan sanksi sebagaimana dimaksud pada ayat (2) diatur dalam Surat Edaran Bank Indonesia.
+BAB IV KETENTUAN PENUTUP
+Pasal 6
+Ketentuan lebih lanjut dari Peraturan Bank Indonesia ini diatur dalam Surat Edaran Bank Indonesia.
+Pasal 7
+Semua istilah JIBOR yang tercantum dalam ketentuan Bank Indonesia yang sudah ada sebelum Peraturan Bank Indonesia ini berlaku, harus dibaca sebagai JIBOR sebagaimana dimaksud dalam Peraturan Bank Indonesia ini.
+Pasal 8
+Pada saat Peraturan Bank Indonesia ini mulai berlaku, Pasal 5 dan Pasal 22 ayat (1) huruf b Peraturan Bank Indonesia Nomor 13/8/PBI/2011 tentang Laporan Harian Bank Umum (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 5194), dicabut dan dinyatakan tidak berlaku.
+
+www.peraturan.go.id
+
+5 2015, No.68 Pasal 9 Peraturan Bank Indonesia ini mulai berlaku pada tanggal 1 April 2015. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bank Indonesia ini dengan penempatannya dalam Lembaran Negara Republik Indonesia.
+Ditetapkan di Jakarta pada tanggal 26 Maret 2015 GUBERNUR BANK INDONESIA, AGUS D. W. MARTOWARDOJO Diundangkan di Jakarta pada tanggal 26 Maret 2015 MENTERI HUKUM DAN HAK ASASI MANUSIA REPUBLIK INDONESIA, YASONNA H. LAOLY
+www.peraturan.go.id
+
+

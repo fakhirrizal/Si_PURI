@@ -1,0 +1,698 @@
+SALINAN LAMPIRAN XIII PERATURAN MENTERI PENDIDIKAN DAN KEBUDAYAAN NOMOR 5 TAHUN 2016 TENTANG STANDAR KOMPETENSI KELULUSAN KURSUS DAN PELATIHAN
+STANDAR KOMPETENSI LULUSAN KURSUS DAN PELATIHAN TEKNIK KENDARAAN RINGAN JENJANG III
+
+A. Latar Belakang
+
+I. PENDAHULUAN
+
+Indonesia memiliki berbagai keunggulan untuk mampu berkembang menjadi negara maju. Keanekaragaman sumber daya alam, flora dan fauna, kultur, penduduk serta letak geografis yang unik merupakan modal dasar yang kuat untuk melakukan pengembangan di berbagai sektor kehidupan yang pada saatnya dapat menciptakan daya saing yang unggul di dunia internasional. Dalam berbagai hal, kemampuan bersaing dalam sektor sumber daya manusia tidak hanya membutuhkan keunggulan dalam hal mutu, tetapi juga memerlukan upaya-upaya pengenalan, pengakuan, serta penyetaraan kualifikasi pada bidang-bidang keilmuan dan keahlian yang relevan baik secara bilateral, regional maupun internasional.
+
+Kerangka Kualifikasi Nasional Indonesia (KKNI) secara khusus dikembangkan untuk menjadi suatu rujukan nasional bagi upayaupaya meningkatkan mutu dan daya saing bangsa Indonesia di sektor sumber daya manusia. Pencapaian setiap tingkat kualifikasi sumber daya manusia Indonesia berhubungan langsung dengan tingkat capaian pembelajaran (learning outcomes) baik yang dihasilkan melalui sistem pendidikan maupun sistem pelatihan kerja yang dikembangkan dan diberlakukan secara nasional. Oleh karena itu upaya peningkatan mutu dan daya saing bangsa akan sekaligus pula memperkuat jati diri bangsa Indonesia.
+1
+
+KKNI merupakan salah satu langkah untuk mewujudkan mutu dan jati diri bangsa Indonesia dalam sektor sumber daya manusia yang dikaitkan dengan program pengembangan sistem pendidikan dan pelatihan secara nasional. Setiap tingkat kualifikasi yang dicakup dalam KKNI memiliki makna dan kesetaraan dengan capaian pembelajaran yang dimiliki setiap insan pekerja Indonesia dalam menciptakan hasil karya dan kontribusi yang bermutu di bidang pekerjaannya masing-masing.
+Kebutuhan Indonesia untuk memiliki KKNI sudah sangat mendesak mengingat tantangan dan persaingan global pasar tenaga kerja nasional maupun internasional yang semakin terbuka. Pergerakan tenaga kerja dari dan ke Indonesia tidak lagi dapat dibendung dengan peraturan atau regulasi yang bersifat protektif. Ratifikasi yang telah dilakukan Indonesia untuk berbagai konvensi regional maupun internasional, secara nyata menempatkan Indonesia sebagai sebuah negara yang semakin terbuka dan mudah dimasuki oleh kekuatan asing melalui berbagai sektor termasuk sektor perekonomian, pendidikan, sektor ketenagakerjaan dan lain-lain. Oleh karena itu, persaingan global tidak lagi terjadi pada ranah internasional akan tetapi sudah nyata berada pada ranah nasional.
+Upaya yang dapat dilakukan untuk mengantisipasi tantangan globalisasi pada sektor ketenagakerjaan adalah meningkatkan ketahanan sistem pendidikan dan pelatihan secara nasional dengan berbagai cara antara lain. 1. Meningkatkan mutu pendidikan dan pelatihan. 2. Mengembangkan sistem kesetaraan kualifikasi antara capaian
+pembelajaran yang diperoleh melalui pendidikan dan pelatihan, pengalaman kerja maupun pengalaman mandiri dengan kriteria kompetensi yang dipersyaratkan oleh suatu jenis bidang dan tingkat pekerjaan.
+2
+
+3. Meningkatkan kerjasama dan pengakuan timbal balik yang saling menguntungkan antara institusi penghasil dengan pengguna tenaga kerja.
+4. Meningkatkan pengakuan dan kesetaraan kualifikasi ketenagakerjaan Indonesia dengan negara-negara lain di dunia baik terhadap capaian pembelajaran yang ditetapkan oleh institusi pendidikan dan pelatihan maupun terhadap kriteria kompetensi yang dipersyaratkan untuk suatu bidang dan tingkat pekerjaan tertentu.
+Secara mendasar langkah-langkah pengembangan tersebut mencakup permasalahan yang bersifat multi aspek dan keberhasilannya sangat tergantung dari sinergi dan peran proaktif dari berbagai pihak yang terkait dengan peningkatan mutu sumber daya manusia nasional termasuk Kementerian Pendidikan dan Kebudayaan, Kementerian Tenaga Kerja, asosiasi profesi, asosiasi industri, institusi pendidikan dan pelatihan, serta masyarakat luas.
+Secara umum, kondisi awal yang dibutuhkan untuk dapat melaksanakan suatu program penyetaraan kualifikasi ketenagakerjaan tersebut nampak belum cukup kondusif dalam beberapa hal seperti misalnya belum meratanya kesadaran mutu di kalangan institusi penghasil tenaga kerja, belum tumbuhnya kesadaran tentang pentingnya kesetaraan kualifikasi antara capaian pembelajaran yang dihasilkan oleh penghasil tenaga kerja dengan deskripsi keilmuan, keahlian dan keterampilan yang dibutuhkan di bidang kerja atau profesi termasuk terbatasnya pemahaman mengenai dinamika tantangan sektor tenaga kerja di tingkat dunia. Oleh karena itu, upaya-upaya untuk mencapai keselarasan mutu dan penjenjangan kualifikasi lulusan dari institusi pendidikan formal dan non formal, dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan perlu diwujudkan dengan segera.
+3
+
+Di jalur pendidikan non formal, pada tahun 2015 tercatat sekitar 19.248 lembaga kursus dan pelatihan yang menyelenggarakan pendidikan non formal dalam bentuk beragam jenis kursus dan pelatihan (sumber: nilek.online) di bawah pembinaan Kementerian Pendidikan dan Kebudayaan. Maka, salah satu infrastruktur yang penting dalam mencapai keselarasan mutu dan penjenjangan kualifikasi antara lulusan dari institusi penyelenggara kursus dan pelatihan dengan deskripsi kompetensi kerja yang diharapkan oleh pengguna lulusan adalah dokumen Standar Kompetensi Lulusan disingkat SKL, sebagaimana dinyatakan pada Peraturan Pemerintah Nomor 13 Tahun 2015 tentang Perubahan Kedua Atas Peraturan Pemerintah Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan dalam hal penyusunan suatu SKL dan Permendikbud Nomor 131 Tahun 2014 tentang Standar Kompetensi Lulusan Kursus dan pelatihan.
+Dengan terbitnya Peraturan Presiden Nomor 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia, maka SKL kursus dan pelatihan disusun berbasis KKNI untuk mengakomodasi perubahan kebutuhan kompetensi kerja dari pengguna lulusan di dunia kerja dan dunia industri.
+B. Tujuan Penyusunan SKL
+SKL kursus dan pelatihan disusun untuk digunakan sebagai pedoman dalam menentukan kompetensi lulusan peserta didik pada lembaga kursus dan pelatihan serta bagi yang belajar mandiri dan sebagai acuan dalam menyusun, merevisi, atau memutakhirkan kurikulum, baik pada aspek perencanaan maupun implementasinya.
+C. Uraian Program
+4
+
+Program kursus dan pelatihan mekanik madya teknik kendaraan ringan, merupakan program kursus dan pelatihan untuk menghasilkan seorang mekanik madya teknik kendaraan ringan. Program kursus dan pelatihan ini dirancang untuk membekali peserta didik agar memiliki penguasaan pengetahuan operasional yang lengkap tentang kendaraan ringan, prinsip-prinsip serta konsep umum yang terkait dengan fakta bidang keahlian tertentu, sehingga mampu menyelesaikan berbagai masalah yang lazim dengan metode yang sesuai dalam rangka memelihara kondisi kendaraan ringan agar sesuai dengan standar spesifikasinya.
+1. Nama program Kursus dan pelatihan Mekanik Madya Teknik Kendaraan Ringan
+2. Tujuan a. Umum Secara umum program kursus dan pelatihan mekanik madya teknik kendaraan ringan ini bertujuan untuk menghasilkan lulusan yang memiliki penguasaan pengetahuan faktual, kemampuan kerja, serta memiliki hak dan tanggung jawab dalam bidang perbaikan kendaraan ringan berikut sistemsistemnya, dan memelihara kondisi kendaraan agar sesuai dengan standar spesifikasinya.
+b. Khusus Secara khusus program kursus dan pelatihan mekanik teknik kendaraan ringan ini bertujuan untuk menghasilkan lulusan yang kompeten dalam bidang perbaikan: 1) Sistem bahan bakar bensin. 2) Sistem bahan bahan bakar diesel. 3) Sistem pemindah tenaga. 4) Sistem kemudi dan front wheel aligment. 5) Sistem suspensi.
+5
+
+6) Overhaul engine. 7) Rangkaian sistem kelistrikan engine, body dan asesoris. 8) Sistem Air Conditioning (AC).
+3. Manfaat Program kursus dan pelatihan mekanik madya teknik kendaraan ringan ini bermanfaat bagi: a. Peserta: memiliki kemampuan kerja, penguasaan pengetahuan, dan kemampuan manajerial dalam perawatan komponenkomponen sistem kendaraan, yang dapat digunakan sebagai bekal bekerja atau berwirausaha. b. Lembaga pengguna mekanik kendaraan ringan; dapat merekrut calon mekanik madya yang siap dan mampu beradaptasi dengan pekerjaannya. c. Lembaga penyelenggara kursus dan pelatihan mekanik madya kendaraan ringan; dapat menghasilkan lulusan kursus dan pelatihan yang terstandar.
+4. Kualifikasi peserta Minimal pendidikan SLTA/sederajat dan pernah bekerja pada bidang kerja yang relevan dengan pekerjaan mekanik pemula teknik kendaraan ringan, atau sudah lulus kursus dan pelatihan teknik kendaraan ringan jenjang II.
+5. Durasi kursus dan pelatihan Waktu kursus dan pelatihan yang diperlukan peserta untuk mengikuti mekanik madya teknik kendaraan ringan adalah 600 jam pelajaran dengan proporsi waktu 30% teori dan 70% praktik.
+6. Metoda kursus dan pelatihan Metode kursus dan pelatihan yang dilakukan adalah pelatihan berbasis kompetensi.
+6
+
+7. Uji kompetensi Uji kompetensi dilaksanakan pada akhir program kursus dan pelatihan. Pelaksanaan uji kompetensi terdiri dari dua jenis tes, yaitu tes teori dan praktik. Tes teori bertujuan untuk mengukur penguasaan pengetahuan, sikap, dan keterampilan berfikir peserta kursus dan pelatihan mekanik madya teknik kendaraan ringan dalam melakukan pembongkaran, pemeriksaan, perbaikan dan pemasangan sistem bahan bakar bensin, bahan bakar diesel, pemindah tenaga, kemudi dan front wheel aligment, suspensi, overhaul engine, rangkaian sistem kelistrikan body dan asesoris, dan sistem AC.
+Tes praktik bertujuan untuk mengukur pengetahuan, sikap, dan keterampilan kerja peserta kursus dan pelatihan mekanik madya teknik kendaraan ringan dalam memperbaiki sistem bahan bakar bensin, bahan bakar diesel, pemindah tenaga, kemudi dan front wheel aligment, suspensi, overhaul engine, rangkaian sistem kelistrikan body dan asesoris, dan sistem AC dalam rangka memelihara kondisi teknik kendaraan ringan agar sesuai dengan standar spesifikasinya.
+Kelulusan peserta kursus dan pelatihan didasarkan kepada uji kompetensi yang dilakukan oleh Lembaga Sertifikasi Kompetensi (LSK) bidang teknik otomotif atau lembaga kursus dan pelatihan yang terakreditasi.
+8. Sertifikat kelulusan Sertifikat kelulusan diberikan kepada peserta kursus dan pelatihan mekanik madya teknik kendaraan ringan yang telah dinyatakan lulus dalam uji kompetensi.
+7
+
+D. Pengertian
+1. Capaian pembelajaran adalah kemampuan yang diperoleh melalui internalisasi pengetahuan, sikap, keterampilan, kompetensi, dan akumulasi pengalaman kerja.
+2. Pengetahuan adalah penguasaan teori oleh seseorang pada suatu bidang keilmuan dan keahlian tertentu atau pemahaman tentang konsep, fakta, informasi, dan metodologi pada bidang pekerjaan tertentu.
+3. Sikap adalah penghayatan nilai, etika, moral, hukum, dan normanorma sosial lainnya yang tumbuh dan berkembang dalam kehidupan bermasyarakat, yang diaktualisasikan dalam perilaku dan perbuatan sehari-hari, baik dalam lingkungan keluarga, lingkungan tempat kerja, maupun dalam lingkungan masyarakat yang lebih luas.
+4. Keterampilan adalah kemampuan psikomotorik dan kemampuan menggunakan metode, bahan, dan instrumen, yang diperoleh melalui pendidikan, pelatihan, dan pengalaman kerja.
+5. Kompetensi adalah akumulasi kemampuan seseorang dalam melaksanakan suatu deskripsi kerja secara terukur melalui asesmen yang terstruktur, secara mandiri dan bertanggung jawab di dalam lingkungan kerja.
+6. Pengalaman kerja adalah internalisasi kemampuan dalam melakukan pekerjaan di bidang tertentu dan selama jangka waktu tertentu.
+8
+
+7. Deskripsi umum KKNI adalah deskripsi yang menyatakan karakter, kepribadian, sikap dalam berkarya, etika, moral dari setiap manusia Indonesia pada setiap jenjang kualifikasi sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012.
+8. Deskripsi kualifikasi KKNI adalah deskripsi yang menyatakan ilmu pengetahuan, pengetahuan praktis, pengetahuan, afeksi dan kompetensi yang dicapai seseorang sesuai dengan jenjang kualifikasi 1 sampai 9 sebagaimana dinyatakan pada lampiran Peraturan Presiden Nomor 8 Tahun 2012.
+9. Deskripsi capaian pembelajaran khusus adalah deskripsi capaian minimum dari setiap program kursus dan pelatihan yang mencakup deskripsi umum dan selaras dengan deskripsi kualifikasi KKNI.
+10. Standar Kompetensi Lulusan berbasis KKNI adalah kualifikas kemampuan yang dibutuhkan untuk melaksanakan dan menyelesaikan pekerjaan, yang mencakup sikap, pengetahuan, dan keterampilan, sesuai dengan unjuk kerja yang dipersyaratkan dan diturunkan dari capaian pembelajaran kursus pada jenjang KKNI yang sesuai. Standar Kompetensi Lulusan berbasis KKNI dinyatakan dalam tiga parameter: Kompetensi, Elemen Kompetensi, dan Indikator kelulusan.
+11. Kurikulum adalah seperangkat rencana dan pengaturan mengenai tujuan, isi, dan bahan pelajaran serta cara penyampaian dan penilaiannya sebagai pedoman penyelenggaraan kegiatan pembelajaran untuk menghasilkan lulusan dengan capaian pembelajaran khusus.
+9
+
+12. Rekognisi Pembelajaran Lampau (RPL) adalah pengakuan atas capaian pembelajaran seseorang yang diperoleh dari pengalaman kerja, pendidikan non formal, atau pendidikan informal ke dalam sektor pendidikan formal.
+10
+
+II. STANDAR KOMPETENSI LULUSAN BERBASIS KKNI
+A. Profil Lulusan
+Lulusan program kursus dan pelatihan mekanik madya Kendaraan Ringan ini memiliki penguasaan pengetahuan faktual, kemampuan kerja, melakukan tindakan diagnosa dalam lingkup terbatas dan perbaikannya, serta memiliki hak dan tanggung jawab dalam bidang perbaikan sistem bahan bakar bensin, bahan bakar diesel, pemindah tenaga, kemudi dan front wheel aligment, suspensi, overhaul engine, rangkaian sistem kelistrikan body dan asesoris, dan sistem AC.
+B. Jabatan Kerja
+Jabatan kerja yang dapat ditempati dan dilakukan oleh lulusan kursus dan pelatihan mekanik Kendaraan Ringan ini adalah sebagai mekanik madya, atau mekanik setara dengan operator jenjang III dalam Kerangka Kualifikasi Nasional Indonesia (KKNI).
+C. Capaian Pembelajaran
+1. Deskripsi umum KKNI Deskripsi umum KKNI sesuai Peraturan Presiden Nomor 8 Tahun 2012 minimum wajib dimiliki dan dihayati oleh setiap lulusan kursus dan pelatihan adalah: Sesuai dengan ideologi Negara dan budaya Bangsa Indonesia, maka implementasi sistem pendidikan nasional dan sistem pelatihan kerja yang dilakukan di Indonesia pada setiap jenjang kualifikasi pada KKNI mencakup proses yang membangun karakter dan kepribadian manusia Indonesia sebagai berikut. a. Bertaqwa kepada Tuhan Yang Maha Esa. b. Memiliki moral, etika, dan kepribadian yang baik di dalam menyelesaikan tugasnya.
+10
+
+c. Berperan sebagai warga negara yang bangga dan cinta tanah air serta mendukung perdamaian dunia.
+d. Mampu bekerja sama dan memiliki kepekaan sosial dan kepedulian yang tinggi terhadap masyarakat dan lingkungannya.
+e. Menghargai keanekaragaman budaya, pandangan, kepercayaan, dan agama serta pendapat/temuan original orang lain.
+f. Menjunjung tinggi penegakan hukum serta memiliki semangat untuk mendahulukan kepentingan bangsa serta masyarakat luas.
+2. Deskripsi kualifikasi sesuai dengan jenjang III KKNI: a. Mampu melaksanakan serangkaian tugas spesifik, dengan menerjemahkan informasi dan menggunakan alat, berdasarkan sejumlah pilihan prosedur kerja, serta mampu menunjukkan kinerja dengan mutu dan kuantitas yang terukur, yang sebagian merupakan hasil kerja sendiri dengan pengawasan tidak langsung. b. Memiliki pengetahuan operasional yang lengkap, prinsip-prinsip serta konsep umum yang terkait dengan fakta bidang keahlian tertentu, sehingga mampu menyelesaikan berbagai masalah yang lazim dengan metode yang sesuai. c. Mampu bekerja sama dan melakukan komunikasi dalam lingkup kerjanya. d. Bertanggung jawab pada pekerjaan sendiri dan dapat diberi tanggung jawab atas kuantitas dan mutu hasil kerja orang lain.
+11
+
+3. Deskripsi capaian pembelajaran khusus
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG MEKANIK MADYA TEKNIK KENDARAAN RINGAN SESUAI KKNI JENJANG III
+
+SIKAP DAN TATA NILAI
+KEMAMPUAN DI BIDANG KERJA
+
+Membangun dan membentuk karakter dan kepribadian manusia Indonesia yang. 1. Bertaqwa kepada Tuhan Yang Maha Esa. 2. Memiliki moral, etika, dan kepribadian yang
+baik di dalam menyelesaikan tugasnya. 3. Berperan sebagai warga negara yang bangga
+dan cinta tanah air serta mendukung perdamaian dunia. 4. Mampu bekerja sama dan memiliki kepekaan sosial dan kepedulian yang tinggi terhadap masyarakat dan lingkungannya. 5. Menghargai keanekaragaman budaya, pandangan, kepercayaan, dan agama serta pendapat/temuan original orang lain. 6. Menjunjung tinggi penegakan hukum serta memiliki semangat untuk mendahulukan kepentingan bangsa serta masyarakat luas. Mampu melakukan perbaikan kendaraan ringan agar sesuai dengan standar spesifikasinya, meliputi kemampuan. 1. Sistem bahan bakar bensin. 2. Sistem bahan bahan bakar diesel. 3. Sistem pemindah tenaga. 4. Sistem kemudi dan front wheel aligment. 5. Sistem suspensi. 6. Overhaul engine. 7. Rangkaian sistem kelistrikan engine, body
+
+12
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG MEKANIK MADYA TEKNIK KENDARAAN RINGAN SESUAI KKNI JENJANG III
+
+dan asesoris. 8. Sistem AC.
+
+PENGETAHUAN Memiliki pengetahuan operasional yang
+
+YANG
+
+lengkap, prinsip-prinsip serta konsep umum
+
+DIKUASAI
+
+yang terkait dengan proses perbaikan
+
+kendaraan ringan sesuai dengan buku panduan
+
+yang meliputi:
+
+1. Mekanika fluida yang meliputi aliran,
+
+tekanan, dan kecepatan udara dan bahan
+
+bakar.
+
+2. Ilmu bahan tentang kopling dan gesekan
+
+3. Konversi energi tentang perubahan energi
+
+panas menjadi gerak
+
+4. Elemen mesin tentang torque dan gear ratio
+
+5. Sistem bahan bakar bensin
+
+6. Sistem bahan bahan bakar diesel
+
+7. Sistem pemindah tenaga.
+
+8. Sistem kemudi dan front wheel aligment.
+
+9. Sistem suspensi.
+
+10.Overhaul engine
+
+11.Rangkaian sistem kelistrikan engine, body
+
+dan asesoris
+
+12.Sistem AC.
+
+13
+
+PARAMETER DESKRIPSI CAPAIAN PEMBELAJARAN KHUSUS BIDANG MEKANIK MADYA TEKNIK KENDARAAN RINGAN SESUAI KKNI JENJANG III
+
+HAK DAN TANGGUNG JAWAB
+
+Bertanggung jawab pada perbaikan dan pemeliharaan komponen-komponen sistem teknik kendaraan ringan secara mandiri dan dapat diberi tanggung jawab membimbing mekanik madya yang sedang magang atau yang baru direkrut, mencakup. 1. Bertanggung jawab atas pekerjaan perbaikan
+sistem bahan bakar bensin, bahan bakar diesel, pemindah tenaga, kemudi dan front wheel aligment, suspensi, overhaul engine, rangkaian sistem kelistrikan body dan asesoris, dan sistem AC. 2. Melakukan komunikasi yang baik dan efektif dengan rekan kerja dan penyelia layanan (service advisor). 3. Mempertanggung jawabkan hasil pekerjaannya kepada penyelia layanan. 4. Bertanggung jawab untuk menilai hasil pekerjaan mekanik pemula.
+
+D. Standar Kompetensi Lulusan
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+Sikap Dan Tata Nilai
+
+1. Mengaktualisasi 1.1. Bertaqwa kepada
+
+karakter dan
+
+Tuhan Yang Maha
+
+kepribadian
+
+Esa.
+
+INDIKATOR KELULUSAN
+Mampu menyelesaikan pekerjaan perawatan
+
+14
+
+UNIT NO
+KOMPETENSI manusia Indonesia.
+
+ELEMEN KOMPETENSI
+1.2. Memiliki moral, etika dan kepribadian yang baik di dalam menyelesaikan tugasnya.
+1.3. Berperan sebagai warga negara yang bangga dan cinta tanah air serta mendukung perdamaian dunia.
+1.4. Bekerja sama dan memiliki kepekaan yang tinggi terhadap masyarakat dan lingkungannya.
+
+INDIKATOR KELULUSAN kendaraan ringan sesuai dengan spesifikasinya sehingga pengguna dapat secara aman berkendaraan dan kendaraan ringan tidak mengeluarkan polusi (udara dan suara) yang dapat mengganggu ketentraman masyarakat.
+
+1.5. Menghargai keanekaragaman budaya, pandangan, kepercayaan, dan agama serta pendapat/temuan original orang lain.
+
+1.6. Menjunjung tinggi penegakan hukum serta memiliki
+
+15
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI semangat untuk mendahulukan kepentingan bangsa serta masyarakat luas.
+
+INDIKATOR KELULUSAN
+
+Kemampuan Di Bidang Kerja
+
+2. Mampu
+
+2.1. Melakukan
+
+melakukan
+
+perbaikan sistem
+
+perbaikan
+
+bahan bakar
+
+sistem bahan
+
+bensin
+
+bakar bensin,
+
+bahan bakar
+
+diesel,
+
+pemindah
+
+tenaga, kemudi
+
+dan front wheel
+
+aligment,
+
+suspensi,
+
+overhaul engine,
+
+rangkaian
+
+sistem
+
+kelistrikan body
+
+dan asesoris,
+
+dan sistem AC.
+
+a. Ketepatan urutan pelepasan komponen sistem bahan bakar motor bensin.
+b. Keakuratan pemeriksaan komponen sistem bahan bakar motor bensin.
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+
+d. Ketepatan pemasangan komponen sistem bahan
+
+16
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN bakar motor bensin.
+
+e. Ketepatan dalam menguji coba bahan bakar bensin.
+
+2.2. Melakukan perbaikan sistem bahan bakar motor diesel.
+
+a. Ketepatan urutan pelepasan komponen sistem bahan bakar motor diesel.
+
+b. Keakuratan pemeriksaan komponen sistem bahan bakar motor diesel.
+
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+
+d. Ketepatan pemasangan komponen sistem bahan
+
+17
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+2.3. Melakukan perbaikan sistem pemindah tenaga mencakup.
+2.3.1. Sistem kopling.
+
+INDIKATOR KELULUSAN bakar motor diesel. e. Ketepatan dalam menguji coba bahan bakar diesel.
+a. Ketepatan urutan pelepasan komponen sistem kopling.
+b. Keakuratan pemeriksaan komponen sistem kopling.
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+d. Ketepatan pemasangan komponen sistem sistem kopling.
+e. Ketepatan dalam
+
+18
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+2.3.2. Sistem transmisi manual.
+
+INDIKATOR KELULUSAN menguji coba sistem kopling.
+a. Ketepatan urutan pelepasan komponen sistem transmisi manual.
+b. Keakuratan pemeriksaan komponen sistem transmisi manual.
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+d. Ketepatan pemasangan komponen sistem transmisi manual.
+e. Ketepatan dalam menguji coba sistem transmisi manual.
+
+19
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+2.3.3. Memperbai ki propeller shaft.
+
+a. Ketepatan urutan pelepasan komponen propeller shaft.
+
+b. Keakuratan pemeriksaan komponen sistem propeller shaft.
+
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+
+d. Ketepatan pemasangan komponen sistem propeller shaft.
+
+e. Ketepatan dalam menguji coba propeller shaft.
+
+2.4. Melakukan perbaikan sistem kemudi.
+
+a. Ketepatan urutan pelepasan komponen sistem kemudi.
+
+b. Keakuratan pemeriksaan komponen sistem kemudi.
+
+20
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+
+d. Ketepatan pemasangan komponen kemudi.
+
+e. Ketepatan dalam menguji coba sistem kemudi.
+
+2.5. Melakukan perbaikan front wheel aligment meliputi: camber, caster, toe ­in, toeout, kingpin inklinasi, dan turning radius.
+
+a. Ketepatan pemeriksaan, penyetelan camber, caster, toe ­in, toe- out, kingpin inklinasi, dan turning radius.
+
+b. Ketepatan dalam pengujian sistem front wheel aligment sesuai dengan buku panduan.
+
+2.6. Melakukan perbaikan sistem
+
+a. Ketepatan pelepasan sistem
+
+21
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI suspensi.
+
+INDIKATOR KELULUSAN suspensi (pegas, shock absorber, lower arm, struth bar, lateral control rod, dan stabilizer bar).
+b. Ketepatan dalam pemeriksaan sistem suspensi (pegas, shock absorber, lower arm, struth bar, lateral control rod, dan stabilizer bar).
+c. Ketepatan dalam pemasangan sistem suspensi (pegas, shock absorber, lower arm, struth bar, lateral control rod, dan stabilizer bar).
+d. Ketepatan dalam menguji coba sistem suspensi.
+
+22
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+2.7. Melakukan perbaikan komponen sistem kelistrikan engine, body dan asesoris mencakup.
+
+2.7.1. Sistem starter.
+
+a. Ketepatan urutan pelepasan komponen sistem starter.
+
+b. Keakuratan pemeriksaan komponen sistem starter.
+
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+
+d. Ketepatan pemasangan komponen sistem starter.
+
+e. Ketepatan dalam menguji coba sistem starter.
+
+2.7.2. Sistem Pengisian.
+
+a. Ketepatan urutan pelepasan
+
+23
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+2.7.3. Sistem Pengapian.
+
+INDIKATOR KELULUSAN komponen sistem pengisian.
+b. Keakuratan pemeriksaan komponen sistem pengisian.
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+d. Ketepatan pemasangan komponen sistem pengisian.
+e. Ketepatan dalam menguji coba sistem pengisian.
+a. Ketepatan urutan pelepasan komponen sistem pengapian.
+b. Keakuratan pemeriksaan komponen sistem pengapian.
+c. Ketepatan melakukan
+
+24
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+2.7.4. Sistem entertainme nt.
+
+INDIKATOR KELULUSAN penggantian komponen sesuai spesfikasi.
+d. Ketepatan pemasangan komponen sistem pengapian.
+e. Ketepatan dalam menguji coba sistem pengapian.
+a. Ketepatan urutan pelepasan komponen sistem entertainment.
+b. Keakuratan pemeriksaan komponen sistem entertainment.
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+d. Ketepatan pemasangan komponen sistem entertainment.
+e. Ketepatan dalam
+
+25
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN menguji coba sistem entertainment.
+
+2.7.5. Sistem alarm, central lock dan power window.
+
+a. Ketepatan urutan pelepasan komponen sistem alarm, central lock dan power window.
+
+b. Keakuratan pemeriksaan komponen sistem alarm, central lock dan power window.
+
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+
+d. Ketepatan pemasangan komponen sistem alarm, central lock dan power window.
+
+e. Ketepatan dalam menguji coba sistem alarm,
+
+26
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+2.8. Melakukan overhaul engine.
+
+2.9. Melakukan perbaikan komponen sistem AC.
+
+INDIKATOR KELULUSAN central lock dan power window.
+a. Ketepatan urutan pelepasan komponen engine.
+b. Keakuratan pemeriksaan komponen engine.
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+d. Ketepatan pemasangan komponen engine.
+e. Ketepatan dalam menguji coba engine.
+a. Ketepatan urutan pelepasan komponen sistem AC.
+b. Keakuratan pemeriksaan
+
+27
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN komponen sistem sistem AC.
+
+c. Ketepatan melakukan penggantian komponen sesuai spesfikasi.
+
+d. Ketepatan pemasangan komponen sistem sistem AC.
+
+e. Ketepatan dalam menguji coba AC.
+
+Pengetahuan Yang Dikuasai
+
+3. Menguasai pengetahuan operasional yang lengkap, prinsip-prinsip serta konsep umum yang terkait dengan proses perbaikan kendaraan ringan.
+
+3.1. Menguasai prinsip serta konsep umum tentang.
+1.1.1. Mekanika fluida.
+
+a. Ketepatan menelaah aliran udara dan bahan bakar.
+b. Ketepatan menelaah tekanan udara dan bahan bakar.
+
+c. Ketepatan
+
+28
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN menelaah kecepatan udara dan bahan bakar.
+d. Ketepatan menelaah aliran fluida pada power steering.
+e. Ketepatan menelaah tekanan pada fluida power steering.
+f. Ketepatan menelaah aliran fluida pada shock absorber.
+g. Ketepatan menelaah tekanan fluida pada shock absorber.
+h. Ketepatan menelaah aliran fluida pada AC.
+i. Ketepatan menelaah tekanan fluida
+
+29
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI 1.1.2. Ilmu
+bahan.
+1.1.3. Konversi energy.
+1.1.4. Elemen mesin.
+1.1.5. Sistem bahan bakar bensin.
+
+INDIKATOR KELULUSAN pada pada AC.
+a. Ketepatan menentukan bahan terkait tentang kopling.
+b. Ketepatan menelaah gesekan.
+a. Ketepatan mengonsepkan konversi energi.
+b. Ketepatan mengonsepkan perubahan energi panas menjadi gerak.
+a. Ketepatan dalam mengonsepkan torque.
+b. Ketepatan menentukan gear ratio.
+a. Ketepatan dalam mengonsepkan perbandingan udara dan bahan bakar.
+b. Ketepatan
+30
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+1.1.6. Sistem bahan bakar diesel.
+1.1.7. Sistem pemindah tenaga.
+
+INDIKATOR KELULUSAN memproseskan prinsip kerja, komponen dan fungsi komponen pada sistem bahan bakar bensin.
+c. Ketepatan menentukan kerusakan komponen.
+a. Ketepatan memproseskan cara kerja, komponen dan fungsi komponen pada sistem bahan bakar diesel.
+b. Ketepatan menentukan kerusakan komponen.
+a. Ketepatan memproseskan prinsip kerja komponen dan fungsi kopling.
+b. Ketepatan
+
+31
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+1.1.8. Sistem kemudi dan front wheel aligment.
+
+INDIKATOR KELULUSAN memproseskan prinsip kerja sistem pemindahan tenaga, komponen dan fungsi komponen transmisi manual.
+c. Ketepatan memproseskan kerja dan fungsi komponen propeler shaft.
+d. Ketepatan menentukan kerusakan komponen.
+a. Ketepatan memproseskan kerja sistem kemudi.
+b. Ketepatan memproseskan kerja sistem power steering.
+c. Ketepatan mengimplementa sikan front wheel
+
+32
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN aligment.
+d. Ketepatan menentukan kerusakan komponen.
+
+1.1.9. Sistem suspensi.
+
+a. Ketepatan mendeskripsikan komponen dan fungsi komponen sistem suspensi.
+b. Ketepatan menentukan kerusakan komponen.
+
+1.1.10. Rangkaian sistem kelistrikan engine, body dan asesoris.
+
+a. Ketepatan memproseskan kerja dan perbaikan kelistrikan tambahan, meliputi central lock, wipper, dan power window.
+b. Ketepatan mendeskripsikan fungsi sistem pengapian konvensional.
+
+33
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI
+
+INDIKATOR KELULUSAN
+
+c. Ketepatan menentukan kerusakan komponen.
+
+1.1.1. Overhaul engine.
+
+a. Ketepatan memproseskan kerja engine.
+
+b. Ketepatan menentukan kerusakan komponen.
+
+Hak Dan Tanggung Jawab
+
+2. Bertanggung jawab pada perbaikan komponenkomponen sistem kendaraan ringan secara mandiri.
+
+4.1. Bertanggung jawab a. Terlaksananya
+
+atas pekerjaan
+
+seluruh
+
+perbaikan sistem
+
+pekerjaan
+
+kendaraan ringan
+
+perbaikan yang
+
+secara mandiri
+
+dibebankan tanpa
+
+dengan
+
+ada kecelakaan
+
+mengutamakan
+
+kerja.
+
+keselamatan dan kesehatan kerja.
+
+b. Tersusunnya laporan kerja
+
+sesuai standar
+
+laporan yang
+
+ditetapkan.
+
+4.2. Melakukan komunikasi yang baik dan efektif dengan rekan kerja
+
+a. Kelancaran berkomunikasi dengan teman sekerja dalam
+
+34
+
+UNIT NO
+KOMPETENSI
+
+ELEMEN KOMPETENSI dan penyelia layanan (service advisor).
+
+INDIKATOR KELULUSAN menjalankan tugasnya.
+b. Kelancaran dan efektifitas komunikasi dengan penyelia layanan.
+
+4.3. Bertanggung jawab Ketepatan
+
+dalam menjalankan menjalankan peran
+
+tugas sebagai
+
+dan tugas sebagai
+
+mekanik madya. mekanik madya.
+
+E. Rekognisi Pembelajaran Lampau
+
+Rekognisi Pembelajaran Lampau (RPL) adalah proses penilaian dan pengakuan berbasis KKNI, atas capaian pembelajaran seseorang yang diperoleh selama hidupnya, baik melalui program pendidikan formal, informal, non-formal maupun secara otodidak.
+
+RPL dapat dikembangkan pada sektor pendidikan, sektor ketenagakerjaan (kenaikan pangkat, jenjang karir) atau pemberian penghargaan dan pengakuan oleh masyarakat terhadap seseorang yang telah menunjukkan bukti-bukti unggul dalam keahlian atau kompetensi tertentu.
+
+RPL diharapkan dapat memperluas akses dan kesempatan serta mempercepat waktu bagi masyarakat luas dalam meningkatkan kemampuan maupun keahliannya melalui program kursus dan pelatihan.
+
+35
+
+Pengembangan dan pelaksanaan RPL harus didasari oleh beberapa prinsip, antara lain: 1. Mengutamakan transparansi dan akuntabilitas. Informasi tentang
+proses penyelenggaraan dan persyaratan untuk mengikuti RPL harus dapat diakses secara luas baik oleh pengguna (indvidu yang membutuhkan) maupun masyarakat umum. 2. Institusi atau lembaga penyelenggara RPL harus telah terakreditasi oleh badan akreditasi tingkat nasional, memiliki mandat yang sah dari institusi atau badan yang relevan dan berwenang untuk hal tersebut. 3. Menunjukkan kesadaran mutu terhadap penyelenggaraan dan implikasi RPL pada lulusan, khususnya dan masyarakat luas pada umumnya. 4. Setiap institusi atau lembaga penyelenggara RPL harus melakukan evaluasi secara berkelanjutan untuk menjamin pencapaian mutu lulusan sesuai dengan standar yang ditetapkan. 5. Penyelenggara kursus dan pelatihan yang memiliki sifat multi disiplin perlu mempertimbangkan kemungkinan untuk menyelenggarakan program RPL.
+Terkait dengan kursus dan pelatihan mekanik madya sepeda motor, maka pembelajaran lampau yang dapat diakui sebagai bagian dari capaian pembelajaran khusus adalah: pengalaman kerja mekanik teknik kendaraan ringan di bengkel, belajar mandiri mengenai mekanik teknik kendaraan ringan, atau mengikuti jenjang kursus dan pelatihan mekanik teknik kendaraan ringan resmi yang diakui oleh pemerintah.
+36
+
+III. PENUTUP
+Program kursus dan pelatihan telah mulai berkembang sejak lama di berbagai negara maju, sehingga banyak jenis kursus dan pelatihan yang dikembangkan di Indonesia mungkin telah pula berkembang dengan baik di negara-negara lain. Oleh karena itu arah pengembangan lembaga kursus dan pelatihan di Indonesia pada waktu yang akan datang harus menuju ke arah internasionalisasi, sedemikian sehingga dapat dicapai kesetaraan baik capaian pembelajaran, standar kompetensi atau mutu lulusan.
+Tendensi pergerakan pekerja antar negara akan semakin besar di waktu yang akan datang sebagai implikasi dari globalisasi. Oleh karena itu lembaga kursus dan pelatihan di Indonesia akan menjadi salah satu penyedia tenaga kerja terampil yang potensial baik untuk Indonesia sendiri maupun negara-negara lain yang membutuhkan. Hal ini menuntut perlunya ditumbuhkan kesadaran yang tinggi akan penjaminan mutu berkelanjutan, baik dalam lingkungan internal lembaga penyelenggara maupun secara eksternal melalui badan-badan akreditasi dan sertifikasi. Keunggulan dalam memenangkan persaingan antara lulusan lembaga kursus dan pelatihan nasional dengan lembaga kursus dan pelatihan internasional harus menjadi salah satu fokus pengembangan di masa yang akan datang.
+Sebagai bangsa yang memiliki kekayaan tradisi dan budaya maka berbagai kursus dan pelatihan yang khas Indonesia sudah berkembang dengan pesat sampai saat ini, terutama dalam bidang seni, pariwisata, kuliner, dan lain-lain. Walaupun demikian, masih diperlukan upaya untuk memperoleh pangakuan yang lebih luas baik di tingkat nasional maupun internasional, mengembangkan standar kompetensi lulusan yang khas serta menjadikannya sebagai kekayaan nasional.
+37
+
+Terkait dengan kursus dan pelatihan mekanik madya teknik kendaraan ringan ini, maka arah pengembangan spesifik yang akan dilakukan adalah lebih menekankan pada output lulusan yang sesuai dengan perkembangan dan tuntutan dunia industri mengenai teknologi teknik kendaraan ringan masa depan. Teknologi teknik kendaraan ringan masa depan akan dikembangkan kepada teknik kendaraan ringan yang ramah lingkungan dan hemat bahan bakar dengan mengimplementasikan sistem electronicfuel injection. Oleh karena itu link and match tuntutan industri teknik kendaraan ringan dengan kurikulum lembaga kursus dan pelatihan teknik kendaraan ringan harus sejalan dengan tuntutan jaman.
+MENTERI PENDIDIKAN DAN KEBUDAYAAN REPUBLIK INDONESIA,
+TTD.
+ANIES BASWEDAN
+Salinan sesuai dengan aslinya, Kepala Biro Hukum dan Organisasi Kementerian Pendidikan dan Kebudayaan, TTD. Aris Soviyani NIP 196112071986031001
+38
+
+
