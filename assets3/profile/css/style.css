@@ -1,0 +1,14 @@
+body{
+    background: #ECEFF1;
+    /* background-image: url(../../images/bg5.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed; */
+}
+#outer-wrapper {
+    max-width: 800px;
+    margin: 20px auto;
+}
+.image-white{
+    filter: brightness(10);
+}

@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Profile</title>
+    <link rel='stylesheet' href='css/semantic.min.css'/>
+    <link rel='stylesheet' href='css/style.css'/>
+</head>
+<body>
+
+    <!-- Outer Wrapper Start -->
+    <div id='outer-wrapper'>
+
+        <div class="ui menu">
+            <a class="item">
+                <i class="home icon"></i>
+                Beranda
+            </a>
+            <div class="ui dropdown item">
+                <i class='search icon'></i> Puri <i class="dropdown icon"></i>
+                <div class="menu">
+                <a class="item" href='4a.html'>Perundang-undangan</a>
+                <a class="item" href='2b.html'>Pustaka</a>
+                <a class="item" href='3a.html'>Risalah</a>
+                </div>
+            </div>
+            <div class="right menu">
+                <div class="ui dropdown item">
+                    Language <i class="dropdown icon"></i>
+                    <div class="menu">
+                    <a class="item" title='Change to English'><i class='us flag'></i> English</a>
+                    <a class="item" title='Ubah ke Bahasa'><i class='id flag'></i> Indonesia</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="ui red button"><i class="sign out icon"></i>Logout</div>
+                </div>
+            </div>
+        </div>
+
+        <div class='ui grid'>
+            <!-- Left Profile Start -->
+
+            <div class='five wide column'>
+                <!-- Profile Card Start -->
+                <div class="ui special cards">
+                    <div class="card">
+                        <div class="blurring dimmable image">
+                            <div class="ui dimmer">
+                                <div class="content">
+                                <div class="center">
+                                    <a class="ui inverted button" href='index.html'>Ubah Foto</a>
+                                </div>
+                                </div>
+                            </div>
+                            <img src="images/profile_picture_square.jpg">
+                        </div>
+                        <div class="content">
+                            <a class="header">Noval Bintang S</a>
+                            <div class="meta">
+                                <span class="date">mnovalbs</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Profile Card End -->
+                <!-- Menu Profile Start -->
+                <div class="ui vertical fluid pointing menu">
+                    <a class="active item">
+                        Profil
+                    </a>
+                    <a class="item" href='password.html'>
+                        Password
+                    </a>
+                    <a class="item" href='email.html'>
+                        Email
+                    </a>
+                    <a class="item" href='about.html'>
+                        Tentang
+                    </a>
+                </div>
+                <!-- Menu Profile End -->
+            </div>
+            <!-- Left Profile End -->
+
+            <!-- Right Content Start -->
+            <div class='eleven wide column'>
+                <div class='ui fluid segment'>
+                    <div class="ui pointing secondary menu">
+                        <a class="item active" data-tab="profile">Identitas</a>
+                        <a class="item" data-tab="pictures">Foto Profil</a>
+                    </div>
+                    <div class='ui tab active' data-tab='profile'>
+                        <!-- Identitas Start -->
+                        <form class='ui form' method='POST'>
+                            <div class='field'>
+                                <label>Username</label>
+                                <input type='text' placeholder='john.doe' value='mnovalbs'/>
+                            </div>
+                            <div class='field'>
+                                <label>Nama Lengkap</label>
+                                <input type='text' placeholder='John Doe' value='John Doe'/>
+                            </div>
+                            <div class='grouped fields'>
+                                <label>Jenis Kelamin</label>
+                                <div class='field'>
+                                    <div class='ui radio checkbox'>
+                                        <input type='radio' name='kelamin' class='hidden'/>
+                                        <label>Laki-laki</label>
+                                    </div>
+                                </div>
+                                <div class='field'>
+                                    <div class='ui radio checkbox'>
+                                        <input type='radio' name='kelamin' class='hidden'/>
+                                        <label>Perempuan</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class='field'>
+                                <label>Tanggal Lahir</label>
+                                <div class='fields'>
+                                    <div class='three wide field'>
+                                        <input type='text' placeholder='tanggal' maxlength="2"/>
+                                    </div>
+                                    <div class='nine wide field'>
+                                        <select class='ui fluid search dropdown'>
+                                            <option value="">Bulan</option>
+                                            <option value="1">Januari</option>
+                                            <option value="2">Februari</option>
+                                            <option value="3">Maret</option>
+                                            <option value="4">April</option>
+                                            <option value="5">Mei</option>
+                                            <option value="6">Juni</option>
+                                            <option value="7">Juli</option>
+                                            <option value="8">Agustus</option>
+                                            <option value="9">September</option>
+                                            <option value="10">Oktober</option>
+                                            <option value="11">November</option>
+                                            <option value="12">Desember</option>
+                                        </select>
+                                    </div>
+                                    <div class='four wide field'>
+                                        <input type='text' placeholder='tahun' maxlength="4"/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class='field'>
+                                <label>Agama</label>
+                                <select class='ui search dropdown'>
+                                    <option>Islam</option>
+                                    <option>Kristen</option>
+                                    <option>Protestan</option>
+                                    <option>Budha</option>
+                                    <option>Hindu</option>
+                                </select>
+                            </div>
+                            <div class="inline field">
+                                <div class="ui toggle checkbox">
+                                    <input type="checkbox" checked tabindex="0" class="hidden">
+                                    <label>Sudah Menikah</label>
+                                </div>
+                            </div>
+                            <button class="ui primary button" type="submit"><i class='save icon'></i> Simpan</button>
+                        </form>
+                        <!-- Identitas End -->
+                    </div>
+                    <div class='ui tab' data-tab='pictures'>
+                        <form class='ui form' method='POST' enctype="">
+                            <div class='field'>
+                                <img class="ui middle aligned small circular image" src="images/profile_picture_square.jpg">
+                                <label for='ambil_foto' class="ui labeled button" tabindex="0">
+                                    <div class="ui red button">
+                                        <i class="folder open outline icon"></i> Pilih Foto
+                                    </div>
+                                    <a class="ui basic red left pointing label">
+                                        Tidak ada foto terpilih
+                                    </a>
+                                    <input id='ambil_foto' onchange='profile_change(this)' style='display:none;' accept='image/*' type='file'/>
+                                </label>
+                            </div>
+                            <div style='text-align: center;'>
+                                <button class='ui primary button'><i class='cloud upload icon'></i> Upload</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- Right Content End -->
+        </div>
+
+    </div>
+    <!-- Outer Wrapper End -->
+    
+    <script src='js/jquery-3.2.1.min.js'></script>
+    <script src='css/components/dropdown.min.js'></script>
+    <script src='css/components/transition.min.js'></script>
+    <script src='css/components/dimmer.min.js'></script>
+    <script src='css/components/tab.min.js'></script>
+    <script src='css/components/checkbox.min.js'></script>
+    <script src='css/components/modal.min.js'></script>
+    <script src='js/script.js'></script>
+</body>
+</html>

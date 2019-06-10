@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Profile</title>
+    <link rel='stylesheet' href='css/semantic.min.css'/>
+    <link rel='stylesheet' href='css/style.css'/>
+</head>
+<body>
+
+    <!-- Outer Wrapper Start -->
+    <div id='outer-wrapper'>
+
+        <div class="ui menu">
+            <a class="item">
+                <i class="home icon"></i>
+                Beranda
+            </a>
+            <div class="ui dropdown item">
+                <i class='search icon'></i> Puri <i class="dropdown icon"></i>
+                <div class="menu">
+                <a class="item" href='4a.html'>Perundang-undangan</a>
+                <a class="item" href='2b.html'>Pustaka</a>
+                <a class="item" href='3a.html'>Risalah</a>
+                </div>
+            </div>
+            <div class="right menu">
+                <div class="ui dropdown item">
+                    Language <i class="dropdown icon"></i>
+                    <div class="menu">
+                    <a class="item" title='Change to English'><i class='us flag'></i> English</a>
+                    <a class="item" title='Ubah ke Bahasa'><i class='id flag'></i> Indonesia</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="ui red button"><i class="sign out icon"></i>Logout</div>
+                </div>
+            </div>
+        </div>
+
+        <div class='ui grid'>
+            <!-- Left Profile Start -->
+
+            <div class='five wide column'>
+                <!-- Profile Card Start -->
+                <div class="ui special cards">
+                    <div class="card">
+                        <div class="blurring dimmable image">
+                            <div class="ui dimmer">
+                                <div class="content">
+                                <div class="center">
+                                    <a class="ui inverted button" href='index.html'>Ubah Foto</a>
+                                </div>
+                                </div>
+                            </div>
+                            <img src="images/profile_picture_square.jpg">
+                        </div>
+                        <div class="content">
+                            <a class="header">Noval Bintang S</a>
+                            <div class="meta">
+                                <span class="date">mnovalbs</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Profile Card End -->
+                <!-- Menu Profile Start -->
+                <div class="ui vertical fluid pointing menu">
+                    <a class="item" href='index.html'>
+                        Profil
+                    </a>
+                    <a class="item" href='password.html'>
+                        Password
+                    </a>
+                    <a class="active item">
+                        Email
+                    </a>
+                    <a class="item" href='about.html'>
+                        Tentang
+                    </a>
+                </div>
+                <!-- Menu Profile End -->
+            </div>
+            <!-- Left Profile End -->
+
+            <!-- Right Content Start -->
+            <div class='eleven wide column'>
+                <div class="ui success message">
+                    <div class="header">
+                        Perubahan tersimpan!
+                    </div>
+                    <p>
+                        Email baru kamu berhasil disimpan.
+                    </p>
+                </div>
+                <div class='ui segment'>
+                    <h3>Ubah Email</h3>
+                    <form class='ui form' method='POST'>
+                        <div class='ui field'>
+                            <label>Email</label>
+                            <input type='email' required placeholder='john.doe@gmail.com' value='me@mnovalbs.id'/>
+                        </div>
+                        <button type='submit' class='ui primary button'><i class='save icon'></i> Simpan</button>
+                    </form>
+                </div>
+            </div>
+            <!-- Right Content End -->
+        </div>
+
+    </div>
+    <!-- Outer Wrapper End -->
+    
+    <script src='js/jquery-3.2.1.min.js'></script>
+    <script src='css/components/dropdown.min.js'></script>
+    <script src='css/components/transition.min.js'></script>
+    <script src='css/components/dimmer.min.js'></script>
+    <script src='css/components/tab.min.js'></script>
+    <script src='css/components/checkbox.min.js'></script>
+    <script src='css/components/modal.min.js'></script>
+    <script src='js/script.js'></script>
+</body>
+</html>
