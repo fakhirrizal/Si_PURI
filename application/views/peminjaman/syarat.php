@@ -17,20 +17,32 @@
 			<div class="tab-content">
 					<div id="baru" class="tab-pane fade in active">
 						<div class="alert alert-block alert-success">
-														Berikut adalah syarat dan ketentuan yang berlaku dalam peminjaman buku
+						<?php
+						$hari = '';
+						$buku = '';
+						$denda = '';
+						foreach ($syarat_dan_ketentuan as $key => $value) {
+							if($value->menu=='buku'){
+								$buku = $value->keterangan;
+							}elseif($value->menu=='peminjaman'){
+								$hari = $value->keterangan;
+							}elseif($value->menu=='denda'){
+								$denda = $value->keterangan;
+							}
+						}
+						?>
+														<b>Berikut adalah syarat dan ketentuan yang berlaku dalam peminjaman buku</b>
 														<br/>
-														<strong class="red">* </strong>Peminjaman maksimal hanya 8 buku
+														<strong class="red">* </strong>Peminjaman maksimal hanya <?= $buku; ?> buku
 														<br/>
-														<strong class="red">* </strong>
+														<strong class="red">* </strong><?= $hari; ?> Hari adalah maksimal peminjaman buku, jika lebih dari itu akan dikenakan denda
 														<br/>
-														<strong class="red">* </strong>
+														<strong class="red">* </strong>Denda keterlambatan pengembalian buku/ hari sebesar Rp. <?= number_format($denda,2); ?>
 														<br/>
 														<strong class="red">
 														*
 														</strong>
-														
 						</div>
-							
 					</div>
 			</div>
 			<!-- /section:elements.tab -->

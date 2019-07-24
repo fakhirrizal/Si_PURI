@@ -1,3 +1,10 @@
+<?php
+if(($this->session->userdata('id'))==NULL){
+	echo "<script>alert('Harap login terlebih dahulu')</script>";
+	echo "<script>window.location='".base_url()."Perpustakaan/admin'</script>";
+}
+else{
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -23,7 +30,7 @@
 		<![endif]-->
 
 		<!--[if lte IE 9]>
-		  <link rel="stylesheet" href="../assets/css/ace-ie.css" />
+		<link rel="stylesheet" href="../assets/css/ace-ie.css" />
 		<![endif]-->
 
 		<!-- inline styles related to this page -->
@@ -31,7 +38,7 @@
 		<!-- ace settings handler -->
 		<script src="<?=base_url('assets/js/ace-extra.js');?>" type="text/javascript"></script>
 		<!-- HTML5shiv and Respond.js for IE8 to support HTML5 elements and media queries -->
-		
+
 		<!--[if lte IE 8]>
 		<script src="../assets/js/html5shiv.js"></script>
 		<script src="../assets/js/respond.js"></script>
@@ -77,27 +84,23 @@
 				<!-- #section:basics/navbar.dropdown -->
 				<div class="navbar-buttons navbar-header pull-right" role="navigation">
 					<ul class="nav ace-nav">
-						
-
-						
-
 
 						<!-- #section:basics/navbar.user_menu -->
 						<li class="light-blue">
 							<a data-toggle="dropdown" href="#" class="dropdown-toggle">
-							
+
 							<?php
-                              $where = array(
-                                'id' => $this->session->userdata('id')
-                                );
-                                $query = $this->User_model->getSelectedData('users',$where);
-                                foreach($query as $value){
-                              if(!empty($value->picture_url)){
-                                            echo '<img  class="nav-user-photo" src="'.base_url('assets/uploads/profil/').$value->picture_url.'" >';
-                                        }
-                                        else{
-                                            echo '<img  class="nav-user-photo" src="'.base_url('assets2/pages/img/avatars/kosong.jpeg').'" >';
-                                        } } ?>
+							$where = array(
+							'id' => $this->session->userdata('id')
+							);
+							$query = $this->User_model->getSelectedData('users',$where);
+							foreach($query as $value){
+								if(!empty($value->picture_url)){
+									echo '<img  class="nav-user-photo" src="'.base_url('assets/uploads/profil/').$value->picture_url.'" >';
+								}
+								else{
+									echo '<img  class="nav-user-photo" src="'.base_url('assets2/pages/img/avatars/kosong.jpeg').'" >';
+								} } ?>
 								<span class="user-info">
 									<small>Welcome,</small>
 									<?php echo $this->session->userdata('username'); ?>
@@ -162,7 +165,6 @@
 							<i class="ace-icon fa fa-pencil"></i>
 						</button>
 
-						
 						<button class="btn btn-warning">
 							<i class="ace-icon fa fa-users"></i>
 						</button>
@@ -171,7 +173,6 @@
 							<i class="ace-icon fa fa-cogs"></i>
 						</button>-->
 						<img class="nav-user-photo" src="<?=base_url('assets/images/download.png');?>"/>
-						
 					</div>
 
 					<div class="sidebar-shortcuts-mini" id="sidebar-shortcuts-mini">
@@ -233,7 +234,7 @@
 								</a>
 
 								<b class="arrow"></b>
-							</li>							
+							</li>
 						</ul>
 					</li>
 
@@ -266,7 +267,7 @@
 								</a>
 
 								<b class="arrow"></b>
-							</li>						
+							</li>
 						</ul>
 					</li>
 
@@ -308,7 +309,7 @@
 								</a>
 
 								<b class="arrow"></b>
-							</li>					
+							</li>
 						</ul>
 					</li>
 
@@ -350,7 +351,7 @@
 								</a>
 
 								<b class="arrow"></b>
-							</li>							
+							</li>
 						</ul>
 					</li>
 
@@ -383,7 +384,7 @@
 								</a>
 
 								<b class="arrow"></b>
-							</li>					
+							</li>
 						</ul>
 					</li>
 
@@ -562,8 +563,4 @@
 								</div><!-- /.pull-left -->
 							</div><!-- /.ace-settings-box -->
 						</div><!-- /.ace-settings-container -->
-
-					
-								
-
-							
+<?php } ?>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- 
+<!--
 Template Name: Metronic - Responsive Admin Dashboard Template build with Twitter Bootstrap 3.3.6
 Version: 4.5.6
 Author: KeenThemes
@@ -178,9 +178,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 <i class="icon-home"></i>
                                 <span class="title">Beranda</span>
                                 <?php if($active=='beranda'){echo '<span class="selected"></span>';}else{echo '';} ?>
-                                
                             </a>
-                         
                         </li> -->
                         <li class="nav-item <?php if($active=='input'){echo 'start active open';}else{echo '';} ?>">
                             <a href="<?php echo site_url('Risalah/input_risalah'); ?>" class="nav-link nav-toggle">
@@ -188,7 +186,6 @@ License: You must have a valid license purchased only from themeforest(the above
                                 <span class="title">Input Risalah</span>
                                 <?php if($active=='input'){echo '<span class="selected"></span>';}else{echo '';} ?>
                             </a>
-                         
                         </li>
                         <li class="nav-item <?php if($active=='daftar'){echo 'start active open';}else{echo '';} ?>">
                             <a href="<?php echo site_url('Risalah/daftar_risalah'); ?>" class="nav-link nav-toggle">
@@ -206,21 +203,21 @@ License: You must have a valid license purchased only from themeforest(the above
                                 <span class="title">Pengaturan Gambar</span>
                                 <?php if($active=='background'){echo '<span class="selected"></span>';}else{echo '';} ?>
                             </a>
-                        </li>       
+                        </li>
                         <li class="nav-item <?php if($active=='user_guide'){echo 'start active open';}else{echo '';} ?>">
                             <a href="<?php echo site_url('Risalah/user_guide'); ?>" class="nav-link nav-toggle">
                                 <i class="fa fa-external-link"></i>
                                 <span class="title">User Guide</span>
                                 <?php if($active=='user_guide'){echo '<span class="selected"></span>';}else{echo '';} ?>
                             </a>
-                        </li>       
+                        </li>
                         <li class="nav-item <?php if($active=='tentang'){echo 'start active open';}else{echo '';} ?>">
                             <a href="<?php echo site_url('Risalah/tentang'); ?>" class="nav-link nav-toggle">
                                 <i class="fa fa-gear"></i>
                                 <span class="title">Tentang Aplikasi</span>
                                 <?php if($active=='tentang'){echo '<span class="selected"></span>';}else{echo '';} ?>
                             </a>
-                        </li>                 
+                        </li>
                     </ul>
                     <!-- END SIDEBAR MENU -->
                     <!-- END SIDEBAR MENU -->
@@ -326,7 +323,6 @@ License: You must have a valid license purchased only from themeforest(the above
                                 <span>Si PURI - Risalah</span>
                             </li>
                         </ul>
-                       
                     </div>
                     <!-- END PAGE BAR -->
                     <!-- BEGIN PAGE TITLE-->
@@ -344,12 +340,9 @@ License: You must have a valid license purchased only from themeforest(the above
                     <?= $this->session->flashdata('gagal') ?>
                     <div class="portfolio-content portfolio-2">
                         <div id="js-filters-mosaic" class="cbp-l-filters-button">
-                            
                             <div data-filter=".print" class="cbp-filter-item btn green btn-outline uppercase cbp-filter-item-active"> Foto Kegiatan
                                 <div class="cbp-filter-counter"></div>
                             </div>
-                          
-                          
                         </div>
                         <div id="js-grid-mosaic" class="cbp cbp-l-grid-mosaic">
                             <?php
@@ -372,11 +365,6 @@ License: You must have a valid license purchased only from themeforest(the above
                                 </a>
                             </div>
                             <?php } ?>
-                            
-                            
-                           
-                            
-                           
                         </div>
                         <?php
                                 foreach ($pdf as $key => $value) {
@@ -384,7 +372,7 @@ License: You must have a valid license purchased only from themeforest(the above
                             ?>
                             <div style="text-align: center;">
                                 <br>
-                                <iframe src="<?=base_url()?>assets2/uploads/document/<?=$value->nama_file;?>" height="600" width="1075"></iframe> 
+                                <iframe src="<?=base_url()?>assets2/uploads/document/<?=$value->nama_file;?>" height="600" width="1075"></iframe>
                             </div>
                             <?php } ?>
                     </div>
@@ -405,17 +393,16 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <a href="javascript:;"><?= date('d-m-Y', strtotime($value->tanggal_acara)); ?></a>
                                         </div>
                                     </div>
-                                    
                                     <div class="blog-single-desc" style="text-align: justify;">
                                         <p><?= $value->isi_risalah; ?></p>
                                     </div>
                                             <?php
                                             foreach ($audio as $key => $row) {
                                                 $id_audio = $row->id;
-                                            ?>                                           
+                                            ?>
                                                 <audio controls>
-                                                  <source src="<?=base_url()?>assets2/uploads/audio/<?=$row->nama_file;?>" type="audio/mpeg">
-                                                  Your browser does not support the audio element.
+												<source src="<?=base_url()?>assets2/uploads/audio/<?=$row->nama_file;?>" type="audio/mpeg">
+												Your browser does not support the audio element.
                                                 </audio>
 
                                                 <p><strong>Note:</strong> The audio tag is not supported in Internet Explorer 8 and earlier versions.</p>
@@ -429,7 +416,6 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <!-- <li class="uppercase">
                                                 <a href="javascript:;">Sass</a>
                                             </li> -->
-                                            
                                         </ul>
                                     </div>
                                     <?php } ?>
@@ -453,11 +439,9 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <li>
                                                 <a href="javascript:;" data-toggle="modal" data-target="#edit-doc">PDF</a>
                                             </li>
-                                           
                                         </ul>
                                     </div>
                                     <div class="blog-single-sidebar-recent">
-                                        
                                         <ul>
                                             <?php
                                                 $no = 1;
@@ -469,8 +453,6 @@ License: You must have a valid license purchased only from themeforest(the above
                                             <?php } ?>
                                         </ul>
                                     </div>
-                                    
-                                    
                                     <div class="blog-single-sidebar-tags">
                                         <h3 class="blog-sidebar-title uppercase">Risalah Terkait</h3>
                                         <ul class="blog-post-tags">
@@ -487,103 +469,100 @@ License: You must have a valid license purchased only from themeforest(the above
                             </div>
                         </div>
                     </div>
-                    
                     <div class="modal fade" id="edit-audio" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
 
-                              <div class="modal-header">
+                            <div class="modal-header">
 
                                 <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 
                                 <h4 class="modal-title" id="myModalLabel">Ubah File Audio</h4>
 
-                              </div>
+                            </div>
 
-                              <div class="modal-body">
-                                <div class="box box-primary">
+							<div class="modal-body">
+							<div class="box box-primary">
 
-                                    <!-- form start -->
+								<!-- form start -->
 
-                                    <form class="form-horizontal" method="post" action="<?php echo site_url('Risalah/ubah_audio'); ?>" enctype='multipart/form-data'>
+								<form class="form-horizontal" method="post" action="<?php echo site_url('Risalah/ubah_audio'); ?>" enctype='multipart/form-data'>
 
-                                        <div class="box-body">                 
+									<div class="box-body">
 
-                                          <input name="id" type="hidden" value="<?php echo $id_audio;?>">
-                                          <input name="id_risalah" type="hidden" value="<?php echo $id_risalah;?>">                                    
-                                          <div class="input-group">
-                                            <span class="input-group-addon"><i class="glyphicon glyphicon-bullhorn"></i></span>
-                                            <input name="MAX_FILE_SIZE" type="hidden" value="10485760" class="form-control">
-                                            <input name="audio" type="file" accept="audio/*" class="form-control">
-                                          </div>       
-                                            <p><strong>Catatan:</strong></p>
-                                            <p>File maksimum: 8Mb.</p>
-                                            <p>Ekstensi file yang diijinkan: .mp3.</p>
-                                        </div>
+										<input name="id" type="hidden" value="<?php echo $id_audio;?>">
+										<input name="id_risalah" type="hidden" value="<?php echo $id_risalah;?>">
+										<div class="input-group">
+										<span class="input-group-addon"><i class="glyphicon glyphicon-bullhorn"></i></span>
+										<input name="MAX_FILE_SIZE" type="hidden" value="10485760" class="form-control">
+										<input name="audio" type="file" accept="audio/*" class="form-control">
+										</div>
+										<p><strong>Catatan:</strong></p>
+										<p>File maksimum: 8Mb.</p>
+										<p>Ekstensi file yang diijinkan: .mp3.</p>
+									</div>
 
-                                        <br/>
+									<br/>
 
-                                        <div class="box-footer">
-                                            <button type="submit" class="btn btn-primary">Ubah</button>
-                                            <!--<button class="btn" data-dismiss="modal" aria-hidden="true">Tutup</button>--> 
-                                        </div>
+									<div class="box-footer">
+										<button type="submit" class="btn btn-primary">Ubah</button>
+										<!--<button class="btn" data-dismiss="modal" aria-hidden="true">Tutup</button>-->
+									</div>
 
-                                    </form>
+								</form>
 
-                                </div>
-                              </div>
+							</div>
+							</div>
                             </div>
                         </div>
                     </div>
-                    
                     <div class="modal fade" id="edit-doc" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
 
-                              <div class="modal-header">
+							<div class="modal-header">
 
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+							<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 
-                                <h4 class="modal-title" id="myModalLabel">Ubah Dokumen Risalah</h4>
+							<h4 class="modal-title" id="myModalLabel">Ubah Dokumen Risalah</h4>
 
-                              </div>
+							</div>
 
-                              <div class="modal-body">
-                                <div class="box box-primary">
+							<div class="modal-body">
+							<div class="box box-primary">
 
-                                    <!-- form start -->
+								<!-- form start -->
 
-                                    <form class="form-horizontal" method="post" action="<?php echo site_url('Risalah/ubah_dokumen'); ?>" enctype='multipart/form-data'>
+								<form class="form-horizontal" method="post" action="<?php echo site_url('Risalah/ubah_dokumen'); ?>" enctype='multipart/form-data'>
 
-                                        <div class="box-body">                 
+									<div class="box-body">
 
-                                          <input name="id" type="hidden" value="<?php echo $id_pdf;?>">
-                                          <input name="id_risalah" type="hidden" value="<?php echo $id_risalah;?>">                                     
-                                          <div class="input-group">
+										<input name="id" type="hidden" value="<?php echo $id_pdf;?>">
+										<input name="id_risalah" type="hidden" value="<?php echo $id_risalah;?>">
+										<div class="input-group">
 
-                                            <span class="input-group-addon"><i class="glyphicon glyphicon-file"></i></span>
+										<span class="input-group-addon"><i class="glyphicon glyphicon-file"></i></span>
 
-                                            <input name="MAX_FILE_SIZE" type="hidden" value="10485760" class="form-control">
+										<input name="MAX_FILE_SIZE" type="hidden" value="10485760" class="form-control">
 
-                                            <input name="dokumen" type="file" accept="application/pdf" class="form-control">
-                                            
-                                          </div>        
-                                            <p><strong>Catatan:</strong></p>
-                                            <p>File maksimum: 8Mb.</p>
-                                            <p>Ekstensi file yang diijinkan: .pdf.</p>
-                                        </div>
+										<input name="dokumen" type="file" accept="application/pdf" class="form-control">
+										</div>
+										<p><strong>Catatan:</strong></p>
+										<p>File maksimum: 8Mb.</p>
+										<p>Ekstensi file yang diijinkan: .pdf.</p>
+									</div>
 
-                                        <br/>
+									<br/>
 
-                                        <div class="box-footer">
-                                            <button type="submit" class="btn btn-primary">Ubah</button>
-                                            <!--<button class="btn" data-dismiss="modal" aria-hidden="true">Tutup</button>--> 
-                                        </div>
+									<div class="box-footer">
+										<button type="submit" class="btn btn-primary">Ubah</button>
+										<!--<button class="btn" data-dismiss="modal" aria-hidden="true">Tutup</button>-->
+									</div>
 
-                                    </form>
+								</form>
 
-                                </div>
-                              </div>
+							</div>
+							</div>
                             </div>
                         </div>
                     </div>
@@ -595,47 +574,46 @@ License: You must have a valid license purchased only from themeforest(the above
                         <div class="modal-dialog" role="document">
                             <div class="modal-content">
 
-                              <div class="modal-header">
+								<div class="modal-header">
 
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 
-                                <h4 class="modal-title" id="myModalLabel">Ubah Foto Produk</h4>
+									<h4 class="modal-title" id="myModalLabel">Ubah Foto Produk</h4>
 
-                              </div>
+								</div>
 
-                              <div class="modal-body">
-                                <div class="box box-primary">
+								<div class="modal-body">
+									<div class="box box-primary">
 
-                                    <!-- form start -->
+										<!-- form start -->
 
-                                    <form class="form-horizontal" method="post" action="<?php echo site_url('Risalah/ubah_foto_kegiatan'); ?>" enctype='multipart/form-data'>
+										<form class="form-horizontal" method="post" action="<?php echo site_url('Risalah/ubah_foto_kegiatan'); ?>" enctype='multipart/form-data'>
 
-                                        <div class="box-body">                 
+											<div class="box-body">
 
-                                          <input name="id" type="hidden" value="<?php echo $value->id;?>">
-                                          <input name="id_risalah" type="hidden" value="<?php echo $id_risalah;?>">                                    
-                                          <div class="input-group">
-                                            <span class="input-group-addon"><i class="glyphicon glyphicon-picture"></i></span>
-                                            <input name="MAX_FILE_SIZE" type="hidden" value="10485760" class="form-control">
-                                            <input name="foto" type="file" accept="image/*" class="form-control">
-                    
-                                          </div>                                                             
-                                            <p><strong>Catatan:</strong></p>
-                                            <p>File maksimum: 8Mb.</p>
-                                            <p>Ekstensi file yang diijinkan: .png/ .jpg/ .jpeg/ .bmp.</p>
-                                        </div>
+											<input name="id" type="hidden" value="<?php echo $value->id;?>">
+											<input name="id_risalah" type="hidden" value="<?php echo $id_risalah;?>">
+											<div class="input-group">
+												<span class="input-group-addon"><i class="glyphicon glyphicon-picture"></i></span>
+												<input name="MAX_FILE_SIZE" type="hidden" value="10485760" class="form-control">
+												<input name="foto" type="file" accept="image/*" class="form-control">
+											</div>
+												<p><strong>Catatan:</strong></p>
+												<p>File maksimum: 8Mb.</p>
+												<p>Ekstensi file yang diijinkan: .png/ .jpg/ .jpeg/ .bmp.</p>
+											</div>
 
-                                        <br/>
+											<br/>
 
-                                        <div class="box-footer">
-                                            <button type="submit" class="btn btn-primary">Ubah</button>
-                                            <!--<button class="btn" data-dismiss="modal" aria-hidden="true">Tutup</button>--> 
-                                        </div>
+											<div class="box-footer">
+												<button type="submit" class="btn btn-primary">Ubah</button>
+												<!--<button class="btn" data-dismiss="modal" aria-hidden="true">Tutup</button>-->
+											</div>
 
-                                    </form>
+										</form>
 
-                                </div>
-                              </div>
+									</div>
+								</div>
                             </div>
                         </div>
                     </div>
@@ -645,8 +623,6 @@ License: You must have a valid license purchased only from themeforest(the above
                 <!-- END CONTENT BODY -->
             </div>
             <!-- END CONTENT -->
-         
-
 
         </div>
         <!-- END CONTAINER -->
@@ -661,7 +637,7 @@ License: You must have a valid license purchased only from themeforest(the above
         <!-- END FOOTER -->
         <!--[if lt IE 9]>
 <script src="../assets2/global/plugins/respond.min.js"></script>
-<script src="../assets2/global/plugins/excanvas.min.js"></script> 
+<script src="../assets2/global/plugins/excanvas.min.js"></script>
 <![endif]-->
         <!-- BEGIN CORE PLUGINS -->
         <script src="<?=base_url('assets2/global/plugins/jquery.min.js');?>" type="text/javascript"></script>

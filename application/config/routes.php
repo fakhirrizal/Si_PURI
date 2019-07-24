@@ -49,6 +49,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
+/* Perpustakaan */
+$route['perpustakaan/generate_barcode/(:any)'] = 'Buku/generate_barcode/$1';
+
+$route['perpustakaan/kirim_email_pemberitahuan'] = 'Peminjaman/kirim_email_pemberitahuan';
+
 $route['default_controller'] = 'Pengguna';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

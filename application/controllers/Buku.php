@@ -21,7 +21,7 @@ class Buku extends CI_Controller {
 	function __construct() {
         parent::__construct();
         date_default_timezone_set("Asia/Jakarta");
-    }  
+    }
 	public function index()
 	{
         if(($this->session->userdata('id'))==NULL){
@@ -33,7 +33,7 @@ class Buku extends CI_Controller {
 		$data['data_buku'] = $this->User_model->getSelectedData('buku',$where);
 		$this->load->view('template/header');
 		$this->load->view('buku/daftar_buku',$data);
-		$this->load->view('template/footer');	
+		$this->load->view('template/footer');
         }
 	}
 	public function tambah_buku()
@@ -52,7 +52,7 @@ class Buku extends CI_Controller {
         $data['data_buku'] = $this->Buku_model->getAlldataBuku($this->uri->segment(3));
         $this->load->view('template/header');
         $this->load->view('buku/detail_buku',$data);
-        $this->load->view('template/footer');   
+        $this->load->view('template/footer');
     }
     public function ubah(){
         $data['variable'] = $this->Buku_model->getAlldataBuku($this->uri->segment(3));
@@ -60,7 +60,7 @@ class Buku extends CI_Controller {
         $data['author'] = $this->User_model->getAlldata('author');
         $this->load->view('template/header');
         $this->load->view('buku/edit_buku',$data);
-        $this->load->view('template/footer');   
+        $this->load->view('template/footer');
     }
     public function hapus_sementara(){
         $id['id'] = $this->uri->segment(3);
@@ -87,38 +87,40 @@ class Buku extends CI_Controller {
                 echo "<script>window.location='".base_url()."Buku'</script>";
     }
 	public function simpan_buku(){
+		$this->db->trans_start();
+		$pesan_error = '';
         $kategori = $this->input->post('kategori');
 		$belakang = $this->User_model->getKode($kategori);
 		$id_buku = $kategori."-".$belakang;
 
 		if(!empty($_FILES['file_cover'])){
-        	$namafile = "file_".time();
+			$namafile = "file_".time();
             $config['upload_path'] = dirname($_SERVER["SCRIPT_FILENAME"]).'/assets/uploads/'; //path folder
             $config['allowed_types'] = 'gif|jpg|png|jpeg|bmp'; //type yang dapat diakses bisa anda sesuaikan
             $config['max_size'] = '8192'; //maksimum besar file 10M
             $config['max_width']  = '5000'; //lebar maksimum 5000 px
             $config['max_height']  = '5000'; //tinggi maksimu 5000 px
             $config['file_name'] = $namafile; //nama yang terupload nantinya
-            $this->upload->initialize($config); 
-              if($_FILES['file_cover']['name'])
-              {
-                 if(!$this->upload->do_upload('file_cover'))
-                 {               
-                    $a = $this->upload->display_errors();
-                    //echo $a;
-                    echo "<script>alert('Maaf terjadi kesalahan dalam menyimpan foto!')</script>"; 
-                    echo "<script>window.location='".base_url()."Buku/tambah_buku'</script>";
-                 }
-                 else{          
-                    $data = array(
-                     'nama_file' => $this->upload->data('file_name'),
-                     'id_buku' => $id_buku,
-                     'keterangan' => 'gambar'
-                    );    
-                    $this->User_model->tambahdata("file",$data);  //akses model untuk menyimpan ke database
-                    
-                 }
-              }
+            $this->upload->initialize($config);
+			if($_FILES['file_cover']['name'])
+			{
+				if(!$this->upload->do_upload('file_cover'))
+				{
+					$a = $this->upload->display_errors();
+					$pesan_error = 'Gagal upload file cover buku;';
+					// echo $a;
+					// echo "<script>alert('Maaf terjadi kesalahan dalam menyimpan foto!')</script>";
+					// echo "<script>window.location='".base_url()."Buku/tambah_buku'</script>";
+				}
+				else{
+				$data = array(
+					'nama_file' => $this->upload->data('file_name'),
+					'id_buku' => $id_buku,
+					'keterangan' => 'gambar'
+				);
+				$this->User_model->tambahdata("file",$data);  //akses model untuk menyimpan ke database
+				}
+			}
         }
         else{
             echo "";
@@ -132,33 +134,51 @@ class Buku extends CI_Controller {
             $konfig['file_name'] = $nmfile; //nama yang terupload nantinya
 
             $this->upload->initialize($konfig);
-           
-
 
             if($_FILES['file_dokumen']['name'])
             {
                 if(!$this->upload->do_upload('file_dokumen'))
                 {
-                    $a = $this->upload->display_errors();
-                    //echo $a;
-                    echo "<script>alert('Maaf terjadi kesalahan dalam menyimpan foto!')</script>"; 
-                    echo "<script>window.location='".base_url()."Buku/tambah_buku'</script>";
+					$a = $this->upload->display_errors();
+					$pesan_error .= 'Gagal upload file e-book;';
+                    // echo $a;
+                    // echo "<script>alert('Maaf terjadi kesalahan dalam menyimpan foto!')</script>";
+                    // echo "<script>window.location='".base_url()."Buku/tambah_buku'</script>";
                 }
                 else
                 {
                     $data = array(
                     'nama_file' =>$this->upload->data('file_name'),
                     'id_buku' => $id_buku,
-                    'keterangan' => 'pdf'                
+                    'keterangan' => 'pdf'
                     );
 
-                    $this->User_model->tambahdata("file",$data); //akses model untuk menyimpan ke database              
-               }
+                    $this->User_model->tambahdata("file",$data); //akses model untuk menyimpan ke database
+				}
             }
         }
         else{
             echo "";
-    	}
+		}
+
+		$config_barcode['cacheable']	= true; //boolean, the default is true
+		$config_barcode['cachedir']		= './assets/'; //string, the default is application/cache/
+		$config_barcode['errorlog']		= './assets/'; //string, the default is application/logs/
+		$config_barcode['imagedir']		= './assets/barcode/'; //direktori penyimpanan qr code
+		$config_barcode['quality']		= true; //boolean, the default is true
+		$config_barcode['size']			= '1024'; //interger, the default is 1024
+		$config_barcode['black']		= array(224,255,255); // array, default is array(255,255,255)
+		$config_barcode['white']		= array(70,130,180); // array, default is array(0,0,0)
+		$this->ciqrcode->initialize($config_barcode);
+
+		$image_name_barcode="barcode_".time().'.png'; //buat name dari qr code sesuai dengan nim
+
+		$params['data'] = $this->input->post('call_number'); //data yang akan di jadikan QR CODE
+		$params['level'] = 'H'; //H=High
+		$params['size'] = 10;
+		$params['savename'] = FCPATH.$config_barcode['imagedir'].$image_name_barcode; //simpan image QR CODE ke folder assets/images/
+		$this->ciqrcode->generate($params); // fungsi untuk generate QR CODE
+
         $author = $this->input->post('penulis');
         $gabung = implode(',', $author);
         $stok = $this->input->post('stok');
@@ -173,7 +193,8 @@ class Buku extends CI_Controller {
             'tahun_terbit' => $this->input->post('tahun_terbit'),
             'kategori' => $kategori,
             'sinopsis' => $this->input->post('sinopsis'),
-            'call_number' => $this->input->post('call_number')
+			'call_number' => $this->input->post('call_number'),
+			'barcode' => $image_name_barcode
             );
         }
         else{
@@ -186,24 +207,81 @@ class Buku extends CI_Controller {
             'tahun_terbit' => $this->input->post('tahun_terbit'),
             'kategori' => $kategori,
             'sinopsis' => $this->input->post('sinopsis'),
-            'call_number' => $this->input->post('call_number')
+			'call_number' => $this->input->post('call_number'),
+			'barcode' => $image_name_barcode
             );
         }
-    	
-    	$res = $this->User_model->tambahdata('buku',$data_buku);
-        $data2 = array(
-                        'keterangan' => 'Admin menambahkan data buku baru',
-                        'waktu' => date('Y-m-d H-i-s')
-                    );
-                    $this->User_model->tambahdata('log_activity',$data2);
-                if ($res>=1) {
-				echo "<script>alert('Data berhasil disimpan!')</script>";
-				echo "<script>window.location='".base_url()."Buku'</script>";
-				}
-				else{
-		        echo "<script>alert('Data gagal disimpan!')</script>";
-				echo "<script>window.location='".base_url()."Buku'</script>";
-				}
+
+		$res = $this->User_model->tambahdata('buku',$data_buku);
+		if ($res>=1) {
+			echo'';
+		}
+		else{
+			$pesan_error .= 'Gagal menambahkan data buku';
+		}
+
+		$this->db->trans_complete();
+		if($this->db->trans_status() === false){
+			echo "<script>alert('".$pesan_error."')</script>";
+			echo "<script>window.location='".base_url()."Buku'</script>";
+		}
+		else{
+			$data2 = array(
+				'keterangan' => 'Admin menambahkan data buku baru',
+				'waktu' => date('Y-m-d H-i-s')
+			);
+			$this->User_model->tambahdata('log_activity',$data2);
+			echo "<script>alert('Data berhasil disimpan!')</script>";
+			echo "<script>window.location='".base_url()."Buku'</script>";
+		}
+	}
+	public function generate_barcode(){
+		$this->db->trans_start();
+		$id_buku = '';
+		$nama_buku = '';
+		$where['id'] = $this->uri->segment(3);
+		$data = $this->User_model->getSelectedData('buku',$where);
+		foreach ($data as $key => $value) {
+			$id_buku = $value->id_buku;
+			$nama_buku = $value->nama_buku;
+			$config_barcode['cacheable']	= true; //boolean, the default is true
+			$config_barcode['cachedir']		= './assets/'; //string, the default is application/cache/
+			$config_barcode['errorlog']		= './assets/'; //string, the default is application/logs/
+			$config_barcode['imagedir']		= './assets/barcode/'; //direktori penyimpanan qr code
+			$config_barcode['quality']		= true; //boolean, the default is true
+			$config_barcode['size']			= '1024'; //interger, the default is 1024
+			$config_barcode['black']		= array(224,255,255); // array, default is array(255,255,255)
+			$config_barcode['white']		= array(70,130,180); // array, default is array(0,0,0)
+			$this->ciqrcode->initialize($config_barcode);
+
+			$image_name_barcode="barcode_".time().'.png'; //buat name dari qr code sesuai dengan nim
+
+			$params['data'] = $value->call_number; //data yang akan di jadikan QR CODE
+			$params['level'] = 'H'; //H=High
+			$params['size'] = 10;
+			$params['savename'] = FCPATH.$config_barcode['imagedir'].$image_name_barcode; //simpan image QR CODE ke folder assets/images/
+			$this->ciqrcode->generate($params); // fungsi untuk generate QR CODE
+
+			$data_buku = array(
+				'barcode' => $image_name_barcode
+				);
+
+			$this->User_model->updateData('buku',$data_buku,$where);
+		}
+		$this->db->trans_complete();
+		if($this->db->trans_status() === false){
+			echo "<script>alert('Data gagal diperbarui!')</script>";
+			echo "<script>window.location='".base_url()."Buku/detail/".$id_buku."'</script>";
+		}
+		else{
+			$data2 = array(
+				'keterangan' => 'Admin generate barcode buku '.$nama_buku,
+				'waktu' => date('Y-m-d H-i-s')
+			);
+			$this->User_model->tambahdata('log_activity',$data2);
+			echo "<script>alert('Data berhasil diubah!')</script>";
+			echo "<script>window.location='".site_url()."Buku/detail/".$id_buku."'</script>";
+		}
 	}
     public function ubah_foto(){
         if(!empty($_FILES['gambar'])){
@@ -214,44 +292,44 @@ class Buku extends CI_Controller {
             $config['max_width']  = '5000'; //lebar maksimum 5000 px
             $config['max_height']  = '5000'; //tinggi maksimu 5000 px
             $config['file_name'] = $namafile; //nama yang terupload nantinya
-            $this->upload->initialize($config); 
-              if($_FILES['gambar']['name'])
-              {
-                 if(!$this->upload->do_upload('gambar'))
-                 {               
-                    $a = $this->upload->display_errors();
-              
-                    $this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Oops! </strong>'.$a.'.<br /></div>' ); 
-                    echo "<script>window.location='".base_url()."Buku/detail/".$this->input->post('id')."/'</script>";
-                 }
+            $this->upload->initialize($config);
+			if($_FILES['gambar']['name'])
+			{
+				if(!$this->upload->do_upload('gambar'))
+				{
+				$a = $this->upload->display_errors();
 
-                 else{
-                    $status = $this->input->post('status');
-                    $id = $this->input->post('id');
-                    if($status==0){
-                        $data = array(
-                         'nama_file' => $this->upload->data('file_name'),
-                         'id_buku' => $id,
-                         'keterangan' => 'gambar'
-                        );    
-                        $this->User_model->tambahdata("file",$data);  //akses model untuk menyimpan ke database
-                    }   
-                    else{   
-                        $where['id'] = $this->input->post('id_gambar');
-                        $data = array(
-                         'nama_file' => $this->upload->data('file_name')
-                        ); 
-                        $this->User_model->updateData('file',$data,$where);
-                    }      
-                    $data2 = array(
-                        'keterangan' => 'Admin mengubah foto cover buku',
-                        'waktu' => date('Y-m-d H-i-s')
-                    );
-                    $this->User_model->tambahdata('log_activity',$data2);
-                    echo "<script>alert('Foto berhasil diubah!')</script>"; 
-                    echo "<script>window.location='".base_url()."Buku/detail/".$id."/'</script>";
-                 }
-              }
+				$this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Oops! </strong>'.$a.'.<br /></div>' );
+				echo "<script>window.location='".base_url()."Buku/detail/".$this->input->post('id')."/'</script>";
+				}
+
+				else{
+				$status = $this->input->post('status');
+				$id = $this->input->post('id');
+				if($status==0){
+					$data = array(
+						'nama_file' => $this->upload->data('file_name'),
+						'id_buku' => $id,
+						'keterangan' => 'gambar'
+					);
+					$this->User_model->tambahdata("file",$data);  //akses model untuk menyimpan ke database
+				}
+				else{
+					$where['id'] = $this->input->post('id_gambar');
+					$data = array(
+						'nama_file' => $this->upload->data('file_name')
+					);
+					$this->User_model->updateData('file',$data,$where);
+				}
+				$data2 = array(
+					'keterangan' => 'Admin mengubah foto cover buku',
+					'waktu' => date('Y-m-d H-i-s')
+				);
+				$this->User_model->tambahdata('log_activity',$data2);
+				echo "<script>alert('Foto berhasil diubah!')</script>";
+				echo "<script>window.location='".base_url()."Buku/detail/".$id."/'</script>";
+				}
+			}
         }
     }
     public function ubah_file(){
@@ -261,44 +339,44 @@ class Buku extends CI_Controller {
             $config['allowed_types'] = 'pdf'; //type yang dapat diakses bisa anda sesuaikan
             $config['max_size'] = '8192'; //maksimum besar file 10M
             $config['file_name'] = $namafile; //nama yang terupload nantinya
-            $this->upload->initialize($config); 
-              if($_FILES['filepdf']['name'])
-              {
-                 if(!$this->upload->do_upload('filepdf'))
-                 {               
-                    $a = $this->upload->display_errors();
-              
-                    $this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Oops! </strong>'.$a.'.<br /></div>' ); 
-                    echo "<script>window.location='".base_url()."Buku/ubah/".$this->input->post('id')."/'</script>";
-                 }
+            $this->upload->initialize($config);
+			if($_FILES['filepdf']['name'])
+			{
+				if(!$this->upload->do_upload('filepdf'))
+				{
+				$a = $this->upload->display_errors();
 
-                 else{
-                    $status = $this->input->post('status');
-                    $id = $this->input->post('id');
-                    if($status==0){
-                        $data = array(
-                         'nama_file' => $this->upload->data('file_name'),
-                         'id_buku' => $id,
-                         'keterangan' => 'pdf'
-                        );    
-                        $this->User_model->tambahdata("file",$data);  //akses model untuk menyimpan ke database
-                    }   
-                    else{   
-                        $where['id'] = $this->input->post('id_pdf');
-                        $data = array(
-                         'nama_file' => $this->upload->data('file_name')
-                        ); 
-                        $this->User_model->updateData('file',$data,$where);
-                    }      
-                    $data2 = array(
-                        'keterangan' => 'Admin mengubah file e-book',
-                        'waktu' => date('Y-m-d H-i-s')
-                    );
-                    $this->User_model->tambahdata('log_activity',$data2);
-                    echo "<script>alert('File berhasil diubah!')</script>"; 
-                    echo "<script>window.location='".base_url()."Buku/ubah/".$id."/'</script>";
-                 }
-              }
+				$this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Oops! </strong>'.$a.'.<br /></div>' );
+				echo "<script>window.location='".base_url()."Buku/ubah/".$this->input->post('id')."/'</script>";
+				}
+
+				else{
+				$status = $this->input->post('status');
+				$id = $this->input->post('id');
+				if($status==0){
+					$data = array(
+						'nama_file' => $this->upload->data('file_name'),
+						'id_buku' => $id,
+						'keterangan' => 'pdf'
+					);
+					$this->User_model->tambahdata("file",$data);  //akses model untuk menyimpan ke database
+				}
+				else{
+					$where['id'] = $this->input->post('id_pdf');
+					$data = array(
+						'nama_file' => $this->upload->data('file_name')
+					);
+					$this->User_model->updateData('file',$data,$where);
+				}
+				$data2 = array(
+					'keterangan' => 'Admin mengubah file e-book',
+					'waktu' => date('Y-m-d H-i-s')
+				);
+				$this->User_model->tambahdata('log_activity',$data2);
+				echo "<script>alert('File berhasil diubah!')</script>";
+				echo "<script>window.location='".base_url()."Buku/ubah/".$id."/'</script>";
+				}
+			}
         }
     }
     public function tampil_ajax_edit_stok(){
@@ -352,12 +430,12 @@ class Buku extends CI_Controller {
                 echo "<script>window.location='".base_url()."Buku/kategori'</script>";
             }
             else{
-                $res = $this->User_model->tambahdata("kategori",$data); //akses model untuk menyimpan ke database  
+                $res = $this->User_model->tambahdata("kategori",$data); //akses model untuk menyimpan ke database
                 $data2 = array(
                         'keterangan' => 'Admin menambahkan kategori buku baru',
                         'waktu' => date('Y-m-d H-i-s')
                     );
-                    $this->User_model->tambahdata('log_activity',$data2);            
+                    $this->User_model->tambahdata('log_activity',$data2);
                 if ($res>=1) {
                 $this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Kuy cek!! </strong>Ada kategori baru.<br /></div>' );
                 echo "<script>window.location='".base_url()."Buku/kategori'</script>";
@@ -376,13 +454,13 @@ class Buku extends CI_Controller {
                 'nama_kategori'=>$this->input->post('nama'),
             );
         $cek_nama = $this->Buku_model->cek_nama_kategori($this->input->post('nama'));
-       
+
             if(!empty($cek_nama)){
                 $this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Sorry! </strong>nama kategori telah digunakan.<br /></div>' );
                 echo "<script>window.location='".base_url()."Buku/kategori'</script>";
             }
             else{
-                $this->User_model->updateData('kategori',$data,$where);         
+                $this->User_model->updateData('kategori',$data,$where);
                 $data2 = array(
                         'keterangan' => 'Admin mengubah kategori buku',
                         'waktu' => date('Y-m-d H-i-s')
@@ -390,9 +468,7 @@ class Buku extends CI_Controller {
                     $this->User_model->tambahdata('log_activity',$data2);
                 $this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Alhamdulillah!! </strong>Kategori telah diubah.<br /></div>' );
                 echo "<script>window.location='".base_url()."Buku/kategori'</script>";
-                
             }
-        
 	}
     public function tampil_ajax_ubah_kategori(){
         $where['id'] = $this->input->post('id');

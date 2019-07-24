@@ -22,7 +22,7 @@ class Peminjaman extends CI_Controller {
         parent::__construct();
         $this->load->library('cart');
         date_default_timezone_set("Asia/Jakarta");
-    }    
+    }
 	public function index()
 	{
         if(($this->session->userdata('id'))==NULL){
@@ -51,7 +51,7 @@ class Peminjaman extends CI_Controller {
         $this->load->view('peminjaman/laporan',$data);
         $this->load->view('template/footer');
         }
-    }
+	}
     public function detail(){
         $where['id'] = '2';
             $query = $this->User_model->getSelectedData('pengaturan',$where);
@@ -92,19 +92,17 @@ class Peminjaman extends CI_Controller {
             'username' => $this->session->userdata('username')
             );
         if(!empty($cek)){
-            
             $data = array(
                 'password' => $this->input->post('new_password')
                 );
             $res = $this->User_model->updateData("users",$data,$where); //akses model untuk menyimpan ke database
-                        
             $this->session->set_flashdata('sukses','<div class="alert alert-block alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong><i class="ace-icon fa fa-check"></i> Well done! </strong>Kata sandi telah di ubah.</div>');
             redirect('Advertiser/profil');
         }
         else {
             $this->session->set_flashdata('error','<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ups! </strong>Password lama tidak valid.<br /></div>' );
             redirect('Advertiser/profil');
-      }
+		}
     }
     public function simpan(){
         $where['id'] = '1';
@@ -130,7 +128,7 @@ class Peminjaman extends CI_Controller {
             else{
                 if($total_items>=$nilai){
                     echo "<script>alert('Tidak bisa meminjam buku lagi!')</script>";
-                    echo "<script>window.location='".base_url()."Peminjaman'</script>";  
+                    echo "<script>window.location='".base_url()."Peminjaman'</script>";
                 }
                 else{
                     if($jumlah_masuk>$nilai){
@@ -189,7 +187,7 @@ class Peminjaman extends CI_Controller {
                     );
                     $this->User_model->tambahdata('log_activity',$data2);
         $this->cart->destroy();
-        
+
         echo "<script>alert('Data berhasil disimpan!')</script>";
         echo "<script>window.location='".base_url()."Peminjaman/laporan'</script>";
         }
@@ -206,12 +204,45 @@ class Peminjaman extends CI_Controller {
     	$this->cart->destroy();
     	echo "<script>window.location='".base_url()."Peminjaman'</script>";
     }
-    public function detail_pinjam(){
+    public function kirim_email_pemberitahuan(){
+		$mail = new PHPMailer();
+        // $mail->SMTPDebug = 2;
+        // $mail->Debugoutput = 'html';
 
-    }
+        // set smtp
+        $mail->isSMTP();
+        $mail->Host = 'smtp.gmail.com';
+        $mail->Port = '465';
+		$mail->SMTPAuth = true;
+		$mail->SMTPSecure = "ssl";
+        $mail->Username = 'bokir.rizal@gmail.com';
+        $mail->Password = 'rriizzaal';
+        $mail->WordWrap = 50;
+        // set email content
+        $mail->setFrom('no-reply@semarangkota.go.id', 'Perpustakaan | Pemerintah Kota Semarang');
+        $mail->addAddress($this->input->post('email'));
+		$mail->Subject = 'Email Pemberitahuan';
+		$mail->isHTML(true);
+        $mail->Body = $this->input->post('editordata');
+
+		if ($mail->send()) {
+			$data2 = array(
+				'keterangan' => 'Admin mengirimkan pemberitahuan perihal peminjaman buku oleh '.$this->input->post('nama').' (via email)',
+				'waktu' => date('Y-m-d H-i-s')
+			);
+			$this->User_model->tambahdata('log_activity',$data2);
+			echo "<script>alert('Sukses! email berhasil dikirim.')</script>";
+			echo "<script>window.location='".base_url()."Peminjaman/detail/".$this->input->post('id_peminjaman')."'</script>";
+		} else {
+			echo "<script>alert('Error! email tidak dapat dikirim.')</script>";
+			echo "<script>window.location='".base_url()."Peminjaman/detail/".$this->input->post('id_peminjaman')."'</script>";
+		}
+	}
     public function syarat(){
+		$where['aplikasi'] = 'perpus';
+        $data['syarat_dan_ketentuan'] = $this->User_model->getSelectedData('pengaturan',$where);
         $this->load->view('template/header');
-        $this->load->view('peminjaman/syarat');
+        $this->load->view('peminjaman/syarat',$data);
         $this->load->view('template/footer');
     }
     public function kembalikan_semua(){
@@ -346,10 +377,10 @@ class Peminjaman extends CI_Controller {
     	    		echo "";
     	    	}
     	    	}
-    	   	}
-    	   	else{
-    	   		echo "<option value='0'>--Tidah Ada Data--</pilih>";
-    	   	}
+			}
+			else{
+				echo "<option value='0'>--Tidah Ada Data--</pilih>";
+			}
     	}
     	elseif($modul=='buku'){
     		$where['id_buku'] = $id;
