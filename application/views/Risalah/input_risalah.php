@@ -296,7 +296,7 @@
 												<div class="modal-body">
 												<ol>
 													<li>Di komputer, buka video YouTube yang ingin disematkan.</li>
-													<li>Di bawah video, klik <strong>BAGIKAN</strong> <img src="//storage.cloud.google.com/support-kms-prod/dJviTGFzvddvW4FXLvi4NS4ZrkJKjtwkqxyn" alt="Bagikan" title="Bagikan">.</li>
+													<li>Di bawah video, klik <strong>BAGIKAN</strong> <img src="https://png.pngtree.com/svg/20160222/57b775c38b.svg" width='5%' alt="Bagikan" title="Bagikan">.</li>
 													<li>Klik <strong>Sematkan</strong>.</li>
 													<li>Dari kotak yang muncul, salin kode HTML.</li>
 												</ol>

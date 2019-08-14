@@ -5,16 +5,15 @@ class User extends CI_Model{
 		$this->primaryKey = 'username';
 	}
 	public function InsertData($table,$data){
-    	$res = $this->db->insert($table,$data);
-        return $res;
-    }
+		$res = $this->db->insert($table,$data);
+		return $res;
+	}
 	public function checkUser($data = array()){
 		$this->db->select($this->primaryKey);
 		$this->db->from($this->tableName);
 		$this->db->where(array('username'=>$data['username']));
 		$prevQuery = $this->db->get();
 		$prevCheck = $prevQuery->num_rows();
-		
 		if($prevCheck > 0){
 			$prevResult = $prevQuery->row_array();
 			//$data['modified'] = date("Y-m-d H:i:s");
@@ -28,5 +27,5 @@ class User extends CI_Model{
 		}
 
 		return $userID?$userID:FALSE;
-    }
+	}
 }

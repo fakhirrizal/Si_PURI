@@ -25,7 +25,7 @@ class Risalah extends CI_Controller {
 	public function index()
 	{
 		// $data['risalah'] = $this->Risalah_model->getRisalah();
-  //   $this->load->view('risalah/home',$data);
+  //   $this->load->view('Risalah/home',$data);
 
     $data['jumlah'] = $this->User_model->getAlldata('risalah');
     $config['base_url'] = base_url().'Risalah/index/';
@@ -56,7 +56,7 @@ class Risalah extends CI_Controller {
     $data['risalah'] = $this->Risalah_model->data_risalah($config['per_page'],$from);
     $where1['id'] = '3';
     $data['foto'] = $this->User_model->getSelectedData('pengaturan',$where1);
-    $this->load->view('risalah/home',$data);
+    $this->load->view('Risalah/home',$data);
 	}
 	public function admin()
 	{
@@ -199,14 +199,14 @@ class Risalah extends CI_Controller {
             $data['jumlah'] = $this->Risalah_model->cari_judul($x);
             $where1['id'] = '3';
             $data['foto'] = $this->User_model->getSelectedData('pengaturan',$where1);
-            $this->load->view('risalah/home',$data); 
+            $this->load->view('Risalah/home',$data); 
           }
           else{
             $data['risalah'] = $this->Risalah_model->cari_isi($x);
             $data['jumlah'] = $this->Risalah_model->cari_isi($x);
             $where1['id'] = '3';
             $data['foto'] = $this->User_model->getSelectedData('pengaturan',$where1);
-            $this->load->view('risalah/home',$data); 
+            $this->load->view('Risalah/home',$data); 
           }
         }
       }
@@ -215,7 +215,7 @@ class Risalah extends CI_Controller {
         $data['jumlah'] = $this->Risalah_model->cari_tahun($this->uri->segment(3));
         $where1['id'] = '3';
         $data['foto'] = $this->User_model->getSelectedData('pengaturan',$where1);
-        $this->load->view('risalah/home',$data); 
+        $this->load->view('Risalah/home',$data); 
       }
     }
 	public function input_risalah()
@@ -709,3 +709,4 @@ class Risalah extends CI_Controller {
 	    redirect('Risalah/admin');
 	}
 }
+?>

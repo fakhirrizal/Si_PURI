@@ -52,6 +52,17 @@
 </div>
 
 
+<form class="form-horizontal form-label-left" method="post" action="<?php echo site_url('Peminjaman/simpanbc'); ?>">
+    <div class="form-group">
+        <label class="control-label col-xs-2">Scan Barcode</label>
+        <div class="col-md-9 col-sm-9 col-xs-12">
+            <div class="input-group">
+              <span class="input-group-addon"><i class="fa fa-book"></i></span>
+              <input type="text" name="barcode" id="barcode" autofocus=""></input>
+            </div>
+        </div>
+    </div>
+</form>
 <form class="form-horizontal form-label-left" method="post" action="<?php echo site_url('Peminjaman/simpan'); ?>">
             <div class="form-group">
                         <label class="control-label col-xs-2">Kategori Buku</label>

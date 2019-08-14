@@ -82,10 +82,10 @@
 									<?php
                                         foreach ($audio as $key => $row) {
                                     ?>
-                                    <audio controls controlsList="nodownload">
+                                    <!-- <audio controls controlsList="nodownload">
                                         <source src='<?=base_url()?>assets2/uploads/audio/<?=$row->nama_file;?>' type='audio/mp3'>
                                     </audio>
-                                    <p style="text-align: justify;"><strong>Note:</strong> The audio tag is not supported in Internet Explorer 8 and earlier versions.</p>
+                                    <p style="text-align: justify;"><strong>Note:</strong> The audio tag is not supported in Internet Explorer 8 and earlier versions.</p> -->
                                     <?php } ?>
 									<div class='download-button'>
                                             <?php

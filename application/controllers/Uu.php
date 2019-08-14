@@ -300,7 +300,7 @@ private $filename = "import_data"; // Kita tentukan nama filenya
 	public function tampil_ajax(){
 		$where['id_kategori'] = $this->input->post('id');
         $data['data_kategori'] = $this->User_model->getSelectedData('kategori_uu',$where);
-        $this->load->view('uu/ajax_kategori',$data);
+        $this->load->view('UU/ajax_kategori',$data);
 	}
 	public function update_kategori(){
 		$where['id'] = $this->input->post('id');

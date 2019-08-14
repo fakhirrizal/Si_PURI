@@ -148,6 +148,66 @@ class Peminjaman extends CI_Controller {
                 }
             }
     	}
+	}
+	public function simpanbc(){
+        $barcodes = $this->input->post('barcode');
+        $dabuk = $this->db->query("SELECT * FROM buku where call_number='$barcodes'")->row();
+
+        $wheres['id_buku'] = $dabuk->id_buku;
+        $data_buku = $this->User_model->getSelectedData('buku',$wheres);
+        $buku_sisa = $this->User_model->cek_buku($dabuk->id_buku);
+
+        foreach ($data_buku as $key => $value) {
+          $stok = $value->stok;
+            foreach ($buku_sisa as $key => $nilai) {
+              $buku_yg_dipinjam = $nilai->sisa;
+              $sisa = $stok-$buku_yg_dipinjam;
+            }
+        }
+
+        $where['id'] = '1';
+        $query = $this->User_model->getSelectedData('pengaturan',$where);
+        $nilai = '';
+        foreach ($query as $key => $value) {
+            $nilai = $value->keterangan;
+        }
+        $jumlah = 1;
+        $stok = $dabuk->stok;
+        $sisa = $sisa;
+        $total_items = $this->cart->total_items();
+        $jumlah_masuk = $jumlah+$total_items;
+        if($jumlah>$stok){
+            echo "<script>alert('Tidak bisa meminjam buku lebih dari stok yang tersedia!')</script>";
+            echo "<script>window.location='".base_url()."Peminjaman'</script>";
+        }
+        else{
+            if($jumlah>$sisa){
+                echo "<script>alert('Tidak bisa meminjam buku lebih dari stok yang tersedia!')</script>";
+                echo "<script>window.location='".base_url()."Peminjaman'</script>";
+            }
+            else{
+                if($total_items>=$nilai){
+                    echo "<script>alert('Tidak bisa meminjam buku lagi!')</script>";
+                    echo "<script>window.location='".base_url()."Peminjaman'</script>";
+                }
+                else{
+                    if($jumlah_masuk>$nilai){
+                        echo "<script>alert('Melebihi batas jumlah peminjaman buku!')</script>";
+                        echo "<script>window.location='".base_url()."Peminjaman'</script>";
+                    }
+                    else{
+                        $data = array(
+                        'id'    => $dabuk->id_buku,
+                        'price' => $dabuk->stok,
+                        'qty'   => 1,
+                        'name'   => $dabuk->nama_buku,
+                    );
+                    $this->cart->insert($data);
+                    echo "<script>window.location='".base_url()."Peminjaman'</script>";
+                    }
+                }
+            }
+        }
     }
     public function pinjam_buku(){
         $where['id'] = '1';
