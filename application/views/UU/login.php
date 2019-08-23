@@ -1,71 +1,191 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <!-- Meta, title, CSS, favicons, etc. -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Undang-Undang</title>
-    <link rel="shortcut icon" href="<?=base_url()?>assets/images/logo.ico">
-    <!-- Bootstrap -->
-    
-    <link href="<?=base_url('assets4/vendors/bootstrap/dist/css/bootstrap.min.css');?>" rel="stylesheet">
-    <!-- Font Awesome -->
-    <link href="<?=base_url('assets4/vendors/font-awesome/css/font-awesome.min.css');?>" rel="stylesheet">
-    <!-- NProgress -->
-    <link href="<?=base_url('assets4/vendors/nprogress/nprogress.css');?>" rel="stylesheet">
-    <!-- Animate.css -->
-    <link href="<?=base_url('assets4/vendors/animate.css/animate.min.css');?>" rel="stylesheet">
-
-    <!-- Custom Theme Style -->
-    <link href="<?=base_url('assets4/build/css/custom.min.css');?>" rel="stylesheet">
-  </head>
-
-  <body class="login">
-    <div>
-      
-      <a class="hiddenanchor" id="signup"></a>
-      <a class="hiddenanchor" id="signin"></a>
-
-      <div class="login_wrapper">
-        <div class="animate form login_form">
-          <section class="login_content">
-            <h5><?= $this->session->flashdata('error') ?></h5>
-            <form action="<?php echo site_url('Uu/masuk'); ?>" method="post">
-              <h1>Admin Login</h1>
-              <div>
-                <input type="email" class="form-control" placeholder="Your email" required="" name="email" />
-              </div>
-              <div>
-                <input type="password" class="form-control" placeholder="Password" required="" name="password" />
-              </div>
-              <div>
-                <button type="submit" class="btn btn-default submit">Log in</button>
-              </div>
-
-              <div class="clearfix"></div>
-
-              <div class="separator">
-                <!-- <p class="change_link">New to site?
-                  <a href="#signup" class="to_register"> Create Account </a>
-                </p> -->
-
-                <div class="clearfix"></div>
-                <br />
-
-                <div>
-                  <!-- <h1><i class="fa fa-paw"></i> Gentelella Alela!</h1> -->
-                  <p>Copyright &copy; 2017 | Si-PURI</p>
-                </div>
-              </div>
-            </form>
-          </section>
-        </div>
-
-        
-      </div>
-    </div>
-  </body>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Pemerintah Kota Semarang">
+		<meta name="author" content="Pemerintah Kota Semarang">
+		<title>Pemerintah Kota Semarang - Halaman Login</title>
+		<link href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round" rel="stylesheet">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<!-- <link href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Lambang_Kota_Semarang.png" rel="icon" type="image/png"> -->
+		<link rel="shortcut icon" href="<?=base_url()?>assets/images/logo.ico">
+		<style type="text/css">
+			body {
+				color: #434343;
+				background: #dfe7e9;
+				font-family: 'Varela Round', sans-serif;
+				/* background-image: url("http://pks.id/contentAsset/image/a94620bb-2c7d-4b1a-babb-feb66f90b674/fileAsset/filter/Resize/resize_w/1340/byInode/1"); */
+			}
+			.form-control {
+				font-size: 16px;
+				transition: all 0.4s;
+				box-shadow: none;
+			}
+			.form-control:focus {
+				border-color: #5cb85c;
+			}
+			.form-control, .btn {
+				border-radius: 50px;
+				outline: none !important;
+			}
+			.signin-form {
+				width: 400px;
+				margin: 0 auto;
+				padding: 30px 0;
+			}
+			.signin-form form {
+				border-radius: 5px;
+				margin-bottom: 20px;
+				background: #fff;
+				box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+				padding: 40px;
+			}
+			.signin-form a {
+				color: #5cb85c;
+			}
+			.signin-form h2 {
+				text-align: center;
+				font-size: 34px;
+				margin: 10px 0 15px;
+			}
+			.signin-form .hint-text {
+				color: #999;
+				text-align: center;
+				margin-bottom: 20px;
+			}
+			.signin-form .form-group {
+				margin-bottom: 20px;
+			}
+			.signin-form .btn {
+				font-size: 18px;
+				line-height: 26px;
+				font-weight: bold;
+				text-align: center;
+			}
+			.signin-form .small {
+				font-size: 13px;
+			}
+			.signup-btn {
+				text-align: center;
+				border-color: #5cb85c;
+				transition: all 0.4s;
+			}
+			.signup-btn:hover {
+				background: #5cb85c;
+				opacity: 0.8;
+			}
+			.or-seperator {
+				margin: 50px 0 15px;
+				text-align: center;
+				border-top: 1px solid #e0e0e0;
+			}
+			.or-seperator b {
+				padding: 0 10px;
+				width: 40px;
+				height: 40px;
+				font-size: 16px;
+				text-align: center;
+				line-height: 40px;
+				background: #fff;
+				display: inline-block;
+				border: 1px solid #e0e0e0;
+				border-radius: 50%;
+				position: relative;
+				top: -22px;
+				z-index: 1;
+			}
+			.social-btn .btn {
+				color: #fff;
+				margin: 10px 0 0 30px;
+				font-size: 15px;
+				width: 55px;
+				height: 55px;
+				line-height: 38px;
+				border-radius: 50%;
+				font-weight: normal;
+				text-align: center;
+				border: none;
+				transition: all 0.4s;
+			}
+			.social-btn .btn:first-child {
+				margin-left: 0;
+			}
+			.social-btn .btn:hover {
+				opacity: 0.8;
+			}
+			.social-btn .btn-primary {
+				background: #507cc0;
+			}
+			.social-btn .btn-info {
+				background: #64ccf1;
+			}
+			.social-btn .btn-danger {
+				background: #df4930;
+			}
+			.social-btn .btn i {
+				font-size: 20px;
+			}
+		</style>
+		<!-- <style>
+			.signin-form {
+				background-image: url("http://pks.id/contentAsset/image/a94620bb-2c7d-4b1a-babb-feb66f90b674/fileAsset/filter/Resize/resize_w/1340/byInode/1");
+				-webkit-filter: blur(99px);
+				-moz-filter: blur(99px);
+				-o-filter: blur(99px);
+				-ms-filter: blur(99px);
+				filter: blur(99px);
+				position: fixed;
+				width: 100%;
+				height: 100%;
+				top: 0;
+				left: 0;
+				z-index: -1;
+			}
+		</style> -->
+	</head>
+	<body onload="getLocation()">
+		<div class="signin-form">
+			<?= $this->session->flashdata('error') ?>
+			<form role="form" action="<?php echo site_url('Uu/masuk'); ?>" method='post'>
+				<p id="getLocation"></p>
+				<!-- <h2>Sign in</h2>
+				<p class="hint-text">Sign in with your social media account</p> -->
+				<div class="social-btn text-center">
+					<!-- <a href="#" class="btn btn-danger btn-lg" title="Google"><i class="fa fa-google"></i></a> -->
+					<img src="https://1.bp.blogspot.com/-_htlsqmoegY/WgUv0iXCbwI/AAAAAAAAEto/Ye4R81LIlsEndxNgV6KTCcmbLeFrav88QCLcBGAs/s400/kota%2Bsemarang.png" width='45%'>
+					<br><br><p><font size="5">Silahkan login<br>untuk menggunakan sistem</font></p><hr>
+				</div>
+				<!-- <div class="or-seperator"><b></b></div> -->
+				<div class="form-group">
+					<input type="text" class="form-control input-lg" name="email" placeholder="Email" required="required">
+				</div>
+				<div class="form-group">
+					<input type="password" class="form-control input-lg" name="password" placeholder="Kata Sandi" required="required">
+				</div>
+				<div class="form-group">
+					<button type="submit" class="btn btn-success btn-lg btn-block signup-btn">Masuk</button>
+				</div>
+				<div class="text-center small"><a href="#">Lupa Kata Sandi?</a></div>
+			</form>
+			<!-- <div class="text-center small">Don't have an account? <a href="#">Sign up</a></div> -->
+			<script>
+				var view = document.getElementById("getLocation");
+				function getLocation() {
+					if (navigator.geolocation) {
+						navigator.geolocation.getCurrentPosition(showPosition);
+					} else {
+						view.innerHTML = "";
+					}
+				}
+				function showPosition(position) {
+					view.innerHTML = "<input type='hidden' name='location' value='" + position.coords.latitude + "," + position.coords.longitude +"' />";
+				}
+			</script>
+		</div>
+	</body>
 </html>

@@ -34,7 +34,7 @@
 <body onload="tampilkanwaktu();setInterval('tampilkanwaktu()', 1000);">
 
     <!-- Full Bg Start -->
-    <div class='full-bg' style='background-image:url("<?=base_url()?>assets2/global/img/portfolio/1200x900/23.jpg")'>
+    <div class='full-bg' style='#'>
 
         <div id='content'>
             <!-- Header Running Text Start -->
@@ -57,7 +57,7 @@
                                 <a href='<?php echo site_url('Perpustakaan'); ?>' class='kotak'>
                                     <!-- <i class='ion-ios-book'></i>
                                     <h4>Perpustakaan</h4> -->
-                                    <img class='image-white' src='assets3/images/logo_pustaka.jpg' alt='Pustaka'/>
+                                    <img class='#' src='assets3/images/logo_pustaka.png' alt='Pustaka'/>
                                     
                                 </a>
                             </div>
@@ -65,14 +65,14 @@
                                 <a href='<?php echo site_url('Risalah'); ?>' class='kotak'>
                                     <!-- <i class='ion-ios-folder'></i>
                                     <h4>Risalah</h4> -->
-                                    <img class='image-white' src='assets3/images/logo_risalah.png' alt='Risalah'/>
+                                    <img class='#' src='assets3/images/logo_risalah.png' alt='Risalah'/>
                                 </a>
                             </div>
                             <div class='four columns'>
                                 <a href='<?php echo site_url('Uu'); ?>' class='kotak'>
                                     <!-- <i class='ion-briefcase'></i>
                                     <h4>Undang-undang</h4> -->
-                                    <img class='image-white' src='assets3/images/logo_uu.jpg' alt='Perundangan'/>
+                                    <img class='#' src='assets3/images/logo_uu.png' alt='Perundangan'/>
                                     
                                 </a>
                             </div>
@@ -87,7 +87,7 @@
             <footer>
                 <div class='container'>
                     <div class='u-pull-left'>
-                        Copyright &copy; 2017 | Si-PURI
+                        Copyright &copy; 2019 | Si-PURI
                     </div>
                     <a href='<?= base_url(); ?>' class='footer-logo' >
                         <img src="<?=base_url('assets/images/Lambang_Kota_Semarang.png');?>"/>
