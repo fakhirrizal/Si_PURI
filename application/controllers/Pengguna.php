@@ -121,7 +121,8 @@ class Pengguna extends CI_Controller {
 					$sess_data['id_pengguna'] = $value->id;
 					$sess_data['mail_pengguna'] = $value->email;
 					$this->session->set_userdata($sess_data);
-					$this->load->view('user/search2');
+					$data['data_buku'] = $this->User_model->getSelectedData('buku',array('status'=>'1'));
+					$this->load->view('user/halaman_depan',$data);
 				}
 			}
 			else{
@@ -129,6 +130,9 @@ class Pengguna extends CI_Controller {
 				echo "<script>window.location='".base_url()."Pengguna/guest/'</script>";
 			}
 	}
+	// public function pencarian(){
+	// 	$this->load->view('user/search2');
+	// }
 	public function ubah_foto(){
 		$id = $this->input->post('id');
 		$nmfile = "file_".time(); // nama file saya beri nama langsung dan diikuti fungsi time

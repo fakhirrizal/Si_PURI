@@ -54,6 +54,8 @@ $route['perpustakaan/generate_barcode/(:any)'] = 'Buku/generate_barcode/$1';
 
 $route['perpustakaan/kirim_email_pemberitahuan'] = 'Peminjaman/kirim_email_pemberitahuan';
 
+$route['pengguna_perpustakaan'] = 'Pengguna/signup2';
+
 $route['default_controller'] = 'Pengguna';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;

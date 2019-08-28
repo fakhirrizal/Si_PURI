@@ -24,7 +24,7 @@ private $filename = "import_data"; // Kita tentukan nama filenya
 	}
 	public function index()
 	{
-		$data['jumlah'] = $this->User_model->getAlldata('uu');
+		$data['jumlah_uu'] = $this->User_model->getAlldata('uu');
 		$config['base_url'] = base_url().'Uu/index/';
 		$config['total_rows'] = count($this->User_model->getAlldata('uu'));
 		$config['per_page'] = 10;

@@ -272,6 +272,7 @@ class Risalah extends CI_Controller {
 			'nama_acara' => $this->input->post('nama_acara'),
 			'isi_risalah' => $this->input->post('isi'),
 			'tanggal_acara' => $this->input->post('tanggal'),
+			'link' => $this->input->post('link'),
 			'tanggal_revisi' => date('Y-m-d H:i:s'),
 		);
 		$this->User_model->updateData("risalah",$data,$where);

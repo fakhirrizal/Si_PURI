@@ -59,9 +59,9 @@ License: You must have a valid license purchased only from themeforest(the above
             <div class="page-header-inner ">
                 <!-- BEGIN LOGO -->
                 <div class="page-logo">
-                    <a href="index.html">
+                    <a href="#">
                         <!-- <img src="<?=base_url()?>assets2/layouts/layout/img/logo.png" alt="logo"  /> -->
-                        <img src="<?=base_url('assets3/images/logo_risalah.png');?>" height="17" width="86" class="logo-default" alt='Pustaka'/>
+                        <!-- <img src="<?=base_url('assets3/images/logo_risalah.png');?>" height="17" width="86" class="logo-default" alt='Pustaka'/> -->
                     </a>
                     <div class="menu-toggler sidebar-toggler">
                         <span></span>
@@ -110,11 +110,11 @@ License: You must have a valid license purchased only from themeforest(the above
                         <!-- END USER LOGIN DROPDOWN -->
                         <!-- BEGIN QUICK SIDEBAR TOGGLER -->
                         <!-- DOC: Apply "dropdown-dark" class after below "dropdown-extended" to change the dropdown styte -->
-                        <li class="dropdown dropdown-quick-sidebar-toggler">
+                        <!-- <li class="dropdown dropdown-quick-sidebar-toggler">
                             <a href="javascript:;" class="dropdown-toggle">
                                 <i class="icon-logout"></i>
                             </a>
-                        </li>
+                        </li> -->
                         <!-- END QUICK SIDEBAR TOGGLER -->
                     </ul>
                 </div>
@@ -400,12 +400,12 @@ License: You must have a valid license purchased only from themeforest(the above
                                             foreach ($audio as $key => $row) {
                                                 $id_audio = $row->id;
                                             ?>
-                                                <audio controls>
+                                                <!-- <audio controls>
 												<source src="<?=base_url()?>assets2/uploads/audio/<?=$row->nama_file;?>" type="audio/mpeg">
 												Your browser does not support the audio element.
                                                 </audio>
 
-                                                <p><strong>Note:</strong> The audio tag is not supported in Internet Explorer 8 and earlier versions.</p>
+                                                <p><strong>Note:</strong> The audio tag is not supported in Internet Explorer 8 and earlier versions.</p> -->
 												<?= $value->link; ?>
                                             <?php } ?>
                                     <div class="blog-single-foot">
@@ -433,9 +433,9 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <div class="blog-single-sidebar-links">
                                         <h3 class="blog-sidebar-title uppercase">Ubah Data</h3>
                                         <ul>
-                                            <li>
+                                            <!-- <li>
                                                 <a href="javascript:;" data-toggle="modal" data-target="#edit-audio">Audio</a>
-                                            </li>
+                                            </li> -->
                                             <li>
                                                 <a href="javascript:;" data-toggle="modal" data-target="#edit-doc">PDF</a>
                                             </li>

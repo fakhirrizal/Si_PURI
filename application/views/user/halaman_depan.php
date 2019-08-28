@@ -55,17 +55,17 @@
 					<nav class='nav-top'>
 						<div class='u-pull-left'>
 							<div id='nav-title'>
-								<img src="<?=base_url('assets3/images/logo_perundangan.png');?>" class='image-white' alt='Perundangan'/>
+								<img src="<?=base_url('assets3/images/logo_pustaka_old.jpg');?>" class='image-white' alt='Perundangan'/>
 							</div>
 						</div>
 						<div class='u-pull-right'>
 							<div id='nav-lang'>
-										<a href='#!' title='Ubah ke Bahasa'>
-											<img alt='Ubah ke Bahasa' src="<?=base_url('assets3/images/flag_id_square_small.jpg');?>"/>
-										</a>
-										<a href='#!' title='Change to English'>
-											<img alt='Change to English' src="<?=base_url('assets3/images/flag_en_square_small.jpg');?>"/>
-										</a>
+								<a href='#!' title='Ubah ke Bahasa'>
+									<img alt='Ubah ke Bahasa' src="<?=base_url('assets3/images/flag_id_square_small.jpg');?>"/>
+								</a>
+								<a href='#!' title='Change to English'>
+									<img alt='Change to English' src="<?=base_url('assets3/images/flag_en_square_small.jpg');?>"/>
+								</a>
 							</div>
 							<div id='nav-link'>
 								<!-- <a href='login.html'><i class='ion-log-in'></i> Login</a> -->
@@ -82,21 +82,21 @@
 							<div id='home-search'>
 
 								<!-- Form Animation Start -->
-								<form method='GET' action="<?php echo site_url('Uu/pencarian'); ?>">
+								<form method='GET' action="<?php echo site_url('Perpustakaan/searching'); ?>">
 
 									<div id='form-hide'>
 										<div class='row'>
 											<div class='seven columns'>
-												<input type='text' class='u-full-width' name='param1' placeholder='ex: Something' onkeyup="cariWilayah(this.value);" onblur="pilih();" onfocus="if(this.value=='Pencarian....') this.value='';" id="keyword"/>
+												<input type='text' class='u-full-width' name='param1' placeholder='ex: Something' onkeyup="cariWilayah(this.value);" onblur="pilih();" onfocus="if(this.value=='ex: Something') this.value='';" id="keyword"/>
 											</div>
 											<div class='five columns'>
 												<!-- Dropdown Forms -->
-												<select class='u-full-width select2' name='param2' required>
+												<select class='u-full-width select2' name='param2'>
 													<option value=''>-Pilih parameter-</option>
-													<option value='all'>All</option>
-													<option value='judul'>Judul Peraturan</option>
+													<option value='judul'>Judul Buku</option>
 													<option value='tahun'>Tahun Terbit</option>
-													<option value='deskripsi'>Deskripsi</option>
+													<option value='penerbit'>Penerbit</option>
+													<option value='author'>Author</option>
 												</select>
 											</div>
 											<div class='seven columns' id="hasilPencarian" style="display: none;">
@@ -117,8 +117,8 @@
 								<div id='alpha-search'>
 									<!-- <a href='2c.html'>A</a> -->
 									<script>
-										for(i=2013; i<=2017; i++){
-											document.write("<a href='<?= site_url(); ?>Uu/pencarian/"+i+"'>"+i+"</a>");
+										for(i=65; i<=90; i++){
+											document.write("<a href='<?= site_url(); ?>Perpustakaan/searching/"+String.fromCharCode(i)+"'>"+String.fromCharCode(i)+"</a>");
 										}
 									</script>
 								</div>
@@ -127,76 +127,123 @@
 							<!-- Home Result Start -->
 							<div id='home-result' class='home-result-4a'>
 								<div class='table-result'>
+									<!-- <table id="table_id">
+										<thead>
+											<tr>
+												<th style="text-align: center;" width="4%"> # </th>
+												<th style="text-align: center;"> Judul Buku </th>
+												<th style="text-align: center;"> Penerbit </th>
+												<th style="text-align: center;"> Pengarang </th>
+												<th style="text-align: center;"> Sinopsis </th>
+												<th style="text-align: center;" width="7%"> Aksi </th>
+											</tr>
+										</thead>
+									</table>
+									<script type="text/javascript" language="javascript" >
+										$(document).ready(function(){
+											$('#table_id').dataTable({
+												"order": [[ 0, "asc" ]],
+												"bProcessing": true,
+												"ajax" : {
+													url:"<?= site_url('Perpustakaan/json_buku'); ?>"
+												},
+												"aoColumns": [
+															{ mData: 'number', sClass: "alignCenter" },
+															{ mData: 'judul_buku', sClass: "alignCenter" },
+															{ mData: 'penerbit', sClass: "alignCenter" },
+															{ mData: 'pengarang', sClass: "alignCenter" } ,
+															{ mData: 'sinopsis', sClass: "alignCenter" },
+															{ mData: 'action' }
+												]
+											});
+										});
+									</script> -->
 									<table id="table_id">
 										<thead>
 											<tr>
-												<th width="5%" style="text-align: center;">No</th>
-												<th width="30%" style="text-align: center;">Judul Peraturan</th>
-												<th width="10%" style="text-align: center;">Dikeluarkan Tahun</th>
-												<th width="44%" style="text-align: center;">Deskripsi</th>
-												<th width='11%' style="text-align: center;">Aksi</th>
+												<th style="text-align: center" width="4%">No</th>
+												<th style="text-align: center" width="16%">Judul Buku</th>
+												<th style="text-align: center" width="11%">Penerbit</th>
+												<th style="text-align: center" width="13%">Pengarang</th>
+												<th style="text-align: center" width="42%">Sinopsis</th>
 											</tr>
 										</thead>
 										<tbody>
 											<?php
-											$no = 1;
-											foreach($uu as $value){
+											$no=1;
+											foreach($data_buku as $content)
+											{
+												foreach ($content as $key => $value ) {
+												$$key=$value;
+											}
 											?>
-											<tr>
-												<td class='text-center'><?= $no++; ?></td>
-												<td><?= $value->judul_uu; ?></td>
-												<td class='text-center' style="text-align: center;"><?= $value->tahun_terbit; ?></td>
-												<td><?php echo substr($value->ringkasan,0,100);
-												$jumlah_kata = strlen($value->ringkasan);
-												if($jumlah_kata>100){
-													echo "<a href='".site_url('Uu/baca/'.$value->id)."'>[read more]</a>";
-												}
-												else{
-													echo "";
-												}
-												?></td>
+											<tr class="gradeX">
+												<td style="text-align: center"><?= $no++."."; ?></td>
+												<td><?php echo $nama_buku; ?></td>
+												<td><?php echo $penerbit; ?></td>
 												<td>
-													<!-- <a href="<?php echo site_url('Uu/download_uu/'.$value->id)?>" class='badge badge-primary'><i class='ion-android-download'></i> Unduh</a>  -->
-													<a href="<?php echo site_url('Uu/baca/'.$value->id)?>" class='badge badge-success'><i class='ion-eye'></i> Lihat</a>
-													<!-- <a href='#!' class='badge badge-danger'><i class='ion-trash-b'></i> Delete</a> -->
+												<?php
+												$author = explode(',',$penulis);
+												$jumlah = count($author);
+												for ($i=0; $i < $jumlah; $i++) {
+													$where['id'] = $author[$i];
+													$variable = $this->User_model->getSelectedData('author',$where);
+													foreach ($variable as $key => $value) {
+														echo $value->nama;
+													}
+													echo ", ";
+												}
+												?>
+												</td>
+												<td>
+													<?php echo substr($sinopsis,0,100);
+													// $jumlah = strlen($sinopsis);
+													// if($jumlah>100){
+													// 	echo "...... <a href='".site_url('Buku/detail/'.$id_buku)."'>[read more]</a>";
+													// }
+													// else{
+													// 	echo "";
+													// }
+													?>
+													<span class="more"><?= $sinopsis; ?></span>
 												</td>
 											</tr>
-											<?php } ?>
-											<!-- <tr>
-												<td class='text-center'>2</td>
-												<td>Lorem ipsum dolor sit amet consectetur adipisicing elit. </td>
-												<td class='text-center'>2011</td>
-												<td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ducimus itaque odit at obcaecati facilis consequuntur officiis neque quam optio eveniet ipsam excepturi esse, sint alias saepe! Atque, optio tempora!</td>
-												<td>
-													<a href='#!' class='badge badge-primary'><i class='ion-android-open'></i> Ubah</a>
-													<a href='#!' class='badge badge-success'><i class='ion-eye'></i> Lihat</a>
-													<a href='#!' class='badge badge-danger'><i class='ion-trash-b'></i> Delete</a>
-												</td>
-											</tr> -->
-											<!-- <tr>
-												<td class='text-center'>3</td>
-												<td>Lorem ipsum dolor sit amet consectetur adipisicing elit. </td>
-												<td class='text-center'>2011</td>
-												<td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ducimus itaque odit at obcaecati facilis consequuntur officiis neque quam optio eveniet ipsam excepturi esse, sint alias saepe! Atque, optio tempora!</td>
-												<td>
-													<a href='#!' class='badge badge-primary'><i class='ion-android-open'></i> Ubah</a>
-													<a href='#!' class='badge badge-success'><i class='ion-eye'></i> Lihat</a>
-													<a href='#!' class='badge badge-danger'><i class='ion-trash-b'></i> Delete</a>
-												</td>
-											</tr>
-											<tr>
-												<td class='text-center'>4</td>
-												<td>Lorem ipsum dolor sit amet consectetur adipisicing elit. </td>
-												<td class='text-center'>2011</td>
-												<td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero ducimus itaque odit at obcaecati facilis consequuntur officiis neque quam optio eveniet ipsam excepturi esse, sint alias saepe! Atque, optio tempora!</td>
-												<td>
-													<a href='#!' class='badge badge-primary'><i class='ion-android-open'></i> Ubah</a>
-													<a href='#!' class='badge badge-success'><i class='ion-eye'></i> Lihat</a>
-													<a href='#!' class='badge badge-danger'><i class='ion-trash-b'></i> Delete</a>
-												</td>
-											</tr> -->
+											<?php
+												}
+											?>
 										</tbody>
 									</table>
+									<script>
+										// $(document).ready(function() {
+										// 	var showChar = 100;
+										// 	var ellipsestext = "...";
+										// 	var moretext = "[Show more]";
+										// 	var lesstext = "[Show less]";
+
+										// 	$('.more').each(function() {
+										// 		var content = $(this).html();
+										// 		if(content.length > showChar) {
+										// 			var c = content.substr(0, showChar);
+										// 			var h = content.substr(showChar, content.length - showChar);
+										// 			var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>' + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+										// 			$(this).html(html);
+										// 		}
+										// 	});
+
+										// 	$(".morelink").click(function(){
+										// 		if($(this).hasClass("less")) {
+										// 			$(this).removeClass("less");
+										// 			$(this).html(moretext);
+										// 		} else {
+										// 			$(this).addClass("less");
+										// 			$(this).html(lesstext);
+										// 		}
+										// 		$(this).parent().prev().toggle();
+										// 		$(this).prev().toggle();
+										// 		return false;
+										// 	});
+										// });
+									</script>
 								</div>
 
 							</div>
@@ -206,7 +253,7 @@
 								<div class='u-pull-left'>
 									<div class='result-total'>
 										<label>Total : </label>
-										<?= number_format(count($jumlah)); ?> Data
+										<?= number_format(count($data_buku)); ?> Data
 									</div>
 								</div>
 							</div>
@@ -296,6 +343,7 @@
 			}
 		</script>
 		<!-- Full Bg End -->
+		<!-- <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script> -->
 		<script src="<?=base_url('assets3/js/jquery-3.2.1.min.js');?>"></script>
 		<script src="<?=base_url('assets3/js/jquery-ui.min.js');?>"></script>
 		<script src="<?=base_url('assets3/js/select2.min.js');?>"></script>
@@ -306,12 +354,12 @@
 		<script>
 			$(function () {
 				$("#table_id").DataTable({
-				"paging": true,
-				"lengthChange": false,
-				"searching": false,
-				"ordering": true,
-				"info": false,
-				"autoWidth": true
+					"paging": true,
+					"lengthChange": false,
+					"searching": false,
+					"ordering": true,
+					"info": false,
+					"autoWidth": true
 				});
 			});
 		</script>
