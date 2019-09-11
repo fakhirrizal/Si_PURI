@@ -27,7 +27,8 @@
 						<nav class='nav-top'>
 						<div class='u-pull-left'>
 							<div id='nav-title'>
-								<img src="<?=base_url('assets3/images/logo_pustaka_old.jpg');?>" class='image-white' alt='Pustaka'/>
+								<img src="<?=base_url('assets3/images/logo_pustaka.png');?>" alt='Si-PURI | Pustaka'/>
+								<!-- <img src="<?=base_url('assets3/images/logo_pustaka_old.jpg');?>" class='image-white' alt='Si-PURI | Pustaka'/> -->
 							</div>
 						</div>
 						<div class='u-pull-right'>
@@ -237,11 +238,22 @@
 										<tr>
 										<td> Stok </td>
 										<td> : </td>
-										<td><?php echo $row->stok; ?> pcs. <br>Silahkan hubungi petugas perpustakaan jika Anda ingin meminjam buku ini.</td>
+										<td><?php echo $row->stok; ?> pcs.
+										<!-- <br>Silahkan hubungi petugas perpustakaan jika Anda ingin meminjam buku ini. -->
+										</td>
 										</tr>
 										<?php } ?>
 										</tbody>
 										</table>
+										<div class="btn-group">
+											<button onclick="window.location.href='https://api.whatsapp.com/send?phone=6287719954097&text=Isi%20pesan'" id="sample_editable_1_new" class="btn sbold red" style='background:#DCDCDC;'> Tanya Admin
+												<i class="fa fa-trash"></i>
+											</button>
+											<span class="separator">|</span>
+											<button onclick="window.location.href='<?=base_url('Perpustakaan/ajukan_peminjaman/'.$this->uri->segment(3));?>'" id="sample_editable_1_new" class="btn sbold red" style='background:#DCDCDC;'> Ajukan Peminjaman
+												<i class="fa fa-trash"></i>
+											</button>
+										</div>
 								</div>
 								<?php }} ?>
 							</div>
@@ -264,7 +276,7 @@
 						<div id='footer-image'>
 							<img alt='Footer Logo' src="<?=base_url('assets3/images/logo_alpha_2.png');?>"/>
 						</div>
-						Copyright &copy; 2017 | Si-PURI
+						Copyright &copy; 2019 | Si-PURI
 					</div>
 					<a href='<?= base_url(); ?>' class='footer-logo'>
 							<img src="<?=base_url('assets3/images/logo_puri.png');?>"/>

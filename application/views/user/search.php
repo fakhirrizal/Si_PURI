@@ -13,6 +13,8 @@
 		<link rel="stylesheet" href="<?=base_url('assets3/css/global.css');?>" />
 		<link rel="stylesheet" href="<?=base_url('assets3/css/media.css');?>" media="screen"/>
 		<link rel="shortcut icon" href="<?=base_url()?>assets/images/logo.ico">
+		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/dataTables.bootstrap4.min.css">
 		<script type="text/javascript">
 			// $(function() {
 			//  $('#loading').ajaxStart(function(){
@@ -53,7 +55,8 @@
 					<nav class='nav-top'>
 						<div class='u-pull-left'>
 							<div id='nav-title'>
-								<img src="<?=base_url('assets3/images/logo_pustaka_old.jpg');?>" class='image-white' alt='Pustaka'/>
+								<img src="<?=base_url('assets3/images/logo_pustaka.png');?>" alt='Si-PURI | Pustaka'/>
+								<!-- <img src="<?=base_url('assets3/images/logo_pustaka_old.jpg');?>" class='image-white' alt='Si-PURI | Pustaka'/> -->
 							</div>
 						</div>
 						<div class='u-pull-right'>
@@ -147,6 +150,128 @@
 									</script>
 								</div>
 							</div>
+							<div id='home-result' class='home-result-4a'>
+								<div class='table-result'>
+									<!-- <table id="table_id">
+										<thead>
+											<tr>
+												<th style="text-align: center;" width="4%"> # </th>
+												<th style="text-align: center;"> Judul Buku </th>
+												<th style="text-align: center;"> Penerbit </th>
+												<th style="text-align: center;"> Pengarang </th>
+												<th style="text-align: center;"> Sinopsis </th>
+												<th style="text-align: center;" width="7%"> Aksi </th>
+											</tr>
+										</thead>
+									</table>
+									<script type="text/javascript" language="javascript" >
+										$(document).ready(function(){
+											$('#table_id').dataTable({
+												"order": [[ 0, "asc" ]],
+												"bProcessing": true,
+												"ajax" : {
+													url:"<?= site_url('Perpustakaan/json_buku'); ?>"
+												},
+												"aoColumns": [
+															{ mData: 'number', sClass: "alignCenter" },
+															{ mData: 'judul_buku', sClass: "alignCenter" },
+															{ mData: 'penerbit', sClass: "alignCenter" },
+															{ mData: 'pengarang', sClass: "alignCenter" } ,
+															{ mData: 'sinopsis', sClass: "alignCenter" },
+															{ mData: 'action' }
+												]
+											});
+										});
+									</script> -->
+									<table id="table_id">
+										<thead>
+											<tr>
+												<th style="text-align: center" width="4%">No</th>
+												<th style="text-align: center" width="16%">Judul Buku</th>
+												<th style="text-align: center" width="11%">Penerbit</th>
+												<th style="text-align: center" width="13%">Pengarang</th>
+												<th style="text-align: center" width="42%">Sinopsis</th>
+											</tr>
+										</thead>
+										<tbody>
+											<?php
+											$no=1;
+											foreach($data_buku as $content)
+											{
+												foreach ($content as $key => $value ) {
+												$$key=$value;
+											}
+											?>
+											<tr class="gradeX">
+												<td style="text-align: center"><?= $no++."."; ?></td>
+												<td><?php echo $nama_buku; ?></td>
+												<td><?php echo $penerbit; ?></td>
+												<td>
+												<?php
+												$author = explode(',',$penulis);
+												$jumlah = count($author);
+												for ($i=0; $i < $jumlah; $i++) {
+													$where['id'] = $author[$i];
+													$variable = $this->User_model->getSelectedData('author',$where);
+													foreach ($variable as $key => $value) {
+														echo $value->nama;
+													}
+													echo ", ";
+												}
+												?>
+												</td>
+												<td>
+													<?php echo substr($sinopsis,0,100);
+													// $jumlah = strlen($sinopsis);
+													// if($jumlah>100){
+													// 	echo "...... <a href='".site_url('Buku/detail/'.$id_buku)."'>[read more]</a>";
+													// }
+													// else{
+													// 	echo "";
+													// }
+													?>
+													<span class="more"><?= $sinopsis; ?></span>
+												</td>
+											</tr>
+											<?php
+												}
+											?>
+										</tbody>
+									</table>
+									<script>
+										// $(document).ready(function() {
+										// 	var showChar = 100;
+										// 	var ellipsestext = "...";
+										// 	var moretext = "[Show more]";
+										// 	var lesstext = "[Show less]";
+
+										// 	$('.more').each(function() {
+										// 		var content = $(this).html();
+										// 		if(content.length > showChar) {
+										// 			var c = content.substr(0, showChar);
+										// 			var h = content.substr(showChar, content.length - showChar);
+										// 			var html = c + '<span class="moreellipses">' + ellipsestext+ '&nbsp;</span><span class="morecontent"><span>' + h + '</span>&nbsp;&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
+										// 			$(this).html(html);
+										// 		}
+										// 	});
+
+										// 	$(".morelink").click(function(){
+										// 		if($(this).hasClass("less")) {
+										// 			$(this).removeClass("less");
+										// 			$(this).html(moretext);
+										// 		} else {
+										// 			$(this).addClass("less");
+										// 			$(this).html(lesstext);
+										// 		}
+										// 		$(this).parent().prev().toggle();
+										// 		$(this).prev().toggle();
+										// 		return false;
+										// 	});
+										// });
+									</script>
+								</div>
+
+							</div>
 						</div>
 					</div>
 				</div>
@@ -155,7 +280,7 @@
 				<footer>
 					<div class='container'>
 						<div class='u-pull-left'>
-							Copyright &copy; 2017 | Si-PURI
+							Copyright &copy; 2019 | Si-PURI
 						</div>
 						<a href='<?= base_url(); ?>' class='footer-logo'>
 							<img src="<?=base_url('assets3/images/logo_puri.png');?>"/>
@@ -235,5 +360,20 @@
 		<script src="<?=base_url('assets3/js/global.js');?>"></script>
 		<script src="<?=base_url('assets3/js/jquery-ui.min.js');?>"></script>
 		<script src="<?=base_url('assets3/js/select2.min.js');?>"></script>
+		<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+		<script type="text/javascript" src="https://cdn.datatables.net/1.10.16/js/dataTables.bootstrap4.min.js"></script>
+		<script>
+			$(function () {
+				$("#table_id").DataTable({
+					"paging": true,
+					"lengthChange": false,
+					"searching": false,
+					"ordering": true,
+					"info": false,
+					"autoWidth": true
+				});
+			});
+		</script>
 	</body>
 </html>

@@ -99,7 +99,7 @@
 
             <!-- /menu footer buttons -->
             <div class="sidebar-footer hidden-small" style="text-align: center;">
-              Copyright &copy; 2017 | Si-PURI
+              Copyright &copy; 2019 | Si-PURI
             </div>
             <!-- /menu footer buttons -->
           </div>

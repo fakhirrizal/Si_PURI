@@ -51,7 +51,8 @@
                 <nav class='nav-top'>
                     <div class='u-pull-left'>
                         <div id='nav-title'>
-                            <img src="<?=base_url('assets3/images/logo_risalah.png');?>" class='image-white' alt='Pustaka'/>
+                            <img src="<?=base_url('assets3/images/logo_risalah.png');?>" alt='Si-PURI | Risalah'/>
+                            <!-- <img src="<?=base_url('assets3/images/logo_risalah.png');?>" class='image-white' alt='Si-PURI | Risalah'/> -->
                         </div>
                     </div>
                     <div class='u-pull-right'>
@@ -111,7 +112,7 @@
                             <div id='alpha-search'>
                                 <!-- <a href='2c.html'>A</a> -->
                                 <script>
-                                    for(i=2013; i<=2017; i++){
+                                    for(i=2013; i<=2019; i++){
                                         document.write("<a href='<?= site_url(); ?>Risalah/pencarian/"+i+"'>"+i+"</a>");
                                     }
                                 </script>
@@ -228,7 +229,7 @@
             <footer>
                 <div class='container'>
                     <div class='u-pull-left'>
-                        Copyright &copy; 2017 | Si-PURI
+                        Copyright &copy; 2019 | Si-PURI
                     </div>
                     <a href='<?= base_url(); ?>' class='footer-logo'>
                         <img src="<?=base_url('assets3/images/logo_puri.png');?>"/>

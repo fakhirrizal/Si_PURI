@@ -18,16 +18,39 @@
 		<link href="<?=base_url('assets2/global/css/plugins.min.css');?>" rel="stylesheet" type="text/css" />
 		<link href="<?=base_url('assets2/pages/css/login-4.min.css');?>" rel="stylesheet" type="text/css" />
 		<link rel="shortcut icon" href="<?=base_url()?>assets/images/logo.ico">
+		<style>
+		.page-bg {
+			background-image: url("https://asset.kompas.com/crop/0x0:0x0/780x390/data/photo/2011/04/02/1028333620X310.jpg");
+			-webkit-filter: blur(99px);
+			-moz-filter: blur(99px);
+			-o-filter: blur(99px);
+			-ms-filter: blur(99px);
+			filter: blur(99px);
+			position: fixed;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			z-index: -1;
+
+		}    	
+		</style>
 	</head>
 
 	<body class=" login">
-		<div class="logo">
-			<a href="#">
-			<!--     <img src="<?=base_url('assets2/pages/img/logo-big.png');?>" alt="" /> </a> -->
-				<img src="<?=base_url('assets3/images/logo_risalah.png');?>" width="134" alt='Risalah'/>
-			</a>
-		</div>
+		<div class="page-bg"></div>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
 		<div class="content">
+			<div style="text-align: center">
+				<a href="#">
+				<!--     <img src="<?=base_url('assets2/pages/img/logo-big.png');?>" alt="" /> </a> -->
+					<img src="<?=base_url('assets3/images/logo_risalah.png');?>" width="100" alt='Si-PURI | Risalah'/>
+				</a>
+			</div>
 			<form class="login-form" action="<?php echo site_url('Risalah/masuk'); ?>" method="post">
 				<div>
 					<h5><?= $this->session->flashdata('error') ?></h5>
@@ -79,7 +102,7 @@
 				</div>
 			</form>
 		</div>
-		<div class="copyright"> 2017 &copy; Si-PURI | by Metronic. </div>
+		<div class="copyright"> 2019 &copy; Si-PURI | by Metronic. </div>
 		<script src="<?=base_url('assets2/global/plugins/jquery.min.js');?>" type="text/javascript"></script>
 		<script src="<?=base_url('assets2/global/plugins/bootstrap/js/bootstrap.min.js');?>" type="text/javascript"></script>
 		<script src="<?=base_url('assets2/global/plugins/js.cookie.min.js');?>" type="text/javascript"></script>

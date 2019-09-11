@@ -60,12 +60,13 @@
 					                        ?>
 					                       
 					            </td> 
-				                <td style="text-align: center"><?= date('d-m-Y', strtotime($row->tanggal_acara)) ?></td>
+				                <!-- <td style="text-align: center"><?= date('d-m-Y', strtotime($row->tanggal_acara)) ?></td> -->
+								<td style="text-align: center"><?= $this->Main_model->convert_tanggal($row->tanggal_acara); ?></td>
 				                <td style="text-align: center;">
 				                			<a class="btn btn-circle btn-icon-only green" href="<?php echo site_url('Risalah/detail/'.$row->id_risalah)?>" title="lihat data">
 				                                <i class="icon-eye"></i>
 				                            </a>
-					                        <a class="btn btn-circle btn-icon-only green" href="<?php echo site_url('Risalah/ubah/'.$row->id_risalah)?>" title="ubah data">
+					                        <a class="btn btn-circle btn-icon-only yellow" href="<?php echo site_url('Risalah/ubah/'.$row->id_risalah)?>" title="ubah data">
 				                                <i class="icon-wrench"></i>
 				                            </a>
 				                            <a class="btn btn-circle btn-icon-only red" href="<?php echo site_url('Risalah/hapus/'.$row->id_risalah)?>" title="hapus data" onclick="return confirm('Anda yakin?')">

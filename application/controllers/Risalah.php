@@ -261,6 +261,7 @@ class Risalah extends CI_Controller {
 		$data['active'] = 'daftar';
 		$id['id_risalah'] = $this->uri->segment(3);
 		$data['data_risalah'] = $this->User_model->getSelectedData('risalah',$id);
+		$data['gambar'] = $this->Risalah_model->getGambar($this->uri->segment(3));
 		$this->load->view('template2/header',$data);
 		$this->load->view('Risalah/edit_risalah',$data);
 		$this->load->view('template2/footer');
@@ -276,8 +277,38 @@ class Risalah extends CI_Controller {
 			'tanggal_revisi' => date('Y-m-d H:i:s'),
 		);
 		$this->User_model->updateData("risalah",$data,$where);
-		$this->session->set_flashdata('sukses','<div class="alert alert-info"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Yuk cek! </strong>ada risalah yang diubah.<br /></div>' ); 
+		$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Yuk cek! </strong>ada risalah yang diubah.<br /></div>' ); 
 		echo "<script>window.location='".base_url()."Risalah/detail/".$this->input->post('id')."/'</script>";
+	}
+	public function tambah_foto_kegiatan(){
+		$namafile = "file_".time();
+		$config['upload_path'] = dirname($_SERVER["SCRIPT_FILENAME"]).'/assets2/uploads/foto_kegiatan/'; // path folder
+		$config['allowed_types'] = 'gif|jpg|png|jpeg|bmp'; // type yang dapat diakses bisa anda sesuaikan
+		$config['max_size'] = '8192'; // maksimum besar file 10M
+		$config['max_width']  = '5000'; // lebar maksimum 5000 px
+		$config['max_height']  = '5000'; // tinggi maksimu 5000 px
+		$config['file_name'] = $namafile; // nama yang terupload nantinya
+		$this->upload->initialize($config);
+		if($_FILES['foto']['name'])
+		{
+			if(!$this->upload->do_upload('foto'))
+			{
+				$a = $this->upload->display_errors();
+				$this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Oops! </strong>gagal mengubah foto kegiatan. Mohon coba lagi :)<br /></div>' ); 
+				echo "<script>window.location='".base_url()."Risalah/detail/".$this->input->post('id_risalah')."/'</script>";
+			}
+
+			else{
+				$data = array(
+					'id_risalah' => $this->input->post('id_risalah'),
+					'nama_file' => $this->upload->data('file_name'),
+					'keterangan' => 'foto'
+				);
+				$this->User_model->tambahdata('file_risalah',$data);
+				$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Okay! </strong>berhasil menambahkan foto kegiatan.<br /></div>' ); 
+				echo "<script>window.location='".base_url()."Risalah/detail/".$this->input->post('id_risalah')."/'</script>";
+			}
+		}
 	}
 	public function ubah_foto_kegiatan(){
 		$namafile = "file_".time();
@@ -308,10 +339,16 @@ class Risalah extends CI_Controller {
 				//     'waktu' => date('Y-m-d H-i-s')
 				// );
 				// $this->User_model->tambahdata('log_activity',$data2);
-				$this->session->set_flashdata('sukses','<div class="alert alert-info"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ahay! </strong>berhasil mengubah foto kegiatan, silahkan cek!<br /></div>' ); 
+				$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ahay! </strong>berhasil mengubah foto kegiatan, silahkan cek!<br /></div>' ); 
 				echo "<script>window.location='".base_url()."Risalah/detail/".$this->input->post('id_risalah')."/'</script>";
 			}
 		}
+	}
+	public function hapus_foto_kegiatan(){
+		$id_risalah = $this->uri->segment(3);
+		$this->User_model->deleteData('file_risalah',array('id'=>$this->uri->segment(4)));
+		$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Okay! </strong>Foto risalah telah dihapus.<br /></div>' );
+		echo "<script>window.location='".base_url()."Risalah/detail/".$id_risalah."'</script>";
 	}
 	public function ubah_dokumen(){
 		$namafile = "file_".time();
@@ -340,7 +377,7 @@ class Risalah extends CI_Controller {
 				//     'waktu' => date('Y-m-d H-i-s')
 				// );
 				// $this->User_model->tambahdata('log_activity',$data2);
-				$this->session->set_flashdata('sukses','<div class="alert alert-info"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ahay! </strong>berhasil mengubah file dokumen, silahkan cek!<br /></div>' ); 
+				$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ahay! </strong>berhasil mengubah file dokumen, silahkan cek!<br /></div>' ); 
 				echo "<script>window.location='".base_url()."Risalah/detail/".$this->input->post('id_risalah')."/'</script>";
 			}
 		}
@@ -371,7 +408,7 @@ class Risalah extends CI_Controller {
 				//     'waktu' => date('Y-m-d H-i-s')
 				// );
 				// $this->User_model->tambahdata('log_activity',$data2);
-				$this->session->set_flashdata('sukses','<div class="alert alert-info"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ahay! </strong>berhasil mengubah file audio, silahkan cek!<br /></div>' ); 
+				$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ahay! </strong>berhasil mengubah file audio, silahkan cek!<br /></div>' ); 
 				echo "<script>window.location='".base_url()."Risalah/detail/".$this->input->post('id_risalah')."/'</script>";
 			}
 		}
@@ -385,7 +422,7 @@ class Risalah extends CI_Controller {
 		// 	'waktu' => date('Y-m-d H-i-s')
 		// );
 		// $this->User_model->tambahdata('log_activity',$data2);
-		$this->session->set_flashdata('sukses','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Hmm! </strong>Data risalah telah dihapus.<br /></div>' );
+		$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Hmm! </strong>Data risalah telah dihapus.<br /></div>' );
 		echo "<script>window.location='".base_url()."Risalah/daftar_risalah'</script>";
 	}
 	public function user_guide()
@@ -566,7 +603,7 @@ class Risalah extends CI_Controller {
 			echo "<script>window.location='".site_url()."Risalah/ganti_sandi'</script>";
 		}
 		else{
-			$this->session->set_flashdata('gagal','<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ups! </strong>Password yang Anda masukkan tidak valid.<br /></div>' );
+			$this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ups! </strong>Password yang Anda masukkan tidak valid.<br /></div>' );
 			echo "<script>window.location='".site_url()."Risalah/ganti_sandi'</script>";
 			// redirect('Risalah/ganti_sandi');
 		}
@@ -598,13 +635,13 @@ class Risalah extends CI_Controller {
 				echo "<script>window.location='".site_url()."Risalah/ganti_email'</script>";
 			}
 			else{
-				$this->session->set_flashdata('gagal','<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ups! </strong>Email yang Anda masukkan sudah digunakan.<br /></div>' );
+				$this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ups! </strong>Email yang Anda masukkan sudah digunakan.<br /></div>' );
 				// redirect('Risalah/ganti_email');
 				echo "<script>window.location='".site_url()."Risalah/ganti_email'</script>";
 			}
 		}
 		else{
-			$this->session->set_flashdata('gagal','<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ups! </strong>Password yang Anda masukkan tidak valid.<br /></div>' );
+			$this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Ups! </strong>Password yang Anda masukkan tidak valid.<br /></div>' );
 			// redirect('Risalah/ganti_email');
 			echo "<script>window.location='".site_url()."Risalah/ganti_email'</script>";
 		}

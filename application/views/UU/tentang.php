@@ -23,9 +23,9 @@
                   <div class="x_content">
 
                     <div class="col-md-7 col-sm-7 col-xs-12">
-                      <div class="product-image">
-                     
-                        <img src="<?=base_url('assets3/images/logo_uu.jpg');?>" alt='Perundangan'/>
+                      <!-- <div class="product-image" > -->
+                      <div style='text-align: center'>
+                        <img src="<?=base_url('assets3/images/logo_uu.png');?>" width='50%' alt='Si-PURI | Perundangan'/>
                       </div>
                       
                     </div>

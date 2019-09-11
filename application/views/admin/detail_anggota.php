@@ -46,7 +46,8 @@
 
                 <td> : </td>
 
-                <td><?php echo $row->tempat_lahir.", ".date('d-m-Y', strtotime($row->tanggal_lahir)); ?></td> 
+                <!-- <td><?php echo $row->tempat_lahir.", ".date('d-m-Y', strtotime($row->tanggal_lahir)); ?></td> -->
+                <td><?php echo $row->tempat_lahir.", ".$this->Main_model->convert_tanggal($row->tanggal_lahir); ?></td> 
 
                 </tr>  
 

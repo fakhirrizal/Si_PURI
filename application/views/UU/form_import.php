@@ -200,7 +200,7 @@
 			
 			// Buat sebuah tombol untuk mengimport data ke database
 			echo "<button type='submit' name='import' class='buttonFinish buttonDisabled btn btn-default'>Import</button>";
-			echo "<a href='".base_url("Uu/import_file")."'>Cancel</a>";
+			echo "<a href='".base_url("Uu/import_file")."'>Batal</a>";
 		
 		
 		echo "</form>";

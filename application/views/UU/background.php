@@ -42,8 +42,8 @@
                               <input type="hidden" name="id" value="6">
                             </div>
                           								<div class="form-actions noborder">
-                                                            <button type="submit" class="btn blue">Submit</button>
-                                                            <button type="button" class="btn default">Cancel</button>
+                                                            <button type="submit" class="btn blue">Simpan</button>
+                                                            <button type="button" class="btn default">Batal</button>
                                                         </div>
                           </div>
                           

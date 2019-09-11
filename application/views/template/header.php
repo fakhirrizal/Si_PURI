@@ -15,12 +15,13 @@ else{
 		<meta name="description" content="overview &amp; stats" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
 		<link rel="shortcut icon" href="<?=base_url()?>assets/images/logo.ico">
+		<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 		<!-- bootstrap & fontawesome -->
 		<link rel="stylesheet" href="<?=base_url('assets/css/bootstrap.css');?>" type="text/css" />
 		<link rel="stylesheet" href="<?=base_url('assets/css/font-awesome.css');?>" type="text/css" />
 		<!-- page specific plugin styles -->
 		<link href="<?=base_url('assets2/global/plugins/datatables/plugins/bootstrap/datatables.bootstrap.css');?>" rel="stylesheet" type="text/css" />
-        <link href="<?=base_url('assets2/global/plugins/datatables/datatables.min.css');?>" rel="stylesheet" type="text/css" />
+		<link href="<?=base_url('assets2/global/plugins/datatables/datatables.min.css');?>" rel="stylesheet" type="text/css" />
 		<!-- text fonts -->
 		<link rel="stylesheet" href="<?=base_url('assets/css/ace-fonts.css');?>" />
 		<!-- ace styles -->
@@ -84,7 +85,79 @@ else{
 				<!-- #section:basics/navbar.dropdown -->
 				<div class="navbar-buttons navbar-header pull-right" role="navigation">
 					<ul class="nav ace-nav">
+						<li class="light-blue">
+							<?php
+							$get_jumlah_notif = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*', array("a.status" => '0'),'a.created_date DESC','','','a.id_anggota,a.id_buku')->result();
+							?>
+							<a data-toggle="dropdown" class="dropdown-toggle" href="#">
+								<i class="ace-icon fa fa-bell icon-animated-bell"></i>
+								<?php
+								if($get_jumlah_notif==NULL){
+									echo'';
+								}else{
+									echo'<span class="badge badge-important">'.count($get_jumlah_notif).'</span>';
+								}
+								?>
+							</a>
+							<?php
+							if($get_jumlah_notif==NULL){
+								echo'';
+							}else{
+							?>
+							<ul class="dropdown-menu-right dropdown-navbar navbar-pink dropdown-menu dropdown-caret dropdown-close">
+								<li class="dropdown-header">
+									<i class="ace-icon fa fa-exclamation-triangle"></i>
+									<?php
+									if($get_jumlah_notif==NULL){
+										echo'0 Pemberitahuan';
+									}else{
+										echo count($get_jumlah_notif).' Pemberitahuan';
+									}
+									?>
+								</li>
 
+								<li class="dropdown-content ace-scroll" style="position: relative;"><div class="scroll-track" style="display: none;"><div class="scroll-bar"></div></div><div class="scroll-content" style="max-height: 200px;">
+									<ul class="dropdown-menu dropdown-navbar navbar-pink">
+										<?php
+										$get_orang_request = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*,b.nama', array("a.status" => '0'),'a.created_date DESC','','','a.id_anggota',
+										array(
+											'table' => 'anggota b',
+											'on' => 'a.id_anggota=b.id',
+											'pos' => 'LEFT',
+										))->result();
+										foreach ($get_orang_request as $key => $g) {
+											$get_jumlah = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*', array('a.id_anggota' => $g->id_anggota,"a.status" => '0'),'a.created_date DESC','','','a.id_buku')->result();
+										?>
+										<li>
+											<a class="detaildata" data-toggle="modal" data-target="#detaildata" id="<?= md5($g->id_anggota); ?>">
+												<div class="clearfix">
+													<span class="pull-left">
+														<i class="btn btn-xs btn-primary fa fa-user"></i>
+														<?= $g->nama; ?>
+													</span>
+													<?php
+													if((count($get_jumlah))>1){
+														echo '<span class="pull-right badge badge-info">+'.count($get_jumlah).'</span>';
+													}else{
+														echo'';
+													}
+													?>
+												</div>
+											</a>
+										</li>
+										<?php } ?>
+									</ul>
+								</div></li>
+
+								<li class="dropdown-footer">
+									<a href="#">
+										Lihat semua pemberitahuan
+										<i class="ace-icon fa fa-arrow-right"></i>
+									</a>
+								</li>
+							</ul>
+							<?php } ?>
+						</li>
 						<!-- #section:basics/navbar.user_menu -->
 						<li class="light-blue">
 							<a data-toggle="dropdown" href="#" class="dropdown-toggle">
@@ -102,7 +175,7 @@ else{
 									echo '<img  class="nav-user-photo" src="'.base_url('assets2/pages/img/avatars/kosong.jpeg').'" >';
 								} } ?>
 								<span class="user-info">
-									<small>Welcome,</small>
+									<small>Selamat Datang,</small>
 									<?php echo $this->session->userdata('username'); ?>
 								</span>
 
@@ -120,7 +193,7 @@ else{
 								<li>
 									<a href="<?php echo site_url('Admin/profil'); ?>">
 										<i class="ace-icon fa fa-user"></i>
-										Profile
+										Profil
 									</a>
 								</li>
 
@@ -129,7 +202,7 @@ else{
 								<li>
 									<a href="<?php echo site_url('Admin/logout'); ?>">
 										<i class="ace-icon fa fa-power-off"></i>
-										Logout
+										Keluar
 									</a>
 								</li>
 							</ul>
@@ -172,7 +245,7 @@ else{
 						<button class="btn btn-danger">
 							<i class="ace-icon fa fa-cogs"></i>
 						</button>-->
-						<img class="nav-user-photo" src="<?=base_url('assets/images/download.png');?>"/>
+						<!-- <img class="nav-user-photo" src="<?=base_url('assets/images/download.png');?>"/> -->
 					</div>
 
 					<div class="sidebar-shortcuts-mini" id="sidebar-shortcuts-mini">
@@ -242,7 +315,7 @@ else{
 						<a href="#" class="dropdown-toggle">
 							<i class="menu-icon fa fa-user"></i>
 							<span class="menu-text">
-								Author
+								Pengarang
 							</span>
 
 							<b class="arrow fa fa-angle-down"></b>
@@ -254,7 +327,7 @@ else{
 							<li class="">
 								<a href="<?php echo site_url('Author/tambah'); ?>">
 									<i class="menu-icon fa fa-caret-right"></i>
-									Tambah Author
+									Tambah Pengarang
 								</a>
 
 								<b class="arrow"></b>
@@ -263,7 +336,7 @@ else{
 							<li class="">
 								<a href="<?php echo site_url('Author'); ?>">
 									<i class="menu-icon fa fa-caret-right"></i>
-									Daftar Author
+									Daftar Pengarang
 								</a>
 
 								<b class="arrow"></b>
@@ -284,6 +357,15 @@ else{
 						<b class="arrow"></b>
 
 						<ul class="submenu">
+							<li class="">
+								<a href="<?php echo site_url('Peminjaman'); ?>">
+									<i class="menu-icon fa fa-caret-right"></i>
+									Request Peminjaman
+								</a>
+
+								<b class="arrow"></b>
+							</li>
+
 							<li class="">
 								<a href="<?php echo site_url('Peminjaman'); ?>">
 									<i class="menu-icon fa fa-caret-right"></i>
@@ -564,3 +646,39 @@ else{
 							</div><!-- /.ace-settings-box -->
 						</div><!-- /.ace-settings-container -->
 <?php } ?>
+
+
+<div class="modal fade" id="detaildata" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="myModalLabel">Data Detil</h4>
+			</div>
+			<div class="modal-body">
+				<div class="box box-primary" id='formdetaildata' >
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	$(document).ready(function(){
+		$.ajaxSetup({
+			type:"POST",
+			url: "<?php echo site_url(); ?>Perpustakaan/ajax_function",
+			cache: false,
+		});
+		$('.detaildata').click(function(){
+		var id = $(this).attr("id");
+		var modul = 'modul_detail_data_request_peminjaman';
+		$.ajax({
+			data: {id:id,modul:modul},
+			success:function(data){
+			$('#formdetaildata').html(data);
+			$('#detaildata').modal("show");
+			}
+		});
+		});
+	});
+</script>

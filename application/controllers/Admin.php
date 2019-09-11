@@ -177,7 +177,8 @@ class Admin extends CI_Controller {
 			'tanggal_lahir' => $this->input->post('tanggal_lahir'),
 			'jenis_kelamin' => $this->input->post('jenis_kelamin'),
 			'no_hp' => $this->input->post('no_hp'),
-			'alamat' => $this->input->post('alamat')
+			'alamat' => $this->input->post('alamat'),
+			'masa_aktif' => $this->input->post('masa_aktif')
 		);
 		$this->User_model->updateData('anggota',$data,$where);
 		$data2 = array(
@@ -283,7 +284,8 @@ class Admin extends CI_Controller {
 					'password' => $this->input->post("password"),
 					'alamat' => $this->input->post("alamat"),
 					'tanggal_daftar' => date('Y-m-d'),
-					'file_foto' =>$gbr['file_name']
+					'file_foto' =>$gbr['file_name'],
+					'masa_aktif' => $this->input->post('masa_aktif')
 					);
 
 					$res = $this->User_model->tambahdata("anggota",$data); // akses model untuk menyimpan ke database

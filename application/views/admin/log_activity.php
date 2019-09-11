@@ -48,7 +48,8 @@
 					                        $string = explode(' ', $waktu);
 					                        $tanggal = explode('-', $string[0]);
 					                        ?>
-					                        <td><?php echo $tanggal[2]."-".$tanggal[1]."-".$tanggal[0]; ?></td>
+					                        <!-- <td><?php echo $tanggal[2]."-".$tanggal[1]."-".$tanggal[0]; ?></td> -->
+											<td style="text-align: center"><?= $this->Main_model->convert_tanggal($string[0]); ?></td>
 					                        <td><?php echo $string[1]; ?></td>
 					                    </tr>
 						                <?php

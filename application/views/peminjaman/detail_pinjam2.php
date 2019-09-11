@@ -157,7 +157,7 @@
 																	<td class="hidden-xs">
 																		4
 																	</td>
-																	<td>19/10/2017</td>
+																	<td>19/10/2019</td>
 																	<td>Tepat waktu</td>
 																	<td>
 																		<a><i class="fa fa-check"></i></a>
@@ -366,9 +366,9 @@
 				</div>
 				<!-- body modal -->
 				<div class="modal-body" id="detail_peminjaman" >
-					<!--<p>16/01/2017</p>
-					<p>06/11/2017</p>
-					<p>09/09/2017</p>
+					<!--<p>16/01/2019</p>
+					<p>06/11/2019</p>
+					<p>09/09/2019</p>
 					<p>1</p>
 					<p>2</p>
 					<p>5</p>-->

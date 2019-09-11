@@ -31,7 +31,7 @@
                                                     <span class="arrow"> </span>
                                                     <a href="javascript:;" class="name"> Background Pertama </a>
                                                     <!-- <span class="datetime"> at 20:30 </span> -->
-                                                    <span class="body"> Terletak dihalaman pertama sub menu Perundangan, ketika pengguna membuka sub menu Perundangan akan terdapat background yang memenuhi satu layar browser. </span>
+                                                    <span class="body"> Terletak dihalaman pertama sub menu Risalah, ketika pengguna membuka sub menu Risalah akan terdapat background yang memenuhi satu layar browser. </span>
                                                 </div>
                                                 <br>
                                                 <form class="form-horizontal" role="form" action="<?php echo site_url('Risalah/simpan_background'); ?>" method="post" enctype='multipart/form-data'>
@@ -41,16 +41,16 @@
                                                         <div class="fileinput-preview fileinput-exists thumbnail" style="max-width: 200px; max-height: 150px;"> </div>
                                                         <div>
                                                             <span class="btn default btn-file">
-                                                                <span class="fileinput-new"> Select image </span>
-                                                                <span class="fileinput-exists"> Change </span>
+                                                                <span class="fileinput-new"> Pilih gambar </span>
+                                                                <span class="fileinput-exists"> Ubah </span>
                                                                 <input type="file" name="foto" multiple="" accept="image/*"> </span>
                                                                 <input type="hidden" name="id" value="3">
-                                                            <a href="javascript:;" class="btn red fileinput-exists" data-dismiss="fileinput"> Remove </a>
+                                                            <a href="javascript:;" class="btn red fileinput-exists" data-dismiss="fileinput"> Hapus </a>
                                                         </div>
                                                         <br>
                                                         <div class="form-actions noborder">
-                                                            <button type="submit" class="btn blue">Submit</button>
-                                                            <button type="button" class="btn default">Cancel</button>
+                                                            <button type="submit" class="btn blue">Simpan</button>
+                                                            <button type="button" class="btn default">Batal</button>
                                                         </div>
                                                 </div>
                                                 </form>

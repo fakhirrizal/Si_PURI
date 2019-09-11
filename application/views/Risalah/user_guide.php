@@ -11,7 +11,7 @@
 				<tbody>
 					<tr>
 						<td style="text-align: center;">
-							<img src="<?=base_url('assets3/images/logo_risalah.png');?>" width='150' alt='Risalah'/>
+							<img src="<?=base_url('assets3/images/logo_risalah.png');?>" width='150' alt='Si-PURI | Risalah'/>
 							<!-- <h3>Sistem Informasi Risalah</h3> -->
 							<p style="text-align: justify;"> Di menu ini pengguna (dalam hal ini Administrator) dihadapkan dengan form input untuk menambahkan data risalah baru, semua kolom yang tersedia wajib diisi. Untuk mengarsipkan dokumen terkait antara lain file audio file dokumen dan file foto harus dilihat berapa besar file sehingga dapat masuk ke sistem, itu dikarenakan keterbatasan kapasitas dari sistem yang ada. </p>
 						</td>

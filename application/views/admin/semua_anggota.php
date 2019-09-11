@@ -42,7 +42,9 @@
 					                        <td><?php echo $nama; ?></td>
 					                        <td><?php echo $no_anggota; ?></td>
 					                        <td><?php echo $alamat; ?></td>
-					                        <td><?php echo date('d-m-Y', strtotime($gabungan[0])); ?></td> 
+					                        <!-- <td><?php echo date('d-m-Y', strtotime($gabungan[0])); ?></td>  -->
+											<td style="text-align: center"><?= $this->Main_model->convert_tanggal($gabungan[0]); ?></td>
+											
 					                        <!--<td><?php echo $dapil1; ?>, <?php echo $dapil2; ?></td>--> 
 					                        <td style="text-align: center">
 					                        <a href="<?php echo site_url('Admin/detail/'.$id)?>" class="btn btn-mini" title="detail"><i class="fa fa-eye"></i></a>                                          

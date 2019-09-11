@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="ie=edge">
-		<title>Si-PUIR | Form Masuk</title>
+		<title>Si-PURI | Form Masuk</title>
 		<link rel="stylesheet" href="<?=base_url('assets3/css/ionicons.min.css');?>" />
 		<link rel="stylesheet" href="<?=base_url('assets3/css/normalize.css');?>" />
 		<link rel="stylesheet" href="<?=base_url('assets3/css/skeleton.css');?>" />
@@ -27,7 +27,8 @@
 							<div class='row'>
 								<div class='three columns'>
 									<div id='nav-title'>
-										<img src="<?=base_url('assets3/images/logo_pustaka_old.jpg');?>" class='image-white' alt='Pustaka'/>
+										<img src="<?=base_url('assets3/images/logo_pustaka.png');?>" alt='Si-PURI | Pustaka'/>
+										<!-- <img src="<?=base_url('assets3/images/logo_pustaka_old.jpg');?>" class='image-white' alt='Si-PURI | Pustaka'/> -->
 									</div>
 								</div>
 								<div class='six columns'>
@@ -87,7 +88,7 @@
 						<div id='footer-image'>
 							<img alt='Footer Logo' src="<?=base_url('assets3/images/logo_alpha_2.png');?>"/>
 						</div>
-						Copyright &copy; 2017 | Si-PURI
+						Copyright &copy; 2019 | Si-PURI
 					</div>
 					<a href='<?= base_url(); ?>' class='footer-logo'>
 							<img src="<?=base_url('assets3/images/logo_puri.png');?>"/>

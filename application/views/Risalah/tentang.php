@@ -1,5 +1,5 @@
 <div style='text-align:center'>
-	<br><img src="<?=base_url('assets3/images/logo_risalah.png');?>" width='150' alt='Risalah'/>
+	<br><img src="<?=base_url('assets3/images/logo_risalah.png');?>" width='150' alt='Si-PURI | Risalah'/>
 </div>
 <div class="invoice-content-2 bordered">
 	<br>

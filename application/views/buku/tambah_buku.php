@@ -818,7 +818,7 @@
 						<span class="bigger-120">
 							Perpustakaan
 							<span class="blue bolder">Online</span>
-							&copy; 2017
+							&copy; 2019
 						</span>
 
 						&nbsp; &nbsp;

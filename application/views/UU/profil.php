@@ -117,8 +117,8 @@
                                                            
                                                             
                                                             <div class="form-actions">
-                                                                <button type="submit" class="btn green"> Save Changes </button>
-                                                                <button type="reset" class="btn default"> Reset </button>
+                                                                <button type="submit" class="btn green"> Simpan </button>
+                                                                <button type="reset" class="btn default"> Batal </button>
                                                             </div>
                                                         </form>
                                                     </div>
@@ -156,8 +156,8 @@
                                                               <br>
                                                               <div class="form-group">
                                                                 <div class="col-md-12 col-sm-12 col-xs-12">
-                                                                  <button type="submit" class="btn green">Submit</button>
-                                                                  <button type="reset" class="btn default">Reset</button>
+                                                                  <button type="submit" class="btn green">Simpan</button>
+                                                                  <button type="reset" class="btn default">Batal</button>
                                                                   
                                                                 </div>
                                                               </div>

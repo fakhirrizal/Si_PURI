@@ -34,7 +34,8 @@
                         <div class='row'>
                             <div class='three columns'>
                                 <div id='nav-title'>
-                                    <img src="<?=base_url('assets3/images/logo_pustaka.jpg');?>" class='image-white' alt='Pustaka'/>
+                                    <img src="<?=base_url('assets3/images/logo_pustaka.png');?>" alt='Si-PURI | Pustaka'/>
+                                    <!-- <img src="<?=base_url('assets3/images/logo_pustaka.jpg');?>" class='image-white' alt='Si-PURI | Pustaka'/> -->
                                 </div>
                             </div>
                             <div class='six columns'>
@@ -95,7 +96,7 @@
                     <div id='footer-image'>
                         <img alt='Footer Logo' src="<?=base_url('assets3/images/logo_alpha_2.png');?>"/>
                     </div>
-                    Copyright &copy; 2017 | Si-PURI
+                    Copyright &copy; 2019 | Si-PURI
                 </div>
                 <a href='<?= base_url(); ?>' class='footer-logo'>
                         <img src="<?=base_url('assets3/images/logo_puri.png');?>"/>

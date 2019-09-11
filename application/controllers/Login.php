@@ -19,9 +19,9 @@ class Login extends CI_Controller {
 		} else {
 			$usr = $this->input->post('email');
 			$psw = $this->input->post('password');
-			$u = mysql_real_escape_string($usr);
-			$p = mysql_real_escape_string($psw);
-			$cek = $this->User_model->cek($u, $p);
+			// $u = mysql_real_escape_string($usr);
+			// $p = mysql_real_escape_string($psw);
+			$cek = $this->User_model->cek($usr, $psw);
 			if ($cek->num_rows() > 0) {
 				// login berhasil, buat session
 				foreach ($cek->result() as $qad) {
