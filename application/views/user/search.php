@@ -82,6 +82,7 @@
 									<i class='ion-ios-arrow-down'></i>
 								</div>
 								<ul class='nav-account-menus'>
+									<li><a href='<?php echo site_url('Pengguna/notifikasi'); ?>'><i class='ion-ios-bell'></i> Notifikasi</a></li>
 									<li><a href='<?php echo site_url('Pengguna/profil'); ?>'><i class='ion-person'></i> Profil</a></li>
 									<li><a href='<?php echo site_url('Pengguna/email'); ?>'><i class='ion-email'></i> Email</a></li>
 									<li><a href='<?php echo site_url('Pengguna/password'); ?>'><i class='ion-locked'></i> Kata Sandi</a></li>

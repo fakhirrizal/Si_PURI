@@ -10,6 +10,24 @@ class Pengguna extends CI_Controller {
 	{
 		$this->load->view('halaman_awal');
 	}
+	public function notifikasi(){
+		$data['peminjaman'] = $this->Main_model->getSelectedData('request_peminjaman a', 'a.*,b.nama_buku,bb.nama,bbb.jawaban,bbb.catatan', array('a.id_anggota'=>$this->session->userdata('id_pengguna')),'a.status ASC,a.created_date DESC','','','',array(
+			array(
+				'table' => 'buku b',
+				'on' => 'a.id_buku=b.id_buku',
+				'pos' => 'LEFT'
+			),array(
+				'table' => 'anggota bb',
+				'on' => 'a.id_anggota=bb.id',
+				'pos' => 'LEFT'
+			),array(
+				'table' => 'jawaban_request_peminjaman bbb',
+				'on' => 'a.id_request_peminjaman=bbb.id_request_peminjaman',
+				'pos' => 'LEFT'
+			)
+		))->result();
+		$this->load->view('user/notifikasi',$data);
+	}
 	public function cek_email(){
 		$where['email'] = $this->input->post('email');
 		$cek = $this->User_model->getSelectedData('anggota',$where);

@@ -9,8 +9,11 @@
 		<link rel="stylesheet" href="<?=base_url('assets3/css/normalize.css');?>" />
 		<link rel="stylesheet" href="<?=base_url('assets3/css/skeleton.css');?>" />
 		<link rel="stylesheet" href="<?=base_url('assets3/css/global.css');?>" />
-		<link rel="stylesheet" href="<?=base_url('assets3/css/media.css');?>" media="screen"/>
-		<link rel="shortcut icon" href="<?=base_url()?>assets/images/logo.ico">
+        <link rel="stylesheet" href="<?=base_url('assets3/css/media.css');?>" media="screen"/>
+        <link rel="stylesheet" type="text/css" media="screen" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+        <link rel="shortcut icon" href="<?=base_url()?>assets/images/logo.ico">
 	</head>
 	<body onload="tampilkanwaktu();setInterval('tampilkanwaktu()', 1000);">
 
@@ -20,7 +23,7 @@
 		-->
 		<div id='small-content'>
 			<!-- Header Top Start -->
-			<header class='header-top' style='background-image: url("<?=base_url()?>assets3/images/3725.jpg")'>
+			<header class='header-top' style='background-image: url("<?=base_url()?>assets3/images/resize-img.jpg")'>
 				<div class='header-inner'>
 					<div class='container'>
 						<!-- Nav Top Start -->
@@ -37,7 +40,7 @@
 							</div> -->
 							<div id='nav-account'>
 								<div class='prof'>
-									<?php
+								<?php
 									$where = array(
 									'id' => $this->session->userdata('id_pengguna')
 									);
@@ -75,7 +78,7 @@
 						<!-- Nav Top End -->
 						<!-- Page Title Start -->
 						<div id='page-title'>
-							<h2>Hasil Pencarian</h2>
+							<h2>Daftar Notifikasi</h2>
 						</div>
 						<!-- Page Title End -->
 					</div>
@@ -88,63 +91,63 @@
 					<!-- Result Wrapper Start -->
 					<div id='result-wrapper'>
 
-						<div class='result-text'>
-							<label>Hasil Pencarian : </label>
-						</div>
-
 						<div class='rowz'>
-							<?php
-							foreach ($buku as $key => $value) {
-							?>
-							<div class='four-columns'>
-								<a class='result-box' href='<?php echo site_url('Perpustakaan/baca_buku/'.$value->id_buku)?>'>
-									<div id='result-image-wrapper'>
-										<?php
-										if(is_null($value->gambar)){
-										echo "<div class='result-image' style='background-image: url(".base_url('assets/uploads/noimage.jpg').")'></div>";
-										}
-										else{ ?>
-										<div class='result-image' style='background-image: url("<?=base_url()?>assets/uploads/<?=$value->gambar;?>")'></div>
-										<?php }
-										?>
-									</div>
-									<div class='result-detail'>
-										<h3><?= $value->nama_buku; ?></h3>
-										<div class='result-description' style="text-align: justify;">
-											<?php echo substr($value->sinopsis,0,147);
-											$jumlah = strlen($value->sinopsis);
-											if($jumlah>147){
-											echo "......";
-											}
-											else{
-											echo "";
-											}
-											?>
-										</div>
-										<div class='result-read'>
-											Baca
-										</div>
-									</div>
-								</a>
-							</div>
-							<?php } ?>
 						</div>
 
 						<!-- End Result Detail Start -->
 						<div id='result-info'>
-								<div class='u-pull-left'>
-									<div class='result-total'>
-										<label>Total : </label>
-										<?= count($buku); ?> entries
-									</div>
-								</div>
-								<div class='u-pull-right'>
-									<div class='pagination'>
-										<?php
-										echo $this->pagination->create_links();
-										?>
-									</div>
-								</div>
+                            <table class="table table-bordered table-striped" id="myTable">
+                                <thead>
+                                    <tr>
+                                        <th style="text-align: center" width='4%'>No</th>
+                                        <th style="text-align: center">Buku</th>
+                                        <th style="text-align: center">Tanggal Request</th>
+                                        <th style="text-align: center">Ketersediaan</th>
+                                        <th style="text-align: center">Catatan</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <?php
+                                    $no=1;
+                                    foreach($peminjaman as $content)
+                                    {
+                                        foreach ($content as $key => $value ) {
+                                        $$key=$value;
+                                    }
+                                    $gettanggal = explode(' ',$created_date);
+                                    ?>
+                                    <tr class="gradeX">
+                                        <td style="text-align: center"><?= $no++."."; ?></td>
+                                        <td><?php echo $nama_buku; ?></td>
+                                        <td style="text-align: center"><?php echo $this->Main_model->convert_tanggal($gettanggal[0]); ?></td>
+                                        <td style="text-align: center"><?php
+                                        if($jawaban=='0'){
+                                            echo'Tidak Tersedia';
+                                        }elseif($jawaban=='1'){
+                                            echo'Tersedia';
+                                        }else{
+                                            echo'Belum ada tanggapan dari Admin';
+                                        }
+                                        ?></td>
+                                        <td style="text-align: center"><?php echo $catatan; ?></td>
+                                    </tr>
+                                    <?php
+                                        }
+                                    ?>
+                                </tbody>
+                            </table>
+                            <script>
+                                $(function () {
+                                    $("#myTable").DataTable({
+                                        "paging": true,
+                                        "lengthChange": false,
+                                        "searching": true,
+                                        "ordering": true,
+                                        "info": true,
+                                        "autoWidth": false
+                                    });
+                                });
+                            </script>
 						</div>
 						<!-- End Result Detail End -->
 
@@ -161,7 +164,7 @@
 				<div class='container'>
 					<div class='u-pull-left'>
 						<div id='footer-image'>
-						<img alt='Footer Logo' src="<?=base_url('assets3/images/logo_alpha_2.png');?>"/>
+							<img alt='Footer Logo' src="<?=base_url('assets3/images/logo_alpha_2.png');?>"/>
 						</div>
 						Copyright &copy; 2019 | Si-PURI
 					</div>
@@ -229,16 +232,16 @@
 		</div>
 		<!-- Content End -->
 		<script type="text/javascript">
-			function tampilkanwaktu(){         //fungsi ini akan dipanggil di bodyOnLoad dieksekusi tiap 1000ms = 1detik
-			var waktu = new Date();            //membuat object date berdasarkan waktu saat
-			var sh = waktu.getHours() + "";    //memunculkan nilai jam, //tambahan script + "" supaya variable sh bertipe string sehingga bisa dihitung panjangnya : sh.length    //ambil nilai menit
-			var sm = waktu.getMinutes() + "";  //memunculkan nilai detik
-			var ss = waktu.getSeconds() + "";  //memunculkan jam:menit:detik dengan menambahkan angka 0 jika angkanya cuma satu digit (0-9)
-			document.getElementById("clock").innerHTML = (sh.length==1?"0"+sh:sh) + ":" + (sm.length==1?"0"+sm:sm) + ":" + (ss.length==1?"0"+ss:ss);
-			}
+		function tampilkanwaktu(){         //fungsi ini akan dipanggil di bodyOnLoad dieksekusi tiap 1000ms = 1detik
+		var waktu = new Date();            //membuat object date berdasarkan waktu saat
+		var sh = waktu.getHours() + "";    //memunculkan nilai jam, //tambahan script + "" supaya variable sh bertipe string sehingga bisa dihitung panjangnya : sh.length    //ambil nilai menit
+		var sm = waktu.getMinutes() + "";  //memunculkan nilai detik
+		var ss = waktu.getSeconds() + "";  //memunculkan jam:menit:detik dengan menambahkan angka 0 jika angkanya cuma satu digit (0-9)
+		document.getElementById("clock").innerHTML = (sh.length==1?"0"+sh:sh) + ":" + (sm.length==1?"0"+sm:sm) + ":" + (ss.length==1?"0"+ss:ss);
+		}
 		</script>
 
-		<script src="<?=base_url('assets3/js/jquery-3.2.1.min.js');?>"></script>
+		<!-- <script src="<?=base_url('assets3/js/jquery-3.2.1.min.js');?>"></script> -->
 		<script src="<?=base_url('assets3/js/global.js');?>"></script>
 	</body>
 </html>

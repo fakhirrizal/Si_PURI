@@ -214,27 +214,49 @@ class Peminjaman extends CI_Controller {
 	}
 	public function tanggapan_request_peminjaman(){
 		$this->db->trans_start();
-		$data_insert = array(
-			'id_request_peminjaman' => $this->input->post('id_request_peminjaman'),
-			'jawaban' => $this->input->post('ketersediaan'),
-			'catatan' => $this->input->post('catatan'),
-			'created_date' => date('Y-m-d H:i:s')
-		);
-		$this->User_model->tambahdata('jawaban_request_peminjaman',$data_insert);
-		$this->Main_model->updateData('request_peminjaman',array('status'=>'1'),array('id_request_peminjaman'=>$this->input->post('id_request_peminjaman')));
-		$data2 = array(
-			'keterangan' => 'Admin menanggapi request peminjaman dengan nomor '.$this->input->post('id_request_peminjaman'),
-			'waktu' => date('Y-m-d H-i-s')
-		);
-		$this->User_model->tambahdata('log_activity',$data2);
-		$this->db->trans_complete();
-		if($this->db->trans_status() === false){
-			echo "<script>alert('Data gagal disimpan!')</script>";
-			echo "<script>window.location='".base_url()."perpustakaan/request_peminjaman'</script>";
-		}
-		else{
-			echo "<script>alert('Data berhasil disimpan!')</script>";
-			echo "<script>window.location='".base_url()."perpustakaan/request_peminjaman'</script>";
+		if($this->input->post('id_jawaban_request_peminjaman')==NULL){
+			$data_insert = array(
+				'id_request_peminjaman' => $this->input->post('id_request_peminjaman'),
+				'jawaban' => $this->input->post('ketersediaan'),
+				'catatan' => $this->input->post('catatan'),
+				'created_date' => date('Y-m-d H:i:s')
+			);
+			$this->User_model->tambahdata('jawaban_request_peminjaman',$data_insert);
+			$this->Main_model->updateData('request_peminjaman',array('status'=>'1'),array('id_request_peminjaman'=>$this->input->post('id_request_peminjaman')));
+			$data2 = array(
+				'keterangan' => 'Admin menanggapi request peminjaman dengan nomor '.$this->input->post('id_request_peminjaman'),
+				'waktu' => date('Y-m-d H-i-s')
+			);
+			$this->User_model->tambahdata('log_activity',$data2);
+			$this->db->trans_complete();
+			if($this->db->trans_status() === false){
+				$this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Oops! </strong>data gagal disimpan.<br /></div>' );
+				echo "<script>window.location='".base_url()."perpustakaan/request_peminjaman'</script>";
+			}
+			else{
+				$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Yeah! </strong>data telah berhasil disimpan.<br /></div>' );
+				echo "<script>window.location='".base_url()."perpustakaan/request_peminjaman'</script>";
+			}
+		}else{
+			$data_ubah = array(
+				'jawaban' => $this->input->post('ketersediaan'),
+				'catatan' => $this->input->post('catatan')
+			);
+			$this->Main_model->updateData('jawaban_request_peminjaman',$data_ubah,array('id_jawaban_request_peminjaman'=>$this->input->post('id_jawaban_request_peminjaman')));
+			$data2 = array(
+				'keterangan' => 'Admin mengubah tanggapan request peminjaman dengan nomor '.$this->input->post('id_request_peminjaman'),
+				'waktu' => date('Y-m-d H-i-s')
+			);
+			$this->User_model->tambahdata('log_activity',$data2);
+			$this->db->trans_complete();
+			if($this->db->trans_status() === false){
+				$this->session->set_flashdata('gagal','<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Oops! </strong>data gagal diubah.<br /></div>' );
+				echo "<script>window.location='".base_url()."perpustakaan/request_peminjaman'</script>";
+			}
+			else{
+				$this->session->set_flashdata('sukses','<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert"><i class="ace-icon fa fa-times"></i></button><strong></i>Yeah! </strong>data telah berhasil diubah.<br /></div>' );
+				echo "<script>window.location='".base_url()."perpustakaan/request_peminjaman'</script>";
+			}
 		}
 	}
 	public function pinjam_buku(){

@@ -371,72 +371,157 @@ class Perpustakaan extends CI_Controller {
 			';
 		}elseif($this->input->post('modul')=='modul_tanggapan_request_peminjaman'){
 			$id = $this->input->post('id');
-			$get_data = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*,b.nama_buku,bb.nama', array('md5(a.id_request_peminjaman)' => $id,"a.status" => '0'),'a.created_date DESC','','','a.id_buku',array(
-				array(
-					'table' => 'buku b',
-					'on' => 'a.id_buku=b.id_buku',
-					'pos' => 'LEFT'
-				),array(
-					'table' => 'anggota bb',
-					'on' => 'a.id_anggota=bb.id',
-					'pos' => 'LEFT'
-				)
-			))->row();
-			echo'
-			<form class="form-horizontal" role="form" action="'.site_url('perpustakaan/tanggapan_request_peminjaman').'" method="post">
-				<input type="hidden" name="id_request_peminjaman" value="'.$get_data->id_request_peminjaman.'">
-				<h4>Nama Anggota</h5>
-
-				<div class="input-group">
-					<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-					<input type="text" class="col-xs-10 col-sm-12" value="'.$get_data->nama.'" readonly>
-				</div>
-
-				<h4>Buku</h5>
-
-				<div class="input-group">
-					<span class="input-group-addon"><i class="fa fa-book"></i></span>
-					<input type="text" class="col-xs-10 col-sm-12" value="'.$get_data->nama_buku.'" readonly>
-				</div>
-
-				<h4>Status Ketersediaan</h5>
-
-				<div class="row">
-					<div class="col-xs-10 col-sm-12">
+			$check = $this->Main_model->getSelectedData('jawaban_request_peminjaman  a', 'a.*', array('md5(a.id_request_peminjaman)' => $id))->row();
+			if($check==NULL){
+				$get_data = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*,b.nama_buku,bb.nama', array('md5(a.id_request_peminjaman)' => $id,"a.status" => '0'),'a.created_date DESC','','','a.id_buku',array(
+					array(
+						'table' => 'buku b',
+						'on' => 'a.id_buku=b.id_buku',
+						'pos' => 'LEFT'
+					),array(
+						'table' => 'anggota bb',
+						'on' => 'a.id_anggota=bb.id',
+						'pos' => 'LEFT'
+					)
+				))->row();
+				echo'
+				<form class="form-horizontal" role="form" action="'.site_url('perpustakaan/tanggapan_request_peminjaman').'" method="post">
+					<input type="hidden" name="id_jawaban_request_peminjaman" value="">
+					<input type="hidden" name="id_request_peminjaman" value="'.$get_data->id_request_peminjaman.'">
+					<h4>Nama Anggota</h5>
+	
 					<div class="input-group">
-					<span class="input-group-addon"><i class="fa fa-warning"></i></span>
-					<select class="form-control" name="ketersediaan" required>
-						<option value="">--Pilih--</option>
-						<option value="1">Ada</option>
-						<option value="0">Tidak Ada</option>
-					</select>
+						<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+						<input type="text" class="col-xs-10 col-sm-12" value="'.$get_data->nama.'" readonly>
 					</div>
+	
+					<h4>Buku</h5>
+	
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-book"></i></span>
+						<input type="text" class="col-xs-10 col-sm-12" value="'.$get_data->nama_buku.'" readonly>
 					</div>
-				</div>
-
-				<h4>Catatan</h5>
-
-				<div class="input-group">
-					<span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
-					<textarea name="catatan" class="col-xs-10 col-sm-12"></textarea>
-				</div>
-
-				<div class="clearfix form-actions">
-					<div class="col-md-offset-4 col-md-12">
-						<button class="btn btn-white btn-default btn-round" type="submit" id="submit">
-							<i class="ace-icon fa fa-check-square-o"></i>
-							Simpan
-						</button>
-
-						&nbsp; &nbsp; &nbsp;
-						<button class="btn btn-white btn-default btn-round" type="reset">
-							<i class="ace-icon fa fa-undo"></i>
-							Hapus
-						</button>
+	
+					<h4>Status Ketersediaan</h5>
+	
+					<div class="row">
+						<div class="col-xs-10 col-sm-12">
+						<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-warning"></i></span>
+						<select class="form-control" name="ketersediaan" required>
+							<option value="">--Pilih--</option>
+							<option value="1">Ada</option>
+							<option value="0">Tidak Ada</option>
+						</select>
+						</div>
+						</div>
 					</div>
-				</div>
-			</form>
-			';
+	
+					<h4>Catatan</h5>
+	
+					<div class="input-group">
+						<span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
+						<textarea name="catatan" class="col-xs-10 col-sm-12"></textarea>
+					</div>
+	
+					<div class="clearfix form-actions">
+						<div class="col-md-offset-4 col-md-12">
+							<button class="btn btn-white btn-default btn-round" type="submit" id="submit">
+								<i class="ace-icon fa fa-check-square-o"></i>
+								Simpan
+							</button>
+	
+							&nbsp; &nbsp; &nbsp;
+							<button class="btn btn-white btn-default btn-round" type="reset">
+								<i class="ace-icon fa fa-undo"></i>
+								Hapus
+							</button>
+						</div>
+					</div>
+				</form>
+				';
+			}else{
+				$get_data = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*,b.nama_buku,bb.nama,bbb.*', array('md5(a.id_request_peminjaman)' => $id),'a.created_date DESC','','','a.id_buku',array(
+					array(
+						'table' => 'buku b',
+						'on' => 'a.id_buku=b.id_buku',
+						'pos' => 'LEFT'
+					),array(
+						'table' => 'anggota bb',
+						'on' => 'a.id_anggota=bb.id',
+						'pos' => 'LEFT'
+					),array(
+						'table' => 'jawaban_request_peminjaman bbb',
+						'on' => 'a.id_request_peminjaman=bbb.id_request_peminjaman',
+						'pos' => 'LEFT'
+					)
+				))->row();
+				echo'
+				<form class="form-horizontal" role="form" action="'.site_url('perpustakaan/tanggapan_request_peminjaman').'" method="post">
+					<input type="hidden" name="id_jawaban_request_peminjaman" value="'.$get_data->id_jawaban_request_peminjaman.'">
+					<input type="hidden" name="id_request_peminjaman" value="'.$get_data->id_request_peminjaman.'">
+					<h4>Nama Anggota</h5>
+	
+					<div class="input-group">
+						<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+						<input type="text" class="col-xs-10 col-sm-12" value="'.$get_data->nama.'" readonly>
+					</div>
+	
+					<h4>Buku</h5>
+	
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-book"></i></span>
+						<input type="text" class="col-xs-10 col-sm-12" value="'.$get_data->nama_buku.'" readonly>
+					</div>
+	
+					<h4>Status Ketersediaan</h5>
+	
+					<div class="row">
+						<div class="col-xs-10 col-sm-12">
+						<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-warning"></i></span>
+						<select class="form-control" name="ketersediaan" required>
+							<option value="">--Pilih--</option>';
+							if($get_data->jawaban=='0'){
+								echo'
+								<option value="1">Ada</option>
+								<option value="0" selected>Tidak Ada</option>
+								';
+							}else{
+								echo'
+								<option value="1" selected>Ada</option>
+								<option value="0">Tidak Ada</option>
+								';
+							}
+						echo'</select>
+						</div>
+						</div>
+					</div>
+	
+					<h4>Catatan</h5>
+	
+					<div class="input-group">
+						<span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
+						<textarea name="catatan" class="col-xs-10 col-sm-12">'.$get_data->catatan.'</textarea>
+					</div>
+	
+					<div class="clearfix form-actions">
+						<div class="col-md-offset-4 col-md-12">
+							<button class="btn btn-white btn-default btn-round" type="submit" id="submit">
+								<i class="ace-icon fa fa-check-square-o"></i>
+								Simpan
+							</button>
+	
+							&nbsp; &nbsp; &nbsp;
+							<button class="btn btn-white btn-default btn-round" type="reset">
+								<i class="ace-icon fa fa-undo"></i>
+								Hapus
+							</button>
+						</div>
+					</div>
+				</form>
+				';
+			}
 		}
 	}
 }

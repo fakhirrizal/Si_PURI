@@ -1,13 +1,15 @@
 -- phpMyAdmin SQL Dump
--- version 4.5.1
--- http://www.phpmyadmin.net
+-- version 4.8.5
+-- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
--- Generation Time: 31 Jul 2019 pada 18.51
--- Versi Server: 10.1.19-MariaDB
--- PHP Version: 5.6.28
+-- Host: localhost:3306
+-- Waktu pembuatan: 26 Sep 2019 pada 22.40
+-- Versi server: 5.7.27
+-- Versi PHP: 7.2.7
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
 SET time_zone = "+00:00";
 
 
@@ -17,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `si_puri`
+-- Database: `dprdsetw_sipuri`
 --
 
 -- --------------------------------------------------------
@@ -40,76 +42,77 @@ CREATE TABLE `anggota` (
   `alamat` varchar(200) NOT NULL,
   `file_foto` varchar(50) NOT NULL,
   `tanggal_daftar` date NOT NULL,
-  `status_cetak` int(1) NOT NULL DEFAULT '1'
+  `status_cetak` int(1) NOT NULL DEFAULT '1',
+  `masa_aktif` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data untuk tabel `anggota`
 --
 
-INSERT INTO `anggota` (`id`, `nama`, `no_anggota`, `instansi`, `email`, `password`, `no_hp`, `tempat_lahir`, `tanggal_lahir`, `jenis_kelamin`, `alamat`, `file_foto`, `tanggal_daftar`, `status_cetak`) VALUES
-(1, 'aziz', '00001', '', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-10', 1),
-(2, 'H. Meidiana Kuswara, A.Md', '00002', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', 'fakhir_rizal@hotmail.com', 'perpus', '085696303627', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(3, 'Swasti Aswagati, S.', '00003', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(4, 'Suharto Masri', '00004', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(5, 'Fajar Rinawan S, SH', '00005', 'Anggota Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(6, 'Nungki Sundari, SE', '00006', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(7, 'Trifena Weyatin S.S.Kom', '00007', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(8, 'H. WS. Basuki, SH', '00008', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(9, 'Ir. H. Johan Rifai', '00009', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(10, 'Adiarto Suryo Kusumo, SH, MKn', '00010', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(11, 'Wisnu Pudjonggo, SH', '00011', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(12, 'Linna Aliana, SH', '00012', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(13, 'Mualim, S.Pd, MM', '00013', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(14, 'Hanik Khoiru Solikah', '00014', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(15, 'Syahrul Qirom', '00015', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(16, 'Joko Susilo', '00016', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(17, 'Hj. Hesty Wahyuningsih', '00017', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(18, 'Hermawan Sulis Susnarko, SE', '00018', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(19, 'Danur Rispriyanto', '00019', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(20, 'H. Ari Purbowo', '00020', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(21, 'Hj. Umi Surotud Diniyah, SE', '00021', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(22, 'Nabila', '00022', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(23, 'H. Agung Priyambodo, SE, ST', '00023', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(24, 'Kadar Lusman, SE', '00024', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(25, 'Ir. Wachid Nurmiyanto', '00025', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(26, 'Agus Riyanto Slamet', '00026', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(27, 'R. Yuwanto', '00027', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(28, 'H. Dibyo Sutimah, SH', '00028', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '628122812601', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(29, 'Nunung Sriyanto, SH, MM', '00029', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(30, 'Muhammad Chafid', '00030', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(31, 'Suciati, SKM', '00031', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(32, 'Suharsono, SS, M.Si', '00032', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(33, 'Hasan Bisri', '00033', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(34, 'Erry Sadewo', '00034', 'Anggota Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(35, 'Sodri', '00035', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(36, 'Laser Narindro, ST', '00036', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(37, 'H. Anang Budi Utomo, SPd, SMn, MPd', '00037', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(38, 'HM. Rukiyanto AB, SH', '00038', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(39, 'V. Joko Riyanto', '00039', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(40, 'Dyah Ratna Harimurti, S. Sos', '00040', 'Anggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(41, 'Sugihartini', '00041', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(42, 'Wilujeng Riningrum', '00042', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(43, 'H.Sugihartono, S.Sos I', '00043', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(44, 'Imam Mardjuki, S. Sos', '00044', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(45, 'Syafii', '00045', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(46, 'Sovan Haslim Pradana, SE', '00046', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1),
-(47, 'M.H. Rohaini', '00047', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1),
-(48, 'Fajar Purwoto, SH, MM', '00049', 'Sekeretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1),
-(49, 'Amin Sutresno, SH, MM.', '00050', 'Kepala Bagian Persid dan Risalah Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1),
-(50, 'Irwan S. Harahap, SH.', '00051', 'KA. BAG. Keuangan Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1),
-(51, 'Achmad S. Arifin, S. Sos', '00052', 'KA. BAG. UMUM Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1),
-(52, 'Munjiati,S. Sos, MM.', '00053', 'KA. SUB BAG. Urusan Dalam', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-04-01', 1),
-(53, 'Drs. Rudy Setyawan', '00054', 'KA. SUB BAG. PROG & ANGG. Sekretaris DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1),
-(54, 'Ninik Suwarni', '00056', 'KA. SUB BAG. Perbendaharaan Sekretariat DPRD Kots Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-04-01', 1),
-(55, 'Pulung Brahmantyo, SH, MM', '00057', 'KA. BAG. TU DAN PERLENG. Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1),
-(56, 'I Nengah Gunada , M. Si', '00058', 'KA. SUB BAG. Evaluasi dan Pelaporan Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1),
-(57, 'Pulung', '00059', 'DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-21', 1),
-(58, 'Nur Maulita', '00060', 'KA. BAG. Persidangan', '', 'perpus', '6285641918918', '', '0000-00-00', 'Perempuan', '', '', '2015-05-04', 1),
-(59, 'Riswandha Cahyo Utomo', '00000', 'Sekretariat DPRD Kota Semarang', 'riswandhacahyo@gmail.com', 'perpus', '628117331802', '', '1993-02-18', 'Laki-laki', 'Jalan Sekayu Temenggungan 50132', '', '2015-05-20', 1),
-(60, 'Fraksi PAN', '00061', '', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-06-18', 1),
-(61, 'Joko Purwanto', '00062', 'SETWAN', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2017-01-23', 1),
-(62, 'Rizal', '1994', '', 'bokir.rizal@gmail.com', '1', '', '', '0000-00-00', '', '', '', '0000-00-00', 1);
+INSERT INTO `anggota` (`id`, `nama`, `no_anggota`, `instansi`, `email`, `password`, `no_hp`, `tempat_lahir`, `tanggal_lahir`, `jenis_kelamin`, `alamat`, `file_foto`, `tanggal_daftar`, `status_cetak`, `masa_aktif`) VALUES
+(1, 'Aziz', '00001', '', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-10', 2, '0000-00-00'),
+(2, 'H. Meidiana Kuswara, A.Md', '00002', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', 'fakhir_rizal@hotmail.com', 'perpus', '085696303627', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(3, 'Swasti Aswagati, S.', '00003', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(4, 'Suharto Masri', '00004', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(5, 'Fajar Rinawan S, SH', '00005', 'Anggota Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(6, 'Nungki Sundari, SE', '00006', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(7, 'Trifena Weyatin S.S.Kom', '00007', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(8, 'H. WS. Basuki, SH', '00008', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(9, 'Ir. H. Johan Rifai', '00009', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(10, 'Adiarto Suryo Kusumo, SH, MKn', '00010', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(11, 'Wisnu Pudjonggo, SH', '00011', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(12, 'Linna Aliana, SH', '00012', 'Pimpinan dan Keanggotaan Komisi A DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(13, 'Mualim, S.Pd, MM', '00013', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(14, 'Hanik Khoiru Solikah', '00014', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(15, 'Syahrul Qirom', '00015', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(16, 'Joko Susilo', '00016', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(17, 'Hj. Hesty Wahyuningsih', '00017', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(18, 'Hermawan Sulis Susnarko, SE', '00018', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(19, 'Danur Rispriyanto', '00019', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(20, 'H. Ari Purbowo', '00020', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(21, 'Hj. Umi Surotud Diniyah, SE', '00021', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(22, 'Nabila', '00022', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(23, 'H. Agung Priyambodo, SE, ST', '00023', 'Pimpinan dan Keanggotaan Komisi B DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(24, 'Kadar Lusman, SE', '00024', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(25, 'Ir. Wachid Nurmiyanto', '00025', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(26, 'Agus Riyanto Slamet', '00026', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(27, 'R. Yuwanto', '00027', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(28, 'H. Dibyo Sutimah, SH', '00028', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '628122812601', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(29, 'Nunung Sriyanto, SH, MM', '00029', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(30, 'Muhammad Chafid', '00030', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(31, 'Suciati, SKM', '00031', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(32, 'Suharsono, SS, M.Si', '00032', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(33, 'Hasan Bisri', '00033', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(34, 'Erry Sadewo', '00034', 'Anggota Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(35, 'Sodri', '00035', 'Pimpinan dan Keanggotaan Komisi C DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(36, 'Laser Narindro, ST', '00036', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(37, 'H. Anang Budi Utomo, SPd, SMn, MPd', '00037', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(38, 'HM. Rukiyanto AB, SH', '00038', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(39, 'V. Joko Riyanto', '00039', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(40, 'Dyah Ratna Harimurti, S. Sos', '00040', 'Anggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(41, 'Sugihartini', '00041', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(42, 'Wilujeng Riningrum', '00042', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(43, 'H.Sugihartono, S.Sos I', '00043', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(44, 'Imam Mardjuki, S. Sos', '00044', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(45, 'Syafii', '00045', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(46, 'Sovan Haslim Pradana, SE', '00046', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-03-27', 1, '0000-00-00'),
+(47, 'M.H. Rohaini', '00047', 'Pimpinan dan Keanggotaan Komisi D DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-03-27', 1, '0000-00-00'),
+(48, 'Fajar Purwoto, SH, MM', '00049', 'Sekeretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1, '0000-00-00'),
+(49, 'Amin Sutresno, SH, MM.', '00050', 'Kepala Bagian Persid dan Risalah Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1, '0000-00-00'),
+(50, 'Irwan S. Harahap, SH.', '00051', 'KA. BAG. Keuangan Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1, '0000-00-00'),
+(51, 'Achmad S. Arifin, S. Sos', '00052', 'KA. BAG. UMUM Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1, '0000-00-00'),
+(52, 'Munjiati,S. Sos, MM.', '00053', 'KA. SUB BAG. Urusan Dalam', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-04-01', 1, '0000-00-00'),
+(53, 'Drs. Rudy Setyawan', '00054', 'KA. SUB BAG. PROG & ANGG. Sekretaris DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1, '0000-00-00'),
+(54, 'Ninik Suwarni', '00056', 'KA. SUB BAG. Perbendaharaan Sekretariat DPRD Kots Semarang', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-04-01', 1, '0000-00-00'),
+(55, 'Pulung Brahmantyo, SH, MM', '00057', 'KA. BAG. TU DAN PERLENG. Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1, '0000-00-00'),
+(56, 'I Nengah Gunada , M. Si', '00058', 'KA. SUB BAG. Evaluasi dan Pelaporan Sekretariat DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-01', 1, '0000-00-00'),
+(57, 'Pulung', '00059', 'DPRD Kota Semarang', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2015-04-21', 1, '0000-00-00'),
+(58, 'Nur Maulita', '00060', 'KA. BAG. Persidangan', '', 'perpus', '6285641918918', '', '0000-00-00', 'Perempuan', '', '', '2015-05-04', 1, '0000-00-00'),
+(59, 'Riswandha Cahyo Utomo', '00000', 'Sekretariat DPRD Kota Semarang', 'riswandhacahyo@gmail.com', 'perpus', '628117331802', '', '1993-02-18', 'Laki-laki', 'Jalan Sekayu Temenggungan 50132', '', '2015-05-20', 1, '0000-00-00'),
+(60, 'Fraksi PAN', '00061', '', '', 'perpus', '', '', '0000-00-00', 'Perempuan', '', '', '2015-06-18', 1, '0000-00-00'),
+(61, 'Joko Purwanto', '00062', 'SETWAN', '', 'perpus', '', '', '0000-00-00', 'Laki-laki', '', '', '2017-01-23', 1, '0000-00-00'),
+(62, 'Rizal', '1994', '', 'bokir.rizal@gmail.com', '1', '', '', '0000-00-00', '', '', '', '0000-00-00', 1, '0000-00-00');
 
 -- --------------------------------------------------------
 
@@ -144,7 +147,11 @@ INSERT INTO `author` (`id`, `nama`, `tanggal_lahir`, `asal`, `tipe`) VALUES
 (14, 'Esti Kinasih', '1971-09-09', 'Jakarta', 'p'),
 (15, 'Hilman Hariwijaya', '1970-08-25', 'Jakarta', 'p'),
 (16, 'Agnes Davonar', '1986-10-08', 'Jakarta', 'p'),
-(17, 'Fakhir Rizal', '1999-12-16', 'Batang', 'p');
+(17, 'Fakhir Rizal', '1999-12-16', 'Batang', 'p'),
+(18, 'PIDI JAKARTA', '0000-00-00', '', 'o'),
+(20, 'Kementerian Sekretariat Negara', '0000-00-00', 'Jakarta', 'o'),
+(21, 'Agus Arif Rakhman', '0000-00-00', '', 'p'),
+(22, 'Pitono', '0000-00-00', '', 'p');
 
 -- --------------------------------------------------------
 
@@ -155,7 +162,7 @@ INSERT INTO `author` (`id`, `nama`, `tanggal_lahir`, `asal`, `tipe`) VALUES
 CREATE TABLE `buku` (
   `id` int(10) NOT NULL,
   `id_buku` varchar(14) NOT NULL,
-  `nama_buku` varchar(100) NOT NULL,
+  `nama_buku` text NOT NULL,
   `stok` int(3) DEFAULT NULL,
   `halaman` int(5) NOT NULL,
   `penulis` varchar(100) NOT NULL,
@@ -163,7 +170,7 @@ CREATE TABLE `buku` (
   `tahun_terbit` int(4) NOT NULL,
   `kategori` varchar(5) NOT NULL,
   `sinopsis` text NOT NULL,
-  `call_number` varchar(20) NOT NULL,
+  `call_number` text NOT NULL,
   `barcode` varchar(24) NOT NULL,
   `status` enum('1','0','','') NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -180,7 +187,7 @@ INSERT INTO `buku` (`id`, `id_buku`, `nama_buku`, `stok`, `halaman`, `penulis`, 
 (5, '368', 'Peraturan Walikota Semarang Nomor 51 Tahun 2013 Tentang: Petunjuk Pelaksanaan Retribusi Terminal di ', 1, 10, '', 'barabara', 2013, '348.0', '', '348.02 SET p 2013', '', '1'),
 (6, '1065', 'Undang-undang RI Nomor 31 Tahun 2002 Tentang Partai Politik dan Nomor 12 Tahun 2003 Tentang Pemiliha', 1, 100, '', 'DPR RI', 2003, '347.0', '', '347.03 DEW u 2003', '', '1'),
 (7, '30', 'Peraturan Daerah Kota Semarang Nomor 11 Tahun 2004', 1, 102, '', 'Bagian Umum SETDA Kota Semarang', 2004, '348.0', 'Rencana Detail Tata Ruang Kota(RDTRK) Kota Semarang Bagian Wilayah Kota VI (Kecamatan Tembalang Tahun 2000-2001', '348.01 SET p 2004', '', '1'),
-(8, '997', 'Terjemah Juz''Amma', 1, 104, '', 'Pustaka Amani Jakarta', 2007, '2X1.4', '', '2X1.4 MOH t 2007', '', '1'),
+(8, '997', 'Terjemah Juz\'Amma', 1, 104, '', 'Pustaka Amani Jakarta', 2007, '2X1.4', '', '2X1.4 MOH t 2007', '', '1'),
 (9, '27', 'Peraturan Daerah Kota Semarang Nomor 7 Tahun 2004', 1, 108, '', 'Bagian Umum SETDA Kota Semarang', 2004, '348.0', 'Rencana Detail Tata Ruang Kota(RDTRK) Kota Semarang Bagian Wilayah Kota II (Kecamatan Gajah Mungkur dan Candisari 2000-2001', '348.02 SET p 2004', '', '1'),
 (10, '1037', 'Indonesia dalam Arus Sejarah: Fakta dan Indeks', 1, 109, '', 'PT Ichtiar Baru Van Hoeve', 0, '959.8', '', '959.8 RES i', '', '1'),
 (11, '186', 'Peraturan Walikota Semarang Nomor 28 Tahun 2007', 1, 11, '', 'barabara', 2007, '348.0', 'Pembentukan Organisasi dan Tata Kerja Pelaksana Harian Badan Narkotika Kota Semarang', '348.02 SET p 2007', '', '1'),
@@ -810,7 +817,7 @@ INSERT INTO `buku` (`id`, `id_buku`, `nama_buku`, `stok`, `halaman`, `penulis`, 
 (633, '1008', 'Politik Ketahanan Energi Nasional', 1, 90, '', 'Sekretariat Jenderal Dewan Perwakilan Daerah', 2008, '381.3', '', '381.3 MAX p 2008', '', '1'),
 (634, '507', 'Himpunan Peraturan Perundang-undangan Bidang Kesehatan 1994-1995', 1, 942, '', 'Mitra Info Jakarta', 1995, '344.0', '', '344.04 FRA p 1995', '', '1'),
 (635, '976', 'Putusan Perkara Nomor 072-073/PUU-II/2004', 1, 98, '', 'Sekretariat Jenderal dan Kepaniteraan Mahkamah Konstitusi RI', 2006, '342.0', '', '342.09 SEK p 2006', '', '1'),
-(636, '657', 'Perbankan Syari''ah dan Pedoman Pengelolaan Dana Bergulir', 1, 158, '', 'CV. Duta Nusindo', 2010, '343.0', '', '343.03 ALI p 2010', '', '1'),
+(636, '657', 'Perbankan Syari\'ah dan Pedoman Pengelolaan Dana Bergulir', 1, 158, '', 'CV. Duta Nusindo', 2010, '343.0', '', '343.03 ALI p 2010', '', '1'),
 (637, '497', 'Undang-undang RI Nomor 25 Tahun 1999 Tentang Perimbanagn Keuangan Antara Pemerintah Pusat dan Daerah', 1, 161, '', 'BP. Cipta Jaya', 1999, '343.0', '', '343.03 KAR u 1999', '', '1'),
 (638, '280', 'Empat Undang-Undang Republik Indonesia: Grasi, Surat Utang Negara, Sistem Nasional dan IPTEK.', 1, 164, '', 'Panca Usaha', 2002, '', '', '348.02 NUR e 2002', '', '1'),
 (639, '725', 'Peraturan Pemerintah RI Nomor 58 Tahun 2010 Tentang Perubahan Atas Peraturan Pemerintah Nomor 27 Tah', 1, 228, '', 'CV. Novindo Pustaka Mandiri', 2011, '345', '', '345 PER p 2011', '', '1'),
@@ -1142,7 +1149,7 @@ INSERT INTO `buku` (`id`, `id_buku`, `nama_buku`, `stok`, `halaman`, `penulis`, 
 (964, '1048', 'Ensiklopedia Nabi Muhammad SAW Diantara Para Shahabiyah Jilid 4', 1, 272, '', 'PT Lentera Abadi', 2011, '2X9.1', '', '2X9.1 ZAI e 2011', '', '1'),
 (965, '1046', 'Ensiklopedia Nabi Muhammad SAW Dianugerahi Mukjizat Jilid 10', 1, 278, '', 'PT Lentera Abadi', 2011, '2X9.1', '', '2X9.1 ZAI e 2011', '', '1'),
 (966, '1089', 'Pandangan Permasyarakatan Undang-undang Dasar Negara RI Tahun 1945 dan Ketetapan Majelis Permusyawar', 1, 294, '', 'Sekretariat Jenderal MPR RI', 2012, '342.0', '', '342.02 SEK p 2012', '', '1'),
-(967, '1019', 'Kembali Ke AL QUR''AN Menafsir Makna Zaman', 1, 386, '', 'UMM Press', 2004, '2X1.1', '', '2X1.1 MOE k 2004', '', '1'),
+(967, '1019', 'Kembali Ke AL QUR\'AN Menafsir Makna Zaman', 1, 386, '', 'UMM Press', 2004, '2X1.1', '', '2X1.1 MOE k 2004', '', '1'),
 (968, '1068', 'Konsolidasi Tanah Perkotaan Dalam Perspektif Otonomi Daerah', 1, 416, '', 'PT. Alumni', 2004, '343.0', '', '343.07 IDH k 2004', '', '1'),
 (969, '250', 'Tujuh Undang-Undang', 1, 474, '', 'CV. Eko Jaya', 2005, '348.0', '', '348.02 EKO t 2005', '', '1'),
 (970, '301', 'Kumpulan Peraturan Penunjang Pelaksanaan Otonomi Daerah 2003-2004', 1, 128, '', 'Pusat Informasi Data Indonesia', 2004, '348.0', '', '348.02 PUS', '', '1'),
@@ -1320,7 +1327,40 @@ INSERT INTO `buku` (`id`, `id_buku`, `nama_buku`, `stok`, `halaman`, `penulis`, 
 (1141, '100', 'Peraturan Walikota Semarang Nomor 9 Tahun 2005', 1, 0, '', 'Bagian Hukum SETDA Kota Semarang', 2005, '', 'Tata Cara Lelang Sewa Lahan Titik Reklame', '346.04 SET P 2005', '', '1'),
 (1142, 'N-88-001', 'Pergi', NULL, 512, '3', 'Republika Penerbit', 2018, 'N-88', 'Sebuah kisah tentang menemukan tujuan, ke mana hendak pergi, melalui kenangan demi kenangan masa lalu, pertarungan hidup-mati, untuk memutuskan ke mana langkah kaki akan dibawa.', 'N-0001', 'barcode_1564293069.png', '1'),
 (1143, 'N-88-002', 'Burlian', 3, 339, '3', 'Republika Penerbit', 2014, 'N-88', 'Burlian, anak kampung dengan segala keriangan keluarganya. Bercita-cita ingin naik kapal besar keliling dunia.', 'N-0002', 'barcode_1560223366.png', '1'),
-(1144, 'N-88-003', 'Tentang Kamu', 10, 524, '3', 'Republika Penerbit', 2016, 'N-88', 'Terima kasih untuk kesempatan mengenalmu, itu adalah salah satu anugerah terbesar hidupku. Cinta memang tidak perlu ditemukan, cintalah yang akan menemukan kita. Terima kasih. Nasihat lama itu benar sekali, aku tidak akan menangis karena sesuatu telah berakhir, tapi aku akan tersenyum karena sesuatu itu pernah terjadi. Masa lalu. Rasa sakit. Masa depan. Mimpi-mimpi. Semua akan berlalu, seperti sungai yang mengalir. Maka biarlah hidupku mengalir seperti sungai kehidupan. Atas dasar pekerjaan, Zaman Zulkarnaen harus menelusuri hidup seorang kliennya, perempuan pemegang paspor Inggris yang barusan meninggal dan mewariskan harta yang jumlahnya bisa menyaingi kekayaan Ratu Inggris. Tiga negara, lima kota, beribu luka. Hingga akhirnya Zaman mengerti, bahwa ini bukan sekadar perkara mengerti jalan hidup seorang klien, melainkan pengejawantahan prinsip kuat di tengah cobaan yang terus mendera. Tentang Kamu adalah novel terbaru Tere Liye. Sebuah karya yang tak hanya akan membawa pembacanya menyelami sebuah petualangan yang seru dan sarat emosi, tapi juga memberikan nilai positif sehingga membuat hidup serasa lebih patut disyukuri.', 'N-0003', 'barcode_1560220926.png', '1');
+(1144, 'N-88-003', 'Tentang Kamu', 10, 524, '3', 'Republika Penerbit', 2016, 'N-88', 'Terima kasih untuk kesempatan mengenalmu, itu adalah salah satu anugerah terbesar hidupku. Cinta memang tidak perlu ditemukan, cintalah yang akan menemukan kita. Terima kasih. Nasihat lama itu benar sekali, aku tidak akan menangis karena sesuatu telah berakhir, tapi aku akan tersenyum karena sesuatu itu pernah terjadi. Masa lalu. Rasa sakit. Masa depan. Mimpi-mimpi. Semua akan berlalu, seperti sungai yang mengalir. Maka biarlah hidupku mengalir seperti sungai kehidupan. Atas dasar pekerjaan, Zaman Zulkarnaen harus menelusuri hidup seorang kliennya, perempuan pemegang paspor Inggris yang barusan meninggal dan mewariskan harta yang jumlahnya bisa menyaingi kekayaan Ratu Inggris. Tiga negara, lima kota, beribu luka. Hingga akhirnya Zaman mengerti, bahwa ini bukan sekadar perkara mengerti jalan hidup seorang klien, melainkan pengejawantahan prinsip kuat di tengah cobaan yang terus mendera. Tentang Kamu adalah novel terbaru Tere Liye. Sebuah karya yang tak hanya akan membawa pembacanya menyelami sebuah petualangan yang seru dan sarat emosi, tapi juga memberikan nilai positif sehingga membuat hidup serasa lebih patut disyukuri.', 'N-0003', 'barcode_1560220926.png', '1'),
+(1145, '348.5-001', 'Permendagri No 3 Tahun 2019', 1, 71, '18', 'PIDI JAKARTA', 2019, '348.5', 'Permendagri No 3 Tahun 2019 tentang Penyidik PNS Di Lingkungan Pemerintah Daerah', '348.598', 'barcode_1568172789.png', '1'),
+(1146, '348.5-002', 'Permendagri No 4 Tahun 2019', 1, 127, '18', 'PIDI JAKARTA', 2019, '348.5', 'Permendagri No 4 Tahun 2019 tentang Tata Cara Peran Masyarakat Dalam Perencanaan Tata Ruang Daerah', '348.598', 'barcode_1568173309.png', '1'),
+(1147, '348.5-003', 'Permendagri No 11 Tahun 2019', 1, 244, '18', 'PIDI JAKARTA', 2019, '348.5', 'Permendagri No 11 Tahun 2019 tentang Perangkat Daerah yang Melaksanakan Urusan Pemerintah di Bidang Kesatuan Bangsa & Politik', '348.598', 'barcode_1568174418.png', '1'),
+(1148, '348.5-004', 'Permendagri No 1 Tahun 2019', 1, 114, '18', 'PIDI JAKARTA', 2019, '348.5', 'Permendagri No 1 Tahun 2019 tentang Penyusutan Barang Milik Daerah', '348.598', 'barcode_1568174737.png', '1'),
+(1149, '348.5-005', 'Permendagri No 15 Tahun 2019', 1, 103, '18', 'PIDI JAKARTA', 2019, '348.5', 'Permendagri No 15 Tahun 2019 tentang Tata Cara Pelaksanaan Penyesuaian / Impassing PNS Dalam Jabatan Fungsional Pengawas Penyelenggaraan Urusan Pemerintah Di Daerah', '348.598', 'barcode_1568174869.png', '1'),
+(1150, '348.5-006', 'Permendagri No 123 Tahun 2018', 1, 86, '18', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Permendagri No 123 Tahun 2018 tentang Perubahan Keempat Atas Permendagri No 32 Tahun 2011 tentang Pedoman Pemberian Hibah dan Bantuan Sosial yang Bersumber dari APBD', '348.598', 'barcode_1568175059.png', '1'),
+(1151, '348.0-001', 'PP RI No 49 Tahun 2018', 1, 170, '20', 'Kementerian Sekretariat Negara', 2018, '348.0', 'PP RI No 49 Tahun 2018 tentang Manajemen Pegawai Pemerintah dengan Peerjanjian Kerja', '348.598', 'barcode_1568176664.png', '1'),
+(1152, '348.5-007', 'Permendagri No 130 Tahun 2018', 1, 47, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Permendagri No 130 Tahun 2018 tentang Kegiatan Pembangunan Sarana dan Prasarana Kelurahan dan Pemberdayaan Mayarakat di Kelurahan', '348.598', 'barcode_1568176992.png', '1'),
+(1153, '348.0-002', 'PP RI No 38 & 45 Tahun 2017', 1, 88, '20', 'Kementerian Sekretariat Negara', 2017, '348.0', 'PP RI No 38 Tahun 2017 Inovasi Daerah dan PP RI No 45 Tahun 2017 tentang Partisipasi Masyarakat dalam Penyelenggaraan Pemda', '348.598', 'barcode_1568177161.png', '1'),
+(1154, '348.0-003', 'PP RI No 12 Tahun 2018', 1, 122, '20', 'Kementerian Sekretariat Negara', 2018, '348.0', 'PP RI No 12 Tahun 2018 tentang Pedoman Penyusunan Tata Tertib DPRD Provinsi, Kabupaten dan Kota', '348.598', 'barcode_1568177251.png', '1'),
+(1155, '348.5-008', 'Permendagri No 7 Tahun 2018', 1, 366, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Permendagri No 7 Tahun 2018 tentang Pembuatan dan Pelaksanaan Kajian LH Strategis dalam Penyususnan RPJMD', '348.598', 'barcode_1568177369.png', '1'),
+(1156, '348.5-009', 'Permendagri No 79 Tahun 2018', 1, 110, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Permendagri No 79 Tahun 2018 tentang Badan Layanan Umum Daerah', '348.598', 'barcode_1568177467.png', '1'),
+(1157, '348.5-010', 'PP RI No 16 Tahun 2018', 1, 82, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'PP RI No 16 Tahun 2018 tentang Satuan Polisi Pamong Praja', '348.598', 'barcode_1568177575.png', '1'),
+(1158, '348.3-001', 'Perpres No 8 Tahun 2019', 1, 72, '18', 'PIDI JAKARTA', 2019, '348.3', 'Perpres No 8 Tahun 2019 tentang Rencana Induk Pencarian dan Pertolongan Nasional Tahun 2019-2038', '348.598', 'barcode_1568179474.png', '1'),
+(1159, '348.3-002', 'Perpres No 3 Tahun 2019', 1, 105, '20', 'Kementerian Sekretariat Negara', 2018, '348.3', 'Perpres RI No 3 Tahun 2018 tentang Pejabat Sekretaris Daerah', '348.598', 'barcode_1568249173.png', '1'),
+(1160, '348.5-011', 'Permendagri No 52 Tahun 2018', 1, 88, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Permendagri No 52 Tahun 2018 tentang Pemeriksaan Dalam Rangka Berakhirnya Masa Jabatan Kepala Daerah', '348.598', 'barcode_1568249308.png', '1'),
+(1161, '348.0-004', 'PP No 24 Tahun 2019', 1, 67, '18', 'PIDI JAKARTA', 2019, '348.0', 'PP No 24 Tahun 2019 tentang Pemberian Insentif dan Kemudahan Inventasi di Daerah', '348.598', 'barcode_1568249809.png', '1'),
+(1162, '348.3-003', 'Perpres No 95 Tahun 2018', 1, 110, '20', 'Kementerian Sekretariat Negara', 2018, '348.3', 'Perpres No 95 Tahun 2018 tentang Sistem Pemerintahan Berbasis Elektronik', '348.598', 'barcode_1568250578.png', '1'),
+(1163, '348.0-005', 'PP RI No 56 Tahun 2018', 1, 102, '20', 'Kementerian Sekretariat Negara', 2018, '348.0', 'PP RI No 56 Tahun 2018 tentang Pinjaman Daerah', '348.598', 'barcode_1568250669.png', '1'),
+(1164, '348.0-006', 'PP No 34 Tahun 2019', 1, 79, '18', 'PIDI JAKARTA', 2019, '348.0', 'PP No 34 Tahun 2019 tentang Perdagangan Perbatasan', '348.598', 'barcode_1568250796.png', '1'),
+(1165, '348.4-001', 'Permenkes No 4 Tahun 2019', 1, 139, '18', 'PIDI JAKARTA', 2019, '348.4', 'Permenkes No 4 Tahun 2019 tentang Standar Teknis Pemenuhan Mutu Pelayanan Dasar Pada Standar Pelayanan Minimal Bidang Kesehatan', '348.598', 'barcode_1568250993.png', '1'),
+(1167, '342.02-002', 'UU RI No 8 Tahun 2019', 1, 84, '18', 'PIDI JAKARTA', 2019, '342.0', 'UU RI No 8 Tahun 2019 tentang Penyelenggaraan Ibadah Haji dan Umrah', '342.02', 'barcode_1568251454.png', '1'),
+(1168, '348.0-007', 'PP RI No 29 Tahun 2019', 1, 143, '18', 'PIDI JAKARTA', 2019, '348.0', 'PP RI No 29 Tahun 2019 tentang Standar dan Tatacara Penunjukan Wali', '348.598', 'barcode_1568251573.png', '1'),
+(1169, '348.3-004', 'Perpres No 1 Tahun 2019', 1, 58, '18', 'PIDI JAKARTA', 2019, '348.3', 'Perpres No 1 Tahun 2019 tentang Badan Nasional Penanggulangan Bencana', '348.598', 'barcode_1568251821.png', '1'),
+(1170, '348.0-008', 'PP RI No 39 Tahun 2018', 1, 124, '18', 'PIDI JAKARTA', 2019, '348.0', 'PP RI Nomor 39 Tahun 2018 tentang Pelaksanaan UU No 9 Tahun 2010 tentang Keprotokolan', '348.598', 'barcode_1568251965.png', '1'),
+(1171, '348.5-012', 'Permendagri No 35 Tahun 2018', 1, 80, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Permendagri No 35 Tahun 2018 tentang Kebijakan Pengawasan Penyelenggaraan Pemerintah Daerah Tahun 2019', '348.598', 'barcode_1568253777.png', '1'),
+(1172, '342.02-003', 'UU RI No 9 Tahun 2018', 1, 66, '20', 'Kementerian Sekretariat Negara', 2018, '342.0', 'UU RI No 9 Tahun 2018 tentang Penerimaan Negara Bukan Pajak', '342.02', 'barcode_1568253967.png', '1'),
+(1173, '348.0-009', 'PP RI No 28 Tahun 2018', 1, 119, '20', 'Kementerian Sekretariat Negara', 2018, '348.0', 'PP RI No 28 Tahun 2018 tentang Kerjasama Daerah', '348.598', 'barcode_1568254188.png', '1'),
+(1174, '348.5-013', 'Permendagri No 4 Tahun 2019', 1, 76, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Permendagri No 4 Tahun 2019 tentang Pelaksanaan Reviu Atas Laporan Keuangan Pemda Berbasis Aktual', '348.598', 'barcode_1568255547.png', '1'),
+(1175, '348.5-014', 'Permendagri No 22 Tahun 2018', 1, 110, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Permendagri No 22 Tahun 2018 tentang Penyusunan Rencana Kerja Pemerintah Daerah Tahun 2019', '348.598', 'barcode_1568272795.png', '1'),
+(1176, '348.5-015', 'Pemendagri No 11 Tahun 2018', 1, 105, '20', 'Kementerian Sekretariat Negara', 2018, '348.5', 'Pemendagri No 11 Tahun 2018 tentang Sistem Pengembangan SDM Aparatur Berbasis Kompetensi Dilingkungan Kemendagri dan Pemda', '348.598', 'barcode_1568273058.png', '1'),
+(1177, '348.6-001', 'Permenpan & RB No 5 Tahun 2019', 1, 95, '18', 'PIDI JAKARTA', 2019, '348.6', 'Permenpan & RB No 5 Tahun 2019 tentang Kompetisi Inovasi Pelayanan Publik Di Lingkungan Kementerian / Lembaga, Pemda, BUMN & BUMD', '348.598', 'barcode_1568273419.png', '1'),
+(1178, '348.3-005', 'Perpres No 16 Tahun 2018 dan SPSE 4.3', 1, 251, '21,22', 'PT. Gramedia Pustaka Utama', 2019, '348.3', 'Buku ini merupakan buku pengadaan pemerintah pertama setelah keluarnya Perpres No 16 Tahun 2018 Yang memberikan \"Panduan Praktis\" dan \"template siap pakai\" dalam rangka dokumentasi pengadaan pemerintah', '348.598', 'barcode_1568337398.png', '1');
 
 -- --------------------------------------------------------
 
@@ -1358,7 +1398,9 @@ INSERT INTO `file` (`id`, `nama_file`, `id_buku`, `keterangan`) VALUES
 (3, 'file_1560151405.jpg', 'N-88-002', 'gambar'),
 (4, 'file_1560151405.pdf', 'N-88-002', 'pdf'),
 (5, 'file_1560220926.jpg', 'N-88-003', 'gambar'),
-(6, 'file_1560220926.pdf', 'N-88-003', 'pdf');
+(6, 'file_1560220926.pdf', 'N-88-003', 'pdf'),
+(7, 'file_1568172789.jpeg', '348.5-001', 'gambar'),
+(8, 'file_1568173309.jpeg', '348.5-002', 'gambar');
 
 -- --------------------------------------------------------
 
@@ -1378,20 +1420,91 @@ CREATE TABLE `file_risalah` (
 --
 
 INSERT INTO `file_risalah` (`id`, `id_risalah`, `nama_file`, `keterangan`) VALUES
-(8, 'R-00001', 'file_1513570659.mp3', 'audio'),
-(9, 'R-00001', 'file_1513570659.pdf', 'pdf'),
-(10, 'R-00001', 'R-0000115.jpg', 'foto'),
-(11, 'R-00001', 'R-0000116.jpg', 'foto'),
-(12, 'R-00001', 'R-0000117.jpg', 'foto'),
-(13, 'R-00001', 'R-0000118.jpg', 'foto'),
-(14, 'R-00001', 'R-0000119.jpg', 'foto'),
-(15, 'R-00001', 'R-00001110.jpg', 'foto'),
-(16, 'R-00002', 'file_1560148630.mp3', 'audio'),
-(17, 'R-00002', 'file_1560148630.pdf', 'pdf'),
-(18, 'R-00002', 'R-000021.jpg', 'foto'),
-(19, 'R-00003', 'file_1560148960.mp3', 'audio'),
-(20, 'R-00003', 'file_1560148960.pdf', 'pdf'),
-(21, 'R-00003', 'R-000031.png', 'foto');
+(34, 'R-00001', 'file_1568698642.pdf', 'pdf'),
+(35, 'R-00001', 'R-000011.jpg', 'foto'),
+(36, 'R-00001', 'R-00001111.jpg', 'foto'),
+(37, 'R-00001', 'R-00001112.jpg', 'foto'),
+(38, 'R-00002', 'R-000021.JPG', 'foto'),
+(39, 'R-00002', 'R-0000211.JPG', 'foto'),
+(40, 'R-00002', 'R-0000212.JPG', 'foto'),
+(41, 'R-00002', 'R-0000213.JPG', 'foto'),
+(42, 'R-00002', 'R-0000214.JPG', 'foto'),
+(47, 'R-00003', 'file_1568770007.pdf', 'pdf'),
+(48, 'R-00003', 'R-0000314.JPG', 'foto'),
+(49, 'R-00003', 'R-0000315.JPG', 'foto'),
+(50, 'R-00003', 'R-0000316.JPG', 'foto'),
+(51, 'R-00003', 'R-0000317.JPG', 'foto'),
+(52, 'R-00003', 'R-0000318.JPG', 'foto'),
+(53, 'R-00004', 'file_1568772150.pdf', 'pdf'),
+(54, 'R-00004', 'R-000041.JPG', 'foto'),
+(55, 'R-00004', 'R-0000411.JPG', 'foto'),
+(56, 'R-00004', 'R-0000412.JPG', 'foto'),
+(57, 'R-00004', 'R-0000413.JPG', 'foto'),
+(58, 'R-00005', 'file_1568773073.pdf', 'pdf'),
+(59, 'R-00005', 'R-000051.JPG', 'foto'),
+(60, 'R-00005', 'R-0000511.JPG', 'foto'),
+(61, 'R-00005', 'R-0000512.JPG', 'foto'),
+(62, 'R-00005', 'R-0000513.JPG', 'foto'),
+(63, 'R-00005', 'R-0000514.JPG', 'foto'),
+(64, 'R-00006', 'R-000061.JPG', 'foto'),
+(65, 'R-00006', 'R-0000611.JPG', 'foto'),
+(66, 'R-00006', 'R-0000612.JPG', 'foto'),
+(67, 'R-00006', 'R-0000613.JPG', 'foto'),
+(68, 'R-00006', 'R-0000614.JPG', 'foto'),
+(69, 'R-00007', 'file_1568779766.pdf', 'pdf'),
+(70, 'R-00007', 'R-000071.JPG', 'foto'),
+(71, 'R-00007', 'R-0000711.JPG', 'foto'),
+(72, 'R-00007', 'R-0000712.JPG', 'foto'),
+(73, 'R-00007', 'R-0000713.JPG', 'foto'),
+(74, 'R-00008', 'file_1568781346.pdf', 'pdf'),
+(75, 'R-00008', 'R-000081.JPG', 'foto'),
+(76, 'R-00008', 'R-0000811.JPG', 'foto'),
+(77, 'R-00008', 'R-0000812.JPG', 'foto'),
+(78, 'R-00008', 'R-0000813.JPG', 'foto'),
+(79, 'R-00009', 'file_1568783243.pdf', 'pdf'),
+(80, 'R-00009', 'R-000091.JPG', 'foto'),
+(81, 'R-00009', 'R-0000911.JPG', 'foto'),
+(82, 'R-00009', 'R-0000912.JPG', 'foto'),
+(83, 'R-00009', 'R-0000913.JPG', 'foto'),
+(84, 'R-00009', 'R-0000914.JPG', 'foto'),
+(85, 'R-00010', 'file_1568794244.pdf', 'pdf'),
+(86, 'R-00010', 'R-000101.JPG', 'foto'),
+(87, 'R-00010', 'R-0001011.JPG', 'foto'),
+(88, 'R-00010', 'R-0001012.JPG', 'foto'),
+(89, 'R-00010', 'R-0001013.JPG', 'foto'),
+(90, 'R-00010', 'R-0001014.JPG', 'foto'),
+(91, 'R-00011', 'file_1568876127.pdf', 'pdf'),
+(92, 'R-00011', 'R-000111.JPG', 'foto'),
+(93, 'R-00011', 'R-0001111.JPG', 'foto'),
+(94, 'R-00011', 'R-0001112.JPG', 'foto'),
+(95, 'R-00011', 'R-0001113.JPG', 'foto'),
+(96, 'R-00011', 'R-0001114.JPG', 'foto'),
+(97, 'R-00012', 'file_1568876736.pdf', 'pdf'),
+(98, 'R-00012', 'R-000121.JPG', 'foto'),
+(99, 'R-00012', 'R-0001211.JPG', 'foto'),
+(100, 'R-00012', 'R-0001212.JPG', 'foto'),
+(101, 'R-00012', 'R-0001213.JPG', 'foto'),
+(102, 'R-00012', 'R-0001214.JPG', 'foto'),
+(103, 'R-00013', 'R-000131.JPG', 'foto'),
+(104, 'R-00013', 'R-0001311.JPG', 'foto'),
+(105, 'R-00013', 'R-0001312.JPG', 'foto'),
+(106, 'R-00013', 'R-0001313.JPG', 'foto'),
+(107, 'R-00013', 'R-0001314.JPG', 'foto');
+
+-- --------------------------------------------------------
+
+--
+-- Struktur dari tabel `jawaban_request_peminjaman`
+--
+
+CREATE TABLE `jawaban_request_peminjaman` (
+  `id_jawaban_request_peminjaman` int(10) NOT NULL,
+  `id_request_peminjaman` int(10) NOT NULL,
+  `jawaban` enum('0','1') NOT NULL COMMENT '0=Tidak Ada,1=Ada',
+  `catatan` text,
+  `created_date` datetime NOT NULL,
+  `status` enum('0','1') NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
 
@@ -1401,8 +1514,8 @@ INSERT INTO `file_risalah` (`id`, `id_risalah`, `nama_file`, `keterangan`) VALUE
 
 CREATE TABLE `kategori` (
   `id` int(10) NOT NULL,
-  `kode_kategori` varchar(10) NOT NULL,
-  `nama_kategori` varchar(50) NOT NULL
+  `kode_kategori` text NOT NULL,
+  `nama_kategori` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
@@ -1410,13 +1523,6 @@ CREATE TABLE `kategori` (
 --
 
 INSERT INTO `kategori` (`id`, `kode_kategori`, `nama_kategori`) VALUES
-(1, '23', ''),
-(2, '31', ''),
-(3, '103', ''),
-(4, '130', ''),
-(5, '174', ''),
-(6, '251.02', ''),
-(7, '297.326', ''),
 (8, '297.41', ''),
 (9, '2X0.6', ''),
 (10, '2X1.1', ''),
@@ -1461,7 +1567,7 @@ INSERT INTO `kategori` (`id`, `kode_kategori`, `nama_kategori`) VALUES
 (49, '341.44', ''),
 (50, '341.773', ''),
 (51, '342', ''),
-(52, '342.02', ''),
+(52, '342.02', 'Undang-undang'),
 (53, '342.03', ''),
 (54, '342.04', ''),
 (55, '342.05', ''),
@@ -1609,7 +1715,12 @@ INSERT INTO `kategori` (`id`, `kode_kategori`, `nama_kategori`) VALUES
 (197, '923.1', ''),
 (198, '928', ''),
 (199, '959.8', ''),
-(200, 'N-88', 'Novel');
+(200, 'N-88', 'Novel'),
+(201, '348.5', 'Peraturan Menteri Dalam Negeri'),
+(202, '348.0', 'Peraturan Pemerintah'),
+(203, '348.3', 'Peraturan Presiden'),
+(204, '348.4', 'Peraturan Menteri Kesehatan'),
+(205, '348.6', 'Permenpan dan RB');
 
 -- --------------------------------------------------------
 
@@ -1839,7 +1950,96 @@ INSERT INTO `log_activity` (`id`, `keterangan`, `waktu`) VALUES
 (139, 'Admin login', '2019-07-28 17:05:10'),
 (140, 'Admin login', '2019-07-31 08:50:39'),
 (141, 'Admin login', '2019-07-31 23:36:42'),
-(142, 'Admin mengirimkan pemberitahuan perihal peminjaman buku oleh H. Meidiana Kuswara, A.Md (via email)', '2019-07-31 23:48:40');
+(142, 'Admin mengirimkan pemberitahuan perihal peminjaman buku oleh H. Meidiana Kuswara, A.Md (via email)', '2019-07-31 23:48:40'),
+(143, 'Admin login', '2019-08-01 11:47:56'),
+(144, 'Admin login', '2019-08-20 22:22:48'),
+(145, 'Admin login', '2019-08-20 22:23:10'),
+(146, 'Admin login', '2019-08-20 22:27:00'),
+(147, 'Admin login', '2019-08-20 22:30:57'),
+(148, 'Admin login', '2019-08-20 22:33:28'),
+(149, 'Admin login', '2019-08-20 22:34:55'),
+(150, 'Admin login', '2019-08-23 10:14:54'),
+(151, 'Admin login', '2019-08-28 00:57:42'),
+(152, 'H. Meidiana Kuswara, A.Md login', '2019-08-28 13:52:26'),
+(153, 'Admin login', '2019-08-29 21:50:22'),
+(154, 'Admin login', '2019-08-29 23:59:17'),
+(155, 'H. Meidiana Kuswara, A.Md login', '2019-08-31 18:21:09'),
+(156, 'H. Meidiana Kuswara, A.Md login', '2019-08-31 18:23:09'),
+(162, 'H. Meidiana Kuswara, A.Md login', '2019-09-01 17:14:27'),
+(163, 'H. Meidiana Kuswara, A.Md login', '2019-09-02 14:42:50'),
+(164, 'Admin login', '2019-09-11 08:17:47'),
+(165, 'Admin login', '2019-09-11 08:18:12'),
+(166, 'Admin login', '2019-09-11 08:18:16'),
+(167, 'Admin login', '2019-09-11 08:18:56'),
+(168, 'Admin login', '2019-09-11 08:22:12'),
+(169, 'Admin login', '2019-09-11 08:22:39'),
+(170, 'Admin login', '2019-09-11 09:09:52'),
+(171, 'Admin login', '2019-09-11 09:44:16'),
+(172, 'Admin menambahkan kategori buku baru', '2019-09-11 10:22:25'),
+(173, 'Admin menambah data author', '2019-09-11 10:23:12'),
+(174, 'Admin menambahkan data buku baru', '2019-09-11 10:33:09'),
+(175, 'Admin menambahkan data buku baru', '2019-09-11 10:41:49'),
+(176, 'Admin menambahkan data buku baru', '2019-09-11 11:00:18'),
+(177, 'Admin menambahkan data buku baru', '2019-09-11 11:05:37'),
+(178, 'Admin menambahkan data buku baru', '2019-09-11 11:07:49'),
+(179, 'Admin menambahkan data buku baru', '2019-09-11 11:10:59'),
+(180, 'Admin menambah data author', '2019-09-11 11:32:09'),
+(181, 'Admin menghapus data author', '2019-09-11 11:32:45'),
+(182, 'Admin menambah data author', '2019-09-11 11:33:06'),
+(183, 'Admin menambahkan kategori buku baru', '2019-09-11 11:35:57'),
+(184, 'Admin menambahkan data buku baru', '2019-09-11 11:37:49'),
+(185, 'Admin mengubah data buku', '2019-09-11 11:39:02'),
+(186, 'Admin mengubah data buku', '2019-09-11 11:40:30'),
+(187, 'Admin menambahkan data buku baru', '2019-09-11 11:43:12'),
+(188, 'Admin menambahkan data buku baru', '2019-09-11 11:46:01'),
+(189, 'Admin menambahkan data buku baru', '2019-09-11 11:47:31'),
+(190, 'Admin menambahkan data buku baru', '2019-09-11 11:49:30'),
+(191, 'Admin menambahkan data buku baru', '2019-09-11 11:51:07'),
+(192, 'Admin menambahkan data buku baru', '2019-09-11 11:52:55'),
+(193, 'Admin menambahkan kategori buku baru', '2019-09-11 12:13:07'),
+(194, 'Admin menambahkan data buku baru', '2019-09-11 12:24:35'),
+(195, 'Admin login', '2019-09-12 07:44:35'),
+(196, 'Admin menambahkan data buku baru', '2019-09-12 07:46:13'),
+(197, 'Admin menambahkan data buku baru', '2019-09-12 07:48:28'),
+(198, 'Admin menambahkan data buku baru', '2019-09-12 07:56:49'),
+(199, 'Admin menambahkan data buku baru', '2019-09-12 08:09:38'),
+(200, 'Admin menambahkan data buku baru', '2019-09-12 08:11:10'),
+(201, 'Admin menambahkan data buku baru', '2019-09-12 08:13:16'),
+(202, 'Admin menambahkan kategori buku baru', '2019-09-12 08:14:49'),
+(203, 'Admin menambahkan data buku baru', '2019-09-12 08:16:33'),
+(204, 'Admin mengubah kategori buku', '2019-09-12 08:19:06'),
+(205, 'Admin menambahkan data buku baru', '2019-09-12 08:21:38'),
+(206, 'Admin memindahkan buku ke recycle bin', '2019-09-12 08:23:26'),
+(207, 'Admin menambahkan data buku baru', '2019-09-12 08:24:15'),
+(208, 'Admin menambahkan data buku baru', '2019-09-12 08:26:13'),
+(209, 'Admin menambahkan data buku baru', '2019-09-12 08:30:21'),
+(210, 'Admin menambahkan data buku baru', '2019-09-12 08:32:45'),
+(211, 'Admin menambahkan data buku baru', '2019-09-12 09:02:58'),
+(212, 'Admin menambahkan data buku baru', '2019-09-12 09:06:07'),
+(213, 'Admin menambahkan data buku baru', '2019-09-12 09:09:48'),
+(214, 'Admin menambahkan data buku baru', '2019-09-12 09:32:27'),
+(215, 'Admin login', '2019-09-12 12:09:11'),
+(216, 'Admin menambahkan data buku baru', '2019-09-12 14:19:55'),
+(217, 'Admin menambahkan data buku baru', '2019-09-12 14:24:18'),
+(218, 'Admin menambahkan kategori buku baru', '2019-09-12 14:26:51'),
+(219, 'Admin menambahkan data buku baru', '2019-09-12 14:30:19'),
+(220, 'Admin menghapus kategori buku', '2019-09-12 14:30:38'),
+(221, 'Admin menghapus kategori buku', '2019-09-12 14:30:42'),
+(222, 'Admin menghapus kategori buku', '2019-09-12 14:30:44'),
+(223, 'Admin menghapus kategori buku', '2019-09-12 14:30:47'),
+(224, 'Admin menghapus kategori buku', '2019-09-12 14:30:49'),
+(225, 'Admin menghapus kategori buku', '2019-09-12 14:30:52'),
+(226, 'Admin menghapus kategori buku', '2019-09-12 14:30:54'),
+(227, 'Admin login', '2019-09-13 08:07:02'),
+(228, 'Admin menambah data author', '2019-09-13 08:08:24'),
+(229, 'Admin menambah data author', '2019-09-13 08:09:07'),
+(230, 'Admin menambahkan data buku baru', '2019-09-13 08:16:38'),
+(231, 'Admin menghapus data buku', '2019-09-13 08:18:56'),
+(232, 'Admin login', '2019-09-17 10:07:35'),
+(233, 'Admin login', '2019-09-17 10:46:07'),
+(234, 'Admin login', '2019-09-17 12:22:14'),
+(235, 'Admin login', '2019-09-18 07:26:36'),
+(236, 'Admin login', '2019-09-18 14:35:48');
 
 -- --------------------------------------------------------
 
@@ -1917,6 +2117,20 @@ INSERT INTO `pengaturan` (`id`, `aplikasi`, `menu`, `keterangan`) VALUES
 -- --------------------------------------------------------
 
 --
+-- Struktur dari tabel `request_peminjaman`
+--
+
+CREATE TABLE `request_peminjaman` (
+  `id_request_peminjaman` int(10) NOT NULL,
+  `id_anggota` int(10) NOT NULL,
+  `id_buku` varchar(14) NOT NULL,
+  `created_date` datetime NOT NULL,
+  `status` enum('0','1') NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- --------------------------------------------------------
+
+--
 -- Struktur dari tabel `risalah`
 --
 
@@ -1927,7 +2141,7 @@ CREATE TABLE `risalah` (
   `nama_acara` varchar(50) NOT NULL,
   `isi_risalah` varchar(200) NOT NULL,
   `tanggal_acara` date NOT NULL,
-  `link` text NOT NULL,
+  `link` text,
   `tanggal_buat` datetime NOT NULL,
   `tanggal_revisi` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
@@ -1937,9 +2151,19 @@ CREATE TABLE `risalah` (
 --
 
 INSERT INTO `risalah` (`id`, `id_risalah`, `nomor_risalah`, `nama_acara`, `isi_risalah`, `tanggal_acara`, `link`, `tanggal_buat`, `tanggal_revisi`) VALUES
-(2, 'R-00001', 'fsdf', 'sdfsdf', 'sdf', '2017-12-13', '<iframe width="560" height="315" src="https://www.youtube.com/embed/Wsdq6iwjXCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', '2017-12-18 11:17:39', '0000-00-00 00:00:00'),
-(3, 'R-00002', 'hjnkjn', 'kjnkn', 'jn', '2019-01-01', '<iframe width="560" height="315" src="https://www.youtube.com/embed/UuLiXhlxFfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe>', '2019-06-10 13:37:10', '0000-00-00 00:00:00'),
-(4, 'R-00003', 'iiii', 'ii', 'i', '2019-01-01', '<iframe width="560" height="315" src="https://www.youtube.com/embed/Wsdq6iwjXCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>', '2019-06-10 13:42:40', '0000-00-00 00:00:00');
+(10, 'R-00001', '1/2019', 'PEMBUKAAN MASA PERSIDANGAN I TAHUN 2019 DAN LAPORA', '1. PEMBUKAAN MASA PERSIDANGAN I TAHUN 2019 DAN TAHUN SIDANG 2019\r\n2. PENYAMPAIAN LAPORAN HASIL PELAKSANAAN RESES MASA PERSIDANGAN III TAHUN 2018\r\n', '2019-01-02', '', '2019-09-17 12:37:22', '2019-09-17 12:39:22'),
+(11, 'R-00002', '2/2019', 'PEMBICARAAN TINGKAT I DAN PEMBENTUKAN 3 PANSUS', '1. PEMBICARAAN TINGKAT I MEMBAHAS :\r\na. RAPERDA TENTANG PENYERTAAN MODAL PEMERINTAH KOTA SEMARANG KEPADA PT. BANK PEMBANGUNAN DAERAH JAWA TENGAH\r\nb. RAPERDA TENTANG PERUBAHAN PERATURAN DAERAH KOTA SEM', '2019-03-14', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/oLauBtwErso?start=140\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-18 08:18:05', '0000-00-00 00:00:00'),
+(13, 'R-00003', '3/2019', 'PENYAMPAIAN LKPJ, PEMBENTUKAN PANSUS, DAN PEMBICAR', '1. PENYAMPAIAN LAPORAN KETERANGAN PERTANGGUNGJAWABAN (LKPJ) WALIKOTA SEMARANG AKHIR TAHUN ANGGARAN 2018 OLEH WALIKOTA SEMARANG\r\n2. PEMBENTUKAN PANITIA KHUSUS YANG MEMBAHAS MATERI DIATAS\r\n3. PEMBICARAA', '2019-03-22', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6Km8WQ5eAzY?start=105\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-18 08:26:47', '0000-00-00 00:00:00'),
+(14, 'R-00004', '4/2019', 'PENETAPAN KEPUTUSAN DPRD ATAS HASIL LKPJ WALIKOTA ', 'PENETAPAN KEPUTUSAN DPRD KOTA SEMARANG ATAS HASIL PEMBAHASAN TERHADAP LAPORAN KETERANGAN PERTANGGUNGJAWABAN (LKPJ) WALIKOTA SEMARANG AKHIR TAHUN ANGGARAN 2018', '2019-04-11', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QZ8CzFX19bs?start=42\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-18 09:02:30', '0000-00-00 00:00:00'),
+(15, 'R-00005', '5/2019', 'PENUTUPAN MASA PERSIDANGAN I TAHUN 2019 ', 'PENUTUPAN MASA PERSIDANGAN I TAHUN 2019 DPRD KOTA SEMARANG', '2019-04-29', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/x1RO9_K8kDQ?start=524\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-18 09:17:52', '0000-00-00 00:00:00'),
+(16, 'R-00006', '6/2019', 'PEMBUKAAN MASA PERSIDANGAN II TAHUN 2019 DAN LAPOR', '1. PEMBUKAAN MASA PERSIDANGAN II TAHUN 2019 DPRD KOTA SEMARANG \r\n2. PENYAMPAIAN LAPORAN HASIL PELAKSANAAN RESES MASA PERSIDANGAN I TAHUN 2019', '2019-04-30', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/eJtcgLhtwNs?start=127\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-18 10:36:58', '0000-00-00 00:00:00'),
+(17, 'R-00007', '7/2019', 'PERMOHONAN PERSETUJUAN MEMORANDUM SALING PENGERTIA', 'PEMBICARAAN TK I MEMBAHAS PERMOHONAN PERSETUJUAN MEMORANDUM SALING PENGERTIAN (MSP) TENTANG PENYELENGGARAAN GRAND PRIX MOTOCROSS MXGP OF ASIA 2019, MELIPUTI :\r\nA. PENJELASAN WALIKOTA\r\nB. PANDANGAN UMU', '2019-06-11', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/o5OdDxtQjfU?start=97\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-18 11:09:26', '0000-00-00 00:00:00'),
+(18, 'R-00008', '8/2019', 'PEMBICARAAN TK II PERMOHONAN PERSETUJUAN MSP PENYE', 'PEMBICARAAN TK II PENETAPAN KEPUTUSAN DPRD KOTA SEMARANG ATAS  PERMOHONAN PERSETUJUAN MEMORANDUM SALING PENGERTIAN (MSP) TENTANG PENYELENGGARAAN GRAND PRIX MOTOCROSS MXGP OF ASIA 2019', '2019-06-12', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/o5OdDxtQjfU?start=94\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-18 11:35:45', '0000-00-00 00:00:00'),
+(19, 'R-00009', '10/2019', 'PEMBICARAAN TK II ATAS RAPERDA TENTANG PERTANGGUNG', 'PEMBICARAAN TK II PENETAPAN KEPUTUSAN DPRD KOTA SEMARANG ATAS RAPERDA TENTANG PERTANGGUNGJAWABAN PELAKSANAAN APBD KOTA SEMARANG TAHUN ANGGARAN 2018 ', '2019-07-10', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/lVRd9Aliu40\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-18 12:07:23', '0000-00-00 00:00:00'),
+(20, 'R-00010', '11/2019', 'USULAN TAMBAHAN PENGHASILAN PEGAWAI TAHUN ANGGARAN', 'A. PEMBICARAAN TK. I MEMBAHAS USULAN TAMBAHAN PENGHASILAN PEGAWAI TAHUN ANGGARAN 2020, MELIPUTI :\r\n1) PENJELASAN WALIKOTA\r\n2) PANDANGAN UMUM ANGGOTA DPRD\r\n3) TANGGAPAN DAN/ATAU JAWABAN WALIKOTA ATAS P', '2019-07-18', '', '2019-09-18 15:10:44', '0000-00-00 00:00:00'),
+(21, 'R-00011', '12/2019', 'PERUBAHAN RENCANA KERJA DPRD 2019, KEPUTUSAN DPRD ', '1. PENYAMPAIAN PERUBAHAN RENCANA KERJA DPRD KOTA SEMARANG TAHUN ANGGARAN 2019 \r\n2. PEMBICARAAN TK II PENETAPAN KEPUTUSAN DPRD KOTA SEMARANG ATAS USULAN TAMBAHAN PENGHASILAN PEGAWAI TAHUN ANGGARAN 2020', '2019-07-24', '', '2019-09-19 13:55:27', '0000-00-00 00:00:00'),
+(22, 'R-00012', '13/2019', 'PENANDATANGANAN NOTA KESEPAKATAN KUA DAN PPAS PERU', 'PENANDATANGANAN NOTA KESEPAKATAN KUA DAN PPAS PERUBAHAN APBD KOTA SEMARANG TAHUN ANGGARAN 2019', '2019-07-30', '', '2019-09-19 14:05:36', '0000-00-00 00:00:00'),
+(23, 'R-00013', '14/2019', 'PEMBICARAAN TINGKAT I TENTANG  RAPERDA PERUBAHAN A', 'PEMBICARAAN TINGKAT I MEMBAHAS RAPERDA TENTANG PERUBAHAN ANGGARAN PENDAPATAN DAN BELANJA DAERAH KOTA SEMARANG TAHUN ANGGARAN 2019 MELIPUTI :\r\n1. PENJELASAN WALIKOTA ATAS RAPERDA \r\n2. PANDANGAN UMUM FR', '2019-08-01', '<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6cbwN7QKhaY?start=178\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>', '2019-09-19 14:12:07', '0000-00-00 00:00:00');
 
 -- --------------------------------------------------------
 
@@ -1968,7 +2192,16 @@ INSERT INTO `tamu` (`id`, `kd_tamu`, `nama`, `email`, `waktu`) VALUES
 (6, 'T-0005', 'Mukhammad Fakhir Rizal', 'bokir.rizal@gmail.com', '2017-12-19 22:46:42'),
 (7, 'T-0006', 'dss', 'fakhir_rizal@hotmail.com', '2018-02-01 10:45:44'),
 (8, 'T-0007', 'bvcbvc', 'nv@hvgn.jhg', '2018-05-20 16:23:43'),
-(9, 'T-0008', 'asfasd', 'fakhir_rizal@hotmail.com', '2018-06-03 22:26:05');
+(9, 'T-0008', 'asfasd', 'fakhir_rizal@hotmail.com', '2018-06-03 22:26:05'),
+(10, 'T-0009', 'ris', 'penghunisurga2012@yahoo.com', '2019-08-27 16:42:23'),
+(11, 'T-0010', 'ris', 'penghunisurga2012@yahoo.com', '2019-08-27 16:42:35'),
+(12, 'T-0011', 'ris', 'penghunisurga2012@yahoo.com', '2019-08-27 16:48:53'),
+(13, 'T-0012', 'ris', 'penghunisurga2012@yahoo.com', '2019-08-27 16:51:35'),
+(14, 'T-0013', 'uhk2HGJ@HGHJ.JU', 'jh@hjgj.j', '2019-08-28 08:38:17'),
+(15, 'T-0014', 'uhk2HGJ@HGHJ.JU', 'jh@hjgj.j', '2019-08-28 08:38:41'),
+(16, 'T-0015', 'Fakhir Rizal', 'user@admin.com', '2019-08-28 17:14:50'),
+(17, 'T-0016', 'Y', 'docharenn@gmail.com', '2019-09-02 14:39:53'),
+(18, 'T-0017', 'Y', 'docharenn@gmail.com', '2019-09-02 14:40:07');
 
 -- --------------------------------------------------------
 
@@ -1997,7 +2230,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `email`, `password`, `username`, `nama_lengkap`, `tempat_lahir`, `tanggal_lahir`, `alamat`, `no_hp`, `picture_url`, `status`) VALUES
 (1, 'user1@admin.com', 'perpus', 'Admin', 'Administrator Perpus', '', '0000-00-00', '', '', '', 'perpus'),
 (2, 'user2@admin.com', 'risalah', 'Admin', 'Administrator Risalah', '', '0000-00-00', '', '', '', 'risalah'),
-(3, 'user3@admin.com', 'uu', 'Admin', 'Administrator UU', '', '0000-00-00', '', '', '', 'uu');
+(3, 'user3@admin.com', 'uu', 'Admin', 'Administrator UU', '', '0000-00-00', '', '', 'file_1568166900.png', 'uu');
 
 -- --------------------------------------------------------
 
@@ -4181,193 +4414,237 @@ INSERT INTO `uu` (`id`, `id_uu`, `judul_uu`, `id_kategori`, `tahun_terbit`, `rin
 (2220, 'U-00000007', 'Perda no 8 th 2016 ttg Pengelolaan pohon', '51', '2016', ' PERATURAN DAERAH TENTANG  PENGELOLAAN POHON  PADA RUANG  TERBUKA  HIJAU  PUBLIK,  JALUR  HIJAU  JALAN  DAN TAMAN.', 'Perda no 8 th 2016 ttg Pengelolaan pohon.pdf', '2018-01-13 22:53:37'),
 (2221, 'U-00000008', 'Perda no 12 tahun 2016 ttg Penanggulangan Kemiskinan', '51', '2016', 'PERATURAN DAERAH TENTANG PENANGGULANGAN KEMISKINAN DI KOTA SEMARANG', 'Perda no 12 tahun 2016 ttg Penanggulangan Kemiskinan .pdf', '2018-01-13 22:53:37'),
 (2222, 'U-00000009', 'Perda Nomor 13 Tahun 2016 ttg Pembentukan Holding Company', '51', '2016', 'PERATURAN DAERAH TENTANG PEMBENTUKAN HOLDING COMPANY PERSEROAAN TERBATAS BHUMI PANDANARAN SEJAHTERA (PERSERODA) KOTA SEMARANG', 'Perda Nomor 13 Tahun 2016 ttg Pembentukan Holding Company.pdf', '2018-01-13 22:53:37'),
-(2223, 'U-00000010', 'Raperda Reklame Baperda', '52', '2016', 'PERATURAN DAERAH TENTANG REKLAME', 'Raperda Reklame Baperda_24 Oktober 2016.pdf', '2018-01-13 22:53:37'),
-(2224, 'U-00000011', 'PERDA TENTANG PENDIRIAN PERUSAHAAN UMUM DAERAH TAMAN MARGASATWA', '52', '2016', 'PERATURAN DAERAH TENTANG PENDIRIAN PERUSAHAAN UMUM DAERAH TAMAN MARGASATWA SEMARANG.', 'RAPERDA TAMAN MRGASATWA-EDIT Bag Hkm- 260516.pdf', '2018-01-13 22:53:37');
+(2225, 'U-00000012', 'Peraturan Daerah Kota Semarang Nomor 2 Tahun 2016 tentang Retribusi Jasa Umum', 'P-0010', '2016', 'PERUBAHAN ATAS PERATURAN DAERAH KOTA SEMARANG NOMOR 2  TAHUN 2012 TENTANG RETRIBUSI JASA UMUM DI KOTA SEMARANG', 'file_1568166068.pdf', '2019-09-11 08:41:09'),
+(2226, 'U-00000013', 'Perda Kota Semarang No 1 Tahun 2017 tentang Perubahan Kedua atas Perda No. 2 Tahun 2012 tentang Retr', '51', '2017', 'Perubahan Kedua atas Perda No. 2 Tahun 2012 tentang Retribusi Jasa Umum di Kota Semarang', 'file_1568168047.pdf', '2019-09-11 09:14:07');
 
 --
 -- Indexes for dumped tables
 --
 
 --
--- Indexes for table `anggota`
+-- Indeks untuk tabel `anggota`
 --
 ALTER TABLE `anggota`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `author`
+-- Indeks untuk tabel `author`
 --
 ALTER TABLE `author`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `buku`
+-- Indeks untuk tabel `buku`
 --
 ALTER TABLE `buku`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `cache_peminjaman`
+-- Indeks untuk tabel `cache_peminjaman`
 --
 ALTER TABLE `cache_peminjaman`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `file`
+-- Indeks untuk tabel `file`
 --
 ALTER TABLE `file`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `file_risalah`
+-- Indeks untuk tabel `file_risalah`
 --
 ALTER TABLE `file_risalah`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `kategori`
+-- Indeks untuk tabel `jawaban_request_peminjaman`
+--
+ALTER TABLE `jawaban_request_peminjaman`
+  ADD PRIMARY KEY (`id_jawaban_request_peminjaman`),
+  ADD KEY `id_request_peminjaman` (`id_request_peminjaman`);
+
+--
+-- Indeks untuk tabel `kategori`
 --
 ALTER TABLE `kategori`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `kategori_uu`
+-- Indeks untuk tabel `kategori_uu`
 --
 ALTER TABLE `kategori_uu`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `log_activity`
+-- Indeks untuk tabel `log_activity`
 --
 ALTER TABLE `log_activity`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `peminjaman`
+-- Indeks untuk tabel `peminjaman`
 --
 ALTER TABLE `peminjaman`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `peminjaman_detail`
+-- Indeks untuk tabel `peminjaman_detail`
 --
 ALTER TABLE `peminjaman_detail`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `pengaturan`
+-- Indeks untuk tabel `pengaturan`
 --
 ALTER TABLE `pengaturan`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `risalah`
+-- Indeks untuk tabel `request_peminjaman`
+--
+ALTER TABLE `request_peminjaman`
+  ADD PRIMARY KEY (`id_request_peminjaman`),
+  ADD KEY `id_anggota` (`id_anggota`),
+  ADD KEY `id_buku` (`id_buku`);
+
+--
+-- Indeks untuk tabel `risalah`
 --
 ALTER TABLE `risalah`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `tamu`
+-- Indeks untuk tabel `tamu`
 --
 ALTER TABLE `tamu`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `users`
+-- Indeks untuk tabel `users`
 --
 ALTER TABLE `users`
   ADD PRIMARY KEY (`id`);
 
 --
--- Indexes for table `uu`
+-- Indeks untuk tabel `uu`
 --
 ALTER TABLE `uu`
   ADD PRIMARY KEY (`id`);
 
 --
--- AUTO_INCREMENT for dumped tables
+-- AUTO_INCREMENT untuk tabel yang dibuang
 --
 
 --
--- AUTO_INCREMENT for table `anggota`
+-- AUTO_INCREMENT untuk tabel `anggota`
 --
 ALTER TABLE `anggota`
   MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=63;
+
 --
--- AUTO_INCREMENT for table `author`
+-- AUTO_INCREMENT untuk tabel `author`
 --
 ALTER TABLE `author`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=18;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=23;
+
 --
--- AUTO_INCREMENT for table `buku`
+-- AUTO_INCREMENT untuk tabel `buku`
 --
 ALTER TABLE `buku`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1145;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=1179;
+
 --
--- AUTO_INCREMENT for table `cache_peminjaman`
+-- AUTO_INCREMENT untuk tabel `cache_peminjaman`
 --
 ALTER TABLE `cache_peminjaman`
   MODIFY `id` int(10) NOT NULL AUTO_INCREMENT;
+
 --
--- AUTO_INCREMENT for table `file`
+-- AUTO_INCREMENT untuk tabel `file`
 --
 ALTER TABLE `file`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=7;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
+
 --
--- AUTO_INCREMENT for table `file_risalah`
+-- AUTO_INCREMENT untuk tabel `file_risalah`
 --
 ALTER TABLE `file_risalah`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=108;
+
 --
--- AUTO_INCREMENT for table `kategori`
+-- AUTO_INCREMENT untuk tabel `jawaban_request_peminjaman`
+--
+ALTER TABLE `jawaban_request_peminjaman`
+  MODIFY `id_jawaban_request_peminjaman` int(10) NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT untuk tabel `kategori`
 --
 ALTER TABLE `kategori`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=201;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=206;
+
 --
--- AUTO_INCREMENT for table `kategori_uu`
+-- AUTO_INCREMENT untuk tabel `kategori_uu`
 --
 ALTER TABLE `kategori_uu`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=53;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=54;
+
 --
--- AUTO_INCREMENT for table `log_activity`
+-- AUTO_INCREMENT untuk tabel `log_activity`
 --
 ALTER TABLE `log_activity`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=143;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=237;
+
 --
--- AUTO_INCREMENT for table `peminjaman`
+-- AUTO_INCREMENT untuk tabel `peminjaman`
 --
 ALTER TABLE `peminjaman`
   MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
 --
--- AUTO_INCREMENT for table `peminjaman_detail`
+-- AUTO_INCREMENT untuk tabel `peminjaman_detail`
 --
 ALTER TABLE `peminjaman_detail`
   MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
 --
--- AUTO_INCREMENT for table `pengaturan`
+-- AUTO_INCREMENT untuk tabel `pengaturan`
 --
 ALTER TABLE `pengaturan`
   MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+
 --
--- AUTO_INCREMENT for table `risalah`
+-- AUTO_INCREMENT untuk tabel `request_peminjaman`
+--
+ALTER TABLE `request_peminjaman`
+  MODIFY `id_request_peminjaman` int(10) NOT NULL AUTO_INCREMENT;
+
+--
+-- AUTO_INCREMENT untuk tabel `risalah`
 --
 ALTER TABLE `risalah`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=24;
+
 --
--- AUTO_INCREMENT for table `tamu`
+-- AUTO_INCREMENT untuk tabel `tamu`
 --
 ALTER TABLE `tamu`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=19;
+
 --
--- AUTO_INCREMENT for table `users`
+-- AUTO_INCREMENT untuk tabel `users`
 --
 ALTER TABLE `users`
   MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+
 --
--- AUTO_INCREMENT for table `uu`
+-- AUTO_INCREMENT untuk tabel `uu`
 --
 ALTER TABLE `uu`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2225;
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2227;
+COMMIT;
+
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

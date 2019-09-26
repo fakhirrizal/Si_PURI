@@ -100,25 +100,14 @@
                     url: "<?php echo site_url(); ?>Perpustakaan/ajax_function",
                     cache: false,
                 });
-                $('.detaildata').click(function(){
+                $('.ubahdata').click(function(){
                 var id = $(this).attr("id");
-                var modul = 'modul_detail_data_request_peminjaman';
+                var modul = 'modul_tanggapan_request_peminjaman';
                 $.ajax({
                     data: {id:id,modul:modul},
                     success:function(data){
-                    $('#formdetaildata').html(data);
-                    $('#detaildata').modal("show");
-                    $('.ubahdata').click(function(){
-                    var id_req = $(this).attr("id");
-                    var modul = 'modul_tanggapan_request_peminjaman';
-                    $.ajax({
-                        data: {id:id_req,modul:modul},
-                        success:function(data){
-                        $('#formubahdata').html(data);
-                        $('#ubahdata').modal("show");
-                        }
-                    });
-                    });
+                    $('#formubahdata').html(data);
+                    $('#ubahdata').modal("show");
                     }
                 });
                 });
