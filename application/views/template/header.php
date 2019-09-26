@@ -1,7 +1,6 @@
 <?php
-if(($this->session->userdata('id'))==NULL){
-	echo "<script>alert('Harap login terlebih dahulu')</script>";
-	echo "<script>window.location='".base_url()."Perpustakaan/admin'</script>";
+if($this->session->userdata('role')!='perpus'){
+	echo "<script>window.location='".base_url('Perpustakaan/admin')."'</script>";
 }
 else{
 ?>
@@ -358,7 +357,7 @@ else{
 
 						<ul class="submenu">
 							<li class="">
-								<a href="<?php echo site_url('Peminjaman'); ?>">
+								<a href="<?php echo site_url('perpustakaan/request_peminjaman'); ?>">
 									<i class="menu-icon fa fa-caret-right"></i>
 									Request Peminjaman
 								</a>
@@ -662,6 +661,20 @@ else{
 		</div>
 	</div>
 </div>
+<div class="modal fade" id="ubahdata" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+	<div class="modal-dialog modal-lg" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+				<h4 class="modal-title" id="myModalLabel">Form Tanggapan</h4>
+			</div>
+			<div class="modal-body">
+				<div class="box box-primary" id='formubahdata' >
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 <script>
 	$(document).ready(function(){
 		$.ajaxSetup({
@@ -677,6 +690,17 @@ else{
 			success:function(data){
 			$('#formdetaildata').html(data);
 			$('#detaildata').modal("show");
+			$('.ubahdata').click(function(){
+			var id_req = $(this).attr("id");
+			var modul = 'modul_tanggapan_request_peminjaman';
+			$.ajax({
+				data: {id:id_req,modul:modul},
+				success:function(data){
+				$('#formubahdata').html(data);
+				$('#ubahdata').modal("show");
+				}
+			});
+			});
 			}
 		});
 		});

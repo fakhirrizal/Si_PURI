@@ -94,28 +94,28 @@
                                                         <br>
                                                         <form action="<?php echo site_url('Uu/ubah_sandi'); ?>" method="post"">
                                                             <div class="form-group">
-                                                                <label class="control-label">Current Password</label>
+                                                                <label class="control-label">Kata Sandi Sekarang</label>
                                                                 <div class="input-icon">
                                                                   
-                                                                    <input type="password" class="form-control" maxlength="20" name="password" placeholder="Current Password"/> </div>
+                                                                    <input type="password" class="form-control" maxlength="20" name="password" placeholder="Kata Sandi Sekarang"/> </div>
                                                             </div>
                                                             <div class="form-group">
-                                                                <label class="control-label">New Password</label>
+                                                                <label class="control-label">Kata Sandi Baru</label>
                                                                 <div class="input-icon">
                                                                  
-                                                                    <input class="form-control placeholder-no-fix" type="password" id="p1" autocomplete="off" id="register_password" placeholder="New Password" name="password_new" maxlength="20" /> </div>
+                                                                    <input class="form-control placeholder-no-fix" type="password" id="p1" autocomplete="off" id="register_password" placeholder="Kata Sandi Baru" name="password_new" maxlength="20" /> </div>
                                                             </div>
                                                             <div class="form-group">
-                                                                <label class="control-label">Re-type New Password</label>
+                                                                <label class="control-label">Kata Sandi Baru</label>
                                                                 <div class="controls">
                                                                     <div class="input-icon">
                                                                         
-                                                                        <input class="form-control placeholder-no-fix" type="password" id="p2" autocomplete="off" placeholder="Re-type Your New Password" maxlength="20" /> </div>
+                                                                        <input class="form-control placeholder-no-fix" type="password" id="p2" autocomplete="off" placeholder="Tulis Ulang Kata Sandi Baru" maxlength="20" /> </div>
                                                                 </div>
                                                             </div>
                                                             <div class="form-actions">
-                                                                <button type="submit" class="btn green"> Change Password </button>
-                                                                <button type="reset" class="btn default"> Reset </button>
+                                                                <button type="submit" class="btn green"> Simpan </button>
+                                                                <button type="reset" class="btn default"> Batal </button>
                                                             </div>
                                                         </form>
                                                     </div>

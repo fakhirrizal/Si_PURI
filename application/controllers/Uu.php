@@ -231,7 +231,7 @@ private $filename = "import_data"; // Kita tentukan nama filenya
 					if($qad->status=='uu'){
 						$sess_data['u_name'] = $qad->username;
 						$sess_data['iduser'] = $qad->id;
-						// $sess_data['emailuser'] = $psw;
+						$sess_data['role'] = 'uu';
 						$this->session->set_userdata($sess_data);
 						// redirect("Uu/dashboard");
 						echo "<script>window.location='".site_url()."Uu/dashboard'</script>";

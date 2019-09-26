@@ -52,14 +52,18 @@
 					<td>
 					<?php
 					$author = explode(',',$penulis);
-					$jumlah = count($author);
-					for ($i=0; $i < $jumlah; $i++) { 
-						$where['id'] = $author[$i];
-						$variable = $this->User_model->getSelectedData('author',$where);
-						foreach ($variable as $key => $value) {
-							echo $value->nama;
+					if($penulis==NULL){
+						echo'';
+					}else{
+						$jumlah = count($author);
+						for ($i=0; $i < $jumlah; $i++) { 
+							$where['id'] = $author[$i];
+							$variable = $this->User_model->getSelectedData('author',$where);
+							foreach ($variable as $key => $value) {
+								echo $value->nama;
+							}
+							echo ", ";
 						}
-						echo ", ";
 					}
 					?>	
 					</td>

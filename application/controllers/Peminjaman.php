@@ -195,6 +195,48 @@ class Peminjaman extends CI_Controller {
 			}
 		}
 	}
+	public function request_peminjaman(){
+		$data['peminjaman'] = $this->Main_model->getSelectedData('request_peminjaman a', 'a.*,b.nama_buku,bb.nama', '','a.status ASC,a.created_date DESC','','','',array(
+			array(
+				'table' => 'buku b',
+				'on' => 'a.id_buku=b.id_buku',
+				'pos' => 'LEFT'
+			),array(
+				'table' => 'anggota bb',
+				'on' => 'a.id_anggota=bb.id',
+				'pos' => 'LEFT'
+			)
+		))->result();
+		// print_r($data);
+		$this->load->view('template/header');
+		$this->load->view('peminjaman/request_peminjaman',$data);
+		$this->load->view('template/footer');
+	}
+	public function tanggapan_request_peminjaman(){
+		$this->db->trans_start();
+		$data_insert = array(
+			'id_request_peminjaman' => $this->input->post('id_request_peminjaman'),
+			'jawaban' => $this->input->post('ketersediaan'),
+			'catatan' => $this->input->post('catatan'),
+			'created_date' => date('Y-m-d H:i:s')
+		);
+		$this->User_model->tambahdata('jawaban_request_peminjaman',$data_insert);
+		$this->Main_model->updateData('request_peminjaman',array('status'=>'1'),array('id_request_peminjaman'=>$this->input->post('id_request_peminjaman')));
+		$data2 = array(
+			'keterangan' => 'Admin menanggapi request peminjaman dengan nomor '.$this->input->post('id_request_peminjaman'),
+			'waktu' => date('Y-m-d H-i-s')
+		);
+		$this->User_model->tambahdata('log_activity',$data2);
+		$this->db->trans_complete();
+		if($this->db->trans_status() === false){
+			echo "<script>alert('Data gagal disimpan!')</script>";
+			echo "<script>window.location='".base_url()."perpustakaan/request_peminjaman'</script>";
+		}
+		else{
+			echo "<script>alert('Data berhasil disimpan!')</script>";
+			echo "<script>window.location='".base_url()."perpustakaan/request_peminjaman'</script>";
+		}
+	}
 	public function pinjam_buku(){
 		$where['id'] = '1';
 		$query = $this->User_model->getSelectedData('pengaturan',$where);

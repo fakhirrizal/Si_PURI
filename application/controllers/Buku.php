@@ -30,7 +30,7 @@ class Buku extends CI_Controller {
 		}
 		else{
 		$where['status'] = 1;
-		$data['data_buku'] = $this->User_model->getSelectedData('buku',$where);
+		$data['data_buku'] = $this->Main_model->getSelectedData('buku a', 'a.*', '', "a.id DESC")->result();
 		$this->load->view('template/header');
 		$this->load->view('buku/daftar_buku',$data);
 		$this->load->view('template/footer');
@@ -180,7 +180,12 @@ class Buku extends CI_Controller {
 		$this->ciqrcode->generate($params); // fungsi untuk generate QR CODE
 
 		$author = $this->input->post('penulis');
-		$gabung = implode(',', $author);
+		$gabung = '';
+		if($author==NULL){
+			echo'';
+		}else{
+			$gabung = implode(',', $author);
+		}
 		$stok = $this->input->post('stok');
 		if(!empty($stok)){
 			$data_buku = array(
@@ -597,11 +602,20 @@ class Buku extends CI_Controller {
 	}
 	public function ubah_data(){
 		$where['id_buku'] = $this->input->post('id_buku');
+		$author = $this->input->post('penulis');
+		$gabung = '';
+		if($author==NULL){
+			echo'';
+		}else{
+			$gabung = implode(',', $author);
+		}
 		if(!empty($this->input->post('stok'))){
 			$stok_total = $this->input->post('stok')+$this->input->post('stok_baru');
 			$data = array(
 			'nama_buku' => $this->input->post('nama_buku'),
+			'call_number' => $this->input->post('call_number'),
 			'halaman' => $this->input->post('halaman'),
+			'penulis' => $gabung,
 			'penerbit' => $this->input->post('penerbit'),
 			'tahun_terbit' => $this->input->post('tahun_terbit'),
 			'kategori' => $this->input->post('kategori'),
@@ -614,6 +628,7 @@ class Buku extends CI_Controller {
 		$data = array(
 			'nama_buku' => $this->input->post('nama_buku'),
 			'halaman' => $this->input->post('halaman'),
+			'penulis' => $gabung,
 			'penerbit' => $this->input->post('penerbit'),
 			'tahun_terbit' => $this->input->post('tahun_terbit'),
 			'kategori' => $this->input->post('kategori'),

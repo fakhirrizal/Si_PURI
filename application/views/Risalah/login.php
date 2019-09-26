@@ -102,7 +102,7 @@
 				</div>
 			</form>
 		</div>
-		<div class="copyright"> 2019 &copy; Si-PURI | by Metronic. </div>
+		<div class="copyright"> 2019 &copy; Si-PURI. </div>
 		<script src="<?=base_url('assets2/global/plugins/jquery.min.js');?>" type="text/javascript"></script>
 		<script src="<?=base_url('assets2/global/plugins/bootstrap/js/bootstrap.min.js');?>" type="text/javascript"></script>
 		<script src="<?=base_url('assets2/global/plugins/js.cookie.min.js');?>" type="text/javascript"></script>

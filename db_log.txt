@@ -1,0 +1,5 @@
+Tanggal 12 September 2019
+    - ALTER TABLE `kategori` CHANGE `kode_kategori` `kode_kategori` TEXT CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;
+    - ALTER TABLE `kategori` CHANGE `nama_kategori` `nama_kategori` TEXT CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;
+    - ALTER TABLE `buku` CHANGE `nama_buku` `nama_buku` TEXT CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;
+    - ALTER TABLE `buku` CHANGE `call_number` `call_number` TEXT CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL;

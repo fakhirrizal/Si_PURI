@@ -1,3 +1,9 @@
+<?php
+if($this->session->userdata('role')!='risalah'){
+            echo "<script>window.location='".base_url('Risalah/admin')."'</script>";
+        }
+else{echo'';}
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>

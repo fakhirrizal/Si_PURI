@@ -1,3 +1,9 @@
+<?php
+if($this->session->userdata('role')!='uu'){
+            echo "<script>window.location='".base_url('Uu/admin')."'</script>";
+        }
+else{echo'';}
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -177,9 +183,9 @@
 													<td><?php echo $db->tahun_terbit; ?></td>
 													<td><?php echo $db->ringkasan; ?></td>
 													<td style="text-align: center">
-													<a class="btn btn-mini" href="<?php echo site_url('Uu/detail/'.$db->id_uu)?>" title="detail data"><i class="fa fa-eye"></i></a>
-													<a class="btn btn-mini" title="ubah data" href="<?php echo site_url('Uu/ubah/'.$db->id_uu)?>"><i class="fa fa-pencil"></i></a>
-													<a class="btn btn-mini" href="<?php echo site_url('Uu/hapus/'.$db->id_uu)?>" title="hapus data" onclick="return confirm('Anda yakin?')"><i class="fa fa-trash"></i></a>
+													<a class="btn btn-mini" href="<?php echo site_url('Uu/detail/'.$db->id)?>" title="detail data"><i class="fa fa-eye"></i></a>
+													<a class="btn btn-mini" title="ubah data" href="<?php echo site_url('Uu/ubah/'.$db->id)?>"><i class="fa fa-pencil"></i></a>
+													<a class="btn btn-mini" href="<?php echo site_url('Uu/hapus/'.$db->id)?>" title="hapus data" onclick="return confirm('Anda yakin?')"><i class="fa fa-trash"></i></a>
 													</td>
 													</tr>
 												<?php } ?>

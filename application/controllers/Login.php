@@ -27,6 +27,7 @@ class Login extends CI_Controller {
 				foreach ($cek->result() as $qad) {
 					if($qad->status=='perpus'){
 						$sess_data['username'] = $qad->username;
+						$sess_data['role'] = 'perpus';
 						$sess_data['id'] = $qad->id;
 						$this->session->set_userdata($sess_data);
 

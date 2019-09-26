@@ -26,10 +26,19 @@ class Perpustakaan extends CI_Controller {
 	{
 		$where1['id'] = '4';
 		$data['foto'] = $this->User_model->getSelectedData('pengaturan',$where1);
-		$this->load->view('user/masuk',$data);
+		if(($this->session->userdata('user_name'))!=NULL){
+			$data['data_buku'] = $this->User_model->getSelectedData('buku',array('status'=>'1'));
+			$this->load->view('user/search',$data);
+		}else{
+		$this->load->view('user/masuk',$data);}
 	}
 	public function admin(){
-		$this->load->view('user/login');
+		if($this->session->userdata('role')!='perpus'){
+			$this->load->view('user/login');
+		}
+		else{
+			echo "<script>window.location='".base_url('Admin')."'</script>";
+		}
 	}
 	public function pencarian(){
 		if(($this->session->userdata('user_name'))==NULL){
@@ -294,40 +303,140 @@ class Perpustakaan extends CI_Controller {
 		}
 	}
 	public function ajukan_peminjaman($id_buku){
-		$this->db->trans_start();
-		$data_insert = array(
-			'id_anggota' => $this->session->userdata('id_pengguna'),
-			'id_buku' => $id_buku,
-			'created_date' => date('Y-m-d H:i:s')
-		);
-		$this->User_model->tambahdata('request_peminjaman',$data_insert);
-		$get_buku = $this->Main_model->getSelectedData('buku a', 'a.*', array("a.id_buku" => $id_buku))->row();
-		$get_profil = $this->Main_model->getSelectedData('anggota a', 'a.*', array("a.id" => $this->session->userdata('id_pengguna')))->row();
+		$check = $this->Main_model->getSelectedData('request_peminjaman a', 'a.*', array('a.id_anggota' => $this->session->userdata('id_pengguna'),"a.id_buku" => $id_buku,'a.status'=>'0'))->result();
+		if($check==NULL){
+			$this->db->trans_start();
+			$data_insert = array(
+				'id_anggota' => $this->session->userdata('id_pengguna'),
+				'id_buku' => $id_buku,
+				'created_date' => date('Y-m-d H:i:s')
+			);
+			$this->User_model->tambahdata('request_peminjaman',$data_insert);
+			$get_buku = $this->Main_model->getSelectedData('buku a', 'a.*', array("a.id_buku" => $id_buku))->row();
+			$get_profil = $this->Main_model->getSelectedData('anggota a', 'a.*', array("a.id" => $this->session->userdata('id_pengguna')))->row();
 
-		$data2 = array(
-			'keterangan' => $get_profil->nama.' request meminjam buku '.$get_buku->nama_buku,
-			'waktu' => date('Y-m-d H-i-s')
-		);
-		$this->User_model->tambahdata('log_activity',$data2);
-		$this->db->trans_complete();
-		if($this->db->trans_status() === false){
-			echo "<script>alert('Data gagal disimpan!')</script>";
+			$data2 = array(
+				'keterangan' => $get_profil->nama.' request meminjam buku '.$get_buku->nama_buku,
+				'waktu' => date('Y-m-d H-i-s')
+			);
+			$this->User_model->tambahdata('log_activity',$data2);
+			$this->db->trans_complete();
+			if($this->db->trans_status() === false){
+				echo "<script>alert('Data gagal disimpan!')</script>";
+				echo "<script>window.location='".base_url()."Perpustakaan/baca_buku/".$id_buku."'</script>";
+			}
+			else{
+				echo "<script>alert('Data berhasil disimpan!')</script>";
+				echo "<script>window.location='".base_url()."Perpustakaan/baca_buku/".$id_buku."'</script>";
+			}
+		}else{
 			echo "<script>window.location='".base_url()."Perpustakaan/baca_buku/".$id_buku."'</script>";
 		}
-		else{
-			echo "<script>alert('Data berhasil disimpan!')</script>";
-			echo "<script>window.location='".base_url()."Perpustakaan/baca_buku/".$id_buku."'</script>";
-		}
+		
 	}
 	public function ajax_function(){
 		if($this->input->post('modul')=='modul_detail_data_request_peminjaman'){
 			$id_anggota = $this->input->post('id');
-			$get_data = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*,b.nama_buku', array('md5(a.id_anggota)' => $id_anggota,"a.status" => '0'),'a.created_date DESC','','','',array(
+			$get_data = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*,b.nama_buku', array('md5(a.id_anggota)' => $id_anggota,"a.status" => '0'),'a.created_date DESC','','','a.id_buku',array(
 				'table' => 'buku b',
 				'on' => 'a.id_buku=b.id_buku',
 				'pos' => 'LEFT'
 			))->result();
-			print_r($get_data);
+			// print_r($get_data);
+			$no = 1;
+			echo'
+			<table class="table table-striped table-bordered table-hover order-column" id="sample_1">
+				<thead>
+					<tr>
+						<th style="text-align: center;" width="4%"> # </th>
+						<th style="text-align: center;"> Buku </th>
+						<th style="text-align: center;"> Tanggal Request </th>
+						<th style="text-align: center;" width="10%"> Aksi </th>
+					</tr>
+				</thead>
+				<tbody>';
+				foreach ($get_data as $key => $value) {
+					$tanggal = explode(' ',$value->created_date);
+					echo'<tr class="odd gradeX">
+						<td style="text-align: center;">'.$no++.'.</td>
+						<td style="text-align: center;">'.$value->nama_buku.'</td>
+						<td style="text-align: center;">'.$this->Main_model->convert_tanggal($tanggal[0]).' '.$tanggal[1].'</td>
+						<td style="text-align: center;">
+							<a class="btn btn-xs green ubahdata" data-toggle="modal" data-target="#ubahdata" id="'.md5($value->id_request_peminjaman).'">Tanggapi</a>
+						</td>
+					</tr>';
+				}
+				echo'</tbody>
+			</table>
+			';
+		}elseif($this->input->post('modul')=='modul_tanggapan_request_peminjaman'){
+			$id = $this->input->post('id');
+			$get_data = $this->Main_model->getSelectedData('request_peminjaman  a', 'a.*,b.nama_buku,bb.nama', array('md5(a.id_request_peminjaman)' => $id,"a.status" => '0'),'a.created_date DESC','','','a.id_buku',array(
+				array(
+					'table' => 'buku b',
+					'on' => 'a.id_buku=b.id_buku',
+					'pos' => 'LEFT'
+				),array(
+					'table' => 'anggota bb',
+					'on' => 'a.id_anggota=bb.id',
+					'pos' => 'LEFT'
+				)
+			))->row();
+			echo'
+			<form class="form-horizontal" role="form" action="'.site_url('perpustakaan/tanggapan_request_peminjaman').'" method="post">
+				<input type="hidden" name="id_request_peminjaman" value="'.$get_data->id_request_peminjaman.'">
+				<h4>Nama Anggota</h5>
+
+				<div class="input-group">
+					<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+					<input type="text" class="col-xs-10 col-sm-12" value="'.$get_data->nama.'" readonly>
+				</div>
+
+				<h4>Buku</h5>
+
+				<div class="input-group">
+					<span class="input-group-addon"><i class="fa fa-book"></i></span>
+					<input type="text" class="col-xs-10 col-sm-12" value="'.$get_data->nama_buku.'" readonly>
+				</div>
+
+				<h4>Status Ketersediaan</h5>
+
+				<div class="row">
+					<div class="col-xs-10 col-sm-12">
+					<div class="input-group">
+					<span class="input-group-addon"><i class="fa fa-warning"></i></span>
+					<select class="form-control" name="ketersediaan" required>
+						<option value="">--Pilih--</option>
+						<option value="1">Ada</option>
+						<option value="0">Tidak Ada</option>
+					</select>
+					</div>
+					</div>
+				</div>
+
+				<h4>Catatan</h5>
+
+				<div class="input-group">
+					<span class="input-group-addon"><i class="glyphicon glyphicon-list"></i></span>
+					<textarea name="catatan" class="col-xs-10 col-sm-12"></textarea>
+				</div>
+
+				<div class="clearfix form-actions">
+					<div class="col-md-offset-4 col-md-12">
+						<button class="btn btn-white btn-default btn-round" type="submit" id="submit">
+							<i class="ace-icon fa fa-check-square-o"></i>
+							Simpan
+						</button>
+
+						&nbsp; &nbsp; &nbsp;
+						<button class="btn btn-white btn-default btn-round" type="reset">
+							<i class="ace-icon fa fa-undo"></i>
+							Hapus
+						</button>
+					</div>
+				</div>
+			</form>
+			';
 		}
 	}
 }

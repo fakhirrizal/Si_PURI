@@ -122,14 +122,14 @@ $(function () {
 
 								<div class="input-group">
 									<span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
-									<input name="kode" type="text" maxlength="5" class="col-xs-10 col-sm-5" required>
+									<input name="kode" type="text" class="col-xs-10 col-sm-5" required>
 								</div>
 
 								<h4>Nama Kategori</h5>
 
 								<div class="input-group">
 									<span class="input-group-addon"><i class="glyphicon glyphicon-font"></i></span>
-									<input name="nama" type="text" onkeyup="validHuruf(this)" maxlength="50" class="col-xs-10 col-sm-5" required>
+									<input name="nama" type="text" onkeyup="validHuruf(this)" class="col-xs-10 col-sm-5" required>
 								</div>
 
 								<div class="clearfix form-actions">

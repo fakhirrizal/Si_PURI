@@ -53,6 +53,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['perpustakaan/generate_barcode/(:any)'] = 'Buku/generate_barcode/$1';
 
 $route['perpustakaan/kirim_email_pemberitahuan'] = 'Peminjaman/kirim_email_pemberitahuan';
+$route['perpustakaan/tanggapan_request_peminjaman'] = 'Peminjaman/tanggapan_request_peminjaman';
+$route['perpustakaan/request_peminjaman'] = 'Peminjaman/request_peminjaman';
 
 $route['pengguna_perpustakaan'] = 'Pengguna/signup2';
 

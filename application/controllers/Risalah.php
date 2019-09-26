@@ -103,6 +103,7 @@ class Risalah extends CI_Controller {
 						$sess_data['uname'] = $qad->username;
 						$sess_data['id_user'] = $qad->id;
 						$sess_data['email_user'] = $psw;
+						$sess_data['role'] = 'risalah';
 						$this->session->set_userdata($sess_data);
 						// redirect("Risalah/daftar_risalah");
 						echo "<script>window.location='".site_url()."Risalah/daftar_risalah'</script>";
@@ -450,7 +451,7 @@ class Risalah extends CI_Controller {
 			$namafile = "file_".time();
 			$config['upload_path'] = dirname($_SERVER["SCRIPT_FILENAME"]).'/assets2/uploads/audio/'; // path folder
 			$config['allowed_types'] = 'mp3'; // type yang dapat diakses bisa anda sesuaikan
-			$config['max_size'] = '8192'; // maksimum besar file 10M
+			$config['max_size'] = '8192000000000000'; // maksimum besar file 10M
 			$config['file_name'] = $namafile; // nama yang terupload nantinya
 			$this->upload->initialize($config);
 			if($_FILES['audio']['name'])
@@ -458,7 +459,7 @@ class Risalah extends CI_Controller {
 				if(!$this->upload->do_upload('audio'))
 				{
 					$a = $this->upload->display_errors();
-					// echo $a;
+					echo $a;
 					echo "<script>alert('Maaf terjadi kesalahan dalam menyimpan file!')</script>";
 					echo "<script>window.location='".base_url()."Risalah/input_risalah'</script>";
 				}
