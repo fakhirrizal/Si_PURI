@@ -128,7 +128,19 @@
                                 <div class='six-columns'>
                                     <a href="<?php echo site_url('Risalah/baca/'.$row->id_risalah)?>" class='res'>
 
+                                        <?php
+                                        $get_gambar = $this->Main_model->getSelectedData('file_risalah  a', 'a.*', array('a.id_risalah' => $row->id_risalah,'a.keterangan'=>'foto'),'','1')->row();
+                                        if($get_gambar==NULL){
+                                        ?>
                                         <div class='bg-transparent-image' style='background-image: url("<?=base_url()?>assets3/images/bg6.jpg")'></div>
+                                        <?php
+                                        }else{
+                                        ?>
+                                        <div class='bg-transparent-image' style='background-image: url("<?=base_url()?>assets2/uploads/foto_kegiatan/<?=$get_gambar->nama_file;?>")'></div>
+                                        <?php
+                                        }
+                                        ?>
+                                        
                                         <div class='detail'>
                                             <p><?= $row->nomor_risalah; ?></p> 
                                             <p><?= $row->nama_acara." (Tanggal : ".date('d-m-Y', strtotime($row->tanggal_acara))." )"; ?></p>
