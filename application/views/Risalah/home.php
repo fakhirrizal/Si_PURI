@@ -142,8 +142,8 @@
                                         ?>
                                         
                                         <div class='detail'>
-                                            <p><?= $row->nomor_risalah; ?></p> 
-                                            <p><?= $row->nama_acara." (Tanggal : ".date('d-m-Y', strtotime($row->tanggal_acara))." )"; ?></p>
+                                            <p><font color='white'><?= $row->nomor_risalah; ?></font></p> 
+                                            <p><font color='white'><?= $row->nama_acara." (Tanggal : ".date('d-m-Y', strtotime($row->tanggal_acara))." )"; ?></font></p>
                                         </div>
                                     </a>
                                 </div>

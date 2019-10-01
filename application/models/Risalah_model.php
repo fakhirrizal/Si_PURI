@@ -31,18 +31,18 @@ class Risalah_model extends CI_Model{
 		return $this->db->query("SELECT * FROM `risalah` where id_risalah NOT in ('$id') ORDER BY rand() LIMIT 3")->result();
 	}
 	public function cari_risalah($key){
-		return $this->db->query("SELECT * FROM `risalah` where nomor_risalah='$key' or nama_acara='$key' or isi_risalah='$key'")->result();
+		return $this->db->query("SELECT * FROM `risalah` where nomor_risalah='$key' or nama_acara='$key' or isi_risalah='$key' ORDER BY tanggal_buat DESC")->result();
 	}
 	public function cari_tahun($tahun){
-		$q = $this->db->query("SELECT a.* from risalah a where a.nomor_risalah LIKE '%$tahun%' or a.tanggal_acara LIKE '%$tahun%'");
+		$q = $this->db->query("SELECT a.* from risalah a where a.nomor_risalah LIKE '%$tahun%' or a.tanggal_acara LIKE '%$tahun%' ORDER BY a.tanggal_buat DESC");
 		return $q->result();
 	}
 	public function cari_judul($key){
-		$q = $this->db->query("SELECT a.* from risalah a where a.nama_acara LIKE '%$key%'");
+		$q = $this->db->query("SELECT a.* from risalah a where a.nama_acara LIKE '%$key%' ORDER BY a.tanggal_buat DESC");
 		return $q->result();
 	}
 	public function cari_isi($key){
-		$q = $this->db->query("SELECT a.* from risalah a where a.isi_risalah LIKE '%$key%'");
+		$q = $this->db->query("SELECT a.* from risalah a where a.isi_risalah LIKE '%$key%' ORDER BY a.tanggal_buat DESC");
 		return $q->result();
 	}
 	public function getRisalah(){
@@ -50,6 +50,7 @@ class Risalah_model extends CI_Model{
 		return $q->result();
 	}
 	function data_risalah($number,$offset){
+		$this->db->order_by("tanggal_buat", "DESC");
 		return $query = $this->db->get('risalah',$number,$offset)->result();
 	}
 	function tampil_semua($nama)
